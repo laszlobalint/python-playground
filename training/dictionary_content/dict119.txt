@@ -1,0 +1,66 @@
+pâté#agyagpaszta
+pate#fej
+pâté#húsos pite;húspástétom
+pate#kobak;koponya
+pathetically#szánalmasan
+pathetic#érzelmes;patetikus;szánalmas
+pathless#járatlan;úttalan
+pathological#beteges;kóros;patológikus
+pathologist#patológus
+pathology#kórtan;patológia
+pathos#hév;indulat;lendület;pátosz;szánalmasság;szenvedés
+pathway#gyalogjáró;járda;ösvény
+path#gyalogjáró;gyalogút;járda;kerékpárút;kerti ösvény;ösvény;pálya;út;útvonal;versenypálya
+patience#türelem
+patiently#türelmesen
+patient#páciens;türelmes
+patio#ércamalgámozó páholy;kis zárt fedetlen belsõ udvar;sétaudvar;szénmosó;zárt földszinti terasz
+patois#patois,dialektus;patois,szakzsargon
+patrician#elõkelõ;nemes;nemesi;patrícius;patríciusi
+patrimonial#apától öröklött;patrimoniális
+patrimony#apai örökség;egyházi vagyon;patrimónium
+patriotic#hazafias;hazafiúi;honvédõ
+patriotism#hazafiasság;hazaszeretet;patriotizmus
+patriot#hazafi;patrióta
+patrol car#járõr kocsi
+patrols#rendõrjárõrök
+patrol wagon#rabszállító kocsi
+patrol#cirkál;járõr;õrjárat;õrjáratot tart;õrs
+patronage#állandó vevõkör;fölényeskedés;kegyuraság;pártfogás;védnökség;vevõkör
+patroness#védnöknõ
+patronize#felülrõl kezel vkit;leereszkedõ vkivel szemben;pártfogol;patronál;rendszeresen vásárol;támogat
+patronizing#leereszkedõ;patronáló;támogató
+patron saint#védõszent
+patron#állandó kuncsaft;állandó vevõ;pártfogó;patrónus;védnök
+patronymic#apai név;apa nevébõl képzett;patronimikon
+patterned#mintás
+pattern#minta;motívum;példa;sablon;séma
+patter#dobogás;dobol;elhadar;fecseg;gyors duma;halandzsa;kopog;kopogás;locsog;tolvajnyelv
+pat#alkalmas pillanatban;darabka;épp jókor;falapát;gömböcske;gyengéd ütés;gyenge ütés;halk lépés;kapóra;kellõ alkalommal jött;kellõ alkalommal jövõ;kellõ idõben jött;kellõ idõben jövõ;kellõ pillanatban;kisállat;lapicka;lapogatás;legyintés;megcirógat;megvereget;rálegyintés;simogat;tömb;ütögetés;vereget;veregetés
+patty#húspástétom
+paucity#csekély volta vminek;kis mennyiség;szûkösség
+paunch#pocak
+paunchy#pocakos;potrohos
+pauper asylum#szegényház
+pauperize#elszegényít;ínségre juttat;közsegélyhez szoktat;szegény sorba juttat
+pauper#ínséges;koldus;közsegélyben részesülõ;nincstelen;nyomorgó;szegény;szegényjogon perlekedõ személy;szegényjogos
+pause#idõzik;korona (zenében);megáll;megállás;megszakítás;szünet;szünetelés;szünetet tart
+pavement#járda;kövezet;útburkolat
+pave#burkol;kikövez
+pavilion#kerti ház;pavilon;sportklubház
+paving#kövezés;kövezet
+pawl coupling#körmös tengelykapcsoló
+pawl#kilincs;megakasztó kilincs;pecek;rögzítõhorog;rögzítõkampó;zárópecek;zárópecekkel biztosít;zárópecekkel megakaszt
+pawned stock#elzálogosított részvények;lombardkölcsön fedezetéül lekötött részvények;penzióba adott részvények
+pawnshop#zálogház
+pawn#biztosíték;elzálogosít;gyalog (sakkban);kockáztat;paraszt (sakkban);zálog;zálogba ad
+paw#fogdos;mancs;pracli;tapogat
+paycheck#fizetési csekk
+pay envelope#bérfizetési boríték
+pay gravel#aranytartalmú áradmány;aranytartalmú föveny
+payload#hasznos súly;hasznos teher
+paymaster#fizetõtiszt;hadbiztos;számvivõ;számvivõtiszt
+payment#bér;fizetés;fizetség;tiszteletdíj
+payoff#elszámolás;eredmény;gyõzelem;leszámolás;végeredmény
+payroll#bérlista;fizetési jegyzék
+pay#bér;fizet;fizetés;fizetség;illetmény;kátrányoz;kiegyenlít;kifizet;kifizetõdik;megtérít;viszonoz

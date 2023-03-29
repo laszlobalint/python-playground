@@ -1,0 +1,25 @@
+dwarfish#törpe
+dwarf juniper#törpe boróka
+dwarf#akadályozza vminek a növését;eltörpít;törpe
+dweller#lakos
+dwelling#lakás;lakóhely;tartózkodás
+dwell#átmeneti nyugalmi helyzet;dwelt,idõzik;dwelt,lakik;dwelt,marad;dwelt,tartózkodik;kocsivesztegetés;nyitási idõ;nyomás ideje;nyugalmi idõszak;tartózkodás;üzemszünet
+dwindle#apad;csökken;elenyészik;fogy;gyengül;kevesbedik;kisebbedik;leapad;megcsappan;sorvad
+dyak#daják;daják ember;daják nyelv
+dyeing#festés;szövetfestés
+dyer#kelmefestõ;ruhafestõ
+dyestuff#festék;festõanyag;szinezék
+dye#árnyalat;fest;festék;festõdik;megfest;színárnyalat
+dyke#árok;gát;töltés
+dynamic#dinamikai;dinamikus;erõteljes;tetterõs
+dynamism#dinamizmus
+dynamo#dinamó
+dynasty#dinasztia;uralkodóház
+dysenteric#vérhasi;vérhassal járó
+dysentery#vérhas
+dysfunction#mûködési zavar (szervezetben)
+dyslexia#olvasás zavara
+dyslexic#diszleksziás
+dyspepsia#emésztési zavar
+dyspeptic#rossz emésztésû
+dystopia#antiutópia

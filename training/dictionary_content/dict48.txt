@@ -1,0 +1,30 @@
+epaulette#váll-lap;vállpánt
+epaulet#váll-lap;vállpánt
+ephemeral#múló;röpke;tiszavirág életû
+epicene#hermafrodita;két nemben használt fõnév;kétnemû;közös nemû
+epicure#epikureus;ínyenc
+epic#epikus;eposz;hõsies
+epidemic#járvány
+epiglottic#gégefedõ-;gégefedõre vonatkozó;gégefedõvel kapcsolatos;gégefedõvel összefüggõ
+epiglottis#epiglottis;gégefedõ
+epigram#epigramma
+epilepsy#epilepszia
+epileptic#epileptikus
+epiphany#epifánia;háromkirályok napja;vízkereszt
+episcopacy#püspöki kar;püspöki kormányzat
+episcopalian#episzkopális;episzkopális egyház híve
+episcopal#püspöki
+episcopate#episzkopátus;püspöki hivatal;püspöki kar;püspöki méltóság;püspökség
+episode#epizód;esemény
+episodically#mellékesen
+episodic#epizódszerû;mellék-
+epistle#apostoli levél;levél
+epistolary#levélbeli
+epitaph#sírfelirat
+epithet#jelzõ
+epitome#kivonat;kivonatos mû;összegezés;rövid tartalom;vezérfonal
+epitomize#kivonatol;összefoglal
+epoch#kor;korszak
+epoxide#epoxid
+epoxy radical#epoxigyök
+epoxy#epoxi-gyök

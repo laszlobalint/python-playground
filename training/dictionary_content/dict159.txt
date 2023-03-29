@@ -1,0 +1,36 @@
+tycoon#iparmágnás
+tympana#nyomóforma fedél
+tympanist#üstdobos
+tympanites#belek felfúvódása;haspuffadás;puffadás
+tympanitis#belek felfúvódása;haspuffadás;puffadás
+tympanum#tympana,dobhártya;tympana,dobüreg;tympana,háromszögû oromfal;tympana,háromszögû orommezõ;tympana,háromszögû oromzat;tympana,középfül ürege;tympana,merítõkerék;tympana,timpanon;tympana,vízemelõ dob;tympana,vízemelõ kerék
+tympan#dobhártya;háromszögû oromfal;háromszögû orommezõ;kifeszített hártya;kifeszített membrán;nyomóforma-fedél;nyomólap;préslap;tábla alakú lap;timpanon
+tympany#belek felfúvódása;dagályosság;duzzanat;haspuffadás;puffadás
+tymp#mellkõ
+typeface#betûkép
+typescript#gépelt kézirat
+typesetter#betûszedõ
+typesetting#betûszedés;szedés
+typeset#kiszed (szöveget);szed (szöveget)
+typewriter#írógép
+typewrite#typed,typewritten,gépel;typed,typewritten,gépír;typed,typewritten,írógépel;typed,typewritten,írógépen ír;typed,typewritten,írógépen leír;typed,typewritten,írógéppel ír;typed,typewritten,írógéppel leír;typed,typewritten,kopog;typed,typewritten,lekopog
+type#gépel;tipizál;típus
+typhoid#hastífusz;tífusz
+typhoon#forgószél;tájfun
+typhus#hastífusz;tífusz
+typical#jellegzetes;jellemzõ;mintaképül szolgáló;tipikus
+typify#ábrázol;jelképez;jellemez
+typing#gépelés
+typist#gépíró;gépírónõ
+typographer#betûszedõ;betûzõ szú;könyvnyomdász;magasnyomó;nyomdász
+typographic#nyomdai;nyomdászati;sajtó-;szedési
+typography#könyvnyomtatás;nyomdászat;tipográfia
+typology#tipológia
+typo#betûszedõ;könyvnyomdász;magasnyomó;nyomdász;sajtóhiba
+tyrannize#hatalmaskodik;zsarnokoskodik
+tyrant#kényúr;királymadár;tirannus;zsarnok
+tyranny#erõszak;zsarnokság
+tyre#autógumi;gumiabroncs;gumiabroncsot felszerel;kerékabroncs;kerékpárgumi;megvasal
+tyrolese#tiroli
+tyrolienne#tiroli tánc;tiroli zene
+tyrol#Tirol

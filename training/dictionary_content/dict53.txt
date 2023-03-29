@@ -1,0 +1,79 @@
+evacuate#evakuál;kiürít
+evacuation#evakuálás;kiürítés
+evacuee#evakuált;kitelepített személy
+evade#elkerül;kihúzza magát;kitér
+evaluate#kiértékel;megbecsül
+evaluating#értékelés
+evaluation#becslés;értékelés;kalkuláció;kiértékelés
+evanescence#elenyészés;eltûnés;mulandóság;múlékonyság;tovaröppenõ volta vminek;tovatûnés;tünékenység
+evanescent#elenyészõ;gyorsan párolgó;illanó;könnyen párolgó;mulandó;múlékony;múló;semmibe tûnõ;szertefoszló;tovatûnõ;tünékeny;tûnõ;végtelen kicsibe átmenõ
+evangelical#evangélikus;evangéliumi;protestáns
+evangelist#evangélista;evangelizátor
+evangelize#evangelizál;hirdeti az evangéliumot;hirdeti az igét;megtérít;térít
+evaporate#elgõzölögtet;elillan;elpárolog;elpárologtat;párolog;párologtat
+evaporation#bepárlás;besûrítés;elpárolgás;elpárologtatás;kigõzölgés;párolgás
+evasion#kifogás;kijátszás;kikerülés;kitérés;megkerülés;ürügy
+evasiveness#kerülgetés;kitérés;köntörfalazás
+evasive#elodázó;határozatlan;kerülgetõ;kerülõ;kitérõ;köntörfalazó;rugalmasan elszakadó;semmitmondó
+even bargain#jó alku;méltányos alku
+even chance#egyenlõ esély
+even game#páros játékállás
+evenhanded#elfogulatlan;igazságos;méltányos;pari;pártatlan
+evening#este
+even less#még kevésbé;még kevesebb
+evenly#egyenletesen;egyformán;méltányosan;pártatlanul
+even money#egyenlõ esély
+even more#még inkább
+evenness#egyenletesség;higgadtság;kiegyensúlyozottság;simaság;szabályosság
+even number#páros szám
+even pace#egyenletes gyorsaság;egyenletes sebesség
+even poise#egyensúly
+even temper#higgadt kedély;kiegyensúlyozott kedély
+eventful#eseménydús
+even then#éppen akkor
+eventual#végleges;végsõ
+eventually#történetesen;végsõ fokon;végül;végül is;véletlenül
+eventuate#bekövetkezik;elõadja magát;elõfordul;eredményez vmit;megtörténik;valóra válik;végzõdik;vezet vmire
+event#esemény;eset;sportesemény;versenyszám
+even#egészen;egyenes;egyenesít;egyenletes;egyenlõ;éppen;kiegyenesít;kiegyenlít;lapos;páros;sík;sima;szabályos
+evergreen#örökzöld
+everlasting#maradandó;örökkévaló;örökkévalóság;örökös;szûnni nem akaró
+ever#egyre;mindig;örökké;valaha;valamikor
+every bit#minden ízében;tökéletesen
+everybody#mindenki
+everyday#hétköznapi;megszokott
+every day#mindennap
+everyday#mindennapi
+every inch#minden ízében;teljesen;tetõtõl talpig
+every one#mind;mindegyik;mindenki
+everyone#mindenki
+every one#valahány
+every other#minden második
+every second#minden második
+every single#minden egyes
+everything#minden
+every time#kivétel nélkül;minden alkalommal
+everywhere#mindenhol;mindenütt
+every#mind;minden
+eve#elõest
+eviction#kilakoltatás
+evict#birtokot megszerez;kilakoltat;megszerez
+evidence#bizonyít;bizonyíték;bizonyítékul szolgál;elárulja magát;evidenciában tart vmit;jelentkezik;megnyilatkozik;nyilvánvalóvá tesz;tanúsít;tanúskodik;tanúskodik vmirõl;tanúvallomást tesz;vall
+evidential#bizonyítékokon alapuló
+evidentiary#bizonyítékokra támaszkodó;bizonyító;tanúsító
+evidently#kétségkívül;magától értetõdõen;nyilvánvalóan;szemmel láthatóan
+evident#evidens;kétségtelen;kézzelfogható;magától értetõdõ;nyilvánvaló;szembeszökõ;szemmel látható;világos
+evildoer#bûnözõ;gonosztevõ
+evil repute#hírhedtség;kétes hír
+evil tongue#csípõs nyelv;gonosz nyelv
+evil#baj;betegség;bûn;gonosz;gonoszság;gonoszul;rossz;rosszul;veszedelem
+evilly#rosszul
+evince#bizonyít;kimutat;tanúsít
+eviscerated#kibelezett;kizsigerelt
+eviscerate#kibelez;kizsigerel
+evisceration#kibelezés;kizsigerelés
+evocative#elõidézõ;felidézõ
+evoke#felelevenít;felidéz;kivált;megidéz
+evolutionary#evolúciós;fejlõdési
+evolution#evolúció;fejlõdés;gyökvonás;kialakulás;kifejlõdés
+evolve#kialakul;kibocsát;kibontakozik;kifejleszt;kifejlõdik;kifejt;következtet

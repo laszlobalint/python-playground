@@ -1,0 +1,315 @@
+bbq#grillsütõ;sütõrostély
+beach blanket#fürdõlepedõ
+beach hat#strandkalap
+beach loafers#strandpapucs
+beach towel#fürdõlepedõ
+beach#part;partra húz;partra vet;strand;tengerpart;tópart
+beaconage#hajózási jelzésekért járó díj;hajózási jelzésekért járó illeték;hajózási jelzõberendezések szolgálata;repülõtéri jelzésekért járó díj;repülõtéri jelzésekért járó illeték;repülõtéri jelzõberendezések szolgálata
+beacon#fényjel;fényjeleket helyez el;irányfény;jel;jelzõállomás;jelzõfény;jelzõtûz;jelzõtüzeket helyez el;jelzõtûztorony;jelzõvilágítás;kiemelkedõ domb;kiemelkedõ tereppont;megvilágít;örömtûz;partjelzõfény;péce;pécéket kirak;pécéket lehorgonyoz;rádiós világítótornyokat helyez el;ragyog;repülõ-irányfényeket helyez el;világít;világítótorony
+beading#gyöngydíszítés
+beadle#altiszt;egyetemi altiszt;egyházfi;sekrestyés
+beads#olvasó;rózsafüzér
+bead#buborékol;célgömb;gyöngy;gyöngydíszítés;gyöngyléc;gyöngyözéssel díszít;gyöngyözik;gyöngyszem;üveggyöngy
+beady#gombszemû;gyöngyszerû
+beagles#mezei futók klubja
+beagle#kopóval vadászik;rendõrkém;rendõrkopó;rendõrségi besúgó;spicli;vadászkopó;vadásztacskó
+beaker#csõröspohár;fõzõpohár;serleg;széles szájú bögre
+beak#csõr
+beaming#boldog;sugárzó;vidám
+beam line#vonalterv bordavonala
+beam reach#félszél
+beams#keresztrúd;rakomány elhelyezésénél használt keresztrúd
+beam system#irányított rádió rövidhullám
+beam wind#oldalszél
+beam#agancs középága;állópofa;fedélzettartó gerenda;fénykéve;fénysugár;fonalas dorong;gerenda;gerendely;hangszóró hatósugara;helyes irány;himba;irány;kiegyenlítõ kar;kiegyenlítõ rúd;kocsirúd;mérlegkar;mérlegrúd;napsugár;rádió effektív hatósugara;rádió hatósugara;ragyog;sugár;sugárnyaláb;sugároz;sugárzik;szár;szarvasagancs középága;tartó;tímártõke;zuboly;zugoly
+beamy#ragyogó
+beanie#tolldíszes felhajtott karimájú nõi kalap;virágdíszes felhajtott karimájú nõi kalap
+beano#amerikai tombolafajta;dáridó;lakoma;mulatság;muri
+beanstalk#babszár
+beans#bab;halandzsa;kábítószer-pirula;pénz;semmi;suska;süket duma
+bean#bab;diószén;fej;fejbe ver;guba;karóbab;kávészem;kobak;paszuly;pénz
+beany#életerõs;eleven;friss;fürge;mozgékony;üde
+bearable#elviselhetõ;tûrhetõ
+beard#szakáll
+bearers#betûmagas ûrtöltõ;halottvivõk;koporsóvivõk;padlódeszkák;vezetõléc
+bearer#állvány;áthidaló tartógerenda;boltív tartópillérei;gyám;hordozó;hozó;pillér;támasz;támaszték;támasztómû;támfa;vivõ
+bearings#címer;csapágy
+bearing#bemérési szög;csapágy;elviselés;felfekvés;fontosság;gyám;gyümölcs;helyzet;hordozó;hozó;irány;iránylat;iránymeghatározás;jelentõség;kengyelvas;kihatás;kocka alakú alapkõ;magatartás;pillér;súly;tájékozódás;tájolat;talpazat;támaszték;teherbíró képesség;teherhordó;termés;termõ;termõképesség;testtartás;viselés;viselkedés;vitel;vivés;vivõ;vonatkozás
+bear punch#hordozható lyukasztógép
+bear#bore,borne,cipel;bore,borne,elszenved;bore,borne,eltûr;bore,borne,elvisel;bore,borne,hord;bore,borne,hoz;bore,borne,kiáll;bore,borne,kibír;bore,borne,tart;bore,borne,terem;bore,borne,termel;bore,borne,tûr;bore,borne,visel;bore,borne,visz;bore,born,elszenved;bore,born,eltûr;bore,born,elvisel;bore,born,hoz;bore,born,szül;bore,born,tart;bore,born,terem;bore,born,tûr;hordoz;medve;tart
+beastie#állatka;állatocska;kis állat
+beastly#állati
+beast#állat;barom;tahó;vadállat
+beaten path#járt út;kitaposott út
+beaten track#járt út;kitaposott út
+beaten#döngölt;kalapált;kidolgozott;kikalapált;kimerült;kivert;legyõzött;megvert;vert
+beater#habverõ;hajtó;ütõ;verõ
+beatifically#üdvözülten
+beatific#boldog;boldogító;üdvözítõ;üdvözült
+beatify#boldoggá avat;boldoggá tesz;üdvözít
+beating#beverés;csapkodás;dobogás;dobogó;elfenekelés;elpáholás;felhajtás;hajtás;hírig;kudarc;lavírozás;sulykolás;szárnycsapkodás;szívdobogás;szívverés;ütés;ütleg;verés;vereség;zuhogó
+beat#beat,beaten,dobog;beat,beaten,kopogtat;beat,beaten,legyõz;beat,beaten,megüt;beat,beaten,megver;beat,beaten,porrá tör;beat,beaten,söpör;beat,beaten,ver;beat,dobog;beat,kopogtat;beat,legyõz;beat,megüt;beat,megver;beat,porrá tör;beat,üt;beat,ver;csapás;csavargó;dobbanás;dobogás;dobpergés;élõsködõ ember;felügyeleti körlet;felügyeleti körzet;furfangos csaló;gyalogösvény;hajtóvadászati terep;iktusz;kardcsapás;ketyegés;kisemmizett;körjárat;körjárati útvonal;lebegés;legyõzött;megcsalt;megvert;õrjárat;õrjárati körlet;pergés;pumpoló;ritmus;szenzáció;szívverés;taktus;tönkrevert;ütem;ütés;vágás (erdõben);választókerület;vándormunkás;verés;vesztes
+beau coup#nagyon sok
+beaucoup#nagyon sok
+beau geste#nagylelkû gesztus;nagylelkûségi roham;nagylelkû tett
+beau ideal#elképzelhetõ legtökéletesebb vmibõl;eszménykép;ideál;példakép
+beauish#piperkõcös
+beau monde#elõkelõ társaság
+beaumontage#gipszhabarcs;tömítõcement
+beaupere#bajtárs;lelkiatya;társ
+beaus#gavallér;piperkõc
+beauteous#gyönyörû;szépséges
+beautician#kozmetikus
+beautiful#gyönyörû;szép
+beautifully#gyönyörûen;nagyszerûen;szépen
+beautify#díszít;szépít
+beaut#szépség
+beauty shop#kozmetika és fodrászat
+beauty spot#szépségflastrom;szépségtapasz;szép táj;szép vidék
+beauty#szépség
+beau#beaux,divathõs;beaux,kérõ;beaux,lovag;beaux,piperkõc;beaux,szeretõ;beaux,udvarló;hazakísér;udvarol
+beaverboard#préselt deszka;préselt válaszfal
+beaver#hód;hódprém;sisakrostély
+bebop#dzsesszfajta;táncfajta
+becalm#feltartóztat (szélcsend hajót);lecsendesít;lecsillapít;megnyugtat
+beckoning#hívogató;integetõ
+beckon#bólint;int;odahív
+become#became,become,illik vkihez;became,become,lesz vmivé;became,become,válik vmivé
+becoming#elõnyös;illõ vkihez;jól álló
+bedbug#poloska
+bedchamber#éjjeliedény;hálószoba
+bedclothes#ágynemû
+bedding#ágyazás;ágynemû
+bedeck#beborít;díszít;felcicomáz;feldíszít;felékesít
+bedfellow#ágytárs
+bedhead#ágyfej
+bedlamite#bolond;õrült
+bedlam#tébolyda
+bed linen#ágynemû
+bedraggled#bepiszkított;besározott
+bedrock#alap;fekükõzet
+bedroom#hálószoba
+bedside#ágy oldala
+bedsitter#nappali és hálószoba
+bedsit#nappali és hálószoba
+bedspread#ágytakaró
+bedstead#ágyállvány;ágyfák;ágykeret;ágyváz
+bed urinal#kacsa;vizelõedény
+bed#ágy;ágyállvány;ágyat vet;ágyaz;ágyban elhelyez;alapkõréteg;alapoz;alapzat;alépítmény;alj;beágyaz;csomó;éjjeli szállást ad;fekhely;fekvõhely;fenék;folyómeder;gépágy;gépasztal;gép szerelési helye;habarcsba ágyaz;habarcsba fektet;habarcsba rak;hál;kavicságy;kõzetágy;közösül;lefekszik;lefektet;lerakódás;lesüpped;medence;meder;megalapoz;megbúvik;nyomólap;nyoszolya;nyughely;nyugvóhely;osztrigát tenyészt;pálya;réteg;sír;sor;szegély;tanyázik;telep;tengerágy;üllõtõke;üllõtönk;vetõbarázda;virágágy;vonulat
+beech tree#bükkfa
+beech#bükk;bükkfa
+beef#izomerõ;izomzat;marhahús;panaszkodik
+beefy neck#bivalynyak
+beefy#erõteljes;fejlett izomzatú;húsos;izmos;kövér;nagydarab;tagbaszakadt
+beehive#forgalmas hely;kaptár;lármás hely;méhkas;zsúfolt hely
+beermat#söralátét
+beer pump#csap
+beer#sör
+beery#becsípett;sörszerû
+beeswax#méhviasz
+beetle brows#bozontos szemöldök;kiugró szemöldökcsontok;komor tekintet
+beetle#bogár;sulyok;ütõfa
+beet potash#cukorgyári mésziszap
+beetroot#cékla
+beet#cékla;cukorrépa;répa
+bee#méh;összejövetel
+befall#befell,befallen,elõfordul;befell,befallen,ér vkit vmi;befell,befallen,megtörténik;befell,befallen,történik
+befit#illik vkihez;illik vmihez
+before christ#Krisztus elõtt;Krisztus születése elõtt
+before day#virradat elõtt
+beforehand#elõre;elõzetesen;elõzõleg;korábban
+before long#hamarosan;közeljövõben;nemsokára
+before#azelõtt;elé;elõbb;elõre;elõtt;elõzõleg;inkább minthogy;inkább semhogy;korábban;már;megelõzõen;megelõzõleg;mielõtt hogy
+befoul#bemocskol
+befriend#pártol;segítségére van;támogat
+befuddled#borgõzös állapotú;megzavarodott
+befuddle#elkábít;megrészegít;összezavar
+beget#begat,begotten,kelt;begat,begotten,létrehoz;begat,begotten,nemz;begat,begotten,okoz;begot,begotten,kelt;begot,begotten,létrehoz;begot,begotten,nemz;begot,begotten,okoz
+beggarly#szegényes
+beggar#alak;egyén;koldus;pasas;szegény;szegény ember
+beginner#kezdõ
+beginning#kezdet
+begin#began,begun,elkezd;began,begun,elkezdõdik;began,begun,hozzáfog;began,begun,kezd;began,begun,kezdõdik;began,begun,megkezd;began,begun,megkezdõdik
+begloved#kesztyûs
+begonia#begónia
+begrimed#koszos;maszatos;mocskos
+begrime#befeketít;bekormoz;bemaszatol;bemocskol;bepiszkít
+begrudge#irigyel vkitõl;nem szívesen ad;sajnál vkitõl
+begrudgingly#fösvény módon;fukar módon;húzódozva;irigykedve;kicsinyesen;nem örömest
+beguile#ámít;csábít;elámít;elbájol;elcsábít;elszédít;félrevezet;kellemesen eltölt;megcsal;mulattat;rászed;szédít;szórakoztat
+beg#koldul;könyörög
+behave#viselkedik
+behaviorism#behaviorizmus
+behavior#magatartás;magaviselet;viselkedés;viselkedésmód
+behavioural#viselkedési
+behaviourism#behaviorizmus;viselkedés-lélektan
+behaviour#magatartás;magaviselet;viselkedés;viselkedésmód
+behead#lefejez
+behest#parancs;parancsolat;rendelkezés
+behind me#mögöttem
+behind#hátsórész;mögött
+beholder#nézõ;szemlélõ
+behold#beheld,észrevesz;beheld,meglát;beheld,megpillant
+behoove#rá tartozik
+behove#illik;megillet;rá tartozik;rátartozik
+beige#bézs;nyersgyapjú színû
+bejeweled#ékszerezett
+bejewel#ékszerekkel teleaggat;felékszerez
+belabor#eldönget;elnáspángol;helybenhagy;megver
+belabour#eldönget;elnáspángol;helybenhagy;megver
+belatedly#késõn
+belated#elkésett;késõ
+belay#kötéllel kiköt;megerõsít;megköt
+belch#böffenés;böfög;böfögés;felböfög;okád (füstöt)
+beleaguerer#ostromló
+beleaguer#bekerít;körülvesz;körülzár;ostromol
+belfry#harangláb;harangszék helye;harangszék tere;harangtartó állvány;harangtartó gerenda;harangtorony;mozgó ostromló torony;ostromló torony
+belgian#belga;belga férfi;belga nõ;belgiumi
+belgic#németalföldi
+belgium#Belgium
+belief#hit
+believable#hihetõ
+believer#hívõ
+believe#elhisz;hisz
+belie#megcáfol;meghazudtol;nem vált be;nem vált valóra
+bellboy#liftesfiú;londiner
+belle#szép nõ
+bell founder#harangöntõ
+bellhop#liftesfiú;londiner
+bellicose#harcias
+belligerence#ellenséges magatatás;ellenséges viselkedés
+belligerency#ellenségesség
+belligerent#ellenséges;hadviselõ
+bellows#fújtató
+bellow#bõg;bõgés;bömböl;ordít;ordítás;üvölt
+bells#tök (kártyában)
+bell#bõg (szarvas);csengetés;csengettyû;csengõ;cserépbura;elõreugró kõzet;felhólyagzás;gázharang;gazométer;hagymatetõ;harang;harang alakot vesz fel;harang alakúvá válik;harang alakú virág;harang alakú virágokat hoz;harang alakú virágokat terem;haranggal ellát;harangozás;harangozódik;hólyag;jelzõcsengõ;jelzõharang;kehely;kisharang;kolomp;kupola;kupola alakú fõtezáródmány;kupolakapcsolás;ordít;szarvasbõgés;szarvasbõgést utánoz;tölcsér;üvegbura;virágzik;záróharang
+belonging#tartozó
+beloved#kedvelt;szeretett;szíve választottja
+below ground#föld alatt;sírban
+below par#átlagon aluli;névérték alatt;nívón alul;nívótlan;parin alul
+below#alant;alul;alulra;le;lejjebb;lent;vmi alatt
+beltbuckle#övcsat
+belt feed#hevederes töltés
+belt tension#szalagfeszítõ;szíjfeszítõ;szíjfeszültség
+beltway#autópályagyûrû
+belt#derékszíj;felövez;gépszíj;hajtószíj;heveder;körülkerít;körülvesz;nadrágszíj;nadrágszíjjal elver;öv;övez;övezet;övpáncél;övvel felköt;sáv;szalag;szíj;szíjjal elnáspángol;szíjjal elver;szíjjal összeköt;tengeröv;tengerszoros;zóna
+belly button#köldök
+belly fin#hasuszony
+bellyflop#hasas;hasraesés
+bellyful#bõséges étkezés
+belly#dagad;duzzad;has;kidagaszt;kiduzzaszt;kihasasodás
+bemoan#fájlal;gyászol;megsirat
+bemusement#bódulat;bódultság
+bemuse#elbódít;elhomályosít;elkábít;elködösít;megzavar
+bench lathe#asztali eszterga;mûszerész esztergapad
+benchmark#magassági pont;szintjel
+bench plane#eresztõpad gyalu;univerzális gyalu
+bench#alagútszelvény;alapárok;állandósított alappont;bakállvány;bírói szék;bíróság;elõresietõ vágat;fejtési lépcsõ;fejtési szelet;gázgyári retortacsoport;gépágy;húzópad;kimosási padka;kõfejtõ pászta;lóca;mérõpad;munkaasztal;munkapad;nívó;pad;rézsûpad;szénpad;szerelõpad;szint;terasz
+benders#lábak;lábszárak
+bender#dõzsölés;feszítõizom;hajlítóberendezés;hajlítógép;hajlító munkás;hajlítóprés;hatpennys;ivászat;muri;tivornya
+bend sinister#bal harántpólya;fattyúzsineg
+bends#habvetõ;hajóperem;keszonbetegség;légembólia;peremfa
+bend#bent,behajlít;bent,elgörbít;bent,elgörbül;bent,elhajlik;bent,elhajlít;bent,elõrehajol;bent,feszít;bent,görbít;bent,görbül;bent,hajlik;bent,hajlít;bent,hajol;bent,irányít;bent,kanyarodik;bent,kanyarog;bent,lehajol;bent,lehajt;bent,megfeszít;bent,meggörbít;bent,meghajlik;bent,meghajlít;bent,meghajol;bent,meghajt;bent,megtör (fényt);bent,megvetemedik;bent,odaerõsít;bent,odaköt;bent,összeköt;csomó;görbület;hajlás;hajlat;harántpólya;ív;ivászat;jobb harántpólya;kanyar;kanyarulat;könyök;krupon;kruponbõr;mulatás;színbõr;talpbõr;tekintet;útkanyar;züllés
+beneath#alá;alatt;lenn
+benedick#fiatal férj;megrögzött agglegénybõl lett fiatal férj;újdonsült férj
+benedictine#bencés;bencés apáca;bencés szerzetes;benedekrendi;benedekrendi apáca;benedekrendi szerzetes;benediktiner (likõr)
+benedict#fiatal férj;megrögzött agglegénybõl lett fiatal férj;újdonsült férj
+benefaction#adomány;jótékonyság;jótett
+benefactor#jótevõ
+benefactress#jótevõ nõ
+benefication#dúsítás
+beneficence#jótékonyság
+beneficent#jótékony
+benefice#egyházi javadalom
+beneficial#elõnyös;hasznos;jótékony
+beneficiary#haszonélvezõ;megajándékozott
+benefit#elõny;haszon;jótétemény
+benevolence#jóakarat;jóindulat;jótékonyság
+benevolent#jóakaratú;jóindulatú;jótékony;szíves
+bengalee#bengáli
+bengali#bengáli
+bengal light#bengáli tûz;görögtûz
+bengal#Bengália
+benighted#akire ráesteledett;tudatlanságban lévõ
+benignant#jóindulatú;jóságos;kegyes
+benignity#jóakarat;jóindulat
+benignly#jóindulatúan
+benign#jóindulatú;üdvös
+bent double#kétrét görnyedt;kétrét hajolt
+benthic#fenéki
+benthos#bentosz;tengerfenéki flóra és fauna
+bentonite#bentonit
+bentwood#hajlítottfa-
+bent#hajlam;hajló;hajlott
+benumb#elzsibbaszt;megbénít;megdermeszt
+benzene#benzol
+benzine#benzin
+bequeath#hagyományoz;örökségül hagy;örökül hagy;ráhagy vkire vmit
+bequest#hagyaték
+berate#lehord
+bereaved#elhunyt hozzátartozói;gyászoló család;hátramaradottak
+bereavement#gyász;gyászeset;haláleset;közeli hozzátartozó elhunyta;veszteség
+bereave#bereft,megfoszt;megfoszt
+beret#svájcisapka
+berm#padka;párkány;perem
+berserker#dühödt harcos;indulatos ember;kemény  harcos;vad dühvel harcoló legendás norvég harcos;vad harcos
+berserk#dühödt harcos;dühöngõ;indulatos ember;kemény harcos;megvadult;õrjöngõ;vad dühvel harcoló legendás norvég harcos;vad harcos
+berth#ágy;állás;elhelyezés;elhelyezkedés;étkezde;fekhely;hálóhely;hálóhelyet biztosít;hálóhelyet készít;hely;horgonyzóhely;kamra;kiköt;kikötõhely;lehorgonyoz;parthoz odaáll;priccs;rakpartnál kiköt;raktár
+beryllium#berillium
+beseech#besought,esdekel;besought,könyörög;esdekel;könyörög
+beset#bekerített;beset,körülvesz;beset,szorongat;körülvesz;szorongat;szorongatott
+besides#amellett;azonkívül;emellett;ezenkívül
+beside#mellé;mellett;vkin kívül;vmin kívül
+besiege#ostromol
+besmirch#bemocskol;bepiszkít;beszennyez
+besotted#eltompult;italtól elázott
+bespeak#bespoke,bespoken,elárul vmit;bespoke,bespoken,elõre lefoglal;bespoke,bespoken,lefoglal;bespoke,bespoken,megrendel;bespoke,bespoken,rendel;bespoke,bespoken,vall vmire
+bespectacled#szemüveges
+bespoke#mérték után készített;rendelésre készített
+bestiality#állatiasság;bestialitás
+bestial#állatias;baromi
+bestow#adományoz;elhelyez;letesz;letétbe helyez
+best wishes#jókívánságok
+best#a legjobb;csellel legyõz;legjobb;legjobban;lehetõ legjobb
+betel#bételborsfa
+betide#ér vkit;történik;történik vkivel
+betoken#jelent vmit;jele vminek;mutat vmire;vall vmire
+betrayal#elárulás;elhagyás
+betray#cserbenhagy;elárul;elcsábít;hûtlenül elhagy
+betrothal#eljegyzés;jegyesség;kézfogó;mátkaság
+betrothed#eljegyzett;jegyes;jegyesek;jegyespár;mátka;mátkapár
+betroth#eljegyez;feleségül ígér
+betterment#értéknövekedés;javulás;megjavítás
+between#között
+betwixt#közben;közé;között
+bet#fogad;fogadás
+betty#álkulcs;bontórúd;kíváncsiskodó férfi;kuktáskodó férfi;minden lében kanál
+bevel edge#ferdére vágott él;lesarkított él
+beveled#ferde;rézsútos
+bevelled#ferde;rézsútos
+bevel rule#derékszögvonalzó;vinkli
+bevel#ferde él;ferdén levág;ferde szél;lesarkít;rézsû;rézsût vág;szög;szögben elhajlás;szögmérõ
+beverages#italok
+beverage#ital
+bevy#csapat;csoport;falka;nõi társaság;sereg;társaság
+bewail#búsul;megsirat;meggyászol;siránkozik
+beware#óvakodik
+beweaponed#felfegyverzett
+bewigged#parókás
+bewildering#megtévesztõ;zavarba ejtõ
+bewilderment#elképedés;fejvesztettség;megrökönyödés;megzavarodás;rémület;zavar;zavarodottság
+bewilder#elképeszt;elrémít;meghökkent;megrémít;megtéveszt;megzavar;megzavarja vki fejét;zavarba ejt;zavarba hoz
+bewitching#elbájoló;elragadó
+bewitch#elbûvöl;megbabonáz
+be#was/were,been,jön vhova;was/were,been,létezik;was/were,been,megy vhova;was/were,been,van
+beyond belief#hihetetlen;minden képzeletet felülmúl;minden képzeletet felülmúlóan
+beyond doubt#kétségkívül;vitán felül;vitathatatlanul
+beyond hope#reménytelen
+beyond memory#emberemlékezet óta
+beyond me#meghaladja anyagi erõmet;nem futja a pénzembõl
+beyond reason#értelmetlen;értelmet meghaladó;esztelen;józan észt meghaladó
+beyond repair#helyrehozhatatlan;helyrehozhatatlanul
+beyond that#ezen túlmenõen
+beyond words#eléggé el nem ítélhetõ
+beyond#felett;kívül;másvilág;túl;túlvilág

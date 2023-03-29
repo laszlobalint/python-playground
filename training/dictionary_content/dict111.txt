@@ -1,0 +1,28 @@
+okay#el van intézve;helyes;rendben van
+okra#bámia;gombó
+ok#beleegyezik;helybenhagy;jóváhagy;szignál
+old avenger#fasz;vén bosszúálló
+old bachelor#agglegény
+old boots#ravasz fickó
+old buffer#öregember;vén krampusz
+old country#óhaza
+olden#hajdani;régi
+old fogey#begyepesedett fejû vén ember;maradi ember;ósdi ember;régimódi ember;világtól elmaradt vén ember
+old fogydom#maradi eszmék;maradiság;ósdi eszmék;ósdiság;régimódi eszmék;túlhaladott eszmék
+old geezer#öreg szivar
+old glory#amerikai zászló
+old guard#lelépõ õrség
+old hooker#ócska bárka;rozzant bárka
+old horse#salakdugasz
+oldie#öregek;vének
+old masters#régi festõk
+old metal#beolvasztani való betûanyag;cájg
+old offender#büntetett elõéletû bûnözõ
+old roadster#gyakorlott ember;tapasztalt ember;vmiben jártas ember
+old stager#tapasztalt vén róka
+old testament#ószövetség;ótestamentum
+old trouper#tapasztalt öreg színész
+old#idõs;ó;öreg;régi;vén
+olfactory#szagló-;szaglószervi
+olive drab#olajbarna
+olive#olajbogyó

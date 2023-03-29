@@ -1,0 +1,59 @@
+phalanx#falanx;phalanges,porzószál;phalanges,ujjíz;phalanges,ujjperc;phalanges,ujjperec
+phantasmal#fantomszerû;jelenésszerû;kísértetszerû
+phantasm#agyrém;árny;fantazmagória;illúzió;jelenés;káprázat;képzelõdés;kísértet;látszat;rémkép
+phantom#ábrándkép;agyrém;ál-;fantom-;fantom;jelenés;káprázat;képzeletbeli;kísértet;rémkép
+pharisaic#álszent;farizeusi;szenteskedõ
+pharisee#álszent;farizeus;képmutató
+pharmacy#gyógyszertár
+phaseout#fokozatos megszüntetés;kivonás
+phase#fázis;fok;mozzanat;szakasz;szakaszait meghatározza
+phasing#élesre állítás;fázisállítás;fázisbahozás;összehangolás;szinkronozás
+pheasant#fácán
+phenol#fenol
+phenomenal#érzékelhetõ;fenomenális;rendkívüli;tüneményes
+phenomenon#phenomena,jelenség
+phial#fiola;üvegcse
+philanderer#nõbolondító;széptevõ;szívtipró;udvarló
+philander#csapja a szelet;enyelgés;flört;flörtöl;flörtölés;legyeskedés;legyeskedik;széptevés;széptevõ;szerelmes;szerelmeskedés;szerelmeskedik;teszi a szépet;udvarló
+philanthropy#emberbarátiság;emberszeretet;filantrópia
+philately#bélyeggyûjtés;filatélia
+philippines#Fülöp-szigetek
+philistine#filiszter;filiszteus;kispolgár;kispolgári;korlátolt gondolkodású;maradi;nyárspolgár;nyárspolgári;szûklátókörû
+philistinism#filiszteri szellem;filiszterség;nyárspolgári gondolkodás;nyárspolgárság
+philodendron#filodendron
+philosopher#bölcs;bölcselõ;filozófus;gondolkodó
+philter#bájital
+philtre#bájital
+phlegmatic#flegmatikus;közönyös
+phlegm#flegma;hidegvér;közöny;nyálka;turha;váladék
+phoenix#fõnix;fõnixmadár
+phone#felhív (telefonon);telefon;telefonál
+phoney#hamis
+phonograph#fonográf;gramofon
+phony#hamis
+phooey#pfuj
+phosphate#foszfát
+phosphorous#foszfor-;foszforos;foszfor tartalmú
+phosphorus#foszfor;phosphori,fluoreszkáló anyag;phosphori,fluoreszkáló bevonat;phosphori,foszfor;phosphori,lumineszcens anyag;phosphori,lumineszcens bevonat
+photocopier#fénymásoló;másológép
+photocopy#fotokópia;fotokópiát készít
+photographer#fényképész
+photograph#fénykép;kép
+photogravure#autotípiai klisé;autotípiai klisékészítés;fénynyomás;fénynyomat;fotogravure;heliogravure;mélynyomás;rács-mélynyomás;raszter-mélynyomás
+photo#fénykép;kép
+phraseology#frazeológia;kifejezésmód
+phrases#frázis
+phrase#állandósult szókapcsolat;frázis;kifejez;kitétel;mondás;mondat;nyelvi fordulat;szavakba foglal;szólás;üres szavak;üres szólam
+phrasing#beszédfordulat;beszédmód;frazírozottság;írásba foglalás;kifejezésmód;kifejtés;megfogalmazás;megszerkesztés;szavakba foglalás;szavakba öntés;szóhasználat;zenei tagoltság
+phut#fuccs
+phutz#kirabol;kirámol
+phylum#nyelvcsalád;nyelvcsoport;törzs (állatvilágban)
+physicality#fizikai állapot
+physical#fizikai;gyógyhatású;gyógyító;invalidus;orvoslásra szoruló;természeti;természettani;testi
+physically#fizikailag;fizikai szempontból;természettanilag;testileg
+physician#belgyógyász;orvos
+physicist#fizikus
+physic#hashajtó;orvosság;physicked,kúrál;physicked,orvosol
+physics#fizika
+physiography#fizikai földrajz;természetleírás
+physiology#élettan;fiziológia

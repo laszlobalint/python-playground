@@ -1,0 +1,91 @@
+amah#bennszülött dajka;dada;dajka;pesztra
+amalgamate#egybeolvad;egybeolvaszt;egyesít;egyesül;fuzionál;keveredik
+amalgamation#egybeolvadás;egybeolvasztás;egyesítés;egyesülés;fúzió;keveredés
+amalgam#amalgám
+amass#felhalmoz
+amateurish#amatõr
+amateur#amatõr ember
+amatory#érzéki;szerelmes;szerelmi
+amazed#ámuló;meghökkent
+amazement#ámulat;csodálkozás;elképedés;meghökkenés;meglepetés
+amaze#ámulatba ejt;meghökkent;megzavar
+amazing#bámulatos;csodálatos;elképesztõ;meglepõ
+ambassador#nagykövet
+ambassadress#nagykövetség
+ambergris#ámbra
+amber#borostyánkõ;sárga
+ambidextrous#kétkezes;mindkét kézzel egyformán ügyes
+ambience#környezet;légkör
+ambient#környezõ;körülvevõ
+ambiguity#félreérthetõség;kétértelmûség;kettõs értelem
+ambiguous#bizonytalan;félreérthetõ;homályos;kétértelmû
+ambition#ambíció;becsvágyás;érvényesülési törekvés;kitûzött cél;nagyravágyás;törekvés
+ambitious#ambiciózus;becsvágyó;igényes;nagyra törõ;nagyravágyó;törekvõ
+ambit#hatáskör;kiterjedés;környék
+ambivalent#ambivalens;vegyes
+amble#baktat;baktatás;ballag;bandukol;lépked;mendegél;poroszkál;poroszkálás
+ambrosial#ambrózia-;ambrózia illatú;ambrózia ízû;csodás illatú;isteni illatú;mennyei illatú
+ambrosia#ambrózia;istenek eledele
+ambulance#mentõautó;mentõkocsi;mentõszolgálat
+ambulatory#ambulatórium;fedett körfolyosó;járó (beteg);kerengõ;mozgó;sétahely;sétány;sétatér;vándor-;vándorló;visszavonásig érvényes;visszavonható
+ambuscade#csapda;les;leshely;rejtek
+ambushed#álcázott;elrejtett;lesbe állított
+ambush#elrejtõzés;kalimpál;les;lesállást foglal el;lesbe állít;lesben áll;lesben állás;lesbõl támad;leselkedés;leselkedik;leshely;lesre állít;rejtek;rejtekhely;rejtõzõ csapat;rejtõzõ személy
+ameliorate#fejleszt;javít;javul;jobbá tesz;jobbra fordul;megjavít;megjavul
+amelioration#javítás;javulás;jobbulás;megjavítás
+amenable#alkalmas;felelõs;irányítható;járható;megközelíthetõ
+amendment#helyesbítés;javítás;kiegészítés;módosítás
+amends#kárpótlás;kártalanítás
+amend#helyesbít;javít;jobbít;jó útra tér;kiegészít;megjavít;megjavul;megváltoztat;módosít
+amenity#kellem;kellemesség
+american#amerikai
+amethystine#ametiszt-;ametisztbõl való;ametisztszerû
+amethyst#ametiszt
+amiability#kedvesség;szeretetreméltóság
+amiable#barátságos;kedves;szeretetre méltó
+amiably#barátságosan;kedvesen
+amicability#barátság;barátságosság;barátságos természet;barátságos viszony;békesség;egyetértés;összhang
+amicable#baráti;barátságos;békés;jóindulatú;szívélyes
+amicably#baráti alapon;barátian;barátilag;baráti módon;barátságosan;békésen;egyezséggel;peren kívül;szívélyesen
+amic#ammónia-;ammóniák-;szalmiák-
+amidships#hajó közepén
+amidst#közepette;között;közt
+amid#közepette;között;közt
+amissible#elveszthetõ
+amiss#alkalmatlan idõben;baj;ballépés;balul;helytelenül;hiba;jogtalanság;rosszkor;rosszul;szerencsétlenség
+amity#baráti viszony;barátság;jó viszony
+ammonia#ammónia;szalmiákszesz
+ammunition#lõszer;muníció
+amnesia#amnézia;emlékezetkiesés;emlékezetvesztés
+amnesty#amnesztia;közkegyelem
+amoeba#amõba;véglény
+among others#többek között
+amongst#közé;között
+among#közé;között
+amorous#szerelmes;szerelmi
+amorphous#alaktalan;amorf;formátlan
+amortization#amortizáció;letörlesztés;törlesztés
+amortize#letörleszt;törleszt
+amount#mennyiség;összeg;összeget elér
+amour#szerelmi ügy;szerelmi viszony
+amperage#amperszám;áramerõsség
+amphetamine#inhalálásra használt szer;nátha elleni szer
+amphibian#kétéltû;kétéltû állat;kétéltû jármû;kétéltû repülõgép
+amphibious#kétéltû
+amphitheatre#amfiteátrum;aréna;erkély;félkörben lépcsõzetesen emelkedõ elõadóterem;félkörben lépcsõzetesen emelkedõ nézõtér;körszínház;küzdõtér;porond
+amphitryon#házigazda;vendéglátó gazda
+amphora#amphorae,amfora
+ample#bõséges;elegendõ;tágas;terjedelmes
+amplifier#erõsítõ
+amplify#kibõvít
+amplitude#amplitúdó;bõség;kilengés;nagyság
+amply#bõségesen;bõven
+ampoule#ampulla
+ampule#ampulla
+ampul#ampulla
+amputate#amputál;csonkol
+amp#amper;amputálás;csonkolás;levágás
+amulet#amulett;talizmán
+amusement#élvezet;idõtöltés;mulatság;mulattatás;szórakozás;szórakozási lehetõség;szórakoztatás
+amuse#mulattat;szórakoztat
+amusing#élvezetes;mulattató;szórakoztató

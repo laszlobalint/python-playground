@@ -1,0 +1,25 @@
+psalm book#zsoltáros könyv
+psalmist#zsoltáríró;zsoltárköltõ;zsoltáros
+psalmodic#zsoltárénekszerû
+psalmodist#zsoltáréneklõ;zsoltáríró;zsoltárköltõ
+psalmodize#zsoltároz;zsoltárt énekel
+psalmody#zsoltáréneklés;zsoltárkönyv
+psalm#zsoltár
+pseudonym#álnév
+pseudopodium#protoplazma kitüremkedése
+psyche#lélek;nagy keretes állótükör;psziché;szellem;szellemke;zsákhordó lepke
+psychiater#elmeorvos;pszichiáter
+psychiatric#elmeorvostani;pszichiátriai
+psychiatrist#pszichiáter;pszichológus
+psychiatry#elmeorvostan;pszichiátria
+psychic#lelki;médium;pszichikai;szellemi
+psychologist#lélekbúvár;pszichológus
+psychology#pszichológia
+psychomancy#spiritizmus;szellemidézés
+psychopathic#lelkibeteg
+psychopath#lelkibeteg;pszichopata
+psychosis#psychoses,elmebetegség;psychoses,elmezavar;psychoses,izgatottság;psychoses,pszichózis;psychoses,rettegés
+psychotic#elmebeteg;pszichózissal kapcsolatos
+psychotropic#pszichotróp
+psycho#bolond;dilis;flúg;hülye;õrült ember
+psych#lélekelemzési vizsgálat alá vesz;lélekelemzést végez;pszichoanalitikai vizsgálat alá vesz;pszichoanalizál

@@ -1,0 +1,18 @@
+italianate#elolaszosít;elolaszosodott;olaszos
+italianism#italianizmus;olaszos fordulat;olaszosság
+italianize#olasz jelleget ad;olaszosít
+italian#olasz;olasz nyelv
+italy#olaszország
+itch#rühösség;vágyódás;viszket;viszketés
+itchy#izgága;nyughatatlan;rühes;rühös;viszketést okozó;viszketõs
+itemization#részletezés
+itemize#osztályoz;részletez;részletezve felsorol;tételekre bont
+item#adat;azután;cikk;cikkely;dettó;hasonlóképpen;hír;paragrafus;pont;részlet;részletezés;rövid hír;szakasz;tétel;továbbá
+iterate#hajtogat;ismétel;ismételget
+iteration#hajtogatás;ismételgetés
+iterative#ismételt;ismétlõdõ
+itinerant#kóborló;vándor;vándorló
+itinerary#utazási;úti;útikönyv;úti program;útiterv;útvonal
+it lightens#szikrázik;villámlik
+it sleets#dara esik;havas esõ esik;ónos esõ esik
+it#annak;az;azt;érvényesülési képesség;fogó;hunyó;neki;olasz ürmös;olasz vermut;õt

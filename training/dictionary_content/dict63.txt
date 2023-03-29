@@ -1,0 +1,99 @@
+gear lever#sebességváltó
+gearshift#sebességváltó
+gears#fogaskerék-áttétel
+gear#arányosít;bekapcsol;felgyorsul;felkantároz;felszerelés;felszerszámoz;fogaskerék;függõvé tesz;hajtómûvel ellát;holmi;kapcsolódik;készülék;mûködés;sebességfokozat;szerelés;szerkezet;szoros kapcsolatba hoz
+gecko#gekko
+geek#ellenszenves ember;ellenszenvesen igyekvõ diák;gennyes alak;stréber
+geezer#öreg szivar
+gelatineform#kocsonyaszerû
+gelatine#állati enyv;csontenyv;zselatin
+gelatinform#kocsonyaszerû
+gelatinize#elkocsonyásít;elkocsonyásodik
+gelatinoid#kocsonyaszerû
+gelatinous#kocsonyás
+gelatin#állati enyv;csontenyv;zselatin
+gelation#megdermedés;megfagyás
+gelignite#gelignit
+gel#gél;géllé alakul;megkocsonyásodik
+gem#drágakõ;ékkõ;gyöngyszem
+gender#nem (nyelvtanban);nemz;szül
+genealogical#leszármazási;nemzedékrendi
+genealogist#genealógus
+genealogy#buktató;genealógia;leszármazás;leszármazási rend;nemzedékrend;származástan
+generality#általánosság;nagy többség;túlnyomó többség
+generalize#általános érvényûvé tesz;általánosít;elterjeszt;kiterjeszt
+general#általános;megszokott
+generally#általában
+generate#elõállít;elõidéz;kivált;létrehoz;okoz;termel
+generation#generáció;generálás;nemzedék
+generative#alkotó;fejlesztõ;létrehozó;nemzõ;teremtõ
+generic#általános;generikus;genus-;nem-;nemi
+generosity#bõkezûség;nagylelkûség
+generous#bõkezû;nagylelkû
+geneticist#genetikus kutató
+genetics#ércgenetika;genetika
+gene#gén
+geniality#barátságosság;enyheség;szívélyesség
+genial#barátságos;derûs;enyhe;kellemes;közvetlen;mesterkéletlen;szívélyes;természetes
+genially#barátságosan;derûsen;szívélyesen
+genie#dzsinn;tündér
+genious#képesség;õrszellem;szellem;tehetség;zseni
+genitals#külsõ nemi szervek
+genoa cake#mazsolás mandulás torta
+genoa#genova;génua;nagy vitorla
+genocide#fajirtás
+genre#életkép;zsáner
+genteel#elõkelõsködõ;finom;finomkodó;úri
+gentile#idegen nép;nem zsidó
+gentilitial#nemzetiségi
+gentility#elõkelõség;felsõ középosztály;finomság;középosztály;nemesi származás
+gentlefolks#elõkelõ emberek;úriemberek
+gentlefolk#elõkelõ emberek;úriemberek
+gentlemanly#úri;úriemberhez méltó
+gentleman#gentlemen,férfi;gentlemen,nemes úr;gentlemen,úr;gentlemen,úriember
+gentleness#finomság;kedvesség
+gentle reader#nyájas olvasó
+gentle sex#gyengébb nem
+gentle#enyhe;finom;gyengéd;megnyugtat;nemes;nemesít;nemessé tesz;nyájas;szelíd;udvarias
+gently#finoman;nyájasan;óvatosan;szelíden
+gentry#dzsentri;köznemesi osztály;köznemesség;nyájasság;szívélyesség
+gent#férfi;pali;pasas;úriember
+genuinely#hitelesen;nyíltan;õszintén
+genuineness#eredetiség;hitelesség;nyíltság;õszinteség;valódiság
+genuine#eredeti;hiteles;nyílt;õszinte;valódi
+genus#genera,faj;genera,fajta;genera,genus;genera,nem;genera,nemzetség
+geographer#földrajztudós
+geography#földrajz
+geological#földtani
+geology#földtan
+geometrical#geometriai;mértani
+geometric#geometriai;mértani
+geometry#geometria;mértan
+geopolitical#geopolitikai
+geopolitics#geopolitika
+george#György-tallér;Sárkányölõ Szent György rendjel
+geotectonics#szerkezeti földtan
+geranium#muskátli
+german band#vándorzenész csapat;vándorzenész társulat
+germane#vmihez tartozó;vminek megfelelõ
+german suits#magyar kártya színei
+german tinder#tapló
+german#német
+germinal#csíra-;csírájában levõ;kezdeti
+germinate#csírázik;csíráztat;sarjad
+germination#csírázás;kicsírázás
+germ warfare#biológiai hadviselés
+germ#baktérium;csíra
+gerontocracy#gerontokrácia;öregek uralma
+gerontocrat#gerontokrata
+gerontology#gerontológia
+gestation#terhesség;viselõsség
+gesticulate#gesztikulál;taglejtésekkel beszél
+gesture#gesztikulál;gesztus;int
+getaway#elmenekülés;menekülés
+gethsemane#agónia;Getszemáné-kert;kínszenvedés
+getter#rendezõ;szerzõ
+getting#hozzájutás;kinyerés;megszerzés;szerzés
+get#egyhasi kölykök;got,állapotba juttat;got,beszerez;got,elcsíp;got,elejt (vadat);got,elér;got,elfog;got,elhoz;got,eljut;got,elkap;got,elvégeztet;got,ért;got,felfog;got,fog;got,gotten,kap;got,helyre juttat;got,hoz;got,hozzáfog;got,hozzáfog vmihez;got,jut;got,kap;got,keres;got,kerül;got,kerül vhova;got,kinyer;got,lelõ;got,lesz vmilyen;got,leterít;got,magához vesz;got,megért;got,megfog;got,megszerez;got,nemz;got,nyer;got,odaér;got,rábír;got,rávesz;got,szerez;got,szert tesz;got,tesz vmilyenné;got,válik vmilyenné;got,vásárol;got,vesz;hozadék;hülye hapsi;ivadék;jövedelem;kellemetlen ember;visszaütés
+geyserite#gejzerit;gejzirit
+geyser#autogejzír;gejzír;vízmelegítõ

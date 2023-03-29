@@ -1,0 +1,219 @@
+pianist#zongoramûvész
+piano organ#gépzongora
+piano pieces#zongoradarabok
+piano player#zongorista
+piano score#zongoraátirat;zongorakivonat
+piano wire#zongorahúr
+piano#halkan;piano;zongora
+piaster#piaszter
+piastre#piaszter
+pickaxe#csákány
+pickax#csákány
+picked men#emberek legjava;emberek színe-java;kiválasztott emberek;válogatott emberek
+picked oakum#tilolt kóc
+picked ore#kézzel dúsított érc;válogatott érc
+picked stone#fajtázott kõzet;válogatott kõzet
+picked troops#válogatott csapatok
+picked#csúcsos;díszes;eleje vminek;hegyes;hegyes végû;kecses;kiszemelt;kiválasztott;kiválogatott;legjava vminek;leszedett;szedett;szemelt;színe-java vminek;takaros;válogatott
+pickerel#csukából készített étel;kis csuka;recés csuka
+picker husker#kukoricacsõtörõ- és fosztógép
+picker up#cigarettavég-szedegetõ;csikkszedõ;szivarvég-szedegetõ
+picker#begyûjtõ;bogyózó;bogyózó munkás;csákány;csákányozó;csákányozó munkás;ércosztályozó;ércválogató;fogvájó;forgatókapa;gyapotszedõ gép;körömkés;marokszedõ;ostorkalapács;osztályozó;osztályozógép;osztályozó munkás;pikker;pikkerrel dolgozó munkás;salakválogató;szedõ;szedõ munkás;szétszedõ eszköz;szüretelõ;tiloló munkás;ütõfej;vágószerszám;válogató;válogató berendezés;válogatógép;válogató szedõ;verõfej
+picketing#sztrájkõr állítás
+picket#bepalánkol;cövek;járõr;karó;karóhoz köt;katonai különítmény;körülkerít;különítmény;õrséget állít;õrszem;sztrájkõr;sztrájkõrség;sztrájkõrséget állít
+pickings#hulladék;maradék;mellékkereset
+picking#kicsipkedés;megválogatás;szedés
+pickled#becsiccsentett;becsípett;berúgott;ecetes;ecetes lében eltett;ittas;kapatos;maratott;marinírozott;pácolt;pityókos;részeg;sós;sós lében eltett;spicces
+pickle liquor#páclé
+pickles#savanyúság
+pickle#besavanyít;besóz;csáváz;ecetben eltesz;ecetbe rak;ecetes lé;ecetes lében eltesz;fémet savval leétet;fémet savval lemarat;hátat ecettel dörgöl be;hátat sóval dörgöl be;pác;pácol;savanyú pácba rak;savanyúság;savaz;sóba áztat;sós lében pácol
+pickpocket#zsebmetszõ;zsebtolvaj
+pickup joint#húsvásár;szórakozóhely könnyû ismerkedési lehetõséggel
+pickup place#húsvásár;szórakozóhely könnyû ismerkedési lehetõséggel
+pickup#alkalmi ismeretség;alkalmi szexuális partner;erkölcstelen nõ;felszedés;fogás (rádióadásé);gyorsulás;hangszedõ;illegális áru átvétele;kisteherautó;kurva;ribanc;véletlen ismeretség;vétel (rádióadásé)
+pick#csákány;csipeget;csipked;eszeget;fogpiszkáló;gondosan kiválaszt;gondosan megválogat;java vminek;kikeres;kipiszkál;kiszed;kiszemel;kiválogatás;kopaszt;leszed;letép;piszkál;szed;szedeget;színe-virága vminek;szúr;tép;váj;vminek a java;vminek a színe-virága
+picnicker#kiránduló
+picnic table#kempingasztal
+picnic#jó szórakozás;kellemes idõtöltés;picnicked,piknikel;piknik
+picrate#pikrát
+picric acid#pikrinsav;trinitro-fenol
+picrotoxin#pikrotoxin
+picturesque#eleven;festõi;szemléletes;színes
+pictures#mozi
+picture#ábra;ábrázol;érzékeltet;film;kép;lefest;leír;tévékép
+pic#fénykép
+piddle#csip-csup ügyekkel veszõdik;ímmel-ámmal eszeget;pisa;pisál;pisi;pisil;piti ügyekkel veszõdik;vizel;vizelet
+piddling#vacak
+piebald#tarkánfoltos
+piecemeal#darabonként
+pieceworker#akkordmunkás;darabbérben dolgozó munkás;szakmánymunkás
+piecework#akkordmunka;darabmunka;darabszámra fizetett munka;szakmánymunka
+piece#alkatrész;árucikk;bábu (társasjátékban);darab;foltoz;hozzátold;kompozíció;megfoltoz;megtold;munkadarab;mûtárgy;pénzdarab;ritka példány;színdarab;tekercs;toldoz;vég (szövet);zenedarab
+pied#pettyes;színes;tarka
+pierce#átdöf;átfúr;átfúródik;átjár;átlyukaszt;átszúr;átszúródik;behatol;elérzékenyít;hasogat;keresztüldöf;kibújik (fog);kifúr;kilyukaszt;lyukaszt;meghat;szúr
+piercingly#áthatóan;élesen;fültépõen
+piercing#átható;éles;fültépõ;metszõ
+pier#ablakköz;cölöpépítmény;cölöpgát;cölöpmû;erõsítõ falpillér;falköz;gyámoszlop;hídoszlop;hídpillér;hullámtörõgát;ívpillér;kikötõgát;kirakodóhíd;kõgát;móló;négyszögletes fali pillér;pilaszter;pillér;rakpart;stég;támpillér;tartóoszlop
+piety#áhítat;áhítatosság;jámborság;kegyelet;kegyesség;vallásosság
+pie#gyümölcstorta;pástétom;pite;szarka
+piezometer#piezométer;piezométercsõ
+piezometric#nyomásmérõ;piezometrikus
+piezometry#nyomásmérés
+piffler#fecsegõ;fecsegõ ember;locsifecsi;locsogó;pepecselõ ember;piszmogó ember
+piffle#badarság;bolond beszéd;butaság;fecseg;fecsegés;haszontalanságokkal bíbelõdik;hiábavaló beszéd;hiábavalóság;locsog;locsogás;ostobaság;ostobaságokat beszél;összevissza beszél;pepecsel;piszmog;szamárság;üres beszéd;vacakol
+piffling#kutyát érõ;mihaszna
+pigeonhole#ad acta tesz;beskatulyáz;csoportosít;elrendez;elskatulyáz;elsüllyeszt;félretesz;fészkelõhely;irattárba tesz;kategóriába sorol;késõbbi használatra félretesz;osztályoz;polcokra elhelyez;polcokra elrak;polcokra eltesz;polcokra helyez;polcokra rak;polcokra tesz;rekesz;rekeszbe elhelyez;rekeszbe elrak;rekeszbe eltesz;rekeszbe helyez;rekeszbe rak;rekeszbe tesz
+pigeon#balek;galamb
+piggery#disznóhizlaló;disznólkodás;disznóól;malackodás;malacozó;mocsokfészek;piszokfészek;sertéshizlalda;sertésól;sertéstenyésztés;valóságos istálló
+pigheaded#csökönyös;makacs;önfejû
+piglet#kismalac
+pigmy#jellemileg alacsonyrendû ember;kis emberke;manó;pigmeus;szellemileg alacsonyrendû ember;törpe
+pigpen#disznóól
+pigskin#disznóbõr;futball-labda;nyereg
+pigsty#disznóól
+pigtail#copf
+pig#disznó;sertés
+piggy#falánk;kismalac;mohó
+pikelet#kis csuka;teasütemény
+pikeman#pikemen,dárdavivõ;pikemen,lándzsás;pikemen,vámõr
+piker#apró tételekben kártyázó;apró tételekben spekuláló;csaló;értéktelen ember;gyáva alak;hasznavehetetlen ember;jelentéktelen ember;vad bika
+pikestaff#dárdanyél;pikestaves,dárdanyél;pikestaves,lándzsanyél;pikestaves,pikanyél;pikestaves,vashegyû bot
+pike#bányászcsákány;csákány;csuka;dárda;fizetõ-autópálya;hegycsúcs;lándzsa;pika;sorompórúd;útvám;vámsorompó;vámút
+pilaster#falgyámoszlop;falkiugrás;négyszögletes fali pillér;pilaszter
+pilchard#szardínia
+piledriver#cölöpverõgép;cölöpverõkos;erõsen bukdácsoló hajó;erõs rúgás;megsemmisítõ ütés
+pile#besulykol;bolyhosság;cölöp;cölöpöz;épületcsoport;felhalmoz;felhalmozódik;halmoz;halom;karó;köteg;máglya;megrak;nagy épület;nagy vagyon;nyaláb;rakás;szárazelem
+pilferage#csenés;dézsmálás;elcsenés;fosztogatás;kisebb lopások;lopott holmi;megdézsmálás;tolvajlás
+pilferer#fosztogató;tolvaj
+pilfer#csen;dézsmál;elcsen;elcsór;elemel;elsinkófál;fosztogat;kisebb lopásokat követ el;lopkod;megdézsmál;tolvajkodik
+pilgrimage#zarándoklat
+pilgrim#zarándok
+pillage#fosztogat;fosztogatás;rabol;zsákmány
+pillar#oszlop;pillér
+pillbox#alacsony hengeres erõdítmény;apró autó;apró jármû;apró kocsi;gépfegyveres bunker;gépfegyveres kiserõd;házikó;mikrofilmtartó doboz;pirulás doboz;pirulás szelence
+pillow book#állandó olvasmány;kedvenc könyv;mindennapi olvasmány
+pillowcase#párnahuzat
+pillowslip#párnahuzat
+pillow#ágyazat;alátét;árbocgomb;csapágy;csapágybélés;csapágycsésze;csipkeverõpárna;fekszik;kötélcsisza;lepihentet;nyugszik;párna;párnafa;párnakõ;párnára letesz;tengelycsapágy;vánkos;vánkosra letesz;verõpárna;zászlógomb
+pill#ágyúgolyó;antibébi tabletta;cigaretta;elbuktat;elhúz;elvág;fosztogat;futball-labda;kellemetlen alak;kellemetlen fráter;kifoszt;kigolyóz;kirabol;labdacs;lehánt;lekopaszít;lent tör;pirula;rabol;tabletta;teniszlabda
+pilotage#révkalauzolás
+pilot bridge#vezénylõhíd
+pilot chart#kalauztérkép
+pilot fairway#csak révkalauzzal járható vízszakasz
+pilot harness#pilótabekötõ heveder
+pilot ladder#kötélhágcsó
+pilot lot#nullszéria
+pilot model#kísérleti modell;prototípus
+pilot officer#angol légierõ legalacsonyabb tiszti rangja
+pilot plant#kísérleti telep;kísérleti üzem
+pilot plough#mozdonyhóeke
+pilot project#bemutató vállalkozás;kísérleti vállalkozás;próbavállalkozás
+pilot scheme#kísérleti eljárás;kísérleti szervezet
+pilot studies#elõzetes felvétel;próbafelvétel
+pilot valve#olajadagoló szelep
+pilot wheel#kormánykerék;vezetõkerék
+pilot#áramellenõrzõ jelzõlámpa;bölényhárító;ellenõrzõ mozdony;elõfutó mozdony;irányít;jelzõlámpa;kalauz;kalauzol;kísérleti;kormányos;kormányoz;pálya javítását ellenõrzõ mozdony;pilóta;próba;révkalauz;útmutató;vezérlõcsap;vezet;vezetõ
+pimpernel#pimpinella;tikszem
+pimpled#kiütéses;pattanásos;pörsenéses
+pimple#kiütés;mitesszer;pattanás;pörsenés
+pimply#kiütéses;pattanásos;pörsenéses
+pimp#kerítõ;strici
+pinafore#kötény
+pinball#flipper;tivoli
+pincers#csipesz;harapófogó;rákolló
+pinchers#csipesz;csípõfogó;harapófogó
+pincher#feszítõrúddal dolgozó munkás;feszítõvassal dolgozó munkás;fösvény ember;kleptomániás;lopós ember;szûkmarkú ember;tolvaj
+pinch#becsíp;becsípés;beékel;befûzõdés;belecsíp;beszûkülés;csen;csíp;csípéstõl származó bõrhiba;csipet;csipetnyi;elcsen;elfog;ellop;emelõrúddal megemel;kiékel;kiékelõdés;körmös emelõrúd;lop;lopás;megcsípés;megszorít;nyakoncsíp;szorít;szorítás;szorongató helyzet;telérelvékonyodás
+pin cushion#tûpárna
+pincushion#tûpárna
+pineapple#ananász
+pine cone#fenyõtoboz
+pine needles#fenyõtû;tûlevél
+pinewood#fenyõerdõ;fenyõfa
+pine#epekedik;erdei fenyõ;sóvárog
+pinfeather#tokos toll
+ping#fütyül;fütyülés;kopog;kopogás;kotyog;kotyogás;sivít;sivítás
+pinhead#csipetnyi;gombostûfej;parány;tökfej
+pinko#komcsi;kommunista
+pink#rózsaszín;rózsaszínû
+pinnacle#csúcs;dísztornyocska;orom;tetõpont
+pinpoint#hajszálpontos;hajszálpontosan eltalál;hajszálpontosan megállapít;hajszálpontosan rögzít;tûhegy
+pinprick#tûszúrás
+pinstripe#hajszálcsík;krétacsík
+pinta#fél liter tej
+pint#0,473 l us;0,568 l gb;pint
+pinup girl#csinos,jó alakú lány;képeslapból kivágott szép leánykép;szexbomba
+pinup#elsõrendû;falra feltûzött fénykép;feltûzött fénykép;luxus
+pin#átdöf;átszúr;bezár;cövek;csappal megerõsít;csappal odaerõsít;csappal összefog;gombostû;jelvény;kiékel;kitûzõ;köldököl;leköt;leszorít;megfog;megszegez;megtûz;odaszegez;odatûz;öltés;összetûz;pecek;szeg;szeggel megerõsít;szeggel odaerõsít;szeggel összefog;tekebábu;tû;tûz
+pinny#göcsörtös;gyermekkötény;nehezen megmunkálható
+pioneer#árkász;elõharcos;elsõnek alkalmaz;elsõ telepes;felfedez;lakatlan vidék elsõ megmûvelõje;pionír;pionír munkát végez;utász;utat egyenget;utat tör;úttörõ;úttörõmozgalom tagja;úttörõ munkát végez;vezet utat mutat
+piously#jámboran;kegyesen
+pious#istenfélõ;jámbor;kegyes
+pipe dream#vágyálom
+pipedream#vágyálom
+pipeline#csõvezeték
+pipe plug#vakkarima
+piper#dudás;gázcsatorna
+pipette#pipetta
+pipe wrench#franciakulcs
+pipe#csõ;csövön át továbbít;dalol (madár);dudál;furulyázik;hajósíppal összehív;pipa;sipít;sípjelet ad;sípol;sivít;tilinkózik;zsinórral beszeg
+piping#csövek;csövezés;csõvezeték;díszítés;éles;furulyázás;madárének;magas;metszõ;paszomány;sipító;sípolás;szegélyezés;szegõzsinór;vékony hang
+pippin#ranettalma
+pipsqueak#fütyülõ bomba;hízelgõ;jelentéktelen ember;kis motorkerékpár;mitugrász;nagy senki;talpnyaló;uborkafára felkapaszkodott
+pips#sípjel;sípszó
+pip#csillag (vállapon);egy pont (kártyán);golyót ereszt vkibe;gyümölcsmag;legyõz;lever;mag;pont;rosszkedv;vizsgán elvág
+piquancy#pikantéria
+piquant#pikáns
+piqued#ingerült;sértõdött
+pique#felajz;felébreszt (érdeklõdést);felkelt (érdeklõdést);megbántja vki büszkeségét;megbántja vki hiúságát;megsebzi vki büszkeségét;megsérti vki büszkeségét;megsérti vki hiúságát;neheztelés;piké;pikét csinál;sértett hiúság;sértõdés;sértõdöttség;zuhanórepüléssel lecsap vmire;zuhanórepülést végez
+piracy#kalózkodás;szabadalombitorlás;szerzõi jogbitorlás
+piranha#piranja
+pirate#kalóz;kalózhajó;kalózkiadásban megjelentet;kalózkodik;kirabol;megrabol
+pirouette#perdül;perdülés;piruett;piruettezik
+pissed#részeg
+piss#brunzol;brunyál;húgy;hugyozik;pisál;vizel;vizelet
+pistol#pisztoly
+piston area#hengerfurat
+piston engine#dugattyús motor
+piston valve#dugattyús szelep;dugattyús tolattyú
+piston#csappantyú;dugattyú;játszószelep;regiszterszelep;ventil
+pitchblende#szurokérc;uraninit;uránszurokérc
+pitched#kikövezett;kõvel burkolt;köves;kövezett;kõzúzalékkal megalapozott
+pitcher#dobójátékos;kancsó;kávékiöntõ;korsó
+pitchfork#vasvilla
+pitching#áruba bocsátás;bekenés szurokkal;bólintás;bukdácsolás;dobás;dõlés;egymásba illeszkedés;felállítás;hajítás;hányás;hányódás;hosszirányú dõlés;imbolygás;kátrányos;kátrányozás;kirakodás;kövezés;kövezet;lejtés;partburkolat;rézsüborítás;sátorütés;sátorverés;szurkos;táborütés;útalapozás;útkövezés
+pitch#állít;bekátrányoz;beszurkoz;bódé;bukdácsolás;csúcs;csúcspont;dob;dobás;dõlés;duma;elárusítóhely;elõre bukik;ereszkedik;esik;felállít;felüt;fogosztás;földbe szúr;földbe ver;hajít;hajítás;hajlásszög;halandzsa;hangmagasság;hangot vmihez mér;hányódás;kõvel bélel;kövez;lejt;lejtés;lejtõsödik;lejtõsség;magaslat;meghatároz;osztóköz;stand;szöveg;szurok;táborozik;tetõhajlás;tetõpont;vaker
+piteously#siralmasan;szánalmasan
+piteous#együttérzõ;nyomorúságos;résztvevõ;sajnálatos;sajnálatra méltó;siralmas;szánakozó;szánalomra méltó;szomorú
+pitfall#csapda;kelepce;verem
+pith helmet#trópusi sisak
+pith#bél;belsõ héj;életerõ;energia;erõ;fabél;fehér héj;gerince vminek;gerincvelõ;magva vminek;szárbél;veleje vminek
+pitiableness#szánalmasság
+pitiable#hitvány;megvetendõ;nyomorúságos;sajnálatos;silány;siralmas;szánalmas;szánalomra méltó;szegényes;szomorú
+pitied#sajnálatos;siratott
+pitier#együttérzõ;sajnálkozó
+pitiful#alávaló;könyörületes;megindító;megvetendõ;szánakozó;szánalomra méltó
+pitifully#megvetendõen;szánalomra méltóan
+pitilessly#irgalmatlanul;könyörtelenül
+pitiless#irgalmatlan;könyörtelen
+piton#falkapocs;hegycsúcs;jégszeg;sziklabérc
+pittance#csekély illetmény;éhbér;nyomorúságos alamizsna
+pitted#gödrös;himlõhelyes;kimagozott;kimart;lepattogzott;lyukacsos;ripacsos;rozsdafoltos;üreges
+pitting#gödörkézettség;gödrösödés;hámlás;himlõhely;kipattogzás;lepattogzás;mélyedésképzõdés;poloska;pontkorrózió;ragya;ripacs
+pit#akna;állatfogó verem;árok;bánya;belsõ kabátzseb;benyomódás;box;csapda;csonthéjas mag;elvermel;fejtési üreg;földszint;földszint hátsó része;földszinti zsöllye;földszint közönsége;gabonatõzsde;gödör;hátsó földszinti ülések;himlõhely;himlõhelyessé tesz;kakasviadal küzdõtere;kimagoz;kút;kutatóakna;lignifikált lágy rész;lövészállás;mélyedés;pokol;pontkorrózió okozta gödröcske;préselési hiba;ragya;rohampáholy;sajtolási hiba;sírgödör;szakadék;szerelõ gödör;tárnalejárat;tõr;tûzfészek;üreg;vermel;zenekari árok
+pityingly#sajnálkozva;szánakozva
+pitying#sajnálkozó;szánakozó
+pity#irgalom;kár;könyörület;megsajnál;megszán;sajnál;szánalom
+pivotal#forgó;forgócsapos;kulcs-;sarkalatos
+pivot bearing#csapágy
+pivot chair#forgó ülésû szék
+pivot lathe#csúcsesztergapad
+pivot pin#csuklócsap;forgáscsap
+pivot#csukló;eszmei tengely;forgáscsap;forgócsap;forgócsappal lát el;forgócsapra szerel;fõtámasz;iránytartó;pillér;sarkalatos pont;sarkcsap;sarkpont;támpont;tengely-végcsap;tengelyvég-csap
+pixel#képpont
+pixied#elvarázsolt
+pixie#kobold;manó;tündér
+pixilated#becsípett;bolondos;félnótás;hóbortos;spicces;ütõdött
+pix#fénykép;film;mozifilm;riportfénykép;újságfénykép
+pixy#kislány;kobold;manó;tündér;tündérke
+pizza#pizza

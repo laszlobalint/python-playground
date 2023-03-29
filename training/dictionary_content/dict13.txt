@@ -1,0 +1,77 @@
+aubergine#padlizsán
+auctioneer#árverésvezetõ
+auction#árverés;aukció;elárverez
+audacious#arcátlan;merész;szemtelen;vakmerõ
+audacity#arcátlanság;bátorság;elszántság;pimaszság;rettenthetetlenség;szemtelenség;vakmerõség
+audible#hallható
+audibly#hallhatóan
+audience#hallgatóság;közönség
+audition#hallás;hallóképesség;meghallgat;meghallgatás;próbaéneklés;próbajáték
+auditive#hallási
+audit office#számvevõszék
+auditorium#auditoria,elõadóterem;auditoria,nézõtér
+auditor#könyvszakértõ;könyvvizsgáló;revizor;számvevõ;vendéghallgató
+auditory#hallás-;hallási;halló-
+audit#átvizsgál;egyetemi elõadásokat látogat;ellenõriz;könyvvizsgálat;megvizsgál;revideál;revízió;rovancs;rovancsol;rovancsolás;vizsgál;vizsgálat
+auger#ácsfúró;ár;csapfúró;csiga;csigafúró;földfúró;fúró;fúrószerszám;kanálfúró;nagy kézifúró;pergõfúró;rúdfúró;spirálfúró;szállítócsiga;szelepes fúró;talajfúró;turzófúró
+augmentation#hosszabbítás;nagyobbítás;nagyobbodás;növelés
+augment#gyarapít;gyarapodik;nagyobbít;nõ;növekszik;növel
+augur#augur;elõrelát;jós;jósol;jövendöl;jövendõmondó;jövendõt mond;látnok;madárjós;megjósol;megjövendöl
+august#augusztus;magasztos
+auntie#nénike
+aunt#nagynéni
+aunty#nénike
+aural ailment#fülbaj;fülpanasz
+aural scoop#fülkaparó;fülkaparó-kanál
+aural surgeon#fülész;fülorvos
+aural syringe#fülfecskendõ
+aural#fül-;füli;hallási;halló;kiáramló
+aurally#fül által;füllel;hallás útján
+aura#aurae,aura;aurae,elõérzet;aurae,elõjel;aurae,emanáció;aurae,illat;aurae,kiáradó hatás;aurae,kigõzölgés;aurae,kipárolgás;aurae,kisugárzó hatás;aurae,lehelet
+aurora#sarki fény
+auspices#pártfogás
+auspiciously#kedvezõen;sikeresen
+auspicious#kedvezõ;sikeres
+austerely#egyszerûen;igénytelenül;keményen;mérsékletesen;önmegtartóztatóan;puritán módra;spártai módra;szigorúan;zordul
+austere#aszkéta;barátságtalan;dísztelen;egyszerû;fanyar;igénytelen;kemény;kesernyés;merev;mérsékletes;önmegtartóztató;puritán;rideg;savanykás;spártai;szerény;szerzetesi;szigorú;szigorúan egyszerû;zord
+austerity#egyszerûség;megszorítások;mérsékletesség;szigorúság
+australian#ausztráliai;ausztráliai angolság;ausztráliai ember;ausztráliai nyelv
+australia#Ausztrália
+austrian#osztrák
+austria#Ausztria
+auteurial#rendezõi
+authenticity#hitelesség
+authentic#autentikus;hiteles;hitelt érdemlõ
+authorise#engedélyez;felhatalmaz;feljogosít;meghatalmaz
+authorities#hatóság
+authority#engedély;felhatalmazás;fennhatóság;forrásmû;hatalom;hatóság;meghatalmazás;szakértõ;szaktekintély;tekintély
+authorize#engedélyez;felhatalmaz;feljogosít;meghatalmaz
+authorship#írói mesterség;írói pálya;szerzõség
+author#író;okozó;szerzõ
+autism#narcisszizmus;patológikus elmerülés a képzelet világában;túlzott befelé fordulás
+autistic#teljesen a fantáziák világában élõ
+autoclave#autokláv
+autoclaving#csírátlanítás
+autocracy#önkényuralom
+autocue#súgógép
+autograph#aláírás;autogram
+autoklave#autoklávban kezel;autokláv kezelésben részesül;nagyobb nyomáson fõz
+autoklaving#csírátlanítás
+automate#automatizál
+automatic#automata;automatikus;gépies;ön-;önkéntelen;önmûködõ;önmûködõ fegyver;revolver
+automation#automatizálás;gépesítés
+automaton#automata,automata;automata,gépies teremtmény;automata,robotgép
+automat#automata büfé;automata étterem
+automobile#autó;személygépkocsi
+automotive#autó-;automobil-;autóval kapcsolatos;gépkocsi-;magánjáró;motoros jármûvekhez tartozó;önmagától mozgó;önmozgó;önmûködõ
+autonomous#autonóm;önkormányzati;önrendelkezésû
+autonomy#autonómia;önkormányzat;önrendelkezés
+autopilot#robotpilóta
+autopsical#autoptikus;önészlelési;önészleleti
+autopsic#autoptikus;önészlelési;önészleleti
+autopsy#boncolás;hullaboncolás;hullaboncolást végez;hullaszemle;hullát boncol;orvosi hullaszemle;önészlelés;önszemlélet;tetemvizsgálat
+autumn crocus#kikerics
+autumn#õsz
+auxiliaries#idegen segédcsapatok;segédcsapatok
+auxiliary#kiegészítõ;kisegítõ;pót-;pótlólagos;segéd-;segéd;segédige;segédmennyiség;segítség;szövetséges;tartalék
+aux#kiegészítõ;pót-;segéd-

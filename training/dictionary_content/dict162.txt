@@ -1,0 +1,71 @@
+upbeat#beintés;felütés;hangsúlytalan ritmusrész;jópofa;ütemelõzõ;vidám
+upcoming#hamarosan elérkezõ;közeledõ;közelgõ;küszöbön álló
+upcountry#egyszerû;falusias;folyó felsõ szakaszának környéke;határtól távol esõ;kezdetleges;ország belsejében levõ;ország belseje felé;ország közepén levõ;tengerparttól távolabb esõ országrész;tengerparttól távol esõ;tengerparttól távol esõ országrész;várostól távol esõ
+updated#korszerûsített
+update#korszerûsít;korszerûvé tesz;modernizál
+updraft#függõleges légáramlat
+updraught#függõleges légáramlat
+upend#feláll;felállít;felül;fenekére állít;fenekével felfelé fordít
+upfront#elõre;elõre fizetett;feltûnõ;nyílt;õszinte;szembetûnõ
+upgrade#emelkedõ;feljavít;felminõsít;felosztályoz;lejtõ
+upgrading#feljavítás
+upheaval#felfordulás
+uphill#hegynek felfelé
+upholder#híve vminek;támogató
+uphold#upheld,fenntart;upheld,jóváhagy;upheld,megerõsít;upheld,támogat
+upholsterer#kárpitos
+upholstering#kárpitozás
+upholster#behúz (bútort);berendez;kárpitoz;kipárnáz
+upholstery#kárpitosmunka;kárpitozás;párnázat
+upkeep#fenntartási költség;karbantartás;karbantartási költség;üzemben tartás;üzemeltetési költség
+uplifting#felemelõ
+uplift#felemel;felemelõ hatás;fellelkesít;földkéreg gyûrõdése;fölemelkedés;lelkesít;lelkesítõ hatás
+upon pain#büntetés terhe mellett
+upon request#kérésre;kívánatra
+upper arm#felkar
+upper band#puskakarika
+upper case#nyomtatott nagybetû
+upper circle#karzat
+upper classes#felsõbb osztályok
+upper crust#felsõ körök;felsõ tízezer
+upper house#felsõház;fõrendiház
+upper leather#cipõfelsõrész
+upper lid#felsõ szemhéj
+uppermost#legelöl;legelsõ;legelsõnek;legfelsõ;legfelül;legmagasabb
+upper plate#fölsõ protézis
+upper school#felsõ tagozat
+upper story#agy;fej;felsõ emelet
+uppers#cipõfelsõrész;felsõrész;fölsõ protkó
+upper ten#felsõ körök;felsõ tízezer
+upper#felsõ;felülsõ;legfelsõ
+upraised#felemelkedett;felemelt
+uprear#felállít;felemel;felkel;felnevel;felszerel;feltámad;kitûz;magasztossá tesz
+uprightly#álló helyzetben;egyenesen;egyenes helyzetben;függõlegesen;függõleges helyzetben
+uprightness#becsületesség;egyenesség
+uprights#kapufák
+upright#álló oszlop;álló tag;becsületes;egyenes;egyenesen álló;felállít;függõleges;gyámfa;gyertya (futballban);pillér;támasztógerenda;támasztóoszlop
+uprising#felkelés;fellázadás;lázadás
+uproarious#harsány;lármás;zajos
+uproar#nagy zsivaj;zajongás;zenebona
+uprooted#gyökerestül kiszakított;gyökerestül kitépett
+uproot#gyökerestül kitép;kiszakít
+upscale#elegáns;gazdagoknak való;iskolázottaknak való;sikkes
+upsetting#felborítás;felfordítás;felfordulás;izgató;nyugtalanító;tömörítés;zaklató;zömítés
+upset#duzzasztott;felborulás;felfordulás;feltöltés;feltörés szénben;gyengélkedés;izgalom;légösszekötõ feltörés;tömörített;upset,duzzaszt;upset,emésztést megzavar;upset,felborít;upset,felborul;upset,feldönt;upset,feldúl;upset,felfordít;upset,felfordul;upset,felizgat;upset,fellök;upset,felzaklat;upset,keresztülhúz;upset,kihoz a sodrából;upset,megárt;upset,megbuktat;upset,megdönt;upset,meghiúsít;upset,megzavar;upset,megzavarja a lelki egyensúlyát;upset,megzavarja a lelki nyugalmát;upset,torlaszt;upset,tömörít;upset,zömít;zömített
+upshot#eredmény;kimenetel;következmény;végeredmény
+upstanding#álló;becsületes;derék;égnek álló;egyenes;egyenes jellemû;egyenes testtartású;felálló;jó alakú;jó növésû;jó tartású;rögzített
+upstart#felkapaszkodott;jöttment;jövevény;õszi kikerics;senkiházi;uborkafára felkapaszkodott ember;új ember;újgazdag
+upstate#állam északi részében levõ;állam távoli részében levõ
+upstream#ár ellen;felvízi;felvíz-oldali;folyás ellen;szûkítés elõtti;vízfolyáson felfelé
+upsurge#fellendülés;feltörés;nekilendülés
+upsweep#felfelé ívelés
+upswing#fellendülés
+uptake#adszorpció;felszállócsõ;felszálló vezeték;felvétel
+upthrust#felhajtó erõ;felhajtó nyomás;sasbérc;vetõdéses kiemelkedés
+uptight#aggodalmaskodó;feszült;ideges
+upturned#felfelé fordított;felhajtott;feltûrt
+upturn#felemel;felfelé fordít;felhajtás;forgat;megforgat;összevisszaság;zûrzavar
+upward#emelkedõ;felfelé irányuló
+upwelling#feláramlás
+up#emel;fel;feláll;felemelkedik;felfelé;felfelé haladó;felfelé menõ;fel vmire;fenn;fenn vmin;fent;fokoz;-ig;közel;közelbe;megjelöl;oda;vmivel szemben
+up yonder#amott fenn;odafent;ott fent

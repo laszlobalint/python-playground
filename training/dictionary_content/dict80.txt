@@ -1,0 +1,71 @@
+iodine#jód
+iodone#jód
+ionic order#jón oszloprend
+ionic#ion-;ionos;jón
+ionizable#ionizálható
+ionization#ionizációs kezelés;ionizálás
+ionizer#ionizáló készülék
+ionize#ionizál;ionokkal telít;ionokkal telítõdik
+ionosphere#ionoszféra
+ion#ion
+iota#ióta;jottányi;szemernyi
+irascible#robbanékony
+irate#dühös;haragos
+iridescence#irizálás;színjátszás
+iridescent#irizáló;szivárványszínekben játszó
+iridium#irídium
+iris#írisz;nõszirom;szivárványhártya
+irking#bosszantó;fárasztó
+irksome#bosszantó;fárasztó;hálátlan;kellemetlen;terhes
+irk#bosszant;fáraszt
+iron alum#alunogén;halotrichit;vastimsó
+iron curtain#vasfüggöny
+iron furnace#vasolvasztó
+iron horse#bicikli;kerékpár;mozdony;vasparipa
+ironical#gúnyos;ironikus
+ironically#gúnyosan;ironikusan
+ironic#gúnyos;ironikus
+iron lung#vastüdõ
+iron maiden#vasszûz
+iron mill#vasmû
+ironmonger#vaskereskedõ
+ironmongery#vasáru;vaskereskedés
+iron mounting#vasalás;vasveret;veret
+iron ration#biztonsági élelmiszer-tartalék;tartalék adag;vastartalék
+iron section#idomvas;profilvas;szelvényvas
+iron shavings#vasforgács
+ironsides#angol harckocsi ezred;vasbordájúak
+ironside#vasakaratú ember;vasbordájú
+irons#bilincs
+iron waters#vasas víz;vas tartalmú víz
+ironworks#vasmû
+iron#kard;megvasal;vas;vasal;vasaló
+irony#gúny;irónia
+irradiated#sugárzó
+irradiate#beragyog;besugároz;érthetõvé tesz;megvilágít;sugárral kezel;sugárzóvá tesz
+irradiation#besugárzás;fényudvar;irradiáció;kisugárzás;kivilágítás;megvilágítás;megvilágosodás;ragyogás;sugárkezelés;sugárzás
+irreducible#át nem alakítható;helyre nem igazítható;megmagyarázhatatlan;nem csökkenthetõ;nem egyszerûsíthetõ;nem kisebbíthetõ
+irregularity#egyenetlenség;rendellenesség;szabálytalanság
+irregulars#irreguláris csapatok;partizáncsapatok
+irregular#egyenetlen;rendellenes;rendhagyó;rendszertelen;szabálytalan
+irrelevance#jelentéktelenség;lényegtelen dolog;lényegtelenség;nem a tárgyhoz tartozóság;nem odaillõség
+irrelevancy#jelentéktelen dolog;jelentéktelenség;lényegtelenség;nem a tárgyhoz tartozóság;nem odaillõség
+irrelevant#irreleváns;jelentéktelen;lényegtelen;nem a tárgyhoz tartozó;nem helytálló
+irreligion#hitetlenség;vallástalanság
+irreligious#hitetlen;vallástalan
+irreparable#helyrehozhatatlan;jóvátehetetlen;pótolhatatlan
+irresistible#ellenállhatatlan
+irresistibly#ellenállhatatlanul
+irresolution#habozás;határozatlanság;tétovázás
+irrespective#független;tekintetbe nem vevõ
+irreverence#tiszteletlenség
+irreverent#tiszteletlen
+irreversible#megmásíthatatlan;meg nem fordítható;vissza nem fordítható;visszavonhatatlan
+irrevocable#megfellebezhetetlen;megmásíthatatlan;visszavonhatatlan
+irrevocably#megmásíthatatlanul;végérvényesen;visszavonhatatlanul
+irrigation#öntözés
+irritability#érzékenység;ingerlékenység
+irritable#érzékeny;ingerlékeny;robbanékony
+irritably#ingerülten
+irritate#felbosszant;felingerel;ingerel;irritál;izgat
+irritation#bosszúság;ingerlés;ingerültség;irritálás;izgalmi állapot;izgatás

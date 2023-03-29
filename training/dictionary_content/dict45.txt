@@ -1,0 +1,103 @@
+eiderdown#dunyha;pehely;pehelypaplan
+eigenperiod#önrezgés periódusa;sajátperiódus
+eigenstate#sajátállapot
+eigenvalue#sajátérték
+eigenvector#sajátvektor
+eightball#konvencionális ember;törvénytisztelõ ember
+eighteenth#tizennyolcadik
+eighteen#tizennyolc
+eightfold#nyolcszoros;nyolcszorosan
+eighth#nyolcad;nyolcadik
+eighties#nyolcvanas évek
+eightieth#nyolcvanadik
+eight#nyolc;nyolcas
+eighty#nyolcvan
+either way#akár így akár úgy;így is úgy is
+either#akármelyik;bármelyik;egyik;mindkét;mindkettõ;valamelyik;valamelyik a kettõ közül
+ejection#birtokfosztás;elmozdítás (hivatalból);kilakoltatás;kilövellés;kivetés
+ejector#ejektor;kidobó;kivetõ;lövettyû;tölténykivetõ szerkezet
+eject#elûz;kidob;kilakoltat;kilövell;kivet;szór
+eke#is;szintén
+elaborate#bonyolult;feldolgoz (témát);gondosan kidolgoz;gondosan kidolgozott;körülményes;megmunkált
+elaboration#feldolgozás;gondos alaposság;kellõ alakba öntés;kidolgozás;kidolgozottság;kiformálás;megmunkálás;részletekben való elmélyülés;részletes elõkészítés;részletes kidolgozás;részletesség
+élan#elán;hév;lendület
+elapse#elmúlik;eltelik;múlik;telik
+elasticity#nyújthatóság;nyúlékonyság;rugalmasság
+elastic#gumiszalag;gumiszövet;gumizsinór;hajlékony;hajlítható;hamar alkalmazkodó;könnyen hajlítható;könnyen illeszkedõ;nyúlékony;rugalmas;rugalmassági;ruganyos;sokat befogadó;tág
+elastomer#elasztomer;gumiszerû mûanyag
+elastoplast#gyorstapasz
+elated#becsiccsentett;becsípett;emelkedett;emelkedett hangulatban levõ;felajzott;fellelkesült;kapatos;mámoros;megittasult;megmámorosodott;spicces;ujjongó
+elaterid#fedelesszárnyú;pattanó bogarakhoz tartozó
+elater#elatera;pattanóbogár;pattanó mag
+elate#büszkévé tesz;emelkedett;felajz;felhangol;fellelkesít;fellelkesült;kellemes izgalomba hoz;lelkesültté tesz;örömmámorban úszó
+elation#áradó jókedv;emelkedett hangulat;fellelkesedés
+elbow joint#könyökízület
+elbowroom#mozgási lehetõség;mûködési tér
+elbow#görbület;hajlat;hajlított kartámla;ívcsõ;könyök;könyökidom
+elderberry#bodza
+elderly#koros;korosodó;öregedõ;öreges
+election#választás
+elective#fakultatív;szabadon választható;választási;választásra jogosult
+electoral#választási;választói
+electorate#választófejedelemség;választók;választókerület
+elector#szavazó;választó;választófejedelem
+electrician#villanyszerelõ
+electricity#elektromosság;villamosság;villanyáram
+electric#elektromos
+electrify#elektrifikál;elektrifikálódik;elektromossá válik;felvillanyoz;felvillanyozódik;villamosít;villamossággal feltölt;villamos töltéssel ellát;villanyoz
+electrobath#elektrolitikus fürdõ;villanyfürdõ
+electrocute#villamosszékben kivégez
+electrolyte#elektrolit
+electrolytic#elektrolitikus;elektrolitos
+electronics#elektronika
+electroshock#elektrosokk
+elect#kiválasztott;megválaszt;választ;választott;válogatott
+eleemosynary#jótékonyságból élõ;jótékonysági
+elegance#elegancia;finomság;választékosság
+elegant#elegáns;elõkelõ;finom;kitûnõ;klassz
+elegiac#elégikus;gyászos;gyászos hangulatú
+elegy#elégia;gyászdal
+elemental#alapvetõ;elemi;elsõdleges;szerves (rész)
+elementary#alap-;alapfokú;alapvetõ;elemi;kezdetleges
+element#elem
+elephantine#elefántszerû;óriási;ormótlan
+elephant#elefánt
+elevated#emelkedett
+elevate#elõléptet;felemel;felmagasztal
+elevating#felemelõ
+elevation#domb;emelés;emelkedés;emelkedettség;fennköltség;homlokrajz;magaslat;magasztosság;tengerszint feletti magasság
+eleven#tizenegy
+elfin#gonoszkodó;huncut;huncut gyerek;incselkedõ;is emberke;játékos tündér;lurkó;manó;manószerû;pajkos;pajkos gyerek;pajkos tündér;pöttöm emberke;törpe;tündérforma;tündérszerû
+elfish#gonoszkodó;huncut;incselkedõ;manószerû;pajkos;tündérforma;tündérszerû
+elf#elves,huncut gyerek;elves,játékos tündér;elves,kis emberke;elves,lurkó;elves,manó;elves,pajkos gyerek;elves,pajkos tündér;elves,pöttöm emberke;elves,törpe;elves,tündér;manó;összekócol;összezavar;törpe;tündér
+elicit#kicsal;kiderít;kiszed;tisztáz
+eligibility#alkalmasság;kiválaszthatóság;partiképesség;választhatóság
+eligible#alkalmas;megfelelõ;választható
+eliminate#eltávolít;felszámol;kihagy;kiküszöböl;kirekeszt;megsemmisít
+elision#hangzókihagyás
+elite#elit
+élite#elit
+elitist#elitista
+elixir#elixír;kvintesszencia;lényeg;mindent gyógyító ital;varázsital
+elkhound#sarki kutya
+elk#jávorantilop;nyári lúd;vadlúd
+ellipse#ellipszis
+ellipsoidal#ellipszoid alakú
+ell union#könyökös illesztés
+ell#114,30 cm;könyök;könyökös illesztés;szárnyépület;toldalék
+elm#szilfa
+elongated#kinyúlt;meghosszabbított;meghosszabbodott;megnyújtott;megnyúlt;megnyurgult
+elongate#hosszabbít;kinyújt;kinyúlt;legnagyobb kitérést végzi;meghosszabbít;meghosszabbított;meghosszabbodik;meghosszabbodott;megnyújtott;megnyúlik;megnyúlt;megnyurgult;nyújt;nyúlik;nyurgul
+elongation#elongáció;hosszabbítás;hosszabbodás;kinyújtás;legnagyobb kitérés;meghosszabbítás;meghosszabbodás;megnyújtás;nyúlás;szögtávolság;toldalék;toldás
+eloquence#ékesszólás;szónoki képesség
+eloquent#ékesszóló
+elsewhere#máshol;máshová;másutt
+else#egyéb;ellenkezõ esetben;különben;más;vagy
+elsinore#Helsingör
+elucidate#értelmez;megmagyaráz;tisztáz
+elude#egérutat nyer;kijátszik;kitér;megmenekül
+elusive#meghatározhatatlan;nehezen megfogható
+elutriate#derít;iszapol;tisztít;üledéket mos;ülepít
+elutriation#elutriálás;hidrometrálás;iszapolás;kimosás;tisztítás;üledékmosás
+elutriator#derítõ berendezés
+eluvial#eluviális

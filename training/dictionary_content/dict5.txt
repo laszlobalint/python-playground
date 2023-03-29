@@ -1,0 +1,84 @@
+ahead#elöl;elõre
+aide#segéd
+aid station#mûszaki segélyhely;segélyhely
+aid#elõmozdít;elõsegít;megsegít;segéderõ;segédeszköz;segédkezik;segédlet;segély;segít;segítõtárs;segítség;támogat
+ailing#beteg;fájó
+ailment#betegség;gyengélkedés
+ail#bánt;betegeskedik;gyengélkedik
+aimed fire#célzott tûz
+aimlessly#céltalanul
+aimlessness#céltalanság
+aimless#céltalan
+aim#cél;célba vesz;célkitûzés;céloz;célpontra irányít;célzás;igyekszik;irányoz;megcéloz;ráirányít;szándék;törekszik
+air action#légi harctevékenység
+air ambulance#sebesültszállító repülõgép
+air assault#légitámadás
+air attaché#légügyi attasé
+airbase#légi támaszpont;repülõ támaszpont
+air bends#légembólia
+airborne#lebegõ;légi úton szállított;légi úton továbbított;levegõ által hordott;levegõ által szállított;repülõ
+air bridge#légifolyosó;légihíd;légihídon szállított teher;légi utánpótlás
+airbrush#dukkózó pisztoly;festékszóró pisztoly
+air cargo#légi teheráru
+air carriage#légi szállítás;légi úton való szállítás
+air coach#légibusz;utasszállító repülõgép
+air command#légi fõparancsnokság
+air commodore#repülõdandár-parancsnok
+air cooling#léghûtés
+air cover#légi biztosítás;légi biztosító repülõgépek;légi fedezés;légi fedezet
+aircraft#repülõgép
+air crash#légikatasztrófa;repülõszerencsétlenség
+air curtain#légfüggöny
+air defence#légvédelem
+air edition#légipostai kiadás
+airfield#repülõtér
+air filter#légszûrõ;légszûrõbetét
+air force#légierõ;légi haderõ
+air gauge#feszmérõ;légnyomással mûködõ idomszer;manométer
+airhead#hadszíntér központi repülõtere;hadszíntér repülõtere;légi hídfõ
+air hostess#légi utaskísérõ;stewardess
+airily#fesztelenül;komolytalanul;könnyedén
+airjetty#utashíd
+airletter#légiposta-boríték
+air letter#légipostai levél
+airletter#légiposta-levél
+air letter#önborítékoló légipostai levél
+air liner#utasszállító repülõgép
+airliner#utasszállító repülõgép
+airline#légitársaság
+airlock#légbuborék (csõben);légkamra;légzsák;légzsilip
+airman#pilóta
+air marshal#légi marsall;repülõmarsall
+air ministry#légügyi minisztérium
+air officer#repülõtiszt
+air passenger#légi utas;repülõutas
+air photo#légi felvétel
+airplane#repülõgép
+air pollution#légszennyezés
+airport#reptér;repülõtér
+air rates#légi szállítási díjszabás
+air rifle#légfegyver;légpuska
+airship#léghajó
+air shower#atmoszferikus zápor
+airsickness#légibetegség
+air sleeve#szélzsák
+airspace#hézag;kubatúra;légköbméter-tér;légrés
+air space#légtér
+airspace#légtér;rés
+air speed#önsebesség;repülési sebesség
+air strike#légi csapás;repülõtámadás
+airstrip#felszállóhely;hevenyészett felszállóhely
+air support#légi támogatás
+air supremacy#légi fennsõbbség;légtér uralma
+air terminal#indító iroda (légitársaságé);városi iroda (légitársaságé)
+air ticket#repülõjegy
+air train#vitorlázógépek vontatóval;vitorlázógép vontatóval
+air transport#légi közlekedés;légi szállítás
+air umbrella#légi biztosítás;légi biztosító repülõgépek;légi fedezet
+air vesicle#légedény
+airwaves#rádióhullámok
+airworthy#légi közlekedésre alkalmas;repülésre alkalmas
+air#arckifejezés;ária;dal;dallam;egykor;fellépés;fitogtat;huzat;kimond;korán;külszín;látszat;lég;légügyi-;levegõ;repülõ;szárít;szellõ;szellõztet;viselkedés
+airy#fesztelen;komolytalan;könnyed;légies;levegõs;szellõs
+aisled#oldalhajós;oldalhajóval rendelkezõ
+aisle#folyosó;oldalfolyosó;oldalhajó;padsorok közötti folyosó;templomi oldalhajó;ülõhelyek közti folyosó

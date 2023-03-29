@@ -1,0 +1,279 @@
+boarder#bennlakó;csáklyázó hajó;hajót megszálló különítmény tagja;internátusi növendék;intézeti növendék;kartonozó;összeütközést okozó hajó;penzióban étkezõ;penzióban lakó
+board game#társasjáték
+boarding#átvizsgálás;deszkaburkolat;deszkázat;élelmezés;élelmezés lakással;ellátás;fodorítás;hajóraszállás;kartonkötés;kikötés;padló;parthoz állás;penzió
+board meeting#bizottsági ülés;igazgatósági ülés;választmányi ülés
+boardroom#tanácsterem
+board rubber#táblatörlõ
+boards#borítólap;színpad;világot jelentõ deszkák
+boardwalk#sétány
+board#asztal;bedeszkáz;beszáll;birkanyíró helyiség;birkanyírók létszáma;bizottság;deszka;deszkáz;élelmez;élelmezés;ellátás;étkezik;fedélzet;felszáll;hajófedélzet;hajóoldal;hajóoldalfal;hajóra száll;hirdetõtábla;játékasztal;kapcsolótábla;karton;keménypapír;koszt;kosztol;kosztot ad;mûszertábla;papírlemez;penzió;rendszeres koszt;sakktábla;tábla;tanács;tanácskozó testület;választmány;vastag deszkalap
+boar#kan;kan disznó;vaddisznó;vadkan
+boastful#dicsekedõ;dicsekvõ
+boast#büszkeség;dicsekszik;dicsekvés;dicsõség;fenyegetés;hencegés;hírnév;kérked;öndicséret
+boater#lapos kemény szalmakalap;zsirardi;zsirardikalap
+boating#csónakázás
+boatman#boatmen,csónakbérbeadó;boatmen,csónakfelügyelõ;boatmen,csónakõr;boatmen,folyami hajós;boatmen,hajós;boatmen,háton úszó vízipoloska;boatmen,matróz
+boatswain#fedélzetmester;vitorlamester
+boat#csésze;csónak;csónakázik;hajózik;kis testû hajó;mártásos csésze
+boatyard#csónaképítõ telep;hajóépítõ telep;sólya;sólyatér
+bobbin#orsó
+bobble#fel-le mozgás;fel-le mozog;hiba;hibát követ el;hibázik;rángatózva mozog;rojt;tévedés;ügyetlenül bánik vmivel
+bobby pin#hullámcsat
+bobcat#kis észak-amerikai hiúz
+bob#bubifrizura;fejbiccentés;fel-le mozog;kis lökés;kis meghajlás;kis ütõdés;kurtított farok;megkurtít;nehezék;rövidre vág;rövidre vágat;shilling;súly;szánkózik;szántalp;úszó
+bodeful#baljós;baljóslatú
+bodega#bodega;csapszék
+bode#jósol;jövendöl;sejtet
+bodiless#testetlen
+bodily#mind együtt;személyesen;testben;testi;testületileg;valóságos
+body blow#megsemmisítõ csapás;súlyos csapás;testközépre mért ütés
+body build#testalkat
+body founder#nehéz mozgás;ziháló légzés
+bodyguard#testõr
+body ironer#karosszérialakatos;kocsiszekrény-lakatos;lemezlakatos
+body linen#alsóruha;fehérnemû
+body lotion#testápoló
+body louse#ruhatetû
+body odour#izzadságszag;testszag
+body plan#hosszmetszet-szelvény
+body politic#állam;népközösség
+body snatcher#hullatolvaj
+body stocking#testszínû trikóruha;trikóruha
+bodyweight#testsúly
+body#alapanyag;anyag;derék;ember;erdõállomány;fõrész;hajó (templomé);hangszerszekrény;holttest;hulla;kalaptetõ;karosszéria;kas;kocsiszekrény;konzisztencia;lényege vminek;összeállás;ruhaderék;szár;szekrény;szerv;tárgyalás;test;testület;tetem;tetõ;tollszár;tömeg;tömöttség;törzs;veleje vminek;zöm
+boehmite#boehmit
+boer#búr;dél-afrikai holland
+bogeyman#bogeymen,mumus
+bogey#kísértet;madárijesztõ;mumus;rémkép
+boggle#aggályoskodik;elfuserál;elront;elrontás;gonosz szellem;habozik;kísértet;kobold;manó;megrémül;megzavarodás;megzavarodik;rémkép
+bogie#csille;forgóalváz;forgóváz;forgózsámoly;futómacska;fürdés;fürdõ;fürdõmedence;kotrógép kocsirésze;mosdás;uszoda
+bogle#gonosz szellem;kísértet;kobold;manó;rémkép
+bogus#ál-;hamis;nem valódi;színlelt
+bog#láp;megfeneklik;megreked;mocsár;mocsárba süllyed
+boggy#mocsaras
+bogy#kísértet;kobold;madárijesztõ;manó;ördög;rém;rémkép;sátán
+bohemianism#bohém életmód;bohém erkölcs;bohémség
+bohemian#bohém;cigány;cseh;csehországi;csehországi személy;cseh személy;huszita
+bohemia#bohémvilág;csehország;mûvészvilág
+boiled eggs#fõtt tojás;kemény tojás;lágy tojás
+boiled egg#fõtt tojás
+boiled oil#lenolajkence;olajkence
+boiled shirt#frakking;keményített ing;keményített ingmell;kikeményített ing
+boiled#forrpontra hozott;fõtt;ittas;megfõtt;párolt;részeg
+boiler room#kazánház
+boiler#kazán
+boil#felforral;forr;forral;forrás;forráspont;fõ;fõz;furunkulus;kelés;vízben fõz
+boisterous#féktelen;heves;lármás;szilaj;zajos
+boldfaced#arcátlan;félkövér betû;fett betû
+boldface#félkövér betû;fett betû
+boldly#arcátlanul;merészen;szemtelenül;vakmerõen
+boldness#arcátlanság;merészség
+bold#arcátlan;bátor;félkövér betû;feltûnõ;fett betû;merész;szembeszökõ
+bole#fatörzs
+bollard#cölöp;kikötõbak
+boloney#halandzsa;süket duma
+bolshevik#bolsevik
+bolshevism#bolsevizmus
+bolshevist#bolsevik
+bolshevize#bolsevizál
+bolshie#bolsevik;bolsi
+bolster#aljzat;ászokfa;nyeregfa;párna;párnafa;vánkos
+bolting#csapszegek beverése;elreteszelés;összeállítás csapszegekkel;összecsavarozás;retesz;rostálás;szitálás
+bolt upright#egyenesen;kihúzva magát;nyársat nyelve
+bolt#bekap (ételt);bliccel;csapszeg;csapszeggel fog össze;csapszeggel megerõsít;csavar;elinal;elpártol;elreteszel;elrohan;elzár;fontolóra vesz;futás;futásnak ered;kilép (pártból);magba megy;megbokrosodik;megrostál;megszökik;megugrik;megvadul;megvizsgál;mohón nagyokat nyel;mulaszt;nyílvesszõ;rágás nélkül nagyokat nyel;retesz;rigli;rostál;szigorúan elbírál;szitál;tolózár;villámcsapás;zárnyelv;závárzat
+bombardier#bombakioldó;tüzér tisztes
+bombardment#bombázás
+bombard#bombáz;megdobál;ostromol;támad
+bombax#bolyfa;ceibafa;gyapjúfa;sajtfa
+bomb crater#bombakráter
+bomber#bombázó;bombázógép
+bomb outrage#bombamerénylet;pokolgépes merénylet
+bomb#bomba;bombát vet;bombáz
+bona fide#jóhiszemû;jóhiszemûen;komolyan;tisztességes;tisztességesen
+bonanza#bombaüzlet;gazdag érclelõhely;gazdag telér;szerencsés lelet
+bondage#fogság;jobbágyság;rabszolgaság
+bonded debt#kölcsöntartozás
+bonded joint#áthidalt sínütközés
+bonded port#vámhatárral rendelkezõ kikötõ
+bonded wall#kötésben épített fal
+bonded#elzálogosított;kötõanyaggal készült;kötõanyaggal préselt;kötõanyaggal sajtolt;kötvényesített;vámszabad raktárba helyezett
+bondholder#kötvénytulajdonos
+bonding#kötés;kötõ-
+bond#adóslevél;beköt (téglát falba);biztosíték;elzálogosít;köpeny;kötelék;kötelezettség;kötelezvény;kötés;kötvény;óvadék;vámõrizet;vámzár alá helyez
+bone bank#csontok tárolására szolgáló hely
+bone black#állati szén;csontszén
+bone cancer#csontrák
+boned#csontos;kicsontozott
+bonehead#csökönyös ostoba ember
+bonelessly#erélytelenül;puhány módon
+boneless#csont nélküli;erélytelen;puhány;szálka nélküli
+bone marrow#csontvelõ
+boner#baki;baklövés;melléfogás
+bones#dominókockák;játékkockák
+bone#csont;elemel;ellop;halcsont;kicsontoz;szálka;szálkát kiszed
+bonfire#máglya
+bonhomie#kedélyesség;mesterkéletlenség
+bonily#csontosan
+bonkers#becsavarodott;bolond;dilinyós;dilis;furcsa;hangyás;különös;lökött;megbuggyant;õrült
+bonnet#fõkötõ;motorháztetõ;sapka
+bonus#külön juttatás;nyereségrészesedés;prémium;rendkívüli osztalék
+bonze#bonc;buddhista pap
+bony coal#palás szén
+bony growth#csontos kinövés
+bony marrow#csontvelõ
+bony palate#kemény szájpadlás
+bony system#csontrendszer;csontváz
+bony tissue#csontszövet
+bony#csontos;kõkemény;nagy csontú;sovány;szálkás;szögletes
+boobs#cici;didi;didkó;mell
+boob#bamba;fajankó;mafla;nagy kamasz
+booby hatch#diliház
+boobytrap#otromba tréfa;robbanó használati tárgy
+booby#bamba;fajankó;mafla;nagy kamasz
+boodle#pénz
+boogey man#mumus;zsákos ember
+boogey#mumus;zsákos ember
+bookcase#könyvszekrény
+book club#könyvklub
+booking#bejegyzés;elõjegyzés;jegykiadás;könyvbõl való magolás;könyvelés;nyilvántartásba vétel;poggyászfeladás
+book jacket#borítólap
+bookjacket#könyvborító
+bookkeeper#könyvelõ
+bookkeeping#könyvelés;könyvvitel
+booklet#könyvecske
+bookmark#könyvjelzõ;olvasójel
+book number#egyedi jelzet
+bookseller#könyvkereskedõ
+bookselling#könyvkereskedelem
+bookshelf#könyvespolc
+bookstore#könyvesbolt
+book token#könyvutalvány
+book#beír;bújja a könyvet;elhúz;elkönyvel;elõjegyez;elõjegyeztet;elporol;elsiet;eltávozik;felír (rendõr);foglal;hajt;jegyzetfüzet;könyv;könyvel;lefoglal;magazin;magol;megrendel;menetjegyet kiad;menetjegyet vált;sárga lapot ad (bíró);száguld;tanul;teper
+boomerang#bumeráng
+boom#alsó vitorlafa;dörgés;dörög;fellendül;fellendülés;konjunktúra;moraj;morajlás;morajlik;öregfa;reklámoz;torkolatzár;virágzás;virágzik;zúg;zúgás
+boondocks#félreesõ vidék;isten háta mögötti hely;tanyavilág;távoli vidék;világvége
+boonies#falu;faluhely;félreesõ vidék;isten háta mögötti hely;mucsa;tanyavilág;távoli vidék;vidék;világvége
+boon#adomány;áldás;bõkezû;jótétemény;kellemes;vidám
+boorishly#durván;faragatlanul;paraszti módon;parasztosan
+boorishness#durvaság;faragatlanság;modortalanság
+boorish#durva;faragatlan;neveletlen;rosszmodorú
+boor#bugris;durva ember;faragatlan ember;neveletlen ember;paraszt;ripõk
+boosterism#fellendítés
+booster#áruházi tolvaj;felhajtó;feszültségnövelõ autótranszformátor;hírverõ;reklámcsináló;reklámozó
+boosting#feltöltés
+boost#alulról tol;erõsít;erõsítés;felemel;fellendít;fellendülés;fokoz;fokozás;reklám;reklámot csinál vminek
+booth#bódé;boksz;elárusítóhely;fülke;sátor
+booties#kötött kiscipõ
+boots#cipõtisztító;csizma;háziszolga;jégtelenítõ gumitömlõ;legújabb tag;londiner;szolga;tollas madárlábak
+boot tree#sám;sámfa
+boot#bakancs;cipõt húz;csizma;csomagtartó;elõny;ezenfelül;garat;haszon;jégképzõdést gátló berendezés;kocsiülés alatti láda;lábbeli;magas szárú cipõ;megrugdal;poggyásztartó rekesz;pótülés céljára átalakítható szekrényrész;puttony;ráadásul;spanyolcsizma;spanyolcsizmával kínoz;tengerészújonc;torok;újonc
+booty#martalék;préda;zsákmány
+boozer#kocsma;piás
+booze#ital;pia;piál;tütü
+boozily#bepiálva;piásan
+boozy#nagy piás;piás;részeges
+bop#bunyózik;csörgés;dzsessz;fejbe koppint;kokit ad;megüt;orrba koppint;tánc;táncmulatság;verekszik
+borderer#határvidéki lakos
+bordering#határos
+borderline#határvonal
+border#beszeg;határ;határol;szegély;szegélyez;széle vminek
+borealis#északi
+boreal#boreális;északi;északi félgömbi
+boredom#unalom;unatkozás
+borehole#furat;fúrólyuk
+bore#belsõ átmérõ;fúr;fúrást végez;furat;fúródik;kaliber;kifúr;szökõár;unalmas dolog;unalmas ember;untat
+boric acid#bórsav
+boringly#unalmasan
+boring#fúrás;talajfúrás;unalmas;untató
+bornean#borneói lakos
+borneo#Borneó
+born#születésû;született;vmilyen születésû;vmire született
+boron#bór
+borough#választókerület;város
+borrowing#átvétel;kölcsön;kölcsönvétel;kölcsönvevés
+borrow#kölcsönkér
+bosh#buta beszéd;szamárság
+bosom#kebel;mell
+boss cocky#fõnök;gazda
+boss eddy#légcsavarágynál fellépõ örvény
+boss#aknász;bányamester;csütörtököt mond;domborít;dombormûvet készít;domborulat;dudor;dudorodás;elfuserál;elhibáz;elront;eltol;fejes;felületbõl kiálló gomb;felvigyázó;fõbonc;fõnök;frankó;gombdísz;góré;igazgat;igazgató;irányít;jó;kerek domborítás;kerek domborulat;kidomborodás;kidudorodás;kiemelkedés;kihasasodás;klassz;munkaléc;mûvezetõ;pajzsdudor;pártvezér;púp;remek;szuper;tengelyvastagodás;törzsfõ;tulaj;üzemvezetõ;vezet;zabla végének domború díszítése
+bossy woman#kardos asszony;kardos menyecske
+bossy#ellentmondást nem tûrõ;erõszakosan vezetõ;hatalmaskodó;önkényeskedõ;parancsolgató;rendelkezõ természetû
+bosun#fedélzetmester;vitorlamester
+botanical#botanikus;növénytani
+botanic#botanikus;növénytani
+botanist#botanikus
+botanize#botanizál;növénytannal foglalkozik;növényt gyûjt
+botany#botanika;növénytan
+botch#elfuserál;elront;fusermunka;kontárkodik;kontármunka;tákolmány
+botheration#alkalmatlanság;bosszúság;kellemetlenség;nyûg
+bothersome#bosszantó;kellemetlen;kellemetlenkedõ;terhes
+bother#alkalmatlankodás;alkalmatlankodik;alkalmatlanság;baj;bosszúság;háborgat;kellemetlenség;méreg;molesztál;nyaggat;nyugtalankodik;nyûg;terhel;terhére van;törõdik vmivel;zaklat;zaklatás
+both#egyaránt;mindkettõ
+bottle cap#kupak
+bottleneck#akadályoz;forgalom elakadása;palacknyak;szûk keresztmetszet;szûk keresztmetszetet okoz;szûk kikötõbejárat;torlódás;útszûkület
+bottle opener#sörnyitó
+bottler#palackozó
+bottle top#kupak
+bottle#befõz;lefejt;palack;palackoz;szénaköteg;üveg;üvegben eltesz;üvegben tartósít;üvegbe tölt
+bottom gear#elsõ sebesség
+bottomless#feneketlen;kifürkészhetetlen;megmérhetetlen;ülés nélküli;ülõlap nélküli
+bottommost#legalsó;legaluli;legmélyebb
+bottom#alap;alapoz;alapszik vmin;alapzat;alja vminek;fenék;feneket ér;feneke vminek;fenékkel ellát;fenékre süllyed;hajófenék;legalsó;legutolsó;megalapoz;ülep;végére jár
+botty#fenék;popó;popsi
+boudoir#budoár;intim nõi szalon;kis nõi szalon
+bough#faág;gally;nagy faág
+bouilli#fõtt hús;párolt hús
+bouillon#erõleves;húsleves
+boulder#nagy szikladarab;vándorkõ
+boulevard#körút;nagy forgalmú fõútvonal;sugárút;széles út
+bouncer#kidobólegény;kuveros
+bounce#csalás;dicsekszik;életerõ;hencegés;hetvenkedés;hetvenkedik;kidob;kilódít;kipenderít;kirepít;ruganyosság;szökellés;ugrál;ugrálás;ugrándozik;visszapattanás;vitalitás
+bouncy#goromba;rámenõs
+boundary#határ-;határvonal
+bound charge#kötött töltés
+bounden#szent
+bounder#bunkó;erõszakos;modortalan;mûveletlen
+boundless#határtalan
+bound#bekötött;elhatárol;határ;határol;korlátoz;kötött;megkötött;összekötött;ugrál;ugrándozik;ugrás;ugrik;vhova tartó;visszapattan
+bounteous#bõ;bõkezû;bõséges;jótékony;nagylelkû
+bountiful#bõ;bõkezû;bõséges;jótékony;nagylelkû
+bounty#adomány;államsegély;jótékonyság;nagylelkûség;pénzadomány;pénzjutalom;prémium
+bouquet#buké;csokor;virágcsokor;zamat
+bourbon#amerikai whisky
+bourdonasee#hosszú nyelû lovagi lándzsa
+bourdon#bordó;duda basszussípja
+bourgeoisie#burzsoázia;polgárság
+bourgeois#burzsoá;polgár;polgári;tõkés
+bourg#középkori falu;középkori város
+boutique#butik
+bout#csörte;harc;küzdelem;menet
+bouzouki#buzuki
+bovine#buta;nehézkes;ökör-;szarvasmarhaféle;tunya
+bow chock#láncvezetõ;lánccsúsztató
+bow divider#precíziós körzõ;rugós osztókörzõ
+bowels#belek
+bowel#bél
+bower#budoár;falusi házikó;kerti ház;lugas;nõi szoba
+bowing#köszönés;meghajlás;vonóvezetés
+bowl capital#csészealakú oszlopfõ;serlegalakú oszlopfõ
+bowler#dobó (krikettben);kuglizó;tekézõ
+bowling#teke;tekézés
+bowl#fagolyó;gördít;gördül;gurít;gurul;hajít;ivás;kupa;labdát dob;medence;mélytányér;pipafej;stadion;tál;tekegolyó;tekézik
+bows#hajóorr;íves körzõ;kijelölõ körzõ;marokkörzõ;rajzoló körzõ
+bow#beletörõdik;bocsánatkérés;bókol;bólint;bólogat;csokor;csónakdaru;elsõ evezõs;fejbólintás;fül;fûrészkeret;görbe;hajlít;hajlong;hajó eleje;hajó elõrésze;hajó orra;hurok;íj;ív;ívvonalzó;járom;kengyel;keret (szemüvegé);körív;köszönés;kötött csomó;léghajó orra;megadja magát;megalázkodik;meghajlás;meghajlik;meghajlít;meghajol;meghajt;nyeregállvány;nyeregváz;nyíl;orrevezõs;orrtõke;ökörjárom;selyemzsinór;spiccevezõs;szalagcsokor;szivárvány;vezeti a vonót;vonó;vonóhúzás
+boxcar#zárt tehervagon
+boxer#bokszoló;ökölvívó
+boxing#boksz;ökölvívás
+box number#apróhirdetés hivatkozási száma
+box office#jegypénztár
+boxwood#bukszus;puszpáng
+box#bak (kocsin);boksz;bokszol;bukszus;doboz;dobozba csomagol;dobozba helyez;fülke;házikó;láda;páholy;puszpáng;rekesz;rekeszbe csomagol;rekeszbe helyez;szekrény (tornaszer);ütés
+boxy#dobozhoz hasonló;ládához hasonló;szögletes
+boycott#bojkottál;kiközösít
+boyhood#fiúkor;gyermekkor
+boyishness#kisfiús mivolta vkinek
+boyish#fiús;kisfiús
+boy scout#cserkészfiú
+boy#fiú
+bozo#bolond ember;fickó;hülye

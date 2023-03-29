@@ -1,0 +1,33 @@
+availability#elérhetõség;érvényesség;felhasználhatóság;használhatóság;hozzáférhetõség
+available#beszerezhetõ;elérhetõ;érvényes;felhasználható;igénybe vehetõ;kapható;megszerezhetõ;rendelkezésre álló
+avail#elõnyére van;használ;hasznára van;hasznosság;haszon;segít
+avalanche#lavina
+avarice#fösvénység;fukarság;kapzsiság
+avaricious#fösvény;fukar;kapzsi
+avenger#bosszúálló
+avenge#megbosszul
+avenue#fasor;sugárút;széles utca
+averager#átlagoló;közepelõ
+average#átlagérték;átlagol;átlagos;hajókár;havária;közepes;számtani közép;számtani középarányos;számtani középérték
+averaging#átlagolás;közepelés
+averseness#idegenkedés;irtózás
+aversion#idegenkedés;irtózás;utálat tárgya
+avertable#elhárítható;elterelhetõ;megakadályozható;megelõzhetõ
+averted#elfordított;félrefordított
+avertible#elhárítható;elterelhetõ;megakadályozható;megelõzhetõ
+averting#elhárítás
+avert#elfordít;elhárít;elhesseget;elterel;eltérít;félrefordít;megakadályoz;megelõz
+aver#állít;bizonyít;erõsít
+avian#madár-;madárhoz hasonló;madárszerû
+aviary#madárház;nagy madárkalitka
+aviation#légi közlekedés;repülés
+aviator#aviatikus;pilóta;repülõ
+avidity#kapzsiság;mohóság
+avidly#mohón
+avid#kapzsi;mohó
+avoidance#elkerülés
+avoid#elkerül;kitér vmi elõl
+avoirdupois#brit súlymértékrendszer
+avowal#bevallás;elismerés
+avowedly#beismerten
+avow#beismer;bevall;elismer

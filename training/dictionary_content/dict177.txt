@@ -1,0 +1,34 @@
+yiddish#jiddis
+yid#jiddis;zsidó
+yielding#engedékeny;hajlékony;könnyen befolyásolható
+yield#ad;átad;átenged;behódol;beismer;beletörõdik;beszakad;elsõbbséget ad;enged;felad;fémkinyerés;hoz;hozam;jövedelmez;kihozatal;kitermelés;lazul;megadja magát;megenged;megereszkedés;megereszkedik;meggörbülés;meghajol;meghódol;nyújt;nyúlás;süllyedés;süppedés;szolgáltat;teljesítmény;terem;termés;terméseredmény;terméshozam
+yip#csahol;csaholás;ugat;ugatás
+yobbo#bunkó;buta ember;faragatlan ember;fiú;garázda ember;huligán;krapek;srác;surmó;tahó;tuskó;vagány
+yob#bunkó;buta ember;faragatlan ember;fiú;garázda ember;huligán;krapek;srác;surmó;tahó;tuskó;vagány
+yodelling#jódlizás
+yodel#jódli;jódlizik
+yoghourt#joghurt
+yoghurt#joghurt
+yogurt#joghurt
+yokel#falusi;falusi ember;paraszt
+yoke#iga;igába hajt;járom;járomba fog;ökröt befog;összeházasít;összeköt;rabiga;rabszolgaság;szemöldökfa;tejhordó iga;vállrész
+yonder oaks#ama tölgyek;ott azok a tölgyek
+yonder#amaz;amott;ottani
+yon#ama;amaz;amott;az ott;ottani;õ ott
+you blighter#te mihaszna;te semmiházi
+young adults#fiatalok
+young blood#fiatalember
+young dog#kiskutya
+young fish#halivadék
+young idea#gyermeki értelem;gyermeki ész;gyermeki lélek
+young man#fiatalember
+young people#fiatalok;ifjúság
+youngster#gyerkõc;ifjonc;ifjú;kamasz;siheder
+young#fiatal
+your eminence#eminenciád
+your grace#fõméltóságod;kegyelmes úr
+your ladyship#méltóságos asszonyom
+your lord#lord uram;méltóságod
+youthful#fiatal;fiatalkori;fiatalkorú;fiatalos;ifjonti;ifjú;ifjúi;ifjúkori
+youth#fiatalság;ifjúkor;ifjúság
+yowl#csahol;csaholás;nyávog;nyávogás;nyivákol;nyivákolás;nyüszít;nyüszítés;szûköl;szûkölés;vonít;vonítás;vonyít;vonyítás

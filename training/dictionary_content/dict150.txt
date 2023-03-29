@@ -1,0 +1,64 @@
+sycamore#hegyi juhar;platán;platánfa
+sycophancy#hízelgés;talpnyalás
+sycophantic#csúszómászó;hízelgõ;talpnyaló
+sycophant#besúgó;hízelgõ;talpnyaló
+syllable#szótag
+syllabus#syllabi,kivonat;syllabi,összefoglalás;syllabi,sillabusz;syllabi,tanmenet;syllabi,vezérfonal
+syllogism#szillogizmus
+syllogistic#következtetõ;szabályos következtetés útján történõ;szillogisztikus
+syllogize#szillogisztikus formában fejt ki;szillogizmusba foglal;szillogizmusokban okoskodik
+sylph#karcsú magas nõ;tündér
+sylviculture#erdészet;erdõgazdálkodás;erdõmûvelés
+symbiont#szimbiózisban élõ szervezet
+symbion#szimbiózisban élõ szervezet
+symbioses#együttélés;életközösség;szimbiózis
+symbiosis#együttélés;életközösség;szimbiózis
+symbiote#szimbiotikus szövetség
+symbiotic#életközösségben élõ;szimbiotikus
+symbolical#jelképes;képletes;szimbolikus
+symbolically#jelképesen;szimbolikusan
+symbolic#jelképes;képletes;szimbolikus
+symbolism#jelképes ábrázolás;jelképrendszer;szimbolika;szimbolikus ábrázolás;szimbolizmus
+symbolize#jelképez;szimbolizál
+symbol#jel;jelkép;szimbólum
+symmetrical#részarányos;szimmetrikus
+symmetry#részarányosság;szimmetria
+sympathetic#együttérzõ;megértõ;rokonszenvezõ
+sympathize#kondoleál;részvétét fejezi ki
+sympathy#együttérzés
+symphony#szimfónia
+symptoms#tünetek
+symptom#jelenség;tünet
+synch#harmónia;szinkron
+synclinal#föld alatti rétegvölgy;összehajló;szinklinális;szinklinális hajlás;teknõsödés
+syncline#szinklinális hajlás;teknõsödés
+syncopate#betût elhagy;szikopál;szótagot elhagy
+syncopation#hangugratás;szinkópa;szinkopálás
+syncope#ájulás;hangugratás;szinkópa
+syncretism#egyeztetés
+syndicate#hírszolgálati iroda;hírügynökség;intézõbizottság;intézõség;konszern;konzorcium;sajtóügynökség;szindikátus;szindikátusban tömörít;szindikátusba tömörül;testület;testületi tanács;több újságban egyszerre közöl;tõkecsoport
+syndrome#szindróma;tünetcsoport
+synergism#gyógyszerek szinergizmusa
+synergistic#együttmûködõ;szinergikus
+synonymous#rokon értelmû;szinonim
+synopsis#synopses,áttekintés;synopses,foglalat;synopses,összegezés;synopses,szinopszis;synopses,vázlat
+syntax#mondattan
+synthesis#egyesítés;felépítés;összetétel;szintézis
+synthetical#szintetikus
+synthetic#szintetikus
+synthetize#szintetikusan elõállít;szintetizál
+syphilis#szifilisz;vérbaj
+syphilitic#szifiliszes;vérbajos
+syphon#bûzelzáró;légzõcsõ;mozdony menet közbeni vízmerítõ csöve;szagelzáró;szifó;szifon;szívócsõ;szivornya
+syrette#gyógyszeradag fecskendõben
+syriac#szír;szír nyelv;szírus
+syrian#szír;szíriai
+syria#Szíria
+syringa#jázmin
+syringe#fecskendõ
+syrup#érzelgõs zene;szirup;szörp
+syrupy#szirupos;túl édes
+systematical#rendszeres;szisztematikus
+systematic#módszeres;rendszeres;szisztematikus
+systemic#rendszer-;rendszeres;rendszerszerû;szervezeti
+system#rendszer

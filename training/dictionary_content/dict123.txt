@@ -1,0 +1,181 @@
+placard#kiplakátoz;plakát;transzparens
+placate#kibékít;kiengesztel
+placating#békítõ;kiengesztelõ
+placation#kibékítés;kiengesztelés
+placatory#békítõ;engesztelõ
+place below#pokol
+place mat#tányéralátét
+placement#állás;elhelyezés;hangvétel;kinevezés;tanulók képesség szerinti besorolása osztályokba;védhetetlen helyezett ütés
+placer#alluviális lelõhely;alluviális telep;elhelyezõ
+place setting#teríték
+place#alkalmaz;állás;elhelyez;eszközöl;felad;felismer;ház;hely;helyez;helyezés;helység;kihelyez;lakás;megilletõ hely;otthon;passzus;rábíz;rang;rendez;rész;tér;teríték;terület;tesz
+placidly#békésen;higgadtan;nyugodtan;szelíden
+placid#békés;higgadt;nyugodt;szelíd
+plagiarism#plágium;plagizálás
+plagiarist#plagizáló;plagizátor
+plagiarize#plagizál
+plagiary#plágium;plagizátor
+plague#bosszant;gyötör;pestis
+plaice#lepényhal
+plaid#nagykendõ;pléd;skót mintájú útitakaró;skót mintás gyapjúszövet;szövetlepel;tartán;útitakaró
+plain chant#egyszólamú ének
+plain cooking#egyszerû konyha;házi koszt;polgári konyha
+plain cook#egyszerû szakácsnõ;polgári szakácsnõ
+plain dealer#nyílt ember
+plainly#egyszerûen;kereken;nyilvánvalóan;õszintén;világosan
+plain sailing#egyszerû dolog;sima ügy
+plaintiff#felperes;sértett
+plaintively#panaszosan;szomorúan
+plaintive#panaszos;szomorú
+plaint#kereset;panasz;panasztétel;sirám
+plain#alföld;egyenes;érthetõ;lapály;õszinte;síkság;sima;tisztán látható;világos
+plaits#két copf
+plait#befon;copf;hajfonat;összefon;sodor
+plane angle#lapszög
+plane crash#légi katasztrófa;repülõszerencsétlenség
+plane figure#síkidom
+plane section#síkmetszet
+plane survey#vízszintes felmérés
+planetarium#planetaria,planetárium
+planetary#bolygó-;evilági;földi
+planetoid#kisbolygó
+planet#bolygó
+plane#boglárfa;egyenletes felületû;ereszke;eszmei sík;gurító;gyalu;gyalul;hordfelület;kétdimenziós;nívó;platán;platánfa;repülõgép;sík;síkbeli;síkfelület;síkidomszer;síklap;siklórepüléssel száll;sima;szállítóvágat;szárny;szint;színvonal
+plangent#bongó;csapódó;kongó;panaszos;siránkozó
+planking#deszkaburkolat;deszkakerítés;deszkázás;deszkázat;körüldeszkázás;nemezelés;padlózás;palánk
+plank#bedeszkáz;elvi platform;palánk;palló;pallóz;programpont;széles deszka
+planless#tervszerûtlen
+plantation#gyarmat;telepítés;ültetvény
+planter#telepes;ültetõ;ültetõgép;ültetvényes
+planting#telepítés
+plant stand#virágállvány
+plant#berendezés;elhelyez;gyáregység;letelepít;növény;ültet;üzem
+plan#ábra;alaprajz;alaprajzot készít;elgondolás;felülnézet;megtervez;terv;tervez;tervezet;tervrajz;tervrajzot készít;vázol
+plaque#dísztábla;emléktábla;fogkõ
+plasma#vérplazma
+plasterboard#dekorációs gipsztábla
+plastered#becsípett;betapasztott;bevakolt;részeg
+plaster#agyonrak;begipszel;begipszez;beken;bemázol;betapaszt;bevakol;elhalmoz;feljavít (talajt);flastrom;flastromot tesz vmire;gipszbe tesz;gipszel;gipszvakolat;jóvátesz;kártérítést fizet;leragaszt;letapaszt;megken;odaragaszt;odatapaszt;tapasz;tapaszt tesz vmire;túlhalmoz;vakolat;vastagon beborít
+plastery#gipszes;gipszszerû
+plasticine#gyurma;plasztilin
+plasticity#formálhatóság;képlékenység
+plastic#alakítható;formálható;képlékeny;mûanyag;plasztikai
+plateau#fennsík
+plate circuit#anódáramkör;anódkör
+plate glass#síküveg;táblaüveg
+platelayer#pályamunkás
+platen#írógéphenger;nyomólemez
+plate#akkulemez;aranyoz;egészlapos ábra;ezüstnemû;ezüstöz;fed;fémétkészlet;fémlapokkal fed;fényképezõ lemez;fon;galvanizál;klisé;klisíroz;kupa;lap;lapít;laposít;lemez;lemezel;mángorol;mûfogsor tartólemeze;nemesfémmel befuttat;nemesfémmel bevon;névtábla;nyomódúc;nyomólemez;préseléssel fényez;számtábla;szétlapít;szõ;tábla;tányér;vasal;versenydíj
+platform#alapelvek;állás (istállóban);állomási elõtér;dobogó;emelvény;eszmei sík;fedélzet;fedélzetpárkány;fennsík;hídpadlózat;kocsielõtér;lövegtalpazat;padlóemelvény;padozat;peron;platform;plató;pódium;politikai program;rakfelület;szónoklás;szónoklatok;telitalp;terasz;vágány;vágány peronja;vasúti kocsi peronja;vasúti kocsi platformja;vízszintes rész ferde kõzetben
+plating#anyalemez;aranyozás;baktérium-szélesztés;eladók versenye;ezüstözés;fémbevonás;fémbevonat;galvanizálás;klisékészítés;klisírozás;lemezburkolat;lemezelés;lemezzel való burkolás;nyomólemez-készítés
+platinum#platina
+platitude#közhely
+platonically#eszményien;plátóian;plátói módon;platonikusan
+platonic#elméleti;eszményi;nem gyakorlati;plátói;Plátó követõje;platonikus;Platón követõje;teoretikus;tettekben nem nyilvánuló;tiszta
+platonics#plátói szerelem;szerelmi ömlengés;tisztán lelki kapcsolat
+platonism#Plátó filozófiai rendszere;Platón filozófiai rendszere;platonizmus
+platonistic#platonikus;platonista
+platonist#Plátó követõje;platonikus;platonista;Platón követõje
+platonize#Plátó eszméivel magyaráz;Plátó felfogását vallja;Platón eszméivel magyaráz;Platón felfogását vallja;platonizál;Platón tanait vallja;Platón tanaival magyaráz;Plátónt követi;Plátó tanait vallja;Plátó tanaival magyaráz;Plátót követi
+platoon#csoport;klikk;rendõrosztag;sortûz;szakasz
+platter#fatál;fatányér;fonatkészítõ;fonatkészítõ munkás;hanglemez;hanglemeztányér;pecsenyéstál;plattni;tál;tányér
+platypus#csõrös emlõs
+plaudits#taps;tapsorkán;tapsvihar;zajos tetszésnyilvánítás
+plausible#kézenfekvõ
+playboy#aranyifjú
+played out#hasznavehetetlen;idejétmúlt;kimerült
+player#játékos
+playfulness#enyelgés;játékosság
+playful#bohó;játékos;pajkos;vidám
+playfully#játékosan;pajkosan;vidáman
+playgoer#színházlátogató
+playground#játszótér
+playlist#lejátszható hangfelvételek listája
+playmate#játszópajtás;játszótárs
+playpen#járóka
+playsuit#játszóruha;rugdalózó
+plaything#játékszer
+playwright#drámaíró
+play#alakít;bánik vkivel;eljár;eljátszik;elõad;fáraszt;forgat;gyors váltakozás;hangszeren játszik;játék;játéka van;játékosan mozog;játszadozik;játszik;játszódik;kezel;kifáraszt;kihív (kártyát);kijátszik;kotyog;megcéloz;megjátszik;mozgása van;mûködés;mûködik;ráirányít;rátesz (kártyát);szabad játéka van;szabad mozgása van;szerencsejáték;szerepel;szól (hangszer);szórakozás;táncol;tesz (kártyát);viselkedik vkivel
+plaza#köztér
+pleader#ügyvéd;védõügyvéd
+pleading#közbenjárás;perbeszéd;védekezés;védõbeszéd
+plead#állít;hivatkozik;képvisel;mentségül felhoz;perbeszédet tart;pled,állít;pled,hivatkozik;pled,képvisel;pled,mentségül felhoz;pled,perbeszédet mond;pled,perbeszédet tart;pled,ürügyként felhoz;ürügyként felhoz
+pleasantry#jókedv;móka;tréfa;tréfás beszéd;tréfás megjegyzés;vicc;vidámság
+pleasant#kellemes
+pleased#elégedett;megelégedett
+please#örömet okoz;örömet szerez;tetszik
+pleasing#kellemes;megnyerõ
+pleasurable#élvezetes;kellemes
+pleasure#élvezet;gyönyör;gyönyörûség;kedv;kedvtelés;kéj;óhaj;öröm;szórakozás;tetszés
+pleated#rakott
+pleating#berakás;fodrozás;pliszé;pliszírozás
+pleat#berak;berakás;pliszé;pliszíroz;ránc;redõ;redõz
+plea#ellenvetés;elõterjesztés;kérelem;kifogás;védekezés;védõbeszéd
+plebeian#alantas;köznépbõl való;közönséges;plebejus
+plebe#elsõéves akadémikus
+pleb#proli
+pledge#áldomás;biztosíték;elkötelez;elzálogosít;fogadalom;ígéret;iszik vkinek az egészségére;megfogadtat;megígértet;tagjelölt;tagjelöltnek felvesz;tószt;vkinek az egészségére iszik;zálog;zálogba ad
+plentiful#bõ;bõséges;gazdag;termékeny
+plenty#bõség;eléggé;gazdagság;jólét;sok vmibõl
+plenum#nyomó szellõztetés;telítettség;teltség
+plethora#bõvérûség;túlbõség;túltengés;vérmesség
+plethoric#bõvérû;túltengõ;vérmes
+pliableness#alkalmazkodás;beilleszkedés;hajlékonyság;könnyen befolyásolhatóság;könnyen irányíthatóság;könnyen kezelhetõség;rugalmasság;simulékonyság
+pliable#alkalmazkodó;árnyalatos;beilleszkedõ;engedékeny;flexibilis;hajlékony;hajlítható;könnyen befolyásolható;könnyen irányítható;könnyen vezethetõ;rugalmas;simulékony
+pliancy#alkalmazkodás;beilleszkedés;hajlékonyság;könnyen befolyásolhatóság;könnyen irányíthatóság;könnyen kezelhetõség;rugalmasság;simulékonyság
+pliantly#alkalmazkodóan;befolyásolhatóan;hajlékonyan;rugalmasan;simulékonyan
+pliant#alkalmazkodó;befolyásolható;flexibilis;hajlékony;rugalmas;simulékony
+pliers#csipesz;csípõfogó;fogó;harapófogó;kombinált fogó;laposfogó;nyomófogó;présfogó
+plight#állapot;eljegyez;helyzet;megígér;szavát adja
+plinth#alapzat;lábazat;lábazati párkány;oszloptalplemez;szobortalapzat;talapzat;talplemez
+plodder#gürcölõ;magoló
+plodding#gürcölés;robot;robotolás
+plod#cammog;cammogás;vánszorgás;vánszorog
+plonk#éles pengetés;erõs pengetés;hirtelen lelök;lepottyan;lepottyant;peng;penget;váratlanul megüt;váratlan ütés;zuppan
+plop#huppan;huppanva;pottyan;pottyanva;puff;zsupsz
+plotting#ábrázolás görbékkel;cselszövény;cselszövés;helyszínrajz-készítés;összeesküvés;terepfelvétel;térképezés;térképre felrakás;térképre vitel
+plot#ábrázol;cselekmény;cselszövés;földdarab;kieszel;kifõz;kitervel;összeesküszik;összeesküvés;parcella;szerkeszt;tartalom;telek;térképez;terv;tervel;tervrajz
+ploughing#szántás
+ploughland#100-120 acre;szántóföld
+ploughman#földmûves;paraszt;szántóvetõ
+plough#barázdákat von;eke;elbuktat;elvág;elzúgat;felszánt;földet mûvel;gyalul;húz (barázdát);körülvág;megbuktat;megforgat (földet);mély redõt von;szánt;szántás;von (barázdát)
+plover#lile
+plowing#szántás
+plowshare#ekevas
+plow#eke;felszánt;szánt;szántás
+ploy#elfoglaltság;huncutság;húzás;idõtöltés;trükk
+plucking#pengetés
+pluck#bátorság;húz;kifoszt;kirabol;kopaszt;leszakít;letép;megbuktat;megkopaszt;ránt;rántás;szakít;tép;tépés;zsigerek
+plucky#bátor;éles;merész
+pluggage#dugulás
+plugging#beverés;dugaszolás;dugulás;hangszigetelõ anyag;tiplizés;tömítés
+plughole#lefolyó
+plug#bagó;bedug;bedugaszol;behúz vkinek;betöm;csatlakozódugasz;dugó;gebe;golyót ereszt vkibe;gyertya (autóé);hirdet;hirdetésszöveg;konnektor;préselt dohánytömb;reklámoz;tömít;tûzcsap;villásdugó;vízöblítõ (vécéé)
+plumage#tollazat
+plumbago#grafit
+plumber#vízvezeték szerelõ
+plumbing#tömítés;vízvezeték rendszer;vízvezeték szerelés
+plumb#egész;egészen;függõleges;függõlegesen;függõlegesség;függõón;igaz;kivizsgál;mélyére lát;mélységet mér;mélységmérõ ón;merõ;mérõón;mérõónnal mér;pont;pontosan;teljes;teljesen;tisztára;vízvezetéket szerel
+plume#díj;dísztoll;hajcsomó;jutalom;napkorongnyúlvány;pehely;piheszõr;sisakbokréta;sisakforgó;szõrcsomó;toll;tollacska;tollakkal díszít;tollazat;tollbokréta;tolldísz;tollforgó
+plummet#esik;függõlegesség;függõón;leesik;lezuhan;mélységmérõ ón;mérõón;nehezék (horgászzsinóron);ólom;zuhan
+plumpness#kövérkésség;kövérség;teltség
+plump#egyenes;egyenesen;határozott;hirtelen;hízlal;huppanás;jó húsban levõ;kigömbölyödik;kövér;kövérkés;lepottyan;lepottyant;lezöttyen;lezuhan;meghízik;molett;nyíltan;pottyan;pottyant;puffanás;puffaszt;telt;zöttyen;zuppan
+plum#elütõ színû zárvány;finom dolog;jó üzlet;koronája vminek;legjava vminek;legjobb része vminek;magas osztalék;magas prémium;mazsola;százezer font;szilva;szilvafa;vminek a legjava;zárvány;zsíros állás
+plunder#kifoszt
+plunger#behúzó vasmag;búvár;búvárdugattyú;gyutacs leszálló része;hazárdjátékos;hazardõr;inerciás ütõszeg;könnyelmû játékos;köpülõfa;lovas katona;mikrofondugattyú;rúdhengersor-kezelõ;szelepszár;vécépumpa
+plunge#alámerít;belemárt;belesodor vmibe;bemerítés;fejest ugrik;fejesugrás;hazardíroz;hirtelen lejt (út);megbokrosodik;nagyban játszik;vízbemerülés;vízbe ugrik
+plunging#alámerítõ;belemerülõ;bukdácsoló;elõre-hátra bukdácsoló;hazardírozó;hirtelen lejtõ
+plunk#éles pengetés;erõs pengetés;hirtelen lelök;lepottyan;lepottyant;peng;penget;váratlanul megüt;váratlan ütés;zuppan
+plural number#többes szám
+plural#többes szám
+plush#klassz;osztályon felüli;plüss
+plus side#követel oldal
+plus sign#összeadásjel;pluszjel
+plus#és;hozzáadva;külön;meg;összeadásjel;plusz;pluszjel;pozitív;több;többlet-;többlet
+plutocracy#gazdagok;pénzuralom;plutokrácia;vagyonos osztály
+plutocratic#pénzuralmi;plutokrata
+plutocrat#pénzes ember;plutokrata
+plutonium#plutónium
+plywood#furnérlemez
+ply#alkalmaz;dolgozik;elhalmoz;ellát;folytat;fonat;görbület;hajlás;hajtás;használ;közlekedik;munkára vár;redõzés;rétegezés;sodrat;ûz

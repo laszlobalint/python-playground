@@ -1,0 +1,225 @@
+djinni#djinn,démon;djinn,dzsinn;djinn,szellem
+djinn#dzsinn
+docile#kezelhetõ;tanulékony
+docility#tanulékonyság
+docker#dokkmunkás;kikötõmunkás
+docketing#címkézés;elrendezés;iktatás;kivonatolás;osztályozás;rendezés
+docket#árujegy;árut kiszolgáltató utalvány;bárca;beskatulyáz;bírósági ítéletek jegyzéke;bírósági napló;címke;elrendez;feljegyez;feljegyzés a per állásáról;felzet;iktat;iratcsomó darabjainak jegyzéke;iratjegyzék;ítélet másolata irattár számára;jegyzék;kísérõbárca;lajstrom;lista;megcímkéz;meghozott ítéletek nyilvántartó jegyzéke;nyilvántartásba vesz;osztályoz;rávezet a jogesetek jegyzékére;rendelõlap;rendez;tartalmi kivonat;tartalmi kivonatot ír;tartalmi kivonatot készít;vámbárca;vámnyugta
+dock warrant#közraktári jegy
+dock#beáll a dokkba;dokk;dokkba állít;dokkol;kiköt;kikötõ;megkurtít;megnyirbál;összekapcsolódik (ûrhajók);összekapcsol (ûrhajókat);vádlottak padja
+dockyardman#dockyardmen,dokkmunkás
+dockyard#hajógyár;hajójavító mûhely
+doctorate#doktorátus
+doctor#doktor;gyógyít;hamisít;orvos;orvosi gyakorlatot folytat;orvosol
+doctrinaire#doktriner
+doctrine#dogma;doktrína;tan;tantétel;vallási dogma
+documentary#dokumentációs;dokumentumfilm
+document#dokumentál;dokumentum;vádirat
+dodderer#vén trotli
+dodder#csoszog;totyog
+doddle#firkál;irkafirkál;könnyû feladat;pofonegyszerû dolog;sima ügy;szórakozottan firkál;szórakozottan firkálgat
+dodgem#dodzsem
+dodger#svindler
+dodge#csel;cselez;félreugrás;félreugrik;fortély;kihúzza magát;kikerül;kitérés;mesterkedik;ravaszkodik;szerkezet;ügyes szerkezet
+dodo#dodó
+doff#emel (kalapot);levet (ruhadarabot)
+dogcart#kétkerekû kis lovaskocsi;kutyafogat
+doggedly#kitartóan;makacsul
+dogged#kitartó;makacs
+doggerel#fûzfavers;klapancia;páros rímû fûzfavers
+doggie#jampecos;kutyaszerû;kutyus;kutyuska
+dogging#nyomon követés;üldözés
+doggish#barátságtalan;elegáns;kutyaszerû;mutatós
+doggone#istenverte
+doghouse#kutyaól
+dogmatic#dogmatikus;ellentmondást nem tûrõ;határozott
+dogmatize#dogmatikus kijelentéseket tesz
+dogma#dogma;hittétel
+dog movement#menesztõs hajtás;menesztõs mechanizmus
+dogpaddling#kutyaúszás
+dogs#agárverseny
+dog wrench#forgattyús csõkulcs
+dog#alak;befogópofa;eb;ékszorító pofa;esztergamenesztõ;esztergaszíj;esztergaszív;fickó;flótás;hím;jártató;kampó;kanfarkas;kankutya;közelgõ vihart jelzõ fény a látóhatár szélén;kutya;láb;menesztõ;nyargaló;nyomában van;nyomon követ;padszolga;pofa;sarkában van;szorító;tuskóbak;tûzikutya;üldöz;vaskapocs;vaskapoccsal lefog;vaskapoccsal megerõsít;vaskapoccsal rögzít
+doggy bag#ételmaradékos zacskó kutyáknak
+doggy#jampecos;kutyaszerû;kutyus;kutyuska
+doily#kézimunka alátét;kis asztalkendõ;kis zsúrterítõ;szett;zsúrterítõ
+doings#cókmók;cucc;csínytevései vkinek;holmi;mesterkedései vkinek;mesterkedése vkinek;mûve vkinek;üzelmei vkinek;viselt dolgai vkinek
+doleful#gyászos;szomorú
+dolefully#gyászosan;szomorúan
+dole#alamizsna;munkanélküli segély
+dolium#dolia,amfora
+dollhouse#babaház
+doll#baba;babaarcú de nem okos nõ;segítõkész
+dolomite#dolomit
+dolomitic#karsztos
+dolorous#bús;fájdalmas
+dolor#bú;fájdalom
+dolour#bú;fájdalom
+dolphin#ágyúcsõfogantyú;arany makrahal;delfin;delfin hajókikötõbak;delfin kikötõbak;kikötõbója
+doltishness#butaság;korlátoltság;lassú észjárás;maflaság;nehézkes észjárás;ostobaság
+doltish#buta;lassú észjárású;mafla;nehézfejû;nehézkes észjárású;ostoba;tökkelütött
+dolt#tökfilkó
+dolly#alakverõ;alátart;baba;bandázs;bolygat;csinibaba;csinos lány;csinos nõ;ellentámasz;ellentart;ellentartó szerszám;gördíthetõ kocsi;játékbaba;jó bõr;jó csaj;kerek alakverõ;keskenyvágányú tolatómozdony;kever;keverõ fakorong;kötés;lyukasztóvas;mosólapicka;sulykol;sulyok;szegecselõgép-matrica;szegecselõ üllõ;szegecsfejezõ;targonca;tüske;verõfej;zúz
+domain#birtok;domén;értéktartomány;értelmezési tartomány;tárgykör;terület
+domed#boltozatos;domború
+domesticated#házias;háziasított
+domesticate#háziasít;megszelídít
+domesticity#családias életmód;domesztikált állapot;egyszerûség;háziállati életmód;házias életmód;háziasság;megszelídített állapot;otthonülõ élet;otthonülõ életmód
+domestic#belföldi;hazai
+dome#befed;boltozat;dóm;dóma;domborít;gõzdóm;hengerfejüreg;kupak;kupola;kupolával fed;lakkolit;retortafedõ;sapka;üvegben eltesz
+dominance#dominancia
+dominant#domináns;túlsúlyban levõ;uralkodó
+dominate#túlsúlyban van;uralkodik;uralkodóban van
+domination#uralkodás;uralom
+domineering#parancsoló;uralkodó
+dominion#domínium;uralkodás;uralom
+dominoes#dominó;dominózás
+domino tile#dominó;dominókocka
+domino#dominó;dominókocka
+donate#adakozik;adományoz
+donation#adomány;ajándék
+dong#dákó;dorong;hímvesszõ;üt
+donkey#szamár
+donor#adományozó;donor
+donut#fánk
+don#elõadó;feltesz;felvesz;tanár
+doodad#bigyó;bizgentyû;bizsu;csecsebecse;izé;játékszer;ketyere
+doodle#szórakozottan firkálgat
+doodling#firka;firkálgatás
+doomed man#elveszett ember
+doomed town#pusztulásra szánt város
+doomed#halálra ítélt;kudarcra ítélt
+doomsayer#vészmadár
+doomsday#utolsó ítélet
+doom#balsors;bukás;dum-pálma;elítél;elítélés;gyászos végzet;halálra ítél;halálra szán;ítél;ítélet;lebukás;megsemmisülés;pusztulás;pusztulásra szán;romlás;sors;szomorú végzet;tönkremenés;végzet;veszte vkinek
+door bell#csöngõ
+door frame#ajtófélfa;ajtókeret
+door handle#kilincs
+doorhandle#kilincs
+doorjamb#ajtófélfa
+doorkeeper#kapus
+door knob#gömbkilincs
+doorman#doormen,kapus;doormen,portás;kapus;portás
+doormat#lábtörlõ
+doornail#ajtószeg;ajtóveretszeg
+door post#ajtófélfa;ajtókeret
+doorsill#küszöb
+doorstep#bejárati lépcsõ
+doorway#ajtónyílás;kapualj
+door#ajtó;bejárat;kapu
+doped fuel#kopogásmentes benzin;tüzelõanyag-elegy
+dope fiend#kábítószeres
+dope finish#arcfesték
+doper#kábítószer-élvezõ;kábítószer rabja;kábítószert beadó
+dope stick#kábítószerrel átitatott cigaretta
+dope test#doppingvizsgálat
+dope#ajzószer;altató;altatószer;belakkoz;bizalmas értesülés;bizalmas hír;bódítószer;bódítószerrel elegyít;bódítószerrel kever;cellonlakk;doppingol;doppingszer;dukkóz;dukkozólakk;érzéstelenít;érzéstelenítõ;felszívóanyag;hülye alak;hülye pacák;izgatószer;kábítószer;kábítószerrel él;kábítószert ad be vkinek;kábítószert szed;kopogásgátló adalékanyag;lakk;meghamisít;narkotikumot kever vmibe;nyúlós folyadék;pancsol;sûrû folyadék;sûrû folyadékkal beken;tipp
+dopey#kábult;lassú agymozgású
+dopy#kábult;lassú agymozgású
+dork#bolondos ember;broki;dinka;hangyás hapsi;hímvesszõ;kuki;különc ember;tök
+dorky#bogaras;bolondos;dilis;furcsa;hangyás;különc;mókás
+dormant#kialudt;rejtett
+dormitory#diákotthon;diákszálló;egyetemi kollégium;hálóterem;kollégium;lakópavilon
+dormobil#lakóautó
+dorm#diákotthon;hálóterem;lakópavilon
+dorsal#hát-;háti;háton levõ
+doser#adagoló
+dose#adag;adagol
+dosser#éjjeli menedékhely lakója;hajléktalan
+dossier#aktacsomó;dosszié
+doss#ágy;álom;alszik;alvás;fekhely;fekvõhely;kemény fekhelye van
+dotage#aggkori gyengeség;majomszeretet
+dotard#vén trotli
+doting#szenilis;túlzottan rajongó
+dotted line#pontozott vonal
+dotted#pöttyös
+dotting#pontozás
+dottle#pipaszutyok
+dot#hozomány;kipontoz;pettyez;pont;pontot tesz;pontoz;tarkít
+double ale#kiváló minõségû erõs angol sör
+double bar#dupla taktusvonal;dupla ütemvonal;kettõs taktusvonal;kettõs ütemvonal;zenedarab végét jelzõ kettõs vonal
+doublebass#nagybõgõ
+double bed#franciaágy;ikerágy;kétszemélyes ágy
+double bend#kettõs görbület;kettõs hajlás;kettõs hajlítás;kettõs könyök;kettõs útkanyarulat;S-kanyar
+double bottom#dupla fenék;kettõs fenék
+double chin#dupla toka;toka
+double chip#kétnyiratú gyapjú;kétszeri nyírás
+double cloth#dublé szövet;kettõs szövet
+double convex#bikonvex;kétszer domború
+double cuff#kettõs kézelõ;visszahajtott kézelõ
+double decker#emeletes busz
+double door#kétszárnyú ajtó;szárnyas ajtó
+double dutch#halandzsa
+double event#két futamban való gyõzelem;kettõs családi esemény;kettõs esemény
+double fault#kettõs hiba
+double feast#kettõs ünnep;kettõs ünnepnap
+double floor#vakpadló
+double game#kétkulacsos politika;kétszínû játék
+double iron#I-vas
+double mill#csiki-csuki
+double nelson#dupla járom (birkózásban)
+double paddle#kajakevezõ;kéttollú evezõ;szandolin evezõ
+double pole#kettõs oszlop
+double salt#kettõs só
+double scull#kétpárevezõs;kétpárevezõs csónak
+double six#dupla hatos
+double talk#halandzsa;kétértelmû beszéd
+double time#futólépés;gyors lépés;gyors menetlépés
+double track#kettõs vágány;kettõs vágányú vasútvonal
+doublets#azonos számértékû kockák
+doublet#bibliai szövegpár;drágakõutánzat;dublé;kapcsolt lencse;kettéosztható objektív;másolat;nyaktól övön alulig érõ testhez illõ ruhadarab;párja vminek;szópár;szövegismétlés szedésben;szövegismétlõdés a bibliában;testhez illõ ruhadarab;zeke
+double vision#diplópia;kettõs látás
+double whisky#dupla whisky
+double#alakmás;álnok;alteregó;dublõz;dupla;duplája vminek;duplikátum;futólépésben megy;hamis;hasonmás;hibás ismétlés;iker;képmás;kerülõ;kerülõút;két-;kétágyas szoba;kétannyi;két futamban való gyõzelem;kétrét görnyed;kétrétû;kétrétûre összehajtott;kétszemélyes szoba;kétszer annyi;kétszer annyian;kétszeres;kétszeresen;kétszínû;kettesben;kettõs;kettõs fogadás;kettõs hiba;kitérõ;kontra (bridzsben);másodpéldány;megdupláz;még egyszer annyi;megkettõz;oda-vissza;összehajt;összekuporodik;párosított;szakasztott mása vkinek;vargabetû;visszakanyarodik (folyó)
+double yarn#cérna
+doubter#kételkedõ;kétkedõ
+doubtfulness#bizonytalanság;kétségesség
+doubtful#bizonytalan;gyanús;kétes;kétes hírû;kétséges
+doubtfully#habozva;határozatlanul;kétségbeesetten
+doubtingly#bizonytalanul;kételkedve
+doubtless#kétségtelen;kétségtelenül;mindenképpen
+doubt#kételkedik;kétség;kétségbe von
+douche#irrigál;irrigátor;kiirrigál;letusol;lezuhanyoz;tus;tusol;zuhany;zuhanyoz
+doughnut#fánk
+dough#dohány;guba;tészta
+doughy#fakó;tésztás;tésztaszerû
+dourly#morcosan;szigorúan
+dour#makacs;morcos;savanyú;szigorú
+douse#gyorsan bevon (vitorlát);kiolt (fényt);vízbe márt;vizet locsol;vizet önt
+dousing#alábuktatás;lemerítés;lemerülés;tusolás;zuhany;zuhanyozás
+dovetailing#fecskefark-csapolás;fecskefark-illesztés;fecskefarkkötés;fecskefarkú illesztés;fecskefarkú kötés;összehozás;összekapcsolás
+dovetail#csapolással összeilleszt;fecskefark;fecskefark-csapolás;fecskefark-csapolással összeilleszt;fecskefarkkötés;fecskefarkkötéssel köt;fecskefarkú illesztés;fecskefarkú kötés;összeilleszkedik;összeillik
+dove#galamb;gerle
+dowager#fõrend özvegye;idõsebb hölgy;nagyasszony;örökségbõl élõ özvegy
+dowdy#lompos;rosszul öltözött
+down below#ott lent
+downcast#lehangolt;levert
+downcomer#ejtõcsõ;esõgyûjtõ levezetõcsõ;függõleges esõvízcsatorna;lefelé irányuló légjárat;levezetõcsõ;megvágás lefelé;torokgáz-elvezetõ csõ
+downer#leverõ közérzet;nyomasztó közérzet;nyugtatószer;rossz drogélmény
+downfall#bukás;esés;leesés;lehullás
+downhearted#elcsüggedt;lehangolt
+down here#itt;itt mifelénk
+downhole#lefelé irányuló fúrólyuk
+downmost#legalsó;legalul;legalul fekvõ;legalul levõ;legalulra
+down payment#elsõ fizetési részlet;foglaló
+downright#egyenes;egyenesen;határozottan;kétségtelen;kétségtelenül;õszinte;õszintén
+downshift#visszakapcsol
+downside#alsó oldal;alsó rész;csökkenõ tendencia;veszteség
+downsize#méretcsökkentés
+downstage#elõl;elõtérben;elõtérhez tartozó;színpadi elõtér;színpadi elõtérhez tartozó
+down town#a városban
+downtown#belváros;belvárosban;belvárosi
+down town#benn a városban
+downtown#központban;üzleti negyed;városban;városközpont;város központjában fekvõ;város központjában levõ
+downtrodden#elnyomott;elnyûtt;leigázott;letaposott;letiport
+down under#Ausztráliába;Ausztráliában;Új-Zélandon;Új-Zélandra;világ túlsó végén
+downwards#lefelé;óta
+downward#lefelé;lefelé irányuló
+downwind#hátszél
+down#alsó;irányában;le-;le;leégve;lefelé;lefelé irányuló;legyõz;lent;leszállásra kényszerít;letesz;pehely;pihe
+down yonder#amott lent;odalent;ott lent
+downy#dombos;pelyhes;puha
+dowry#hozomány
+do#alaphang;cécó;C-hang;csalás;detto;did,done,becsap;did,done,cselekszik;did,done,csinál;did,done,elbánik vkivel;did,done,elegendõ;did,done,elér vmilyen eredményt;did,done,elkészít;did,done,ellát vkit;did,done,elvégez;did,done,készít;did,done,kiszolgál vkit;did,done,megcsinál;did,done,megfelel;did,done,megtesz;did,done,rendbe tesz;did,done,részed;did,done,tesz;did,done,végez vkivel;did,done,végez vmivel;did,done,vhogyan megy;did,done,viselkedik vhogyan;did,done,vmilyen eredményt ér el;ellátás;felhajtás;muri;tonika;ugyanaz
+dozen#tucat
+doze#bóbiskol;szendereg;szendergés;szundikál

@@ -1,0 +1,50 @@
+squabble#civakodás;civódás;civódik;összezördül;perpatvar;pörlekedés;szóváltás
+squabbling#civakodó;civódó;perlekedõ
+squad car#járõrkocsi
+squadron#hajóraj;lovasszázad;repülõszázad
+squad#brigád;raj;szakasz
+squalid#hitvány;mocskos;nyomorúságos;ocsmány
+squall#éles kiáltás;éles sikítás;éles visítás;fülsértõ kiáltás;fülsértõ sikítás;fülsértõ visítás;fültépõen sikít;görgõvihar;heves léglökés;kiált vmit;ordít;ordítás;sikít vmit;sikolt;sikoltás;széllökés;szélroham;szélvihar;üvölt;üvölt vmit;visít;visít vmit
+squalor#mocsok;nyomor;szenny
+squally#szélviharos;viharos
+squanderer#pazarló;tékozló
+squandering#pazarló;tékozló
+squander#elfecsérel;elherdál;elpazarol;eltékozol
+square dance#francia négyes
+square game#négyesben játszható játék
+squarely#becsületesen;derékszögben;egyértelmûen;nyíltan;szembe;szemben
+square meter#négyzetméter
+square mile#259 ha;2,59 négyzetkilométer;négyzetmérföld
+squareness#becsületesség;egyenesség;négyszögletûség;számoló;tisztességesség
+square root#négyzetgyök
+square rule#derékszögû vonalzó
+square#becsületes;bokszállásba helyezkedik;derékszögben;derékszögben áll;derékszöget alkot;derékszögû;derékszögûre alakít;derékszögû vonalzó;egyenesen;egyezik;elintéz;elrendez;háztömb;hozzáalkalmaz;kiegyenlít;kiegyenlített;kielégít;kifizet;kocka;kockásan megvonalaz;korrekt;kvadrál;megegyezik;megken;megveszteget;merõlegesen áll;négyszögletes;négyszögletesre alakít;négyzet;négyzetes;négyzetre emel;összeegyeztet;összhangba hoz;összhangban van;passzol;régimódi ember;rendez;stimmel;szögletes;tagbaszakadt;tér;tisztességes;tisztességesen;verekedni készül;verekedõ állásba helyezkedik
+squarish#majdnem derékszögû;majdnem négyszögletes
+squash#gyümölcslé;kása;kiprésel;ledorongol;letorkol;összenyom;összeprésel;összepréselõdik;pép;péppé zúz;szétlapít;tolakszik;tolong;tolongás;tottyanás;tök;tumultus
+squatter#állami földön gazdálkodó;erõszakos jogtalan letelepülõ;földfoglaló;guggoló;guggoló ember;megbúvó vad;meglapuló vad;nagybérlõ;nagybirtokos
+squattish#zömök
+squat#csücsül;guggol;guggoló;kucorog;lekuporodik;zömök
+squawk#hangosan panaszkodik;lamentálás;panaszkodás;rikolt;rikoltás;vijjog;vijjogás
+squaw#indián asszony
+squeakily#nyüszítõ hangon;vinnyogó hangon
+squeak#besúg;cincog;cincogás;csikordul;nyikkan;nyikkanás;nyikorgás;nyikorog;spicliskedik;vinnyog
+squeaky#csikorgó;nyikorgó;nyüszítõ;vinnyogó
+squealer#áruló;besúgó;csupasz galambfióka;kismalac;madárfióka;malac;nyafogó;örök siránkozó;sikító állat;sikító ember;sikoltó állat;sikoltó ember;spicli;szopós malac
+squeal#nyafog;panaszkodik;rikoltozás;sikít;sikítás;sikoltozik;visít
+squeamishly#émelygõsen;finnyásan;túl érzékenyen
+squeamish#émelygõs;finnyás;kényes gyomrú;túl érzékeny
+squeegee#fedélzeti gumiszárító;gumibetétes ablaktörlõ;gumibetétes felmosó;gumibetétes felmosóval mos;gumibetétes törlõ;gumibetétes törlõvel mos;gumihengerrel végigsimít
+squeeze#bepréseli magát;kipréselt gyümölcslé;korlátozás;megszorítás;összenyom;összenyomás;présel;préselés;szorítás;szorongatás;tolongás;vizsga
+squelch#belefojtja a szót;cuppog;cuppogás;eltapos;eltaposás;eltipor;eltiprás;kiirtás;ledorongol;ledorongolás;letorkol;letromfol;puffanás;széttapos;szortyog;szortyogás;tönkrezúzás;tromf
+squelchy#cuppogó;szortyogó;tocsogó
+squib#csõd;fél;gúnyirat;gúnyiratban kipellengérez;gúnyiratban megcsipked;gúnyiratot ír;gyáva ember;húzódozik;kígyóröppentyû;kudarc;petárda;rakéta;robbanótöltet;szatíra;szatírát ír;tûzkígyó;vonakodik
+squid#kalamájó-csalival horgászik;tintahal
+squiggle#cikcakkban mozog;cirkalmaz;cirkalom;macskakaparás;olvashatatlanul ír;rövid cirkalmas vonal;tekergõzik
+squint#bandzsa;bandzsít;bandzsítás;futó pillantás;kancsal;kancsalít;kancsalság;sanda;sandítás
+squire#békebíró;fegyvernök;földesúr;gavallér;kísér;pajzshordó;udvarló;udvarol
+squirming#vonagló
+squirm#csapkod;feszeng;fészkelõdés;fészkelõdik;izeg-mozog;izgés-mozgás;kötélfüge;kötélgörcs;kötélgyûrû;nehezen tûr vmit;nem szívesen nyel le vmit;tekereg;tûkön ül;vergõdik;vonaglás;vonaglik
+squirrel#mókus
+squirt#fecskendez;fecskendõ;folyadéksugár;fröccsen;kifröccsen;kilövell;kilövellõ folyadék;lövell;spriccel;szemtelen fráter
+squish#fecskendez;giccs;kibuggyanás;kilövell;kilövellés;limonádéirodalom;narancslekvár;spriccel
+squishy#pépes;vizenyõs

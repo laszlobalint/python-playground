@@ -1,0 +1,220 @@
+teacart#zsúrkocsi
+teacher#elõadó;oktató;tanár
+teach#taught,elõad;taught,elõadást tart;taught,oktat;taught,tanít
+teacupful#teáscsészényi
+teacup#teáscsésze
+tea kettle#teáskanna
+teakwood#tikfa-;tikfából készült
+teak#indiai tölgyfa;tektonia;tektonia fája;tikfa;tikfa fája
+team spirit#csapatszellem
+teamster#fuvaros;gépkocsivezetõ;kocsis;teherkocsis
+teamwork#brigádmunka;csoportmunka;együttmûködés;összjáték;összmunka
+team#befog;brigád;csapat;csoport;fogat;legénység;munkaközösség;sportcsapat
+teardrop#könnycsepp alakú;könnycsepp formájú;könnycsepphez hasonló
+tearful#könnyes;könnyezõ
+tearfully#könnyezve
+tearstained#könnyfoltos
+tear#csepp;folyadékcsepp;hasadás;könny;könnycsepp;repedés;szakadás;tore,torn,elszaggat;tore,torn,elszakít;tore,torn,eltép;tore,torn,feldúl;tore,torn,felizgat;tore,torn,felsebez;tore,torn,feltép;tore,torn,hasad;tore,torn,kitép;tore,torn,leszakít;tore,torn,letép;tore,torn,megszaggat;tore,torn,rohan;tore,torn,szaggat;tore,torn,száguld;tore,torn,szakad;tore,torn,szakít;tore,torn,szétszaggat;tore,torn,szétszakít;tore,torn,tép
+teasel#kártol;kártológép;takácsmácsonya
+teaser#fejtörõ;fogas kérdés;kötekedõ ember;nehéz kérdés;szûzkurva;ugrató ember
+tease#gyötör;ingerel;kötekedik
+tea towel#konyharuha
+teat#cumi;csöcs;emlõ
+tea#tea
+technicality#alakiság;mûkifejezés;mûszó;szakkifejezés;szakmai mozzanat;szakmai részlet;szakmai sajátosság;szakmai szempont;szakmai vonatkozás;szakszerûség
+technical#alaki;gyakorlati;ipari;iparmûtani;jogilag vmilyen;kezelési;mûszaki;mûtani;szak;szakmabeli;szakmai;technikai;technológiai
+technically#mûnyelven;mûszakilag;mûszaki szempontból;szaknyelven
+technician#kivitelezõ;mûszaki;szakember
+technocracy#mérnökök uralma;szakemberek uralma;technokrácia
+technocrat#technokrata
+technologic#mûszaki;technikai;technológiai
+technology#mûszaki tudományok;technika;technológia
+tech#technikum;technikus
+tectonics#szerkezeti földtan
+teddy bear#mackó
+tedious#fárasztó;unalmas
+tedium#unalmasság;unalom
+teeming#bõvelkedõ;hemzsegõ;nyüzsgõ;színültig tele
+teem#bõvelkedik;hemzseg;nyüzsög;ömlik
+teenager#tini;tizenéves
+teenage#tizenéves
+teens#tizenéves kor
+teenybopper#tizenéves kis csaj
+teeny#icipici;parányi
+teeter#ingadozik;ingat;inog;kalimpál;libikóka;meginog;támolyog;tántorgat;tántorog
+teething#fogazás;fogazat;fogzás
+teeth#fogazat
+tee#cél (dobókorong játékban);elkezdõdik;golflabda elütési helye;pagoda esernyõ alakú csúcsdísze;T-alakú csõ;T-alakú dolog;T-alakú idom;T-betû;T-idom
+telegram#távirat
+telegraphese#sürgönystílus;távirati stílus
+telegraphic#távirati
+telegraphist#távirdász
+telegraph#megsürgönyöz;megtáviratoz;sürgönyöz;táviratozik;távíró;távírókészülék
+telegraphy#távírás;táviratozás
+telemeter#pénzbedobós automataként mûködõ televízió;távkapcsolású mérõ és ellenõrzõ mûszer;távmérõ;távolságmérõ;teleméter
+telemetrical#távmérési;távmérõ;távolságmérési;távolságmérõ
+telemetric#távmérési;távmérõ;távolságmérési;távolságmérõ
+telemetry#távmérés;távolságmérés
+teleological#teleológiai
+teleology#teleológia
+telepathic#telepatikus
+telepathy#távolbaérzés;telepátia
+telephone#telefon
+telephonist#telefonkezelõ;telefonközpontos
+telephote#képtávíró
+telephoto#képtávirati;képtávíró-;távfelvételi;távfénykép-;távfényképezési;telefotográfiai;telefotografikus
+teleprinter#távgépíró;telex;telexgép
+telescope#egymásba fúródik;egymásba szalad;egymásba tol;messzelátó;összetolódik;távcsõ;teleszkópszerûen összetolódik
+telescopic#kihúzható;messzelátós;összetolható;teleszkópos
+teletype#távgépíró;telex;telexgép
+televise#televízión közvetít
+television#televízió
+televisor#televíziós készülék
+telex machine#telexgép
+telex#telex
+teller#bankpénztáros;elbeszélõ;szavazatszámláló
+telling#átszámolás;elbeszélés;elhíresztelés;elmesélés;elmondás;hatásos;kibeszélés;kifecsegés;lebeszélés;megolvasás;megszámolás;sokatmondó
+telltale#árulkodó;áruló;jelzõberendezés;jelzõkészülék;pletykafészek
+tellurium#tellúr
+tell#told,beszél;told,elbeszél;told,elmesél;told,elmond;told,eredménye van;told,hat;told,hatása van;told,kijelent;told,kitalál;told,megfejt;told,megkülönböztet;told,megmond;told,mond;told,szól;told,tud;told,utasít
+telly#tv
+temerity#vakmerõség
+temperament#alkat;heves vérmérséklet;kedély;szenvedélyes vérmérséklet;temperamentum;természet (emberi);tüzes vérmérséklet;vérmérséklet
+temperate#mérsékelt
+temperature#hõmérséklet
+temper#alkat;beállítottság;csökkent;mérsékel;vérmérséklet
+tempestuous#háborgó;szilaj;viharos
+tempest#förgeteg;vihar
+temple#halánték;templom
+temporal#halánték;halántékcsont;idõbeli;idõleges;múlandó;világi
+temporarily#egyelõre;ideiglenesen
+temporary#átmeneti;ideiglenes
+temporize#húzza az idõt;igyekszik idõt nyerni
+tempo#tempi,tempó
+temptation#csábítás;kísértés
+tempter#csábító;kísértõ;sátán
+temptingly#csábítóan
+tempting#csábító
+temptress#csábító nõ
+tempt#csábít;kísért;megkísért;rábír;rászed;rávesz
+temp#idejében;korában
+tenable#megvédhetõ;tartható
+tenacious#állhatatos;ellenálló;jó (emlékezõtehetség);kitartó;makacs;megbízható (emlékezõtehetség);szívós
+tenacity#állhatatosság;kitartás;makacsság;megbízhatóság (emlékezeté);szívósság
+tenant#lakó
+tench#tench,cigányhal;tench,compó
+tended#gondozott
+tendency#célzatosság;hajlam;hajlandóság;irányzat;tendencia
+tenderfoot#tenderfeet,újonc;tenderfeet,zöldfülû
+tenderness#gyengédség
+tender spot#érzékeny pont;kényes pont
+tender#ajánlat;ajánlatot tesz;árajánlat;éretlen;érzékeny;felajánl;felkínál;felügyelõ;fiatal;gondos;gondozó;gyenge;gyengéd;kényes;kezelõ;kirakóhajó;lágy;porhanyós;puha;szeretõ;szerkocsi;tapintatos;üzemanyagellátó hajó;üzleti ajánlatot tesz;zsenge
+tending#ellátás;felügyelés
+tendon#ín
+tendril#inda;kacs
+tend#ápol;ellát;felügyel;gondját viseli;gondoz;hajlik;halad;irányul;megy;õriz;tart;vár
+tenement#bérelt lakás;bérlet;ingatlan
+tenet#dogma;elv;tan;tantétel;vélemény
+tenfold#tízszeres
+tennis ball#teniszlabda
+tennis court#teniszpálya
+tennis racket#teniszütõ
+tennis shoes#teniszcipõ
+tennis#tenisz
+tenon saw#csapfûrész;illesztõfûrész
+tenor#hang;hangnem;irány;irányzat;jelleg;lényeg;szándék;tendencia;tenor;tenor hang;tenorista;tónus;törekvés
+tenpence#tíz penny
+tenpenny#tíz penny értékû;tízpennys
+tenpins#kugli;tekejáték
+tenpin#kuglibábu;tekebábu
+tensely#feszesen;feszülten
+tenseness#feszültség;merevség
+tense#feszes;feszül;feszült;igeidõ;kifeszít;kifeszül;megfeszít;megfeszített;megfeszül;merev;mesterkélt;szoros
+tensile#húzható;kibocsátás;nyújtható;nyújtó
+tensiometer#feszültségmérõ;nyúlásmérõ
+tension#feszítés;feszülés;feszültség;húzóerõ;izgalom;tenzió
+tentacle#kar (polipé)
+tentatively#kísérletileg;próbaképpen
+tentative#kísérlet;kísérleti;próba;próbaképpen tett;puhatolódzás
+tenth#dézsma;tized;tizedik;tizedrész
+tent#sátor
+tenuity#erõtlenség;finomság;gyengeség;gyérség;hígság;ritkaság;vékonyság;vértelenség
+tenuousness#erõtlenség;finomság;gyengeség;gyérség;hígság;ritkaság;vékonyság;vértelenség
+tenuous#erõtlen;finom;híg;lényegtelen;ritka;túlságosan finom;vékony
+tenure#birtok;birtoklás;birtoklás idõtartama;használat;használat idõtartama;haszonélvezet idõtartama;hûbéri birtok;hûbéri szolgálat
+tenurial#birtokosi
+ten#tíz
+tepee#indián sátor;wigwam
+tepid assent#ímmel-ámmal való beleegyezés
+tepidity#langymelegség;langyosság
+tepidness#langymelegség;langyosság
+tepid#lagymatag;langymeleg;langyos;lanyha
+teratogenic#teratogén
+teratogen#teratogén anyag;teratogén betegség
+terminals#célállomási kezelési költségek
+terminal#ágtetõzõ;csatlakozás;csatlakozópont;csatlakozóvég;fejpályaudvar;félévi;határ-;határidõ-;határoló;huzalkapocs;huzalszorító;huzalvégzõdés;idõszaki;kapocs;kivezetés;negyedévi;számítógép terminál;számítógép-terminál;szegélyezõ;szélsõ;szorító;tetõzõ;vég-;vég;végállomás;végsõ;végtetõzõ terminális;végzõdés;vmit befejezõ dolog;záró;záródísz;záróvizsga
+terminally#félévenként;minden félév végén;minden negyedév végén;negyedévenként;végén;végül
+terminate#befejez;befejezõdik;bevégzõdik;elhatárol;elkerít;elvégzõdik;határol;kerít;lezár;lezárul;megszüntet;vége lesz;végén áll;véges;véget ér;véget vet;végzõdik
+termination#befejezés;befejezõdés;bevégzés;bevégzõdés;határ;megszûnés;rag;vég;véget érés;végetvetés;végzõdés
+terminator#befejezõ;határvonal;poszthumusz munka befejezõje
+terminus#fejpályaudvar;végállomás;végcél;végpont
+termite#termesz
+terms#feltétel;feltételek;kifejezésmód;kikötés;kikötések;nyelv
+term#félév;határidõ;határnap;havibaj;idõszak;idõtartam;kifejezés;menstruáció;mond;nap;nevez;szakkifejezés;szakszó;szemeszter;szó;tag;ülésszak
+terpsichore#tánc múzsája;Terpszihoré
+terra alba#fehér agyag;könnyû magnézia;magnezit
+terrace#terasz
+terracotta#égetett agyag;terrakotta
+terra filius#föld egyszerû gyermeke;föld fia
+terra firma#földrész;szárazföld;világrész
+terrain#terep
+terra rossa#vörös föld
+terra#föld
+terrestrial#szárazföldi
+terrible#borzasztó;szörnyû
+terribly#borzasztóan;szörnyen;szörnyûen
+terrific#borzasztó;csuda klassz;félelmetes;iszonyatos;iszonyú;óriási;rémületet keltõ;rettenetes;szörnyû
+terrifyingly#borzasztóan;rémisztõen
+terrifying#borzasztó;rémítõ
+terrify#megfélemlít;megijeszt
+territorial#földi;népfelkelõ;országos;territoriális;területi
+territory#élettér;felségterület;kerület;körzet;tartomány;territórium;terület;vidék
+terrorist#terrorista
+terror#rémület;rettegés
+terry cloth#frottírszövet
+terry velvet#félbársony;hurkolt bársony
+terry#bársonyos;bársonyos bolyhozás;felvágatlan bársony;hurkolt;hurkolt bársony;hüvelyébõl kihúzott;plüss-szõnyeg
+tersely#röviden;tömören;velõsen
+terseness#rövidség;tömörség;velõsség
+terse#rövidre fogott;tömör;velõs
+tertiary#harmadfokú;tercier
+testamentary#végrendeleti
+testament#szövetség;testamentum;végrendelet
+test case#próbaper
+test flight#pilótavizsga;próbarepülés;repülõpróba
+test hole#feltáró furat;feltáró lyuk;kutatóakna;mintavételi hely;próbafúrás
+testicle#here
+testify#bizonyít;jelez;kifejez;tanúsít;tanúvallomást tesz
+testily#haragosan;ingerlékenyen;mogorván
+testimonial#ajándék;ajánlólevél;bizonyítvány;mûködési bizonyítvány;szolgálati bizonyítvány
+testimony#bizonyíték;bizonyság;tanúság;tanúvallomás
+testiness#ingerlékenység;mogorvaság;zsémbesség
+testing#vizsgálat folyamata
+teston#régi pénzérme
+testoon#régi pénzérme
+tests#próbázás
+test tube#kémcsõ
+test#agyagtálka;analizál;analízis;anyagvizsgálat;ellenõriz;hitelesít;ismérv;kipróbál;kipróbálás;kísérlet;kísérletez;kísérletezik;láttamoz;leûzõcsésze;magburok;megvizsgál;mérték;mészhéj;pörkölõtál;próba;próbál;próbára tesz;próbatégely;próbatétel;próbázás;reagens;tanú;teknõsbékapáncél;teszt;végrendeletet csinál;végrendelkezik;vizsga;vizsgálat;vizsgáztat
+testy#haragos;ingerlékeny;mogorva;zsémbes
+tetanus#görcsös idegösszehúzódás;merevgörcs;tetanusz
+tetany#merevgörcs;tetánia
+tethered#kikötött;kipányvázott
+tether#hatáskör;jogkör;kiköt;kipányváz;kötél;kötõfék;láncra köt;pányva;póráz
+tetrahedral#négylapú;tetraéderes
+texan#texasi
+texas fever#piroplazmózis;texasi láz
+texas#tiszti étkezde és kabinok folyami gõzhajón
+textbook#egyetemi tankönyv;tankönyv
+textile#szövet;textil-;textil;textilanyag;textilipari
+texture#alkat;struktúra;szerkezet;szövet
+text#kiírás;szöveg

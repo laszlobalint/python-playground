@@ -1,0 +1,37 @@
+wunderkind#csodagyerek
+wuther#fütyül;süvölt;zúg
+wyvern#sárkány
+xenophobe#idegengyûlölõ
+xenophobia#idegengyûlölet
+xerox#fénymásol;xerox-gép;xeroxozik
+xylene#xilol
+yachtsman#yachtsmen,jachtozó;yachtsmen,vitorlázó
+yacht#jacht
+yack#badarság;blabla;fecseg;fecsegés;karattyol;karattyolás;locsog;locsogás;nyomja a szöveget;szöveg;szövegel
+yahoo#jehu
+yakking#dumálás;szájtépés;szövegelés
+yakky#beszédes;dumás;nagy dumás;szövegelõ
+yak#fecseg;jak;karattyol;locsog;nyomja a szöveget;szövegel
+yammering#jajgatás;nyafogás;óbégatás;siránkozás;sopánkodás
+yammer#áhítozik;jajgat;kiált;nyafog;óbégat;rikolt;siránkozik;sopánkodik;sóvárog;szól;vágyódik
+yam#yamgyökér
+yankeedom#jenkik;jenkivilág
+yankeefied#elamerikaiasodott
+yankee#jenki
+yank#jenki;jenki;megránt;rángat;rántás;tépés
+yap#csahol;csaholás;jár a szája;ugat
+yardarm#szárnyvitorlafa;vitorlarúdvég
+yardbird#börtöntöltelék;elítélt;újonc
+yard master#tolatásvezetõ;tolatómester
+yard sling#vitorlarúd-hámkötél
+yardstick#egy yardos mérõrúd
+yard wastes#kerti hulladék
+yard#0,914 méter;0.914 méter;dug;fallosz;hajómûhely;hímvesszõ;karámban tart;kefél;keresztárboc;kert;kifutóban tart;kifutókarám;kikötõmûhely;közösül;mûhely;raktár;rendezõ-pályaudvar;százdolláros;telep;udvar;vitorlarúd
+yarn#fonal;fonál;mese;mesél;történet
+yawing moment#repülõgép függõleges tengely körüli nyomatéka
+yawing motion#repülõgép legyezõ mozgása
+yawing#hirtelen irányváltoztatás;oldalirányú kitérés;oldalirányú lengés;repülõgép függõleges tengely körüli mozgása
+yawl#kétárbocos kis vitorlás;kis csónak
+yawn#ásít;ásítás;tátong
+yawp#hangosan beszél;ordít;ordítás
+yaw#farol;hirtelen elfordít;hirtelen elfordul;hirtelen eltér;hirtelen eltérít;hirtelen elvetõdik;hirtelen irányváltoztatás;hirtelen kitérít;oldalirányú kitérés;oldalirányú lengés;repülõgép függõleges tengely körüli mozgása;szövethiba

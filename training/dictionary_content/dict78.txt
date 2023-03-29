@@ -1,0 +1,189 @@
+imagery#ábrázolás;hasonlatok;szóképek
+image#arcmás;elképzelés;hasonlat;hasonmás;kép;képmás;képzet;összkép;szobor;szókép;tükörkép
+imaginary#elképzelt;képzelet alkotta;képzeletbeli;képzeletben élõ;képzelet szülte;képzelt;kiagyalt;kitalált
+imagination#fantázia;képzelet
+imaginative#elképzelt;képzeletbõl eredõ;nagy képzelõtehetségû
+imagine#elképzel
+imaginings#képzelõdés
+imagism#imagizmus
+imagist#imagista
+imbalance#egyensúlyhiány;kiegyensúlyozatlanság
+imbecile#bárgyú;félkegyelmû;gyengeelméjû;hülye;imbecilis;ostoba;tökkelütött
+imbecilic#bárgyú;hülye
+imbecility#gyengeelméjûség;hülyeség;marhaság;oktalan volta vminek;ostoba cselekedet;ostobaság;ostoba volta vminek;szamárság
+imbibe#áthat;átjár;belélegez;beszív;elsajátít;felszív;iszik;magába szív;teleszívja magát
+imbibition#átitatás;beivódás;beszívódás;felszívódás;telítés
+imbue#eltölt (érzés);hevít (érzés)
+imitate#majmol;másol;utánoz
+imitation#hamisítvány;követés;mesterséges;mû-;utánozás;utánzat
+imitative#utánzó;utánzott
+imitator#imitátor;utánzó
+immaculately#hibátlanul
+immaculate#hibátlan;makulátlan;szeplõtlen
+immaterial#lényegtelen;testetlen
+immature#éretlen;fejletlen;kiforratlan
+immaturity#éretlenség;fejletlenség;tökéletlenség
+immediacy#azonnaliság;közvetlenség;sürgõsség
+immediately#amint;azonnal;közvetlenül;mihelyt
+immediate#azonnali;közvetlen;sürgõs
+immensely#mérhetetlenül;roppantul;végtelenül
+immense#mérhetetlen;óriási;roppant;tömérdek
+immensity#óriási volta vminek;roppant terjedelem
+immerse#belemerít;belemerül
+immersion#alámerülés
+immigrant#bevándorló
+immigrate#bevándorol
+immigration#bevándorlás
+imminence#fenyegetõ közelség;fenyegetõ veszély
+imminent#közelgõ;küszöbön álló
+immiscible#elegyíthetetlen;nem elegyedõ;nem elegyíthetõ;nem vegyíthetõ;vegyíthetetlen
+immission#immisszió
+immobile#megmozdíthatatlan;mozdulatlan;rögzített
+immodesty#szerénytelenség
+immolate#feláldoz
+immoral#erkölcstelen
+immortality#halhatatlanság
+immortalize#halhatatlanná tesz;megörökít
+immortal#halhatatlan
+immovable#állhatatos;beszerelt;érzéketlen;érzéstelen;helyhez kötött;ingatlan;ingatlanvagyon;közömbös;megindíthatatlan;megingathatatlan;megmozdíthatatlan;megváltoztathatatlan;mozdulatlan;rendíthetetlen;rögzített;szenvedélytelen;szenvtelen;szilárd
+immune#immúnis;mentes;nem fogékony
+immunity#mentesség;védettség
+immunization#immunizálás;mentesítés;védõoltás
+immunizator#védõanyag;védõtest
+immunizer#immunizáló szer
+immunize#immunizál;védetté tesz
+immunizing#immunizáló;védõ-
+immunology#immunitáskutatás;immunitástudomány;szerológia
+immure#bezár;elzár;fallal körülkerít;körülkerít
+immutability#állandóság;megváltozhatatlanság;változhatatlanság
+immutable#állandó;megváltozhatatlan;változhatatlan
+impact#becsapódás;befolyás;behatás;hatás;kihatás;nekiütõdés;ütközés;ütközik;ütõdik
+impairment#gyengülés;kár;károsodás;megromlás;megrongálás;megrontás;rongálás
+impair#elront;megrongál
+impale#karóba húz
+impartiality#elfogulatlanság;pártatlanság
+impartial#elfogulatlan;pártatlan;részrehajlás nélküli
+impart#juttat;közöl;részesít;tudat;tudomására hoz
+impasse#holtpont;megoldhatatlan helyzet;sarokba szorítás;vakvájat;zsákutca
+impassioned#szenvedélyes
+impassively#egykedvûen;érzéketlenül;közömbösen
+impassive#egykedvû;érzéketlen;közömbös
+impassivity#érzéketlenség;közömbösség
+impatience#türelmetlenség
+impatiently#türelmetlenül
+impatient#türelmetlen
+impeachment#felelõsségre vonás;vádemelés
+impeach#bevádol;felelõsségre von;vádol
+impeccable#feddhetetlen;kifogástalan
+impecunious#kispénzû;pénztelen
+impede#akadályoz;feltartóztat;gátol;megakadályoz;meggátol
+impedimenta#felszerelés;málha;poggyász
+impediment#akadály
+impeller#futókerék;járókerék;munkakerék;terelõlapát
+impellor#futókerék;járókerék;munkakerék;terelõlapát
+impel#hajt;ösztökél;rávisz
+impending#fenyegetõ (veszély);közelgõ;közelítõ;küszöbön álló
+impenetrable#áthatolhatatlan
+imperative#elkerülhetetlen;ellentmondást nem tûrõ;felszólító mód;imperativus;kényszerítõ;parancsoló;sürgetõ;szükségszerû
+imperatorial#császári;ellentmondást nem tûrõ;imperátori;kényszerítõ;parancsoló
+imperator#császár;imperátor;uralkodó
+imperfection#befejezetlenség;hiány;hiányosság;tökéletlenség
+imperfect#befejezetlen;folyamatos múlt idõ;hézagos;hiányos;tökéletlen
+imperiled#veszélyben levõ;veszélyeztetett
+imperil#veszélyeztet;veszélynek tesz ki
+imperious#dölyfös;kényszerítõ;parancsoló;sürgõs;zsarnoki
+imperishable#elmúlhatatlan;hervadhatatlan;maradandó;múlhatatlan
+impermanence#állandóság hiánya;átmeneti jellege vminek;átmeneti volta vminek;múló jellege vminek;múló volta vminek;tartósság hiánya
+impermanent#állandóság nélküli;átmeneti;múló;nem állandó;nem tartós;változékony
+impermeable#áthatolhatatlan;vízhatlan
+impersonate#alakít vmilyen szerepet;megszemélyesít vkit;vmilyen szerepet alakít
+impersonator#ál-;alakító;megszemélyesítõ;tolmácsoló;utánzó
+impertinence#arcátlanság;értéktelen volta vminek;haszontalan volta vminek;hiábavaló volta vminek;jelentéktelen volta vminek;nem helyénvaló volta vminek;pimaszság;szemtelenség;tárgyhoz nem tartozó volta vminek
+impertinent#arcátlan;nem a tárgyhoz tartozó;nem helyénvaló;pimasz;szemtelen;tárgyhoz nem tartozó
+impervious#áthatolhatatlan;érzéketlen
+impetuosity#dühöngés;elhamarkodottság;féktelenség;hevesség;hirtelenkedés;indulatosság;lobbanékonyság;meggondolatlanság;szenvedélyesség;tüzesség;zabolátlanság
+impetuous#dühöngõ;elhamarkodott;féktelen;heves;hirtelenkedõ;indulatos;lobbanékony;meggondolatlan;rámenõs;szenvedélyes;tüzes;zabolátlan
+impetus#lendítõerõ;lendület;ösztönzés
+impingement#taszítás;ütközés;visszaverõdés
+impinge#taszít;túlkapást követ el;ütközik;visszaverõdik
+impishly#huncut arccal;huncut hangon
+impish#huncut;huncutkodó
+implacable#engesztelhetetlen;kérlelhetetlen
+implacably#engesztelhetetlenül;kérlelhetetlenül
+implausible#valószínûtlen
+implausibly#valószínûtlenül
+implementing#kivitelezés
+implement#eszköz;kellék;keresztülvisz;szerszám;teljesít;végrehajt
+implicate#belebonyolít;belekever
+implication#beleértés;belekeveredés;belevonás;burkolt célzás
+implicitly#beleértõen;értelemszerûen
+implicit#beleértett;fenntartás nélküli;hallgatólagos;magától értetõdõ
+implode#berobban;berobbant;záralkotással artikulál
+implore#esedezik;kér;könyörög
+imploringly#könyörögve
+implosion#berobbanás;beszakadás;betódulás;láncreakciót elõidézõ robbanás;összeroppanás;robbanásszerû összeroppanás;záralkotás
+imply#beleért;magába foglal;utal
+impolite#udvariatlan
+impoliticly#hibásan;meggondolatlanul;nem célra vezetõen;nem okosan;nem politikusan
+impolitic#célt tévesztett;hibás;meggondolatlan;nem célravezetõ;nem politikus;oktalan;ügyetlen
+imponderable#kiszámíthatatlan;le nem mérhetõ;súlytalan
+importance#fontosság
+important#fontos;jelentõs
+importation#behozatal;import;importálás
+importer#importõr
+imports#import áruk;külföldi áruk
+importunate#okvetetlenkedõ;sürgetõ;sürgõs;tolakodó
+importune#erõszakosan könyörög;nyakára jár;zaklat
+importunity#alkalmatlankodás;háborgatás;sürgetõ kérés
+import#árubehozatal;behoz;értelem;fontosság;horderõ;import;importál
+impose#kiró;kivet;nyakába varr;rárak;rátesz
+imposing#hatásos;impozáns;tiszteletet parancsoló
+imposition#büntetés;büntetési feladat;csalás;kiszabás;kivetés;megterhelés;teher;tehertétel;visszaélés
+impossible#lehetetlen
+impostor#csaló
+impotence#gyengeség;impotencia;tehetetlenség
+impotent#gyenge;impotens;tehetetlen
+impoundment#lefoglalás;lehatárolás
+impound#befog (vizet medencében);lefoglal;zár alá vesz
+impoverished#kimerült
+impoverish#elszegényít;kimerít
+impractical#járhatatlan;kivihetetlen;nem célravezetõ;nem gyakorlatias;teljesíthetetlen
+imprecation#átkozódás;átok;elátkozás;megátkozás;szidalom
+imprecatory#átkozódó;átok-
+imprecise#pontatlan
+imprecision#pontatlanság
+impregnable#bevehetetlen;legyõzhetetlen
+impregnate#átitat;átitatódik;átitatott;beágyazódik;felitat;impregnál;impregnált;megtermékenyít;megtermékenyül;telít;telített;telítõdik;terhes
+impression#benyomás;hatás;lenyomat;nyomás;nyomdai levonat;nyomtatás;példányszám;utánnyomás
+impressive#hatásos
+impress#bélyeg;bélyegzõ;ismertetõjel;nyom
+imprimatur#egyházi engedély;engedély;hozzájárulás;imprimatúra;jóváhagyás;nyomási engedély
+imprint#cégjelzés;impresszum;könyvkiadó neve;lenyomat;nyom
+imprisonment#bebörtönzés;börtönbüntetés;fogság
+imprison#bebörtönöz
+improbable#valószínûtlen
+impromptu#improvizáció;rögtönözve;rögtönzés;rögtönzött
+improper#helytelen;illetlen;ízléstelen;nem odavaló;téves
+impropriety#helytelenség;illetlenség
+improvement#elõléptetés;elõmenetel;javítás;tökéletesítés
+improve#megjavít;megjavul;tökéletesít
+improvidence#elõrelátás hiánya;könnyelmûség;vigyázatlanság
+improvident#elõre nem gondoskodó;könnyelmû;nem elõrelátó;vigyázatlan
+improvise#hevenyészve összeüt;improvizál;rögtönöz
+imprudent#meggondolatlan
+impudence#arcátlanság;pimaszság;szemtelenség
+impudent#arcátlan;pimasz;szemtelen
+impugnable#kétségbevonható;kifogásolható;legyõzhetetlen;megtámadhatatlan;vitatható
+impugnment#kétségbevonás;kifogásolás;megtámadás;vitatás
+impugn#kérdésessé tesz;kétségbe von;kifogásol;megtámad;támad;vitat
+impulse#ihlet;impulzus;indítás;indíték;lökés;ösztönzés;sugallat
+impulsively#megfontolás nélkül;ösztönösen
+impulsive#felizgatható;fogékony;gerjesztõ;impulzív;lobbanékony;megfontolás nélküli;ösztökélõ;ösztönözhetõ;ösztönzõ
+impunity#büntetlenség
+impure#kevert;nem tiszta;tisztátalan;tisztátlan
+impurities#szennyezõ anyagok;szennyezõdés
+impurity#erkölcstelenség;tisztátalanság;tisztátlanság
+imputable#felróható;tulajdonítható
+imputation#gyanúsítás;tulajdonítás
+impute#felró;tulajdonít
+imp#huncut kölyök;kis ördög;manó

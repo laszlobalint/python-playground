@@ -1,0 +1,20 @@
+ogle#fixíroz;szemez
+ogreish#emberevõ szörnyhöz hasonló
+ogress#emberevõ óriásnõ;kegyetlen óriásnõ
+ogre#emberevõ óriás
+ogrish mouth#farkasétvágyú
+ogrish#emberevõ szörnyhöz hasonló
+ohmic drop#ohmos feszültségesés
+ohmic#ohmos
+oilcloth#linóleum;viaszosvászon;vízhatlan szövet
+oiler#kenõszelence;mézesmázos ember;olajosvászon esõkabát;olajozó;olajozó kanna;olajozó készülék;olajozó szelence;olajszállító hajó;olajtüzelésû hajó;sima modorú ember;tanker
+oil expeller#olajleválasztó
+oil refinery#olajfinomító
+oil shares#olajvállalati részvények
+oilskin#impregnált ruhadarab;vízhatlanná tett ruhadarab;vízhatlan tengerészköpeny
+oil slick#olajréteg
+oils#olajvállalati részvények
+oil tanker#tankhajó
+oil truck#tartálykocsi
+oil#bezsíroz;értesülés;hír;információ;ken;kenetes beszéd;kõolaj;megolajoz;olaj;olajoz;sima duma;vízhatlan ruhaanyag;vízhatlan ruhanemû;vízhatlan vászon;zsíroz
+ointment#balzsam;ír;kenõcs;pomádé

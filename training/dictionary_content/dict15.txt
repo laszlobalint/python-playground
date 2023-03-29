@@ -1,0 +1,21 @@
+await#vár;várakozik
+awakening#ébredés
+awaken#felébred;felébreszt
+awake#awoke,felébred;awoke,felébreszt;teljesen éber
+awarding#megítélés
+award#adományoz;díj;diploma;döntés;ítél;ítélet;jutalom;megítél;odaítél;oklevél;pályadíj
+awareness#tudatosság
+aware#elõvigyázatos;felkészült;körültekintõ;óvatos;tájékozott vmi felõl;vmi felõl tájékozott;vminek tudatában levõ;vmirõl tudomással bíró;vmit ismerõ
+awash#hullámoktól nyaldosott;vízen fennmaradó;vízen úszó;vízmosta;víztõl mosott;vízzel elárasztott;vízzel elöntött
+away#el;messzire;rendületlenül;távol;tovább
+awesome#félelmetes
+awe#félelem;megfélemlít;tisztelet
+awful#áhítatos;áhítatot keltõ;áhítattal telt;borzalmas;borzasztó;félelmes;félelmetes;ijesztõ;irtózatos;irtózatosan;rémes;rémesen;rémítõ;rettenetes;rettenetesen;szörnyen;szörnyû;tiszteletet keltõ
+awfully#áhítatot keltõen;áhítattal;borzasztóan;félelmet keltõen;félõ tisztelettel;irtózatosan;megilletõdve;rémesen;rettenetesen;szörnyen;tiszteletet keltõen
+awhile#egy ideig;egy kis ideig;rövid ideig
+awkwardly#esetlenül;félszegen;ügyetlenül
+awkwardness#kellemetlenség;ügyetlenség
+awkward#alkalmatlan;esetlen;félszeg;kellemetlen;kényelmetlen;kínos;ügyetlen
+awl#ár (szerszám)
+awning#napellenzõ;ponyvatetõ
+awry#ferde;ferdén;fonák;fonákul

@@ -1,0 +1,363 @@
+space between#köz;közbeesõ tér
+space capsule#ûrszonda
+space centre#ûrközpont
+spacecraft#ûrhajó
+space flight#ûrhajózás;ûrrepülés
+space helmet#ûrsisak
+spaceman#ûrhajós
+space modul#ûrkabin
+space probe#ûrszonda
+spacer#alátét betétdarab;alátétgyûrû;alátétlemez;alátétvas;betéttuskó;ék;elosztóvas;faék;kizáró;léc;szóközbillentyû;távköztartó;távtartó;térközállító;térzõ;üres filmkocka
+spaceship#ûrhajó
+space shuttle#ûrkomp;ûrrepülõgép;ûrsikló
+space station#ûrállomás
+spacesuit#szkafander;ûrruha
+space travel#ûrrepülés;ûrutazás
+space vehicle#ûrhajó
+spacewoman#ûrhajósnõ
+space#betûköz;feloszt;férõhely;hely;idõköz;idõszak;kiterjedés;köz;ritkít;szétoszt;szóköz;táv;távolság;tér;térköz;térközökkel elhelyez;terület;térzõ;ûr;világûr
+spacious#kiterjedt;tágas;téres;terjedelmes
+spaded finish#simított felület
+spades#pikk
+spade#ás;ásó;ásónyomnyi mélység;bálnadaraboló vésõ;eligazít (betont zsaluban);feldarabol;felszeletel;feltrancsíroz;herélt állat;kifejt;kiherélt állat;pikk;zöld (kártyában)
+spaghetti#spagetti
+spahi#algíri lovas katona;francia lovas katona;szpáhi;török lovas katona
+spallation#felhasadás;szétrepedezés
+spalling#darabos válogatás;elhasadás;elhasítás;falbedõlés;fõtepergés;hasadás;hasítás;hasogatás;kõzetkihullás;kõzetleválás;lepattogzás;leválás;szétdarabolás
+spalls#szemelt érc;válogatott érc
+spall#érc összetörése;felaprítás;forgács;fúrólyuk-fojtás;kiékelõ kõdarab;kõforgács;lemezes leválás;szilánk
+spal#aprít;durván kifarag;durván megfarag;elhasad;elhasít;hámlik;hasad;hasadozik;hasít;hasogat;kinagyol;lehámlik;lepattogzik;leválik;levelesen leválik;méretre hasít;rétegesen leválik;szabályos bordaközökre beoszt;szabályos körökre beoszt;szétdarabol;válogat;zúz
+spam#fûszeres disznóhús sonkával;löncshús
+spandrel#boltív öblének kitöltése;csegely;homlokfal;homlokív feletti felfalazás;homlokív feletti kitöltés;ívbolt;kitöltõfal;lépcsõ hátfalazása;lépcsõkifalazás;lépcsõzug;mellvédfal;ráfalazás
+spangle#csillogó apróság;csillogó díszekkel díszít;flitter;flitterez;flitterrel díszít;pikkelylemezekkel díszít;tölgyfagubacs
+spangly#csillámló;csillogó;flitterrel díszített
+spaniard#spanyol;spanyol ember
+spaniel#csúszómászó;hízelgõ;kajtászeb;spániel;talpnyaló
+spanker#farvitorla;klassz dolog;klassz ember;pompás dolog;pompás ember;remek dolog;remek ember;táncos járású ló;táncos léptû ló
+spanking#elfenekelés;elpáholás;gyors;haláli;klassz;pompás;sebes;verés
+spank#elfenekel;elnadrágol;elnáspángol;elpáhol;fenékre sóz;fenékre ütés;fenékre ver;hajt;megrak;tenyérrel megüt;tenyérrel üt;ütés;ütés tenyérre
+spanner#csavarkulcs
+span#arasz;arasszal megmér;átér;áthidal;átível;fesztáv;idõtartam;ív;ívnyílás;szárnytávolság
+spare bedroom#vendégháló;vendégszoba
+spare bed#pótágy;vendégágy
+spare parts#pótalkatrészek;tartalékalkatrészek
+spare room#szalon;vendégszoba
+spare time#felesleges idõ;ráérõ idõ;szabad idõ;üres óra
+spare tyre#pótkerék
+spare wheel#pótkerék
+spare#cingár;felesleges;fölösleges;kímél;megkímél;megtakarít;nélkülöz;nélkülözni tud;pót-;pótalkatrész;pótkerék;sovány;spórol;szikár;szûkös;takarékoskodik;tartalék;zsírtalan
+sparge#permetez
+sparingly#alig
+sparing#takarékos
+spark failure#gyújtáshiba;gyújtáskihagyás;gyújtás megszakadása
+sparkler#csillagszóró;csillogó dáma;csillogó drágakõ;csillogó úr;fényes dáma;fényes úr;gyémánt
+sparklet#kis szikra;szénsavpatron;szikrácska
+sparkle#csillog;csillogás;gyöngyözik;pezseg;ragyog;ragyogás;szellemesség;szikra;szikrázás;szikrázik;sziporkázás;sziporkázik
+sparkling#gyöngyözõ;habzó;pattogó;pezsgõ;ragyogó;szikrázó;sziporkázó;villódzó
+spark plug#gyertya
+sparks#átvilágítás;rádiós;rádióstiszt;röntgen;röntgenezés;röntgenszoba;szikratávírász;távírász
+spark#adja az aranyifjút;aprógyémánt;aranyifjú;csapja a szelet;csillog;divatbáb;elektromos szikrával gyújt;elindít;felgyújt;feltûnõen öltözködik;gavallér;gyújt;jampecosan öltözködik;legyeskedik;piperkõc;ragyog;splitter;sugalmaz;szikra;szikratávírás;szikrát hány;szikrázik;sziporka;teszi a szépet;udvarló;udvarol
+sparring#bokszolás;öklözés
+sparrowfart#verébfing
+sparrow#veréb
+sparsely#elszórtan;gyéren;ritkásan;szórványosan
+sparse#elszórt;ritka;szórványos
+spartan#spártai
+spar#árboc;árbocfa;barátságos bokszmérkõzés;bokszol;gerenda;öklöz;pát;pózna;rúd;szarufa;szócsata;szócsatát vív;vitázik
+spasmodic#görcsös;hirtelen;lökésszerû;szaggatott
+spasm#görcs;roham
+spastic#bénult;görcsös;szélhûdéses
+spa therapy#gyógyfürdõ-kezelés
+spatial#tér-;térbeli
+spatially#térbelileg
+spatiate#barangol;bolyong;kóborol
+spatter#befröcsköl;befröcskölés;bemocskol;csöpög;csöpögés;fröcskölés;kopogás;megrágalmaz;ráfröccsent;sárfolt
+spatula#szedõlapát
+spat#bokavédõ;civakodás;civakodik;civódás;csattanás;enyhe ütés;fiatal osztriga;ikrát lerak (osztriga);kamásli;legyintés;meglegyint;nagy esõcsepp;osztrigaikra;pukkanás;ütés tenyérrel;veszekedés;veszekszik
+spawn#ebihal;ered;ikra;ivadék;ívik;petéket rak;poronty;származik
+spa#gyógyfürdõ
+spay#ivartalanít (nõstényállatot)
+speakeasy#engedély nélkül mûködõ kocsma;tiltott italmérés
+speaker#beszélõ;hangszóró;képviselõház elnöke;szónok
+speak#spoke,spoken,beszél
+spearmint#fodormenta
+spear side#férfiág
+spear#csemete;dárda;dárdás;dárdával átdöf;dárdával megöl;felnyársal;fiatal sudár fa;fûszál;hajítódárda;hajtás;husáng;lándzsa;lándzsás;lándzsával átdöf;lándzsával megöl;megszigonyoz;spanyollovas hegye;sudárba szökken;szál;szárba szökken;szigony;szivattyúkar
+specialist#specialista;szak-;szakember;szakorvos
+speciality#különlegesség;sajátosság;speciális;szakterület
+specialized#szakosított
+specialize#egyenként felsorol;külön kimutat;részletez;specializálódik;szakosít;szakosodik
+specialty#írásbeli szerzõdés;szakterület
+special#alkalmi;egyedi;kitûnõ;különkiadás;különleges;különvonat;rendkívüli;sajátos;sajátságos;speciális
+specially#külön;különlegesen;különösen
+species#fajok;fajták
+specifically#kifejezetten;kimondottan;különösen;speciálisan
+specific#fajlagos;jellegzetes;közelebbrõl meghatározott;különleges;sajátos;speciális;specifikus
+specify#elõír;kiköt;közelebbrõl meghatároz;pontosabban meghatároz;részletez;szabványosít
+specimen#csodabogár;mintadarab;mutatvány;példány
+specious#megtévesztõ
+speckled#foltos;pettyes
+speckle#folt;petty
+speck#csepp;darabka;folt;petty;szemcse
+spectacled#szemüveges
+spectacles#szemüveg
+spectacle#látvány;látványosság
+spectacular#látványos
+spectator#nézõ
+specter#kísértet;szellem
+spectral#kísérteti;kísérteties;színkép
+spectre#kísértet;szellem
+spectroscope#spektroszkóp
+spectroscopy#spektroszkópia
+spectrum#spektrum;színkép
+speculate#elmélkedik;spekulál;töpreng;tûnõdik
+speculation#elmélet;elmélkedés;feltevés;spekuláció;töprengés
+speculative#elméleti;elmélkedõ;spekulációs;spekulatív
+speculator#spekuláns;tõzsdés
+specs#részletes leírás;specifikáció;szemüveg
+speech area#nyelvjárási terület;nyelvterület
+speech basis#artikulációs bázis
+speech choir#szavaló kórus
+speech clinic#beszédhibások gyógyintézete
+speeches#év végi bizonyítvány- és jutalomosztás;évzáró;tanévzáró ünnepély
+speechify#dikciózik;szónokol
+speech island#nyelvjárási sziget;nyelvsziget
+speechless#elnémult;hangtalan;holtrészeg;megnémult;néma;szótlan;tökrészeg
+speech level#nyelvi réteg;stiláris réteg
+speech marks#idézõjel
+speech organ#beszélõszerv
+speech sound#beszédhang
+speech#beszéd;beszédmód;beszédmodor;beszélõ képesség;felszólalás;hang;nyelv;nyelvjárás;szónoklat
+speed boat#motorcsónak
+speed bump#fekvõrendõr
+speedily#gyorsan;haladéktalanul;hirtelen;sebesen
+speedometer#sebességmérõ
+speed#boldogul;fényérzékenység;gyorsaság;gyorsít;halad;prosperál;sebesség;sebességet szabályoz;sebességfokozat;siet;siettet;sped,boldogul;sped,gyorsít;sped,halad;sped,prosperál;sped,sebességet szabályoz;sped,siet;sped,siettet;sped,száguld;száguld
+speedy#gyors;sebes
+spellbinding#lenyûgözõ hatású
+spellbound#elbûvölt;lenyûgözött
+spelling#betûzés;helyesírás
+spell#betûz;bûbáj;bûvige;értelme van;forduló;helyesen leír;idõ;idõszak;idõtartam;jelent vmit;kiír;következménnyel jár;munkaszakasz;mûszak;rövid idõ;rövid idõszak;spelt,betûz;spelt,értelme van;spelt,helyesen leír;spelt,jelent vmit;spelt,kiír;spelt,következménnyel jár;spelt,szótagol;szakasz;szakmány;szótagol;turnus;váltás;varázs;varázsige;varázslat
+spelunker#amatõr barlangkutató;amatõr geológus
+spelunking#barlangászkodás
+spending#elköltés;költés
+spend#spent,eltölt;spent,kiad;spent,költ (pénzt);spent,tölt (idõt)
+spent acid#fáradt sav;használt sav;hulladéksav
+spent ball#átütõ erejét vesztett golyó;fáradt golyó
+spent bobbin#legombolyodott orsó
+spent bulb#kiégett izzó;kiégett villanykörte
+spent bullet#átütõ erejét vesztett golyó;fáradt golyó
+spent liquor#anyalúg;szappanalj
+spent lye#anyalúg;szappanalj
+spent oil#fáradt olaj
+spent storm#kifáradt vihar;megcsendesedett vihar
+spent volcano#kialudt tûzhányó;kialudt vulkán
+spent#elcsigázott;elhasznált;ernyedt;fáradt;ikráit lerakott (hal);kimerült
+sperm#cetvelõ;ondó;sperma
+spew#kihány;kiköp;kiokád
+sphere#golyó;gömb;kör;szféra;terület
+spherical#gömbölyû
+sphincteral#záróizom-
+sphincterial#záróizom-
+sphincter#záróizom
+spice#fûszer
+spicy#borsos;divatos;elegáns;fûszeres;fûszerfélékben gazdag;fûszernövényekben gazdag;ízes;jóízû;pikáns;zamatos
+spider web#pókháló
+spider#árboctámasz;differenciál-kereszt;dugattyúagy;háromláb;háromlábú állvány;háromlábú serpenyõ;hosszúnyelû serpenyõ;kardánkereszt;kétkerekû homokfutó kocsi;küllõs kerékagy;küllõs szorítógyûrû;magrögzítõ keret;nagykerekû taliga;pók;serpenyõ;támasztórúd
+spidery#pókokkal teli;pókos;pókszerû
+spiel#duma;dumál;hanta;szöveg;szövegel
+spiffed#becsípett;beszeszelt
+spiffing#elegáns;jól öltözött
+spiffy#baró;elegáns;frankó;jól öltözött;menõ;remek
+spigot#csõvég;hordócsap
+spike#ácsszeg;alkoholt önt (alkoholmentes italba);bedugaszol;cövek;cövekel;füzérvirágzat;füzérvirágzatot hoz;hegyes impulzuscsúcs;kalász;kalászba szökik;kampósszeg;karó;leüt;megszegez;megüt;odaszegez;pecek;szeg;szeges cipõvel lerúg;szeges cipõvel megrúg;szegez;szeggel átszegez;szeggel átver;szögekkel kiver;szöggel lát el;tüske;vashegy;vasheggyel lát el
+spile#cölöp;csap;gerenda;hordócsap;karó
+spillage#kiesés;kifolyás;kihullás;kiömlés;kiöntés;kiszórás;kiszóródás
+spilling#kiesés;kifolyás;kihullás;kiömlés;kiöntés;kiszórás;kiszóródás
+spillover#bukógát
+spill#bukás;dugó;fémcsap;fémszeg;forgács;kiesik;kiloccsan;kiloccsant;kilöttyent;kiömlés;kiömlik;kiönt;kizuhan;ledob;leesés;papírkúp (tárolásra);papírtekercs (tárolásra);spilt,kiesik;spilt,kiloccsan;spilt,kiloccsant;spilt,kilöttyent;spilt,kiömlik;spilt,kiönt;spilt,kizuhan;spilt,ledob;szilánk
+spinach#spenót
+spinal column#gerincoszlop
+spinal cord#gerincagy
+spinalgia#spinalgia
+spinalis#gerinc-;tövis-
+spinal marrow#gerincvelõ
+spinal#gerinc-;gerincagyi érzéstelenítés;gerincagyi érzéstelenítõ szer;gerincoszlop-
+spinant#gerincingerlõ szer;spinans
+spindle#inda;nyakigláb ember;nyurga ember;orsó;tengely;vékony ember
+spindly#cingár;nyakigláb;nyurga
+spin drier#centrifuga
+spin dryer#centrifuga
+spineless#gerinctelen;tüskétlen
+spinel#magnézium-aluminát;spinell;szalagszövõ lenfonal
+spine#gerinc;hátgerinc;tövis;tüske
+spinnaker#hosszú háromszögvitorla;pillangóvitorla;versenyvitorla
+spinney#bozót;csalit;csalitos
+spinster#aggszûz;hajadon;vénkisasszony;vénlány
+spin#dugóhúzó (repülésben);forgás;kirándulás;pörgés;span,spun,fon;span,spun,fordul;span,spun,forgat;span,spun,forog;span,spun,kieszel;span,spun,kitalál;span,spun,megfordul;span,spun,megforgat;span,spun,megperdít;span,spun,megperdül;span,spun,perdít;span,spun,perdül;span,spun,pörget;span,spun,pörög;span,spun,sodor;span,spun,szõ;spun,fon;spun,forog;spun,kieszel;spun,kitalál;spun,megfordul;spun,megforgat;spun,megperdít;spun,megperdül;spun,pörget;spun,pörög;spun,sodor
+spiny#tüskés
+spiral#csavarmenet;csavarvonalban emelkedik;csavarvonalban mozog;csigavonal;csigavonalat alkot;csigavonalban emelkedik;csigavonalban mozog;csigavonalú;kacskaringózik;kígyózik;órarugó;rugó;spirál;spirális;spirálisan emelkedik;spirálisan mozog;szakadatlan emelkedés;tekeredik
+spire#orom;templomtorony
+spiritedness#élénkség;határozottság
+spirited#bátor;élénk;határozott;szellemes;talpraesett
+spirit level#vízszintezõ
+spirits#szeszes italok
+spiritualism#idealizmus;spiritizmus;spiritualizmus
+spiritualist#spiritiszta
+spiritual#egyházi;lelki;spirituálé;szellemi
+spiritually#lelkileg;szellemileg
+spirit#alkohol;bátorság;energia;fellelkesít;hangulat;kedély;kedv;kísértet;lélek;lelkierõ;spiritusz;szellem;szesz
+spitball#összerágott papírgalacsin
+spitefulness#rosszakarat
+spiteful#gonosz;rosszindulatú
+spite#bosszant;gyûlölködés;harag;rosszakarat;rosszindulat
+spitfire#méregzsák
+spitkid#hamutálca;hamutartó;kis hajó
+spittle#köpés;köpet;nyál
+spittoon#köpõcsésze;köpõláda
+spit#ásó;ásónyi;ásónyomnyi föld;felnyársal;földnyelv;futó esõ;futó havazás;hószállingózás;kiköp;köp;köpés;köpet;köpköd;mintavevõ eszköz;nyál;nyárs;nyársra húz;nyársra szúr;pök;spat,kiköp;spat,köp;spat,köpköd;spat,pök;spat,szemerkél (esõ);spit,kiköp;spit,köp;spit,köpköd;spit,szemerkél;szemerkél (esõ);szemerkélõ esõ;zátony
+splashdown#vízre szállás
+splasher#ellenzõ;sárhányó;sárvédõ;védõellenzõ
+splash#befröcsköl;folt;fröccsen;hûhó;kifröcskölt víz;kiloccsantott víz;loccsan;loccsanás;loccsant;ráfröcsköl;sár;sárfolt;spriccel;színes folt
+splashy#latyakos;sáros
+splatter#befröcsköl;befröcskölés;bemocskol;csöpög;csöpögés;folt;fröcskölés;kopogás;megrágalmaz;ráfröccsent;sárfolt
+splat#loccsan;loccsanás
+splayed#ferde;kifelé szélesedõ;kihajló;szétálló
+splay#ferde;ferdére vág;ferdére vágott;hajlás;kibicsaklik;kificamodik;kihajlás;kihajló;kiszélesedik;lesarkít;rézsû;rézsûs;szélesedõen képez ki;szélesedõ kiképzés (ablaké)
+spleen#lép
+splendidly#pompásan
+splendid#nagyszerû;pompás;ragyogó
+splendor#fény;nagyszerûség;pompa;ragyogás
+splendour#fény;nagyszerûség;pompa;ragyogás
+splice#bújtat;bütüillesztés;csatlakozás;forrasztás;forrasztás helye;gerendacsatlakozás;házasság;horonyba illeszt;karmantyúba fog;kötélbújtatás;kötéltoldás;kötélvégek összefonása;lapol;megesket;összead;összebogoz;összefon;összeilleszt;összeillesztés;összekapcsol;összekötés;összeragaszt;összeragasztás;összesodor;sínhevederrel összeköt;szorítás;told;tõröz;tõrözés
+splintered#szilánkos;szilánkosra törött
+splintering#hasadás;repesz;repeszek;sínbe rakás;szilánk;szilánkok;szilánkokra hasadás;töredék;töredékek
+splinterless#biztonsági;szilánkmentesen törõ
+splinter#darabokra törik;forgács;repesz;szálka;szétforgácsol;szilánk;szilánkokká zúz;szilánkokra hasad;szilánkokra hasít;szilánkokra repeszt;szilánkokra tör;szilánkokra törik;szilánkosan reped;szilánkosan törik;töredék
+splintery#szilánkos;szilánkosan hasadó
+splint#csánkpók;fadarab;faháncs;forgács;gyémántforgács;gyémántszilánk;hasított vesszõ;léc;rögzítõ kötés;sín;sínbe rak;sínbe tesz;sínpólyába rak;sínpólyába tesz;szálka;szárcsont;szárkapocs-csont
+split ring#kulcskarika
+split#elhasad;elhasadás;elhasít;elreped;elrepedés;elrepeszt;elrepesztett;elszakadás;feloszt;fél pohár ital;hasad;hasadás;hasadék;hasít;hasított;hasogat;kettéhasított;kettészakad;kettévágott;megbomlik az egység;megfelez;megoszlik;megoszt;reped;repedés;repeszt;rés;split,elhasad;split,elhasít;split,elreped;split,elrepeszt;split,felez;split,feloszt;split,hasad;split,hasít;split,hasogat;split,kettészakad;split,megbomlik az egység;split,megoszlik;split,megoszt;split,reped;split,repeszt;split,szakad;split,széthasít;split,szétrepeszt;split,szétszakad;split,szétválik;szakad;szakadás;széthasít;szétrepeszt;szétszakad;szétválik
+splodge#beken;bemaszatol;bemázol;bepacáz;folt;foltot ejt;maszat;összemázol;összepacáz;paca;pacát ejt
+splodgy#bepettyegetett;foltos;összekent;összmázolt;pacás
+splotch#beken;bemaszatol;bemázol;bepacáz;folt;foltot ejt;fröccsenés;maszat;összeken;összepacáz;paca;pacát ejt
+splurge#befröcskölés;felhõszakadás;feltûnéskeltés;feltûnõen viselkedik;feltûnõ viselkedés;felvág;felvágás;fröcsköl;özönvíz;proccolás;spriccel;tüntetõen viselkedik;tüntetõ viselkedés
+splutter#fröcsög;fröcsögés;hadar;köpköd;köpködés;összevissza beszél;serceg
+spoilage#hulladék;hulladékpapír;káló;selejt
+spoilsman#konjunktúralovag
+spoils#jövedelmezõ állások
+spoilt#elkényeztetett;elrontott
+spoil#elhordott föld;haszon;meddõ;meddõhányó;préda;spoilt,elkényeztet;spoilt,elront;spoilt,megromlik;spoilt,rosszul nevel;spoilt,tönkremegy;spoilt,tönkretesz;zsákmány
+spoken word#beszéd;élõszó
+spokesman#szószóló;szóvivõ
+spokesperson#szóvivõ
+spoke#küllõ
+sponger#élõsdi;potyázó
+sponge#ingyenélõ;piskótatészta;potyázik;potyázó;spongya;szivacs;szivaccsal felitat;szivaccsal lemos;szivaccsal letöröl;szivaccsal töröl;tampon;tarhál;törlõ
+sponginess#szivacsosság
+sponging#élõsködés;letörlés szivaccsal;potyázás
+spongy#átázott;likacsos;puha;szivacsos
+sponsorship#támogatás;védnökség
+sponsor#ajánló;felel;jótáll;jótálló;keresztanya;keresztapa;kezes;kezeskedik;költségeit viseli;patronál;szponzor;szponzorál;támogat
+spontaneous#nem erõltetett
+spoof auction#tréfás árverezés
+spoofer#svindler
+spoof#átejt;átejtés;becsap;bepaliz;svindli
+spookily#kísértetiesen
+spookiness#kísértetiesség
+spookish#kísérteties
+spookist#szellemidézõ
+spook#hazajáró lélek;jár;kísértet;látogat;szellem
+spooky#kísértet-;kísérteties;kísértetjárta
+spool#cséve;görgõ;korong;orsó;tekercs;tengely
+spoon auger#kanalas fúró
+spoonbill#kanalas gém
+spoonerism#két szó kezdõbetûinek felcserélése
+spoonfeed#spoonfed,agyontámogat;spoonfed,államilag támogat;spoonfed,belediktál vkibe vmit;spoonfed,kanállal etet
+spoonful#kanálnyi
+spoon#evezõ lapátja;evezõ tolla;kanál;kanalaz;kanálvillantó;málé;mamlasz;mer;smárol;szerelmes;szerelmeskedik
+spoony#szerelmeskedõ
+spoor#csapa;csapáz;lábnyom;nyom;nyomon követ;szag
+sporadically#elszórtan;hellyel-közzel;szórványosan
+sporadic#szórványos
+spore#spóra
+sporran#bõrerszény
+sporting#sportszerû
+sportive#játékos;mókás;tréfás
+sportman#sportoló
+sports car#sportkocsi
+sports coupe#csukott sportautó;csukott sportkocsi
+sports writer#sportújságíró
+sports#atlétika;sport-;sport
+sport#fair ember;feltûnõen hord;feltûnõen visel;felvág;gúnyolódik;idõtöltés;játék;játszik;jó haver;jó pajtás;mulat;mulatság;rendellenesen fejlõdött ember;rendellenesen fejlõdött növény;rendellenesen fejlõdött szerv;rendellenes fejlõdés alakul ki;sport;sportág;sportol;stramm fickó;szórakozás;szórakozik;testgyakorlás;tréfa;tréfál
+sporty#feltûnõ;rikító;sportos;sportszerû
+sporulation#spóraképzõdés
+spot ball#pettyes golyó
+spot cash#készpénzfizetés
+spot check#villámellenõrzés
+spot contract#készáruügylet
+spot cotton#készleten levõ pamutáru;raktári pamut
+spot deal#készáruügylet
+spot goods#azonnal szállítható áru;fizetés ellenében azonnal szállítható áru
+spotlessly#makulátlanul
+spotlessness#makulátlanság;ragyogó tisztaság;szeplõtlenség
+spotless#hótiszta;makulátlan;makulátlanul tiszta;ragyogóan tiszta;szeplõtlen
+spotlight#reflektorfény
+spot market#készárupiac
+spot parcels#rendelkezésre álló részvénypakett
+spot removal#folttisztítás
+spots#fizetés ellenében azonnal szállított áru;leopárd
+spotted#pöttyös
+spotter#bukfenc;légoltalmi figyelõ;magándetektív;titkos ellenõr;titkosrendõr;tüzérségi megfigyelõ repülõgép
+spot test#villámellenõrzés
+spotting#egyszerû filmretus-eljárás;foltok;foltok elrendezése;foltosság;foltozás;kipontozás;pettyek;színfoltok elrendezése;tüzérségi tûz megfigyelése
+spot#azonnali;bepiszkít;csepeg (esõ);csepp;csúcsfény lámpa;egy csepp;egy falat;egy harapás;elõre kiszemel;érzékeny pont;észrevesz;fájó pont;feketepontos biliárdgolyó;folt;foltossá válik;hely;helyszín;kiszúr;kondenzoros lámpa;meglát;paca;pattanás;pecsét;petty;pont;sebezhetõ pont;spotlámpa;szégyenfolt;vidék
+spotty#foltos;mocskos;pettyes;piszkos
+spoungy#szivacsos;szivacsszerû
+spouse#házastárs
+spouter#szónok
+spouting#kifecskendezés;kilövellés;szavalás;szónoklás
+spout#edény szája;elszaval;fecskendez;kifolyócsõ;kiköp;kilövell;lefolyócsõ;lövell;sugárban ömlik;vízköpõ;víztölcsér;vízsugár;zaciba csap
+sprained#kificamodott
+sprain#ficam;kificamít;megrándít;rándulás
+sprawling#burjánzó;terpeszkedõ
+sprawl#burjánzik;elterpeszkedik;szétterpeszt;terpeszkedés;terpeszkedik
+spray tower#permetezõ torony
+spray#befúj;dukkóz;fecskendez;gally;permet;permetez;permetezõ esõ;permetezõ folyadék;permetezõpalack;permetlé;porlaszt;spray;szétpermetezett mennyiség;szóró;szpré;virágzó ágacska
+spread chord#arpeggio;tört hangzat
+spreader#anyagelosztó szerkezet;elosztó;elosztó henger;enyvfelhordó készülék;felhordó henger;felrakógép;feszítõgyûrû;feszítõ henger;feszítõ szerkezet;feszítõszerkezet;feszke;földterítõ gép;furnérenyvezõ gép;habarcsterítõ szerkezet;hányóeke;hosszanti feszítõ szerkezet;kenõgép;kereszttartó;köpenyfeszítõ gép;közdarab;mázoló henger;nyomköz tágító szerkezet;nyomköztágító szerkezet;oldalfeszíték;öntözõfej;síngyalu;szalagozógép;szalagterítõ;szétosztó szerkezet;széttartó közdarab;széttartó rúd;szétterítõ henger;szórófej;szórógép;szövetgumizó gép;szövetgumizógép;szövetkenõgép;talajegyengetõ eke;távolságtartó rúd;távtartó rúd;teherelosztó;terelõ;terjesztõ;torpedó
+spread fan#kinyitott legyezõ;nyitott legyezõ
+spreading#elterjesztés;kibontás;kiegyengetés;kifeszítés;kinyújtás;kisimítás;kiterjedés;szétszéledés;szétszórás;szétszóródás;szétterítés;szóródás;terjesztés
+spreadsheet#adatbáziskezelõ
+spread table#terített asztal
+spread wings#szétterjesztett szárnyak
+spread#árrés;egészlapos hirdetés;elterjed;elterjedés;elterjesztés;eszem-iszom;fesztávolság;kenhetõ ételnemû;kenyérre kenhetõ dolog;kenyérre kent dolog;kitár;kitárt;kiterjedés;kiterjesztés;kiterjesztett;lakoma;nagy evészet;nagy kiterjedésû terület;nyílás;nyílt terület;oldalszóródás;spread,elterül;spread,terjeszkedik;stellázs-ügylet;szélesség;szétterít;szétterjesztett;szórás;takaró;terítõ;terjed;terjedelem;terjedés;terjeszkedés;terjesztés;többhasábos cikk
+spree#dáridó;lumpol;mulat;muri;stikli;tréfa;züllik
+sprightly#élénk;fürge;vidám
+sprig#ág;ágacska;fejetlen szög;gallyacska;hajtás;sarj;sarjadék
+spring bed#ruganyos ágy;rugós ágy
+springboard#trambulin;ugródeszka
+springbok#dél-afrikai csapat;dél-afrikai gazella;Dél-Afrikai Unió katonája
+springe#gyalogtõr;gyalogtõrrel fog;háló;hálóval fog;hurok;hurokkal fog
+spring gaiter#rugótok
+spring stud#rugós gomb;rugós retesz;rugós zár
+springtime#kikelet;tavasz
+spring#eredet;forrás;megvetemedés;repedés;rugalmasság;ruganyosság;rugó;sprang,sprung,adódik vmibõl;sprang,sprung,becsap;sprang,sprung,börtönbõl megszöktet;sprang,sprung,bújik;sprang,sprung,elhasít;sprang,sprung,elõidéz;sprang,sprung,ered;sprang,sprung,fakad;sprang,sprung,felriaszt;sprang,sprung,felrobbant;sprang,sprung,felszökik;sprang,sprung,feltör;sprang,sprung,felver;sprang,sprung,fogságból megszöktet;sprang,sprung,hajlít;sprang,sprung,hirtelen támad;sprang,sprung,ível;sprang,sprung,keletkezik;sprang,sprung,készít;sprang,sprung,kiindul;sprang,sprung,kinõ;sprang,sprung,kitalál;sprang,sprung,meggörbül;sprang,sprung,meghajlik;sprang,sprung,megpattan;sprang,sprung,megreped;sprang,sprung,megrepeszt;sprang,sprung,megvetemedik;sprang,sprung,megvetemít;sprang,sprung,pattan;sprang,sprung,rugóval ellát;sprang,sprung,rugóz;sprang,sprung,sarjad;sprang,sprung,származik;sprang,sprung,szökell;sprang,sprung,szökik;sprang,sprung,szökken;sprang,sprung,támad;sprang,sprung,tör;sprang,sprung,ugrik;sprang,sprung,visszaugrik;sprang,sprung,visszavág;tavasz;ugrás
+springy#rugalmas;ruganyos
+sprinkler#locsolófej;öntözõfej
+sprinkle#beszór;hint;meghint;permetez;szór
+sprint#sprintel;vágtázik
+sprite#manó;tündér
+sprocket#csillagkerék;fog;láncdió;lánckerék
+sprout#bimbó;csíra;csírázik;hajtás;kihajt;nõ;rügy;sarj;sarjadék;sarjadzik
+spruce#csinos;elegáns;lucfenyõ;takaros
+spry#fürge;virgonc
+spume#hab;spuma;tajték;tajtékzik
+spunk#bátorság;geci;gyújtós;mersz;tapló
+spunky#mokány
+spurious#ál;hamis
+spurn#elkerget;elutasít;elutasítás;megvet;megvetés;mellõz
+spurt#hajrá;hajrázik;hirtelen kitörés;kilövellés;nagy hajrát vág ki;sugár
+spur#kiszögellés;lóhalálában vágtat;megsarkantyúz;nyúlvány;ösztökél;ösztökélés;ösztönzés;sarkall;sarkantyú;sarkantyúz
+sputter#fröcsög a nyála;hadar;hadarás;hadaró beszéd;hadarva beszél;köpköd;köpködõ beszéd;köpködve beszél;köpködve elhadar;serceg;szikrát hány;szikrát vet
+spy#besúgó;észrevesz;kém;kémkedik;kutat;meglát;megpillant;spion;vizsgál;vizsgálódik

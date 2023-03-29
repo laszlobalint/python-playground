@@ -1,0 +1,58 @@
+ivory black#csontfekete
+ivory#elefántcsont;elefántcsontszínû
+ivy#borostyán;repkény
+jabber#csacsog;csacsogás;fecseg;fecsegés;hadar;hadarás
+jab#döf;döfés;injekció;lök;üt;ütés
+jackass#hím szamár;szamár ember
+jackboots#térden felül érõ csizma
+jackdaw#csóka
+jacket#köpeny;krumplihéj;zakó
+jackhammer#légkalapács
+jackstay#árbocra erõsített vitorlavezeték;ormánytarcs;rövid zászlórúd
+jack#bubi;cimbora;dugasz;emelõ;emelõvel emel;fénnyel halászik;fénnyel vadászik;hím állat;jumbó;kocsiemelõ;orrárboc-zászló
+jaded#elcsigázott;eltompult;holtfáradt;megcsömörlött
+jade#agyonhajszol;gebe;jade;kimerít;szajha;zöld nefrit
+jagged#csorba;fûrészfogú;kicsorbult;recés
+jaguar#jaguár
+jag#csipkézet;fog;fogaz;megszaggat;rovátka;rovátkol;szaggat
+jailbird#börtöntöltelék
+jailer#börtönõr
+jailhouse#börtön;dutyi
+jail#börtön;dutyi;fogda
+jamb#ablakdúc;ablakfélfa;ajtódúc;ajtófélfa
+jam#akad;akadozik;beékel;beszorulás;dzsem;elakad;forgalmi torlódás;gyümölcsíz;kelletlen helyzet;lekvár;megakaszt;összezúz;présel;tolongás;torlódás;zavar;zúz;zsúfol
+jangle#civakodás;civakodik;civódás;csörget;csörög;csörömpöl;csörömpölés;csörömpöltet;diszharmónia;diszharmonikus hangokat hallat;disszonáns hangokat hallat;fecseg;fecsegés;hangzavar;lárma;lármázik;locsog;locsogás;pörlekedés;rossz hangzás;üres fecsegés;veszekedés;veszekszik;zaj;zajong;zörget;zörög
+janitor#ajtónálló;cerberus;gondnok;házfelügyelõ;házmester;iskolai altiszt;kapus;pedellus;portás;segéd-házfelügyelõ
+janitress#házmesternõ;kapusnõ;portásnõ
+japan current#kuro-sivo
+japan enamel#fekete lakk;japánlakk
+japanese#japán;japán ember;japán nyelv
+japanned#fényezett;lakkal bevont;lakkozott
+japanner#fényezõ;lakkozó
+japanning#fényezés;lakkal bevonás;lakkozás;zsaponlakk
+japan stream#kuro-sivo
+japan#fényez;japán;Japán;japán lakk;japán porcelán;lakkal bevon;lakkoz;szigetelõlakk;szigetelõlakk
+jape#csipkelõdés;csipkelõdik;évelõdik;évõdés;gúnyolódás;gúnyolódik;hecc;kötekedés;kötekedik;tréfa;tréfálkozás;tréfálkozik;vicc
+japon earth#kasu
+japonica#japán birs;japán rózsa;kamélia
+japonic#japán
+japonism#japán mûvészet kedvelése;japán világ kedvelése
+japon#japán
+jap#japán
+jargon#zsargon
+jarring#civakodás;csikorgás;csikorgó;diszharmonikus;diszharmonikus hang;egyetértés hiánya;ellentétes;elütõ;fülsértõ;hamisan hangzó;kellemetlen benyomást keltõ;kellemetlen hatást keltõ;kopogás (motoré);lökés;megrázkódtató;megrendítõ;nem egyetértõ;nézeteltérés;nyikorgás;nyikorgó;rázkódás;rengés;rezgés;rezgõ;sercegés;sercegõ;ütõdés;veszekedés;vibrálás;vibráló;viszály
+jar#agyagedény;agyagkorsó;bánt;bántó hang;beleütközik;borzol;bögre;civakodás;civódik;cserépbödön;csikorgás;csikorog;diszharmonikus hang;diszharmonikus hangot ad;diszharmonikus hangot hallat;disszonáns hangot ad;disszonáns hangot hallat;dunsztos üveg;egyetértés hiánya;egymásba csúsztatható fúrókapcsoló hüvely;egymásba csúsztatható fúrókapcsoló rudazat;éles hang;elüt;fülsértõ hangot ad;fülsértõ hangot hallat;kellemetlen hang;kellemetlen hangot ad;kellemetlen hangot hallat;kellemetlen hangzás;korsó;köcsög;lekváros üveg;lökés;lökésszerûen megy;meglök;megrázkódtatás;megrendülés;megtaszít;nekiütõdik;nem ért egyet;nyikorgás;nyikorog;összezördül;összezördülés;összezörrenés;rázkódás;rengés;rezeg;serceg;sercegés;sért (fület);tégely;veszekedés;veszekedik;veszekszik;vibrál;zökkenés;zökkenõkkel megy
+jaundiced#irigy;sárgaságban megbetegedett
+jaundice#irigység;sárgaság
+jauntily#hetykén;könnyedén;vidáman
+jauntiness#könnyedség;vidámság
+jaunt#kirándulás;kirándulást tesz;séta
+jaunty#hetyke;könnyed;vidám
+javanese#jávai
+jawbone#állkapocscsont
+jawbreaker#fogakkal ellátott kõtörõ;kerek kemény cukorka;nyelvtörõ
+jawed#állkapcsú
+jaws#állkapocs;tátongó nyílás;torkolat;völgytorkolat
+jaw#állkapocs;befogópofa;duma;pofa;pofázik;szövegel;szövegelés
+jazz#dzsessz;dzsessz-stílusban játszik;dzsesszt játszik;zajos zenebona
+jazzy#dzsessz-szerû;rikító;vadul élénk

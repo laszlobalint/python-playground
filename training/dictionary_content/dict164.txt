@@ -1,0 +1,15 @@
+utensils#felszerelés
+utensil#eszköz;szerszám
+uterus#méh
+utilitarian#haszonelvû;haszonlesõ;utilitarista
+utility#használhatóság;haszna vminek;hasznosság;haszon;haszonelvûség;közmû;közszolgáltatási vállalat;másodrendû;mindenre használható dolog;mindenre használható ember;rossz minõségû;silány;típus-;tótumfaktum;utilitarizmus
+utilization#felhasználás;hasznosítás;kiaknázás;kihasználás
+utilize#felhasznál;hasznosít;kiaknáz;kihasznál
+utmost#legnagyobb;legszélsõ;legtávolabbi;legtöbb;legvégsõ;maximális
+utopianism#utópiák kergetése;utópista idealizmus
+utopian#délibábos;utópiákban élõ ember;utópiák kiagyalója;utópista;utópista szocializmus követõje;utópisztikus
+utopia#utópia
+utopist#utópista
+utterance#beszédmód;hangképzés;kibocsátás;kiejtés;kifejezése vminek;kijelentés;kimondása vminek;megnyilatkozás;vminek a kifejezése;vminek a kimondása
+utterly#egészen;teljesen
+utter#abszolút;forgalomba hoz;írásban kifejez;kiejt;kimond;legteljesebb;szóban kifejez;teljes;tökéletes;végleges

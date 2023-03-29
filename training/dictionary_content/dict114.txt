@@ -1,0 +1,89 @@
+oracle#jós;jóshely;jóslat;nagy bölcs;nagy bölcsesség;orákulum
+oracular#jóslatszerû;kétértelmû;magát csalhatatlannak képzelõ;rejtett értelmû
+oral test#referálás;szóbeli vizsga;vizsgafelelés;vizsgafelelet;vizsgakérdések
+orange juice#narancslé
+orangery#narancs illatú parfüm;narancsvirág illatú parfüm;pálmaház;üvegház
+orange skin#narancshéj
+orange#narancs
+oration#nyilvános beszéd;szónoklat
+orator#felperes;panaszos;szónok
+oratory#ékesszólás;szónoki képesség;szónoki tehetség;szónoklás mûvészete
+orbital#orbitális;pálya-;pályamenti;szemüregi
+orbiter#mesterséges ûrbolygó;ûrhajó
+orbit#hatáskör;kering;keringési pálya;körpálya;mûködési terület;pálya;szemgödör;szemüreg;ûrpálya
+orb#égitest;gömb;országalma;szemgolyó
+orchard#gyümölcsöskert
+orchestrate#hangszerel;zenekarra feldolgoz
+orchestrator#hangszerelõ
+orchestra#zenekar;zsöllye
+orchid#kosbor;orchidea
+orc#gyilkos bálna;kardszárnyú delfin
+ordain#elrendel;felszentel;meghagy;pappá szentel
+ordeal bean#kalabárbab
+ordeal#istenítélet;megpróbáltatás
+orderliness#jó magaviselet;rend;rendszeretet;szabályosság;szép rend
+orderly#fegyelmezett;jó magaviseletû;küldönc;nyugodt;precíz;pucer;rendes;rendesen viselkedõ;rendszeres;rendszeretõ;szabályos;szófogadó;szolgálatban levõ;szolgálatos;tisztiszolga
+order sheet#megrendelõlap
+orders#elõírás
+order#elõír;elrendel;elrendez;érdemrend;felszentel;határozat;igazgat;lovagrend;megbízás;megparancsol;megrendel;megrendelés;osztály;pappá szentel;parancs;parancsol;rang;rend;rendel;rendelés;rendelet;rendez;rendjel;rendszer;sorrend;szabály;szerzetesrend;társadalmi osztály;utalvány;utasítás;vezényel
+ordinal#rend-;sor-;sorrendi;sorszámnév
+ordinance#elõírás;rendelet;szertartás
+ordinarily#általában
+ordinariness#általánosság;átlagosság;hétköznapiság;közönségesség
+ordinary#általános;átlagos;hétköznapi;közönséges;menü;rendes;rituálé;szokásos;vendéglõ
+ordnance#anyagi ellátás;anyagi szolgálat;szertári ellátás;szertári szolgálat
+ore bunker#ércbunker;érctartály
+ore#érc
+orfe#jászkeszeg;ónos jász
+orf#jászkeszeg;ónos jász
+organdie#organtin
+organdy#organtin
+organic#szerves
+organised#szervezett
+organism#organizmus;szervezet
+organist#orgonista
+organization#szervezés;szervezet
+organ#emberi hang;érzékszerv;hírközlõ szerv;orgánum;orgona;szerv
+organzine#organzin;organzint sodor
+orgasmic#orgazmus-;orgazmussal kapcsolatos
+orgasm#érzelmi felindulás;érzelmi kitörés;kéjérzet tetõfoka;orgazmus
+orgastic#orgazmussal kapcsolatos
+orgy#orgia;tobzódás
+orientalism#keleti életforma;keleti szokás;orientalisztika
+orientalist#orientalista
+oriental#keleti
+orientate#betájol;igazodik;keletel;kelet felé tájol
+orientation#eligazítás;eligazodás;irány;keletelés;kelet felé fordulás;orientáció;politikai irány;tájékozódás;tájékoztatás
+orienteering#tájékozódó futás;tájfutás
+orienteer#tájfutó
+orient#betájol;csillogó;emelkedõ;felkelõ;fénylõ;hajnal;igazodik;kelet;keletel;kelet felé tájol;keleti;napkelet;ragyogó
+orifice#kiömlõnyílás;szájnyílás
+origami#origami;papírból hajtogatott figura
+originality#eredetiség
+original#eredendõ
+originally#eredetileg
+originate#ered;létesít;létrehoz;származik;teremt
+originator#alkotó;értelmi szerzõ;kezdeményezõ;létrehozó;okozó;szerzõ
+origin#eredet;származás
+orison#ima;imádság
+ornamental#díszítõ
+ornaments#dísztárgyak
+ornament#dísz;díszít;díszítés;díszítmény;dísztárgy;ékesít;ékesség;feldíszít
+ornate#díszes;ékes;választékos
+ornery#átlagos;csökönyös;harapós természetû;komisz;makacs;mérges természetû;nehezen kezelhetõ;normális;rendes
+ornithology#madártan;ornitológia
+orography#tagoltság
+orphanage#árvaház;árvaság
+orphan#árva
+or rather#helyesebben szólva;illetõleg;illetve;jobban mondva;vagyis inkább
+or something#vagy valami hasonló
+orthodontia#fogszabályozás
+orthodontics#fogszabályozás;fogszabályozástan
+orthodontist#fogszabályozó orvos
+orthodox#bevett;hagyományos;óhitû;ortodox
+orthodoxy#igazhitûség;óhitûség
+orthopaedic#ortopéd;ortopédiai;testegyenészeti
+orthopaedics#ortopédia;testegyenészet
+orthopaedist#ortopéd orvos;ortopéd sebész
+orthopaedy#ortopédia;testegyenészet
+orts#ételmaradék

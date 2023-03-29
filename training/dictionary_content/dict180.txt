@@ -1,0 +1,12 @@
+zodiac#állatöv;zodiákus
+zombie#boszorkánysággal feltámasztott halott;buta ember;fajankó;mágiával életre keltett hulla;önkéntes tengerész szolgálattól húzódozó újonc;reaktivált ember;tökfej;unalmas ember;varázslattal feltámasztott halott
+zone#éghajlati öv;égöv;földöv;körzet;öv;övezet;sáv;zóna
+zoning#övezeti rendszer;sávokra osztás
+zonker#piás;szeszkazán
+zonk#kicsinál;kidögleszt;kifáraszt;kikészít;kimerít
+zoological#állat-;állati;állattani;zoológiai
+zoologist#állattan-tudós;zoológus
+zoology#állattan;állatvilág;zoológia
+zoom lens#gumilencse;gumiobjektív
+zoom#búg;függõleges emelkedés;függõleges felrántás;gyertyát repül;meredeken emelkedik;zúgás;zümmög
+zoo#állatkert;börtön;dutyi;fegyház;siti

@@ -1,0 +1,192 @@
+anachronism#anakronizmus;korszerûtlenség;kortévesztés
+anaemia#anémia;vérszegénység
+anaemic#anémiás;erõtlen;sápadt;vérszegény
+anaesthesia#érzéketlenség;érzéstelenítés;érzéstelenség
+anaesthetic#érzéstelenítõ;érzéstelenítõ szer
+anaesthetist#aneszteziológus;érzéstelenítõ orvos;érzéstelenítõ szakorvos
+anagrammatic#anagrammás
+anagram#anagramma
+analeptic#élénkítõ;élénkítõ szer
+analgesia#analgézia;fájdalomérzés hiánya
+analgesic#érzéktelenítõ;érzéktelenséget elõidézõ;fájdalmatlan;fájdalomcsillapító;fájdalommentes;fájdalom nélküli;fájdalomtalan
+analgetic#érzéktelenítõ;érzéktelenséget elõidézõ;fájdalomcsillapító;fájdalommentes;fájdalom nélküli;fájdalomtalan
+analogously#analógia alapján;hasonlóság alapján
+analogous#analóg;hasonló;megfelelõ;rokon
+analogue#analóg dolog;analóg eset;analógiája vminek;hasonló dolog;hasonló eset;vminek az analógiája
+analog#analóg dolog;analóg eset;analógiája vminek;hasonló dolog;hasonló eset;vminek az analógiája
+analogy#analógia;hasonlóság;megfelelés
+analyse#analizál;elemez;megvizsgál;vizsgál
+analyze#analizál;elemez;megvizsgál;vizsgál
+anarchical#anarchisztikus;fejetlen;felforgató;rendbontó;rendezetlen;törvény nélküli;zûrzavaros
+anarchic#anarchisztikus;fejetlen;felforgató;rendbontó;rendezetlen;törvény nélküli;zûrzavaros
+anarchy#anarchia;bomlás (rendé)
+anatomical#anatómiai;bonctani
+anatomically#anatómiailag;anatómiai szemszögbõl;anatómiai szemszögbõl nézve;bonctanilag;bonctani szemszögbõl;bonctani szemszögbõl nézve
+anatomist#anatómus;boncoló
+anatomize#boncol;boncolgat;elemez;felboncol;ízekre szed;taglal
+anatomy#anatómia;anatómiai készítmény;anatómiai preparátum;boncolás;bonctan;csontváz;múmia;taglalat
+ancestor#elõd;õs
+ancestral#õsi
+ancestry#eredet;õsök;származás
+anchorage#horgonyzás;horgonyzási díj;horgonyzóbér;horgonyzóhely;kifeszítés;lehorgonyzás;lekötés;lerögzítés;pillérképzés;remetebarlang;remetelak;remete tanyája;rév;rögzítés
+anchor deck#horgonyfedélzet
+anchorman#mûsorvezetõ
+anchor#biztosít;horgony;horgonyt vet;lehorgonyoz;mûsorvezetõ;rögzít;vasmacska
+anchovy#ajóka
+ancient#antik;õsi;régi
+ancillary#alárendelt;mellék-;mellékes
+and not#úgy,hogy ne;úgy,hogy nem
+and#és;ha;meg;mintha
+anecdote#adoma;anekdota
+anemia#anémia;vérszegénység
+anemone#anemóna;szellõrózsa
+anesthesia#érzéketlenség;érzéstelenítés;érzéstelenség
+anesthetic#érzéstelenítõ;érzéstelenítõ szer
+anesthetist#aneszteziológus;érzéstelenítõ orvos;érzéstelenítõ szakorvos
+anesthetize#érzéstelenít
+aneurism#aneurizma;körülírt ütõértágulat
+aneurysm#aneurizma;körülírt ütõértágulat
+anew#újból;újra
+angel bed#oszlop nélküli mennyezetes ágy
+angel face#angyalarc;ártatlan arckifejezés;gyerekarcú tisztecske;szelíd arckifejezés;tejfelesszájú tisztecske
+angelica#angyalgyökér
+angelic#angyali
+angel sleeves#bõ könyökig érõ ruhaujj
+angelus#angyali üdvözlet;úrangyala
+angel#angyal;angyalos tallér;balek;csendestárs;finanszíroz;finanszírozó;hiszékeny ember;kedvenc;mafla ember;pali;pénzel;szájtáti ember
+anger#bosszant;bosszúság;düh;felbosszant;felmérgesít;harag;indulat;méreg;mérgesít
+angled#szögletes
+angler#horgász
+angle#egyoldalúan állít be vmit;elferdít (hírt);elfordít;elfordul;eltér;eltérít;ferdén elfordul;figyelem középpontjába állít;hangsúlyoz;horgászik;keresztbe üt;keresztlabdákkal játszik;kiélez;meghajlít;sarok;szempont;szemszög;szög;szögalakban meghajlít;szögben elfordul;törekszik vmire
+angry look#dühös pillantás
+angry#mérges
+anguished#elkínzott;meggyötört
+anguish#aggodalom;aggódik;gyötrelem;gyötrõdés;gyötrõdik;kín;kínlódik
+angular#esetlen;merev;szögletes
+anhydrous#kötött vizet nem tartalmazó;kristályvizet nem tartalmazó;száraz;vízmentes
+animal fat#állati zsír;állati zsiradék
+animalistic#állati;állatias
+animal needs#emberi szükségletek;testi szükségletek
+animal oil#állati olaj
+animal stock#állatállomány
+animal test#állatkísérlet
+animal#állat-;állat;állati;élõlény
+animatedly#élénken;élénk hangon;élénk tekintettel;elevenen;hévvel;lendületesen
+animated#élénk;eleven;élõ;lendületes
+animate#élénkít;életet önt;élettel teli;elevenít;élõ;felélénkít;lelkesít;megelevenít;serkent
+animating#serkentõ
+animation#élénkség;életre keltés;elevenség;rajzfilmkészítés;vidámság
+animism#animizmus;spiritualizmus
+animistic#animista;animisztikus
+animist#animista
+animosity#ellenségeskedés;gyûlölet
+animus#gyûlölet
+ankle boot#bakancs
+ankle pad#bokavédõ
+ankle socks#bokafix
+anklet#bokafix;bokaperec;bokazokni;kamásli
+ankle#boka
+annalist#évkönyvíró;krónikás
+annals#évkönyvek;krónika
+anneal#edz;izzít;lágyít;megereszt;temperál
+annexation#bekebelezés;elfoglalás;hozzácsatolás
+annex#bekebelez;csatol;elfoglal;épületszárny;függelék;hozzácsatol;hozzáépít;hozzáfûz;hozzátold;mellékel;melléképület;melléklet;pótlás;toldaléképület
+anniversary#évforduló
+annotate#jegyzeteket készít;jegyzetekkel ellát;jegyzetet készít
+annotation#kommentár;magyarázó jegyzet
+announcement#bejelentés;hirdetmény;kiírás;közlemény
+announcer#bemondó
+announce#bejelent;bemond;kihirdet;közöl;meghirdet
+annoyance#bosszúság;kellemetlenség;nyûg;zaklatás
+annoyingly#bosszantóan
+annoying#bosszantó
+annoy#bánt;bosszant;idegesít
+annual nettle#nagy csalán
+annual ring#évgyûrû
+annual#egy évi;egynyári növény;évenkénti;évi;évkönyv
+annular#gyûrû-;gyûrûs
+annulment#érvénytelenítés;megsemmisítés;megszüntetés
+annulus#bolygómû-külsõgyûrû;csõköz;körgyûrû
+annul#eltöröl;érvénytelenít;megsemmisít;töröl;visszavon
+annunciation#angyali üdvözlet;bejelentés;Gyümölcsoltó Boldogasszony;kihirdetés;kinyilatkoztatás;közhírré tétel
+anode#anód;antikatód
+anointing#bedörzsölés;felkenés;felszentelés;megkenés
+anoint#bedörzsöl;beken;felken;felszentel
+anomalous#rendellenes;rendhagyó;szabálytalan
+anomaly#anomália;rendellenesség;szabálytalanság
+anon#azonnal;ismeretlen;íziben;más alkalommal;máskor;mindjárt;névtelen;névtelen szerzõ;parancsolatára;rögtön;rögvest;szolgálatára;tüstént;üstöllést
+anonymity#ismeretlenség;névtelenség
+anonymously#névtelenül
+anonymous#névtelen
+anonym#álnév;névtelen;névtelen szerzõ
+anorak#anorák;orkándzseki
+answer#felel;felelet;megfelel vminek;megoldás;megoldás (feladaté);megválaszol;válasz;válaszol
+antagonism#antagonizmus;ellenséges érzület;ellentét
+antagonistic#antagonisztikus;ellenséges;ellentétes
+antagonist#ellenfél
+antagonize#ellenszegül;szembeszáll
+anteater#hangyász
+antecedence#elsõbbség;prioritás
+antecedents#elõélet;õsök
+antecedent#elõtag;elõzmény;korábbi;megelõzõ
+antechamber#elõszoba;elõszobázik;várószoba
+antedate#antedatál;elõbb történik;elõmozdít;kivált;korábbi keltezés;korábbra keltez;megelõz;siettet
+antelope#antilop
+antenna#antenna;csáp;tapintó;tapintó szerv
+anteroom#elõcsarnok;elõszoba;várószoba
+ante#alapot betesz;alap (pókerban);fizeti a részét
+anthem#himnusz
+anthill#hangyaboly
+anthology#antológia
+anthracene#antracén
+anthrax#anthraces,fekete gyászlégy;anthraces,furunkulus;anthraces,karbunkulus;anthraces,lépfene;anthraces,lépfenés pattanás;anthraces,lépfenés üszög;anthraces,pokolvar;anthraces,rosszindulatú kelés
+anthropology#antropológia;embertan
+antiaircraft#légelhárító;légvédelmi
+antibiosis#antibiózis
+antibiotic#antibiotikum;antibiotikus
+anticipated#elõrelátott;idõ elõtti;remélt
+anticipate#elõbbre hoz;elõrebocsát;elõre meglát;idõ elõtt megtesz;megelõz;megérez;siettet
+anticipation#elébevágás;elõérzet;elõrelátás;megelõzés;megérzés;várakozás
+anticipatory#elõlegzett;elõzetes;megelõzõ;várható
+anticlimatic#közönségeshez visszatérõ;normálishoz visszatérõ
+antics#bohóckodás
+antidote#ellenméreg;ellenszer
+antifreeze#fagyálló folyadék
+antimonial#antimonos;antimon tartalmú
+antimoniate#antimoniát
+antimonic#antimon-
+antimonide#antimonid
+antimonious#antimonos
+antimony#antimon
+antipathetic#antipatikus;ellenszenves
+antipathy#antipátia;ellenszenv;idegenkedés
+antiquated#divatjamúlt;elavult;ósdi;régimódi
+antique#antik;antik tárgy;ódon;ódonság;ókori;régi;régies;régimódi;régiség
+antiquities#antikvitás;régiség;régiségek
+antiquity#ókor;ókoriak
+antiseptic#antiszeptikum;antiszeptikus;fertõzésgátló;fertõzésgátló szer
+antitetanic#tetanusz elleni;tetanusz elleni szer
+antithesis#antitheses,antitézis;antitheses,ellentét;antitheses,különbözõség;antitheses,szembeállítás
+antithetical#ellentétes
+antithetic#ellentétes
+antiwar#háborúellenes
+antler#agancs
+antonym#ellenkezõ értelmû szó
+antsy#be van sózva;ideges;izgékony;nyugtalan
+ant#hangya
+anus#végbélnyílás
+anvil dross#fémforgács;fémreszelék;fémszilánk
+anvil#üllõ
+anxiety#aggály;aggodalom;aggódás
+anxious#aggódó;nyugtalan
+any amount#sok
+anybody#akárki;bárki;valaki
+any further#tovább
+anyhow#akárhogyan;így is úgy is;különben is;mindenesetre;mindenképpen;valahogyan
+any longer#tovább
+anymore#többé
+any number#sok
+anyplace#bárhová
+anyway#akárhogy;akárhogyan;így is úgy is;különben is;mindenesetre;mindenképpen;valahogy;valahogyan
+anywhere#akárhol;bárhol;bárhová;sehol;sehová;valahol;valahová
+any#akárki;akármi;bárki;bármely;bármelyik;bármi;semmivel;valaki;valami;valamivel

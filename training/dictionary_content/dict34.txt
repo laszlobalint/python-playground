@@ -1,0 +1,684 @@
+deaconess#diakonissza
+deacon#diakónus
+deactivate#hatástalanít
+dead account#holtszámla
+dead acid#fáradt pácolófürdõ
+dead angle#holt szög;holttér
+dead asleep#mély álomban;mélyen aludva
+dead axle#holttengely
+dead ball#holt labda;játékon kívüli labda
+dead bargain#színlelt ügylet;színlelt vétel
+deadbeat#csavargó;elcsigázott
+dead beat#élõsködõ ember
+deadbeat#fáradt;halálra fáradt
+dead beat#holtfáradt
+deadbeat#holtfáradt;kéregetõ;kimerült;lecsúszott ember
+dead beat#mihaszna alak
+deadbeat#pénztelen ember;pumpoló;teljesen elcsigázott;tolakodó koldus
+dead body#holttest;hulla;tetem
+dead bolt#kulcsra nyíló zár
+dead bowl#túldobott golyó
+dead broke#teljesen leégve;teljesen tönkrement
+dead calm#teljes szélcsend
+dead cell#kiégett elem
+dead cert#holtbiztos dolog
+dead channel#holtág
+dead city#kihalt város
+dead colour#alapozás;alapozó réteg;fakó szín
+dead cottage#lakatlan kunyhó
+dead crystal#megsüketült kristálydetektor
+dead drunk#holtrészegen
+dead duck#menthetetlen dolog;menthetetlen ügy
+dead earth#teljes földzárlat
+deaden#állott ízûvé tesz;állott ízûvé válik;csillapít;csökken;elfojt;elkábít;eltompít;elzsongít;enyhít;fénytelenít;fojt;gyengít;gyengül;megtör (bort);megtörik (bor);tompít;tompul
+dead faint#eszméletlenség;halálos ájulás;kóma;mély ájulás;mély ájultság;teljes ájulás
+dead fire#kialudt tûz
+dead freight#holtfuvar
+dead glacier#mozdulatlan gleccser
+dead gold#óarany
+dead ground#holttér;közvetlen földzárlat;meddõ kõzet
+dead hand#balkezes ember;holtkéz;ügyetlen ember;ügyetlen segítség
+dead heat#holtverseny
+dead hedge#száraz sövény
+dead hole#lõzsák;vakfurat
+dead horse#elõre kifizetett munka
+dead interval#üzemszünet
+dead language#holt nyelv
+dead letter#írott malaszt;kézbesíthetetlen levél
+deadline#határidõ;lapzárta
+dead list#halottak névsora
+dead load#holtsúly;holtteher;önsúly
+dead loan#behajthatatlan kölcsön
+deadlock#holtpont;kibogozhatatlan helyzet;kulcsra nyíló lakat;kulcsra nyíló zár;megoldhatatlan helyzet;reteszzár;zsákutca
+dead loss#teljes veszteség;tiszta veszteség
+deadly feud#halálos ellenségeskedés;véres viszály
+deadly pale#halálsápadt;halotthalvány
+deadly#halálos;halálosan
+dead market#csendes piac;csendes tõzsde;üzlettelen piac;üzlettelen tõzsde
+dead matter#élettelen anyag;elosztható szedés;holt anyag;szétbontásra váró szedés
+dead money#fekvõ tõke;holt tõke;nem dolgozó tõke
+deadness#élettelenség;közöny
+dead nettle#árvacsalán;fehércsalán;holtcsalán
+deadpan#pléhpofa
+dead point#holtpont
+dead room#teljesen hangszigetelt szoba
+dead sand#égett homok;fáradt homok
+dead season#holt idény;holtszezon
+dead secret#hétpecsétes titok;mély titok
+dead shot#kitûnõ céllövõ
+dead silence#halotti csend;síri csend
+dead slack#holt idény
+dead soberly#halálkomolyan
+dead sound#tompa hang
+dead space#holttér;káros tér
+dead square#holt felület;kihasználatlan felület;pontos négyzet
+dead steam#fáradt gõz
+dead stop#hirtelen megállás
+dead tired#holtfáradt;holtfáradtan
+dead true#feltétlen igaz;feltétlen pontos;feltétlenül igaz;feltétlenül pontos;halálosan pontos
+dead volcano#kialudt vulkán;kiégett vulkán
+dead weight#saját súly
+dead well#feneketlen kút
+dead white#fakó fehér;fénytelen fehér;matt fehér
+dead window#vakablak
+dead wind#ellenszél
+dead wire#áram nélküli vezeték;feszültség nélküli vezeték;üzemen kívüli drót;üzemen kívüli vezeték
+dead woman#halott
+dead wool#döggyapjú
+dead#egészen;élettelen;elhunytak;elköltözöttek;érzéketlen;halott;hirtelen;holt;holtan;hulladék anyag;meddõ;meddõ törmelék;pontos;teljes;teljesen;tökéletesen
+deafening#fültépõ
+deafen#megsüketít;süketít;szigetel;tompít
+deafness#süketség
+deaf#süket
+dealer#kártyaosztó;kereskedõ;osztó
+dealings#kapcsolat;üzelmek
+dealing#bánásmód;viselkedés
+deal#alku;bánásmód;dealt,ad (ütést);dealt,oszt (kártyát);eljárás;fenyõfa deszka;kártyaosztás;mennyiség;üzlet
+dean#dékán
+dearly loved#hõn szeretett;igen szeretett;nagyon szeretett
+dearly#drágán;keservesen;mélységesen;nagyon is
+dearness#drágaság
+dearth#hiány;ínség
+dear#drága;drágán;kedves;költséges
+deathbed#halálos ágy
+death feud#halálos ellenségeskedés;véres viszály
+death house#siralomház
+deathly#halálos;halálosan
+death penalty#halálbüntetés
+deaths#gyászjelentések;halálesetek
+death#halál;haláleset;halálosan
+debacle#bukás
+débâcle#bukás
+debacle#iszapomlás;jégzajlás;összeomlás
+débâcle#összeomlás
+debar#elzár;kirekeszt;megakadályoz;megtilt
+debasement#devalválás;lealacsonyítás;leértékelés
+debase#lealáz;leértékel;leront
+debatable#vitatható
+debate#megvitat;vita;vitat;vitatkozik
+debauchable#elzülleszthetõ;megrontható;zülleszthetõ
+debauched#erkölcsileg romlott;romlott;züllött
+debauchee#korhely;züllött alak
+debaucher#csábító;megrontó
+debauchery#csábítás;dezertálásra való csábítás;dorbézolás;dõzsölés;elcsábítás;erkölcsrontás;erkölcstelenség;katonaszöktetés;kicsapongás;munkahely elhagyására csábítás;züllés
+debauch#dorbézolás;dõzsölés;elcsábít;elzülleszt;kicsapongásra csábít;megront;züllés
+debenture#adóslevél;járadékkötvény;vámvisszatérítési bizonylat
+debilitant#erõtlenítõ;erõtlenítõ szer;gyengítõ;gyengítõ szer;legyengítõ;legyengítõ szer
+debilitate#elerõtlenít;elgyöngít;legyöngít;meggyengít
+debilitation#elerõtlenedés;elerõtlenítés;elgyengítés;elgyengülés;legyengítés;legyengülés
+debility#erõtlenség;gyengeség;kimerültség;nagyfokú gyengeség
+debone#kicsontoz
+debrief#kihallgat
+debris#hulladék;mállási termék;romhalmaz;romok;roncs;törmelék
+debtor#adós
+debt#adósság
+debunk#igaz valójában mutat be vmit;lehûti a lelkesedést;leleplez;leplet leránt;leszól;nimbuszt leront;nimbuszt megsemmisít;rejtélyességétõl megfoszt vmit;rejtélyt leleplez;szenzációtól megfoszt vmit
+debutante#elsõ bálozó
+débutante#elsõ bálozó
+debut#bemutatkozás
+début#bemutatkozás
+debut#elsõ fellépés
+début#elsõ fellépés
+deb#elsõbálos lány
+decadence#dekadencia;hanyatlás;romlás
+decadent#dekadens;hanyatló
+decade#évtized
+decal#matrica
+decamp#elinal;elkotródik;eloson;felszedi a sátorfáját;meglép;tábort bont;távozás hímes mezejére lép
+decantation#átöntés;áttöltés;dekantálás;iszapolás;lefölözés;leöntés;leszûrés;ülepítés
+decanter#asztali üveg;derítõedény
+decanting#átöntés;áttöltés;dekantálás;iszapolás;leszûrés;ülepítés
+decant#áttölt;dekantál;hígját leönti;iszapol;lefölöz
+decapitate#állásból eltávolít;lefejez;lenyakaz
+decapitation#állásból való eltávolítás;fejvesztés;lefejezés;lenyakazás
+decaying#düledezõ;elhaló;hanyatló;korhadó;odvasodó;romló;rothadó;süllyedõ;szuvasodó
+decay#bomlás;bomlik;hanyatlás;hanyatlik;korhad;pusztul;romlás;romlik;rothadás;szuvasodás;szuvasodik
+deceased#elhunyt;néhai
+decease#halál;meghal
+deceitful#álnok;csaló;hamis
+deceit#csalárdság;csalás;megtévesztés
+deceive#becsap;megcsal;megtéveszt
+decelerate#lassít;sebességet csökkent
+deceleration#sebesség csökkenése
+decency#illem;illendõség;tisztességtudás
+decent#illedelmes;illõ;megfelelõ;rendes;tisztességes;tûrhetõ
+deception#csalás;csalódás;fortély;tévedés
+deceptive#álnok;csalfa;megtévesztõ
+decidedly#elszántan;határozottan;kétségkívül;kifejezetten;tagadhatatlanul
+decided#elszánt;eltökélt;határozott;kifejezett;megdönthetetlen;tagadhatatlan
+decide#dönt;eldönt;elhatároz;határoz
+deciduous#agancsváltó;lombhullató;múlékony;nem állandó
+decimate#megtizedel;tizedel
+decimation#megtizedelés;tizedelés
+decipherable#megfejthetõ;olvasható
+decipher#kibetûz;megfejt;megold
+decision#döntés;elhatározás
+decisive#döntõ;meghatározó
+deck airplane#anyahajó támaszpontú repülõgép
+deckchair#nyugágy
+deck#beborít;befed;csomag;deszkaburkolat;deszkával befed;deszkával burkol;deszkázat;díszít;ékesít;fedélzet;hajófedélzet;hídpálya;hordfelület;kártyacsomag;kasba rak;nyomóhengerre ívet felhúz;nyomótégelyre ívet felhúz;padlóval lát el;pakli;peron;szállítókas padozata;szárnyfelület;vagontetõ
+declaim#szaval;szónokol
+declamatory#nagyhangúan szónokias
+declaration#nyilatkozat
+declare#bevall;deklarál;kijelent;kimond;nyilatkozik
+declassified#feloldott
+declassify#felold
+declension#deklináció;fõnévragozás;hanyatlás;lejtõ;lejtõsség;romlás
+decline#csökkenés;elhárít;elutasít;gyengül;hanyatlás;hanyatlik;ragoz;romlik;visszautasít
+decoder#dekóder;dekódoló;kódjel-átalakító;kódmegoldó berendezés;kódoltjel-átalakító;ütemkiértékelõ
+decode#dekódol;kirejtjelez
+decoding#dekódolás;kódfejtés;kódtörés;rejtjelezés áttevése
+decompose#elrothad;felbomlik;szétbomlik;szétbont
+decorate#díszít;feldíszít;fest;kitüntet;tapétáz
+decoration#dekoráció;díszítés;díszítmény;feldíszítés;kitüntetés;szobafestés;tapétázás
+decorative#dekoratív;díszítõ hatású
+decorator#festõ;lakberendezõ;szobafestõ;tapétázó
+decorously#illedelmesen;tisztességesen
+decorous#illedelmes;illõ;tisztességes
+decorum#dekórum;illem;illemszabályok;illendõség;illendõség szabályai;méltóságteljes viselkedés
+decor#dekoráció
+decoupling#bontás;csatolás megszüntetése;csatolásmentesítés;kioldás;szétcsatolás;szétkapcsolás
+decoy#csalétek;csalogat;tõrbe csal
+decrease#csökken
+decree#dekrétum;dönt;elhatároz;elrendel;határoz;rendelet
+decrepitude#elaggottság;rozogaság
+decrepit#elaggott;rokkant
+decry#becsmérel;leértékel;leszól
+decussation#keresztezõdés
+dedicate#ajánl;ajánlással ellát;dedikál;felavat;felszentel;istennek ajánl;istennek felajánl;isten oltalmába ajánl;szentel
+dedication#dedikáció;dedikálás;felajánlás;felszentelés
+dedicatory#ajánló
+deduce#következtet;leszármaztat;levezet
+deduction#következtetés;levezetés;levonás
+deductive#levezetõ
+deduct#beszámít (büntetést);levon
+deed mortgage#jelzáloglevél
+deed#bûn;cselekedet;gaztett;gonosztett;közjegyzõ elõtt létrejött szerzõdés;közjegyzõi okirat;okirat;okirattal átír;okirattal átruház;tény;tett;valóság
+deem#gondol vminek;ítél vminek;tart vminek;tekint vminek;vminek gondol;vminek ítél;vminek tart;vminek tekint
+deep bass#kontrabasszus;mély basszus
+deepen#elmélyít;erõsödik;fokoz;kimélyít;kiszélesít;mélyebbé válik;mélyít;mélyül;sötétebbé válik;szélesít
+deeply rooted#mélyen gyökerezõ
+deeply#mélyen;mélységesen
+deepness#mélység
+deep plate#mélytányér
+deep sorrow#nagy bánat
+deep tillage#mélymûvelés (mezõgazdaság)
+deep trick#ravasz fogás
+deep voice#mély hang
+deep working#mélymûvelés (bánya)
+deep#alapos;álnok;mély;mélyen;mélység;óceán;ravasz;tenger
+deerhound#kopó;nagy skót vadászkutya;vizsla
+deerskin#õzbõr;szarvasbõr
+deerstalker#szarvasvadász-vezetõ;vadászkalap;vadászsapka;vadõr
+deerstalking#szarvasvadászat
+deer#õz;rõtvad;szarvas
+deer yard#téli vadetetõ hely;vadetetõ hely
+deexcitation#gerjesztés megszüntetése;legerjesztés
+defamation#becsmérlés;becsületsértés;rágalmazás
+defame#becsmérel;becsületébe gázol;rágalmaz
+defaulter#behívó parancsnak nem engedelmeskedõ hadköteles;fizetésképtelen személy;kaszárnyafogságra ítélt;késedelmesen fizetõ személy;kötelezettségét elmulasztó;kötelezettségét megszegõ;kötelezettségét nem teljesítõ;sikkasztó;sorozásra nem jelentkezõ hadköteles;szobafogságra ítélt;szószegõ;tárgyaláson meg nem jelenõ;tárgyalásról távolmaradó fél
+default#elmakacsol;elmulaszt;fizetésképtelen lesz;fizetésképtelenség;fizetést beszüntet;hiba;hibásan teljesít;idézésre nem jelenik meg;késedelem;késedelembe esik;kötelezettségének nem tesz eleget;makacssági ítéletet hoz;mulasztás;mulasztási ítéletet hoz;mulasztást követ el;nem teljesít;nem teljesítés;nem tesz eleget;teljesítés elmaradása;vét;vétség
+defeat#legyõz;megdönt;meghiúsít;megver;vereség
+defecate#derít;derített;eltávolít;kitakarít;kiürít;kivon;letisztul;megszûr;megtisztul;székel;szûrt;tisztít;ülepített;ürül
+defecation#belek kiürítése;defekáció;derítés;leszûrés;székelés;széklet;tisztítás;ürülék
+defecator#derítõ;derítõ munkás;derítõ üst
+defection#disszidálás;elpártolás;elszakadás
+defective#hiányos;hibás;tökéletlen
+defector#disszidens
+defect#disszidál;elfordul;hiány;hiányosság;megszökik;tökéletlenség
+defenceless#védtelen
+defence#védelem
+defendant#vádlott
+defended#védett
+defenders#hátvédek;védõjátékosok
+defender#védelmezõ;védõ
+defend#megóv;megvéd
+defenseless#védtelen
+defense#védelem
+defensible#igazolható;védhetõ
+defensively#védekezés céljából;védekezõen;védelemre
+defensive#defenzív;defenzíva;védekezõ;védelem;védelmi állás
+deference#alkalmazkodás;belenyugvás;tiszteletadás
+deferential#engedelmes;hódolatteljes;tiszteletteljes
+deferment#bevonulási halasztás;elhalasztás;halasztás;késõbbre tolás
+defer#elhalaszt;halogat;késlekedik;késleltet
+defiance#dac;ellenszegülés;kihívás
+defiantly#kihívó arccal;kihívó hangon
+defiant#dacos;kihívó
+deficiency#deficit;elégtelenség;hiány;hiányosság;tökéletlenség
+deficient#elégtelen;fogyatékos;hiányos
+deficit#deficit;hiány;veszteség
+defilement#beszennyezés;mocsok;tisztátalanság
+defile#bemocskol;bepiszkít;díszelvonulás;elcsábít;ellép;elvonul;erõszakot követ el;foltot ejt;hegyszakadék;hegyszoros;katonai elvonulás;megbecstelenít;meggyaláz;mélyút;szoros;terepszoros
+definable#meghatározható
+define#definiál;értelmez;határt szab;korlátoz;körülír;meghatároz;pontosan meghatároz
+definitely#feltétlenül;hogyne;minden bizonnyal
+definiteness#határozottság;meghatározottság;végérvényesség
+definite#bizonyos;határozott;végleges;világos
+definition#definíció;felbontóképesség;képélesség;meghatározás
+definitive#döntõ;végleges
+deflate#csökkent;csökkent (pénzforgalmat);deflál;kibocsát;kienged;kienged (levegõt);kiereszt;kiereszt (levegõt);kiürít;leapaszt;leenged;leereszkedik;leereszt;lelohad;lelohaszt;petyhüdté válik
+deflationary#deflációs
+deflation#defláció;leengedés;leeresztés
+deflection#behajlás;elhajlítás;eltérés;kilengés;kitérés;megvetemedés
+deflector#csatornaszem;deflektor;eltérítõ lap;elvezetõ csõ;elvezetõ vezeték;forgácsterelõ lemez;fröccsenést gátló lemez;horognyelv terelõ;horognyelv-terelõ;irányítólap;ívterelõ lap;ívterelõ segédelektród;kitérõ segédmágnes;terelõ;terelõfal;terelõ felület;terelõlap;védõernyõ;vezetõkészülék
+deflect#begörbít;begörbül;behajlik;behajlít;elfordít;elfordul;elhajlik;eltér;elterel;elterelõdik;eltérít;legörbít;legörbül;lehajlik;lehajlít;megtör
+deflexion#behajlás;elhajlítás;eltérés;kilengés;kitérés;megvetemedés
+defloration#deflorálás;meggyalázás
+deflower#deflorál;meggyaláz;szépségétõl megfoszt
+defoliant#defoliáns;lombtalanító
+deformed#torzult
+deformity#alaktalanság;csúnyaság;formátlanság;idomtalanság;rútság
+deform#torzít
+deftly#fürgén;ügyesen
+deftness#jártasság;ügyesség
+deft#fürge;ügyes
+defunct#elhunyt;kihalt
+defuse#hatástalanít
+defy#dacol;ellenszegül;felülmúl;kihív;szembeszáll;visszautasít
+degasify#gázmentesít;gázt lecsapol
+degasser#legázosító
+degassing#gázeltávolítás;gázelvonás;gázmentesítés;gáztalanítás;kigázosítás
+degeneracy#degeneráltság;elkorcsosulás
+degenerate#degenerál;degenerált;elfajul;elfajzik;elkorcsosul;korcs
+degeneration#elfajulás;elkorcsosulás
+degradation#degeneráció;degenerálódás;elfajzás;erózió;lealacsonyítás;lealacsonyodás;lebomlás;lefokozás;lekopás;negatív visszacsatolás
+degrade#elfajzik;gyengít;lealacsonyít;lealacsonyodik;lebont;lefokoz
+degreaser#zsírtalanító
+degrease#mos;zsírtalanít
+degreasing#mosás;zsírtalanítás
+degree work#diplomamunka;diplomaterv
+degree#diploma;fok;fokozat;mérték;oklevél
+dehumidifier#páramentesítõ
+dehydrate#aszal;dehidrál;dehidratál;dehidratizál;szárít;szikkaszt;víztelenít
+dehydration#ágyúlövés;dehidrálás;dehidratálás;dehidratizálás;exszikkáció;szárítás;vízelvonás;víztelenítés
+deify#bálványoz;istenít;istenként imád;istennek tekint;istenné tesz
+deity#istenség
+dejectedly#búsan;kedvetlenül;lehangoltan;leverten
+dejectedness#kedvetlenség;lehangoltság;levertség
+dejected#bús;kedvetlen;lehangolt;levert
+dejection#csüggedtség;levertség
+deject#elkedvetlenít;lehangol
+delay#elhalaszt;feltartóztat;halogatás;késedelem;késleltet;késleltetés;lassít
+delectable#élvezetes;kellemes
+delectation#delektálás;élvezés;élvezet nyújtás;gyönyörködés;gyönyörködtetés
+delegate#képviselõ;kiküld;kiküldött követ;megbíz;meghatalmazott;ráruház
+delegation#átruházás;bizottság;delegáció;jogátruházás;kiküldetés;küldöttség
+deleterious#ártalmas;káros
+delete#deleál;kihúz;töröl
+deletion#áthúzás;törlés
+deliberately#akarattal;elõre megfontoltan;elõre meggondoltan;határozottan;kifejezetten;kimérten;nem elsietve;sietség nélkül;szándékosan;szánt szándékkal;tudatosan
+deliberate#akart;átgondolt;elõrelátó;elõre megfontolt;fontolgat;gondolkozik;körültekintõ;lassú;latolgat;megfontol;megfontolt;meggondol;nem elsietett;szándékos;tanácskozik;tanakodik
+deliberation#megfontolás;megfontoltság;mérlegelés;tanácskozás
+delicacy#csemege;finomság;gyengédség;ínyencfalat;tapintat;törékenység
+delicatessen#csemegeáru;csemegeüzlet
+delicate#elnõiesedett;elpuhult;érzékeny;finom;gyenge;ízletes;kényes;pompás;remek;tapintatos;törékeny;válogatós
+delicious#finom;ízletes
+delightful#bûbájos;elragadó;gyönyörûséges;pompás
+delightfully#elragadóan;pompásan
+delight#élvezet;gyönyörködtet;gyönyörûség;öröm;örömet szerez
+delimination#elhatárolás;korlát;korlátozás
+delimit#határt szab;körülhatárol
+delineate#ábrázol;ismertet;körvonalaz;vázol
+delineation#ábrázolás;ábrázolat;alaprajz;felvázolás;körvonalazás;lefestés;leírás;tervrajz;vázlat
+delinquency#bûncselekmény;bûnözés;kötelességmulasztás;vétség
+delinquent#bûnözõ;bûntettes;kötelességmulasztó;tettes
+delirious#eszelõs;félrebeszélõ;izgatott
+delirium#deliria,delírium;deliria,elmebaj;deliria,elmezavar;deliria,félrebeszélés;deliria,hagymáz;deliria,lázas fantáziálás;deliria,lázas képzelõdés;deliria,önkívület;deliria,õrültség;félrebeszélés;önkívület
+delist#listáról levesz
+deliverance#átadás;felmentés;határozat;ítélet;ítélet kihirdetés;leszállítás;megszabadítás;szülés;véleménynyilvánítás
+deliver#átad;beszállít;elõad;hoz (ítéletet);kézbesít;kiad;kiszolgáltat;megszabadít;mond (beszédet);szállít;tart (elõadást)
+delivery#átadás;elõadásmód;felszabadítás;kézbesítés;szülés
+deli#csemegebolt
+delousing#tetvetlenítés
+delta#delta;deltatorkolat
+deluded#becsapott;megcsalt
+delude#becsap;megcsal
+deluge#áradat;eláraszt;elönt;özönvíz
+delusion#csalás;csalódás;érzékcsalódás;káprázat;megtévesztés;tévedés
+delusive#csalfa;megtévesztõ
+delve#ás;barlang;ereszkedik;földet túr;kiváj;kotorászik;kutat;mélyedés;motoz;turkál;üreg
+demagnetizer#lemágnesezõ
+demagnetize#lemágnesez;lemágnesezõdik
+demagoguery#demagógia;népámítás
+demagogue#demagóg;népámító
+demagog#demagóg;népámító
+demandable#érvényesíthetõ;igényelhetõ;kérhetõ;követelhetõ
+demandant#felperes;panaszos;panasztevõ
+demander#felperes;hitelezõ;panaszos;panasztevõ;vevõ
+demand#igény;igényel;kér;kérés;kereslet;kívánság;követel;követelés;megkövetel
+demarcation#elhatárolás;határmegállapítás;határvonal
+demeanor#viselkedés
+demeanour#viselkedés
+dementedly#mint az õrült;mint egy õrült;õrülten
+demented#bolond;háborodott;megtébolyodott;õrült;tébolyodott;tébolyult
+dementia#demencia;elmebaj;õrület;tébolyodottság
+dement#bolond;elmebajos;elveszi az eszét;megbolondít;megõrjít;õrült
+demerit#érdemtelenség;hiba;vétség
+demesne#állam birtoka;birtok;földbirtok;nagy faág;nemesi birtok;õsi birtok;uradalom;uralkodó birtoka
+demigod#félisten
+demimonde#félvilági nõ;félvilági társaság
+demise#átruház;átruházás;hagyományoz;haláleset;örökül hagy
+demister#fagymentesítõ;párátlanító
+demist#jégtelenít;párátlanít
+democracy#demokrácia
+democratic#demokratikus
+democratize#demokratizál
+democrat#demokrata
+demographic#demográfiai
+demography#demográfia
+demolish#lebont;ledönt;lerombol;megdönt
+demolition#elpusztítás;lebontás;lerombolás;pusztítás;rombolás
+demonic#ördögi
+demonstrable#bizonyítható;kimutatható
+demonstrably#bizonyíthatóan;kimutathatóan
+demonstrate#bebizonyít;bemutat;bizonyít;felvonul;kimutat;szemléltet;tüntet
+demonstrator#demonstrátor;tanársegéd;tüntetõ
+demon#démon;gonosz szellem
+demote#alsóbb osztályba sorol;lefokoz
+demount#leválaszt
+demo#bemutató példány;demo felvétel;tüntetés
+demurely#álszemérmesen;higgadtan;illedelmesen
+demure#álszemérmes;higgadt;illedelmes;negédesen finomkodó
+demur#aggályoskodik;akadékoskodás;akadékoskodik;habozás;habozik;tiltakozik
+demystify#tisztáz
+dendrite#dendrit
+dengue#trópusi náthaláz
+deniable#tagadható
+denial#cáfolat;el nem ismerés;kétségbevonás;megtagadás;tagadás;visszautasítás
+denigrate#befeketít;rossz hírbe hoz
+denigration#befeketítés;rossz hírbe hozás
+denim#cajgvászon;durva pamutszövet;farmervászon
+denizen#honosított külföldi;lakó;lakos;meghonosodott állat;meghonosodott növény;meghonosodott szó
+denominate#elnevez;megnevez
+denomination#címlet;elnevezés;felekezet;megnevezés;név;névérték
+denominator#nevezõ (törté)
+denotation#jel;jelentés;megjelölés
+denote#jelent;jelez;kifejez;mutat;utal
+denounce#denunciál;feljelent;felmond;leleplez
+dense#sûrû
+densified#sûrített
+densify#megsûrûsödik;összesûrít;sûrûsödik
+density#sûrûség
+dental enamel#fogzománc
+dental floss#fogselyem
+dental nurse#fogászasszisztens
+dental#fogászati
+dent corn#lófogú kukorica
+dentifrice#fogápoló szer;fogkrém;fogtisztító szer
+dentistry#fogászat;fogkezelés;fogorvoslás;fogorvoslástan
+dentist#fogász;fogorvos
+denture#mûfogsor;protézis
+dent#behorpadás;behorpaszt;bemélyedés;bemélyít;benyomás;benyomódás;csapás;csorba;fog;horpadás;horpaszt;kicsorbít;köröm;mélyedés;rovátka;rovátkáz;ütés;ütés nyoma
+denude#lemeztelenít;levetkõztet
+denunciation#bevádolás;feljelentés
+denunciator#besúgó;denunciáns;feljelentõ;vádoló
+den#barlang;dolgozószoba;odú;tanya
+deny#megtagad;tagad;visszautasít
+deodorant#dezodor;szagtalanító
+departed#elhunyt;elhunytak
+departing#eltávozó
+departmental#ágazati
+department#minisztérium;osztály;szak;szakasz;tagozat;tanszék
+departure#elindulás;eltérés;elutazás;távozás
+depart#elindul;eltávozik;eltér;elutazik;meghal
+dependable#bizalomgerjesztõ;bizalomra méltó;biztos;megbízható
+dependably#bizalomgerjesztõen;bizalomra méltóan;hitelt érdemlõen;megbízhatóan
+dependants#cselédség;eltartottak
+dependant#alárendelt;alattvaló
+dependence#bizalom;függés;függõség
+dependency#gyarmat;tartozék
+dependent#alárendelt;alattvaló;ellátatlan;eltartott;függõ
+depict#ábrázol;lefest;leír
+depilate#szõrtelenít
+deplane#repülõgépbõl kiszáll;repülõgéprõl leszáll
+deplete#kimerít;kiürít
+depletion#alaptõke-csökkentés;alaptõkecsökkentés;bánya értékének leírása;elfogyasztás;ércvagyoncsökkenés;erõd kiürítése;felélés;helyõrség kiürítése;kimerítés;kimerülés;kiszipolyozás;kiürítés;legyengítés;szénvagyon-csökkenés
+deplore#helytelenít;sajnál;szán
+deployment#felfejlõdés;telepítés
+deploy#csatarendbe áll;felfejlõdik;felfejlõdtet;felvonultat;kibontakoztat;telepít;zárt hadrendbe felállít
+deportation#deportálás;elhurcolás;kitoloncolás;számûzés
+deportee#deportált személy;kitelepített személy
+deportment#magatartás;viselkedésmód
+deport#deportál;kényszerkitelepít;számkivetésbe küld;számkivetésbe szállít
+depose#eskü alatt tanúsít;eskü alatt vall;lemondat;letesz;tanúskodik
+deposition#elmozdítás;lerakódás;letétel;tanúskodás;tanúvallomás;üledék;vallomás
+depositor#betevõ;letevõ
+depository#megõrzõhely;raktár
+deposit#bankba betesz;betét;deponál (értéket);elõleg;foglaló;lerak;lerakódás;letét;letétbe helyez;réteg;üledék
+depot#depó;ezredtörzs;raktár;vasútállomás
+depravation#bomlás (erkölcsé);lealjasítás;lealjasodás;lezüllés;lezüllesztés;megromlás;megrontás;romlottság
+depraved#aljas;elfajult;megromlott;megrontott;romlott;züllött
+deprave#becsmérel;elront;hamisít;lealjasít;lezülleszt;megront;rágalmaz
+depravity#elfajulás;elfajultság;gonoszság;istentelenség;lezüllés;perverzitás;perverzség;romlottság;züllöttség
+deprecate#elítél;helytelenít
+deprecating#elítélõ;helytelenítõ;rosszalló
+deprecation#esedezés;helytelenítés;könyörgés;rosszallás
+depreciate#becsmérel;devalvál;devalválódik;elértéktelenedik;leértékel;lekicsinyel;lenyom (árat)
+depreciation#becsmérlés;devalváció;elértéktelenedés;értékcsökkenés;lebecsülés
+depredation#elprédálás;kifosztás;pusztítás;rombolás
+depressant#csillapító;csillapító szer;enyhítõ;enyhítõ szer;idegnyugtató;idegnyugtató szer;szedatívum
+depressed#lanyha;lapos;lehangolt;lenyomott;levert;nyomott;pangó
+depressingly#lehangolóan;nyomasztóan
+depressing#elszomorító;lehangoló;nyomasztó
+depression#alacsony légnyomás;depresszió;hanyatlás;horpadás;lehangoltság;leszorítás;levertség;pangás;süllyedés
+depressive#lehangoló;leverõ
+depress#csökkent;elcsüggeszt;elkedvetlenít;elszomorít;lenyom;megnyom;pangást idéz elõ
+deprive#megfoszt
+depth gauge#mélységmérõ
+depths#feneketlen mélység;feneketlen örvény;feneketlen szakadék;határtalan nagysága vminek;mély régiói vminek;mélység;rejtett régiói vminek;sötétség;titokzatos mivolta vminek;titokzatos volta vminek
+depth#alj;bölcsesség;ész;falvastagság;felfogóképesség;fenék;intenzitás;képmélység;közepe vminek;melegség (színé);mélye vminek;mélység;vastagság;vízmagasság
+deputation#küldöttség
+depute#delegál;felhatalmaz;kiküld
+deputize#helyettesít;képvisel
+deputy#helyettes;képviselõ;képviselõházi tag;követ;küldött;megbízott
+derail#kisiklik
+deranged#felforgatott;összezilált;rendetlen;zilált;zûrzavaros
+derangement#elmezavar;mûködési zavar;üzemzavar;zûrzavar
+derange#megzavar;õrületbe kerget;széthány
+derate#névleges jellemzõket csökkent
+derating#névleges érték csökkentése
+derby#epsomi lóverseny;keménykalap
+dereliction#elhagyás;felületesség;gazdátlanul hagyás;gondatlanság;hanyagság;vízfelület visszahúzódása
+derelict#bitang;elhagyott;elhagyott hajó;elhagyott jószág;elhagyott tárgy;emberroncs;gazdátlan;gazdátlan hajó;gazdátlan jószág;gazdátlan tárgy;hanyag;kötelességmulasztó;lezüllött ember;uratlan
+deride#kigúnyol;kinevet
+derision#gúny tárgya;kicsúfolás;kigúnyolás
+derisively#gúnyosan
+derisive#gúnyolódó;gúnyos
+derisory#gúnyolódó;gúnyos
+derivation#deriválás;differenciálás;elágazás;eredet;függvény leszármaztatása;következtetés;leágazás;leszármaztatás;levezetés;oldalgás;származás;származtatás
+derivative#származék
+derive#adódik vmibõl;ered;származik;származtat
+dermal#bõr-
+derogate#csorbít;csökkent
+derogation#becsmérlés;csökkentés;megcsorbítás
+derogatory#csorbító;csökkentõ;hátrányos;kicsinylõ;korlátozó;lekicsinylõ;méltatlan;sérelmes
+derrick#akasztófa;árbocdaru;fúrótorony;mozgódaru
+derrière#far;fenék
+dervish#dervis
+descendant#ivadék;leszármazott;utód
+descending#csökkenõ;ereszkedõ;lemenõ;leszálló
+descend#leereszkedik;lemegy;leszármazik
+descent#családfa;deszant;esés;leereszkedés;lejtõ;leszállás;leszármazás;öröklés;rajtaütés;származás
+describe#leír
+description#fajta;féle;leírás
+descriptive#leíró
+desecrate#megszentségtelenít;meggyaláz;profanizál;visszaél
+desecration#megszentségtelenítés;meggyalázás
+desecrator#megszentségtelenítõ;meggyalázó
+desecreted#megszentségtelenített
+desert belt#sivatagi zóna
+deserted#elhagyott;lakatlan
+deserter#katonaszökevény;szökevény
+desertion#átállás;dezertálás;elhagyás;szökés
+deserts#megérdemelt büntetés;megérdemelt jutalom
+desert#átáll;átpártol;cserbenhagy;dezertál;elhagy;érdem;lakatlan;megszökik;puszta;pusztaság;sivatag;sivatagi
+deservedly#jogosan;megérdemelten
+deserve#érdemel;kiérdemel;megérdemel
+deserving#dicséretet érdemlõ;érdemes;jutalmat érdemlõ;támogatást érdemlõ
+desiccate#kiszárad;kiszárít;szárít
+desiccation#kiszáradás;kiszárítás
+desideratum#desiderata,hiány;desiderata,kívánalom;desiderata,megkívánt dolog
+designate#kijelöl;kiválaszt;mond vmilyennek;nevez
+designation#kijelölés;kinevezés;megjelölés;megnevezés;név;rendeltetés
+designer#rajzoló;tervezõ
+designing#szerkesztés
+design#elgondolás;felvázol;kigondol;kivitel;kivitelezés;konstrukció;megrajzol;megszerkeszt;megszerkesztés;minta;rajzol;rajzolóként dolgozik;szándék;szándékol;szerkeszt;szerkesztés;terv;tervez;tervezés;tervezet;tervezõként dolgozik;tervrajz;vázlat;vázol
+desirability#kívánatosság
+desirable#kívánatos
+desired#kívánatos
+desire#kér;kívánság;kíván vmit;követel;óhaj;óhajt;vágy;vágyik vmire
+desirous#sóvárgó;vágyódó
+desist#eláll
+desk calendar#határidõnapló
+desk diary#határidõnapló
+desk lamp#asztali lámpa
+desk unit#íróasztalsor
+desk#asztal;elõadó;hivatalnok;íróasztal;írómappa;írópolc;iskolapad;kassza;lelkipásztorkodás;misekönyv tartó;mûszerasztal;pénztár;referens;szerelõasztal;szerkesztõség titkársága;szószék
+desolately#elhagyatottan;lehangoltan;vigasztalanul
+desolate#elhagyatott;elhagyott;elnéptelenít;elpusztít;lehangolt;lesújt;sivár;vigasztalan
+desolation#elhagyatottság;elnéptelenedés;kipusztulás;sivárság
+despairingly#kétségbeesetten
+despairing#kétségbeesett;reménytelen
+despair#átka vkinek;bánata vkinek;felhagy minden reménnyel;kétségbeesés;kétségbeesés oka;kétségbeesik;kétségbe van esve;lemond vmirõl;réme vkinek;szerencsétlensége vkinek
+despatch#elindít;elintéz;elküld;elküldés;felad;feladás;jelentés;másvilágra küld;sietség;sürgöny
+desperado#bandita
+desperately#borzalmasan;elkeseredetten;fogcsikorgatva;iszonyúan;kétségbeesetten;reménytelenül;szörnyen;végzetesen;veszettül
+desperate#ádáz;borzalmas;borzalmasan;elkeseredett;elszánt;irtózatos;iszonyúan;kétségbeejtõ;kétségbeesett;makacs;mindenre elszánt;reménytelen;veszettül
+desperation#elszántság;kétségbeesés
+despicable#alávaló;aljas;hitvány;megvetendõ;megvetésre méltó;vacak
+despised#megvetett;semmibe vett
+despise#fitymál;lebecsül;lefitymál;lenéz;megvet;semmibe vesz
+despite#vminek ellenére
+despoil#kifoszt;kirabol;megfoszt
+despoliation#kifosztás;kirablás;megfosztás
+despondency#csüggedés;reménytelenség
+despondently#csüggedten;elkeseredve;leverten
+despondent#csüggedt;levert
+despotic#önkényeskedõ;zsarnoki
+despotism#önkényuralom;zsarnokság
+despot#despota;kényúr;zsarnok
+dessert#desszert
+destination#célállomás;rendeltetési hely
+destine#határoz;rendel
+destiny#végzet
+destitute#nyomorgó;szûkölködõ
+destitution#nyomor;szegénység;szûkölködés
+destroyer#romboló;torpedóromboló
+destroy#elpusztít;lerombol;megsemmisít
+destructible#elpusztítható
+destruction#elpusztítás;kiirtás;lerombolás;megsemmisítés;megsemmisülés;pusztítás;pusztulás;romba döntés;rombolás;romlás;roncsolás;tönkretevés
+destructive#ártalmas;pusztító;romboló
+desugarize#cukortalanít
+desultorily#kapkodva;ötletszerûen;rendszertelenül
+desultory#kapkodó;ötletszerû;rendszertelen
+detachable#lecsavarható;leszerelhetõ;levehetõ
+detachedly#elfogulatlanul;elkülönítetten;közönyösen;különállóan;objektíven;szenvtelenül;tárgyilagosan
+detached#elfogulatlan;elkülönített;elválasztott;közönyös;különálló;lecsavart;leszerelt;objektív;pártatlan;szenvtelen;tárgyilagos
+detachment#elfogulatlanság;elkülönítés;elkülönülés;elválás;függetlenség;közöny;különítmény;lekapcsolás;leszerelés;leválás;leválasztás;objektivitás;osztag;pártatlanság;szenvtelenség;szétkapcsolás;szétválás;tárgyilagosság
+detach#elkülönít;elválaszt;kikülönít;leválaszt
+detailed#kimerítõ;részletes
+details#eligazításon elrendelt feladatok;eligazításon kiadott feladatok
+detail#alkatrész;eligazítás;eligazítást kiad;gépelem;napi munkaterv;osztag;osztagot kirendel;rész;részleg;részlet;részletez;részletezés
+detain#akadályoz;feltart;fogva tart;gátol;marasztal;õrizetbe vesz;visszatart
+detection#nyomozás
+detective#detektív;nyomozó
+detect#észlel;felfedez;kimutat;kinyomoz;leleplez
+detention#fogvatartás;letartóztatás;visszatartás
+detergent#detergens;mosópor;mosószer
+deteriorate#degenerálódik;elértéktelenedik;elértéktelenít;elfajul;elhasználódik;elkopik;elkorcsosul;leront;megromlik;megront;romlik;rosszabbodik
+deteriora#terelõlapát
+determinable#meghatározható
+determinant#determináns;döntõ
+determinate#döntõ;határozott;meghatározott
+determined#elhatározott;elszánt;eltökélt;határozott
+determine#dönt;eldönt;elhatároz;határoz;megállapít;meghatároz;véget ér
+determining#meghatározó
+deterrent#elrettentõ dolog;elrettentõ eszköz;elrettentõ példa
+deter#elrettent;elriaszt
+detestable#utálatos
+detestation#utálat
+detest#megvet;utál
+detonable#robbanékony
+detonate#felrobban;felrobbant;robban;robbant
+detonation#detonáció;robbanás
+detonator#gyújtószerkezet;gyutacs
+detour#elterel;kerülõ út;terelõút
+detoxication#méreg eltávolítása;méregelvonás;méreg hatástalanná tétele;méreg hatástalanná válása;méregtelenítés
+detoxify#méregtelenít
+detractor#becsmérlõ
+detract#becsmérel;csökkent;elvon;értéke csökken;lebecsül;levon;minõsége csökken;ócsárol
+detrimental#hátrányos;káros
+detriment#hátrány;kár
+detritus#kõzettörmelék;törmelék
+deuced bad#átkozottul rossz;pokolian rossz;pokoli rossz
+deucedly#átkozottul;fenemód;pokolian
+deuced#átkozott;elátkozott;fene;istenverte;megbabonázott;pokoli
+deuce#kettes (kártyában)
+deuterium#deutérium;nehézhidrogén
+devaluation#leértékelés
+devalue#leértékel
+devastate#elpusztít;feldúl;letarol
+devastating#ellenállhatatlan;elsöprõ;gyilkos;pusztító
+devastation#pusztítás;pusztulás
+devastator#dúló;pusztító
+developed#fejlett
+developer#elõhívószer
+developing#elõhívás;fejlõdõ
+development#elõhívás;fejlemény;fejlõdés;kialakulás;kidolgozás;kifejlõdés;kifejtés
+develop#alakít;elõhív (filmet);fejleszt;fejlõdik;felparcelláz;hasznosít;jelentkezik;kap (betegséget);kiaknáz;kialakít;kibontakozik;kibõvít;kifejleszt;kifejlõdik;kifejt;kitudódik;megkap (betegséget);mutatkozik;parcelláz
+deviant#deviáns;normáktól eltérõ
+deviate#elhajlik;eltér
+deviationism#elhajlás
+deviationist#elhajló
+deviation#elhajlás;eltérés
+device#berendezés
+devilish#ördögi;ördögien;pokolian
+devilment#gonoszkodás;ördöngösség
+devilry#dévajkodás;fekete mágia;gonoszkodás;huncutkodás;ördöngösség;pajkoskodás
+deviltry#dévajkodás;fekete mágia;huncutkodás;ördöngösség;pajkoskodás
+devil#albérletben dolgozik;farkasol (rongyot);fûszeresen fõz;fûszeresen süt;ördög;tépõfarkas
+deviousness#fondorlatosság;körmönfontság
+devious#csavaros;félreesõ;fondorlatos;görbe;isten háta mögötti;kacskaringós;kanyargó;kanyargós;kerülõ;körmönfont;tekervényes
+devise#kieszel;kigondol;kitalál;megszerkeszt;örökül hagy;szerkeszt;végrendelkezés
+devoid#mentes;üres
+devolution#átháramlás;áthárítás;átruházás;decentralizáció;decentralizálás
+devolve#áthárít;átruház;háramlik;rászáll
+devoted#hû;odaadó
+devotee#híve vminek;rajongója vminek
+devote#szán;szentel
+devotional#áhítatos;hitbuzgalmi;imádságos;jámbor;vallásos
+devotion#odaadás;önfeláldozás;rajongás
+devour#elnyel;elpusztít;felfal
+devoutly#ájtatosan;jámboran
+devout#ájtatos;hõ (vágy);jámbor;õszinte
+dewater#víztelenít
+dewaxed#paraffinmentesített
+dewfall#harmat;harmathullás
+dewlap#lebernyeg;nyakalja;pötyögõ;toka
+dew point#harmatpont
+dew#harmat;harmatossá tesz;harmatozik;megnedvesít
+dewy#harmatos
+dexterity#fürgeség;kézügyesség;ügyesség
+dexterous#jobbkezes;ügyes
+dextrous#jobbkezes;ügyes

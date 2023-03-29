@@ -1,0 +1,261 @@
+scabbard#hüvely
+scabbiness#piszkos zsugoriság;rühesség;varasság
+scabby#heges;koszos;rühes;smucig;varas
+scabies#rüh;rühesség
+scabious#koszos;ördögszem;rühes
+scab#bevarasodik;heg;ótvar;piszok alak;rüh;rühesség;sztrájktörõ;var;varasodás;varasodik
+scaffolding#állványozás;állványzat
+scaffold#akasztófa;állvány;állványoz;állványzat;emelvény;épületállvány;lelátó;tribün;vérpad;vesztõhely
+scalar#skaláris;skaláris mennyiség
+scalawag#fejlõdésben visszamaradt állat;mihaszna;rosszul táplált állat;semmirekellõ
+scalding#felforralás;forralás;forró;leforrázás
+scald#felforral;forráz;forrázás;forrázási seb;leforráz;skandináv dalnok
+scales#mérleg
+scale#arány;arányosít;felmászik;fémhab;fogkõ;fokbeosztás;fokozatokra oszt;halpénz;hályog;hangsor;hártya;héj;kazánkõ;korpa (fejen);lehámló réteg;lehúzza a héját;lekapar;lépcsõ;lepikkelyez;létra;levakar;megmászik;mérleg;mérték;nyom vmennyit;pernye;pikkely;salak;skála;számrendszer;vízkõ;vízkõtõl megtisztít;vmennyit nyom;vmilyen súlyú
+scaling#aránykiszámítás;arányosítás;beosztással való ellátás;fejtés;felvázolás;fokozatokra osztás;kalibrálás;kiegyenlítés;kihámozás;kihüvelyezés;köbözés;lefoszlás;lehámlás;lehámozás;lehántolás;lekaparás;lemérés;leosztás;lepikkelyezés;léptékmódosítás;lépték szerinti másolás;levakarás;leválás;leválasztás;levelesedés;megmázsálás;megmérés;méretcsoportosítás;mérlegelés;rétegképzõdés;réteg-leválás;tisztítás;vízkõ-eltávolítás;vízkõképzõdés
+scalloped#cakkos;cakkozott;csipkés;csipkézett;hornyolt;kicsipkézett;kivágott;slingelt
+scalloping#szélcsipkézett
+scallop#cakk;cakkoz;cakkozás;cocotte;cocotte-ban süt;csipkézés;díszítõ kivágás;fajansz kagyló;fésûkagyló;fésûkagyló héja;hornyolás;kagyló;kagylóban süt;kagylóhéj;kagylóhéjban süt;kicakkoz;kicsipkéz;kokottban süt;slingelés;stingel;vékony szelet kicsontozott hús
+scalpel#szike
+scalper#csonthártyaletoló;csontkaparó;jegyüzér;kicsiben játszó tõzsdézõ;kis haszonra játszó tõzsdézõ;kis tõzsdés;kis tõzsdeügynök;lapos lekerekített fejû vésõ;óvatosan játszó tõzsdézõ;skalpvadász
+scalplock#hajtincs (indián harcosé)
+scalp#bálnafej alsó állkapcsa nélkül;epikranon;gömbölyded kopár hegytetõ;hajas fejbõr;megskalpol;skalp;skalpol
+scallywag#bliccelõ;déli fehér bennszülött republikánus;himpellér;lógó;mihaszna;satnya marha;semmirekellõ;silány marha;sovány marha
+scaly#hályogos;kazánköves;korpás (fej);pikkelyes;pikkelyesen hámló;vízköves
+scamper#fuser;gyors szökellés;iramodás;iramodik;kontár;megugrás;megugrik;szalad
+scam#csalás
+scandalize#felháborít;megbotránkoztat;megszól;pletykál;pletykázik;rágalmaz;szapul
+scandal#botrány
+scanner#fürkészõ;kutató;lélekbúvár;letapogató;radarberendezés forgóantennája;skandáló;vizsgáló;vizsgaszemmel nézõ ember
+scansion#metrikai forma;metrum;skandálás;ütemezés;versmérték
+scantily#alig;gyéren;hiányosan;szûkösen
+scantiness#hiányosság;szegényesség;szûkösség
+scantly#alig;gyéren;hiányosan;szûken;szûkösen
+scant#csekély;gyér;hiányos;kevés;szûken mér;szûkös
+scanty#elégtelen;gyér;hiányos;szegényes;szûk
+scan#átfut;átkutat;fürkész;letapogat;megvizsgál;skandál;skandálható;ütemez;vizsgáló pillantás
+scapegoat#bûnbak
+scape#megmenekül
+scapula#scapulae,lapocka;scapulae,lapockacsont
+scarcely#alig;bajosan
+scarce#elégtelen;kevés;ritka
+scarcity#hiány;ritkaság;szûke vminek;vminek a szûke
+scarecrow#madárijesztõ
+scared#ijedt;rémült
+scare#félelemben tart;félelmet kelt;ijedelem;ijedelmet kelt;megijeszt;megrémít;megriaszt;pánik;rémület;rémületben tart;rémületet kelt;riadalmat kelt
+scarf#burkol;eszik;étel;feldarabol;feldarabolás;felvág;ferde lapolás;ferde lapolással hegeszt;ferde lapolású hegesztés;ferde lapolású illesztés;ferdén fogazott lapolás;ferdén illeszt;ferdén lapol;ferdén levág;ferdén levágott fémlemezvég;ferdén levágott gerendavég;ferdén metsz;ferdén szélez;kaja;kajál;lefejt;lerézsel;megnyúz;nyakkendõ;sál;scarves,gallérvédõ;scarves,nyakkendõ;scarves,nyakravaló;scarves,nyaksál;scarves,sál;scarves,sálkendõ;scarves,vállszalag
+scarify#bemetsz;bevagdal;fellazít;feltép;lehúz (kritikailag);leránt (kritikailag);megkarcol
+scarlet#élénkvörös;skarlát;skarlátpiros
+scarp#rézsû
+scarred#forradásos;sebhelyes
+scarring#seb;vágás
+scarry#forradásos;sebhelyes
+scar#forradás;forradást hagy;heg;hegesedés;sebhely;sebhelyet hagy
+scary#begyulladós;beijedõs;beijedt;borzalmas;ijedezõ;ijedõs;ijedt;ijesztõ;rémítõ;rettenetes;rettentõ
+scathing#csípõs;gyilkos;kegyetlen;maró
+scattered#szétszóródott
+scatter#eldobál;elhint;eloszlat;eloszlik;elszéled;elszór;elszóródik;elterjeszt;hint;szertefoszlat;széthint;szétoszlik;szétszór;szór;szórás;szóródás
+scatty#bolondos
+scavenger#dögevõ állat;guberáló;utcaseprõ
+scavenge#guberál;utcát söpör
+scavenging#guberálás;utcaseprés
+scenario#forgatókönyv;szcenárium;szövegkönyv
+scenery#látvány;táj;tájkép
+scene#színhely;színtér;táj
+scenic#festõi;kies;látványos;színpadi;színpadias
+scenographic#távlati
+scenograph#távlati rajz
+scenography#távlati rajz
+scented#illatosított
+scent#illat;illatosít;kinyomoz;kiszagol;kölni;szag;szaglás;szagol;szimat
+sceptered#uralkodó;uralkodói
+scepter#jogar;királyi hatalom;királyi kormánypálca
+sceptical#kételkedõ;szkeptikus
+scepticism#kételkedés;kétkedés;szkepticizmus
+sceptic#kételkedõ;szkeptikus
+sceptred#királyi;uralkodó;uralkodói;uralmon levõ
+sceptre#jogar;királyi hatalom;királyi kormánypálca
+schedule#jegyzék;jegyzékbe foglal;menetrend;táblázat;táblázatba foglal;ütemterv
+schematic#sematikus;vázlatos
+schematize#képletbe szorít;leegyszerûsít;sémába szorít;sematizál;vázlatosan ábrázol
+schema#schemata,beszédalakzat;schemata,képlet;schemata,séma;schemata,szkéma;schemata,szóalakzat;schemata,szókép;schemata,váz;schemata,vázlat
+schemer#cselszövõ
+scheme#cselszövény;cselszövés;elrendezés;intrikál;létesítmény;mesterkedik;összeállítás;rosszban sántikál;táblázat;terv;tervbe vesz;tervez;tervezet;vázlat;vázol
+scheming#áskálódó;cselszövés;intrika;intrikus;tervezés
+schismatical#szakadár
+schismatic#szakadár
+schismatism#szakadárság
+schismatist#szakadár
+schism#egyházszakadás;hitszakadás;skizma
+schist#agyagpala
+schlock#ócskaság;rossz minõségû áru;vacak
+schmoose#elbeszélget;smuzol;szövegel;társalog;vakerál
+schmooze#elbeszélget;smuzol;szövegel;társalog;vakerál
+schmo#barom;buta ember;ellenszenves ember;hülye
+scholarly#tudományos;tudós
+scholarship#ösztöndíj
+scholar#ösztöndíjas;tanuló;tudós
+scholastic#tudálékos
+school age#iskolaköteles kor;tanköteles kor
+schoolboy#diákfiú;éretlen gyerek;éretlen kölyök;iskolásfiú
+schooldays#diákévek
+school doctor#iskolaorvos
+school fees#tandíj
+school fee#együtt úszó halraj;tandíj
+schoolgirl#diáklány
+school report#bizonyítvány;tanulmányi értesítõ
+schoolroom#tanterem;tanulószoba
+school sports#iskolai atlétika
+schoolwork#iskolai eredmények;iskolai munka
+school#egyetem;együtt úszó halraj;fakultás;halraj;irányzat;iskola;iskolaépület;iskolaépületek;iskolai oktatás;iskoláztat;kar;nevel;oktat;osztály;tagozat;tanít;tanítás;tanterem;vizsgáztató- és elõadóterem
+school yard#iskolaudvar
+school year#tanév
+schooner#söröskorsó;szkúner
+sciatica#faridegzsába;farzsába;isiász;ülõidegzsába
+sciatic#csípõ-;far-;ülõideg
+science#tudomány
+scientific#tudományos
+scimitar#görbe élû hosszú kard;handzsár;hosszú nyelû nyesõkés
+scintillate#ragyog;szikrázik;sziporkázik;villog
+scintilla#szemernyi;szikra
+scissors#olló
+scoff#befal;csúfolódik;gúnyolódás;gúnyolódik;gúny tárgya;kaja;kötekedõ megjegyzés;megzabál;nevetség tárgya
+scold#házsártos;lehord;leszid;megfedd;megszid;összeszid;szid;veszekszik
+scone#lángos
+scooped#belül üres;kivájt;odvas;üreges;vájt
+scooper#gulipán;háromélû vésõ;homorú vésõ;lapátoló
+scoop#bemerítés;elsõnek közölt szenzációs hír;friss hírlapi szenzáció;hangsiklás;homorú vésõvel megmunkál;hosszú nyelû merítõkanál;jó fogás;jó fogást csinál;kanál;kanalazás;kanalazó mozdulat;kaparókanál;kikanalaz;kikotor;kilapátol;kimélyít;kimer;kimereget;kivág;kiváj;kotor;kotróserleg;kupás vassal megmunkál;lapátolás;lapátoló mozdulat;mélyedés;mélyít;merítés;merítõkanál;merítõvödör;merõ;nagy hasznot söpör be;öblös lapát;puttony;rövid nyelû öblös lapát;szállítóvödör;szapó;szapoly;szenesvödör;szerencse;teknõ;üreg;váj;vízhányó lapát;vízmerítõ-emelõ;vízmerítõ lapát;vízmerõ
+scooter#robogó;roller
+scoot#iszkol;rohan;szalad
+scope#alkalmazási terület;érvény;érvényességi tartomány;hatály;határ;hatáskör;hordtávolság;képcsõ;kiterjedés;kör;körzet;mûködési lehetõség;mûveleti hatókör;oszcilloszkóp;radarernyõ;tér;terület
+scorched#kiégetett;megperzselt
+scorcher#forró dolog;gyorshajtó;igen klassz vmi;igen nagy vmi;kánikulai nap;perzselõ dolog
+scorch#kigúnyol;kiszárít;megégés;megperzsel;megperzselés;megperzselõdés;megperzselõdik;megpörkölés;megpörkölõdés;megpörkölõdik;õrült iram;õrült száguldás;repeszt;repesztés;száguld
+scoreboard#eredményjelzõ tábla
+scores#rengeteg;sok;temérdek
+score#adósság;barázda;bemetsz;bemetszés;bevág;bevájás;dobkötél-horony;elszámolás;felró;gólszám;gondolatjel;hangszerel;hornyolat;horzsolás;húsz;húsz darab;huzagolás;indíték;jegyez;jel;jelzés;jelzet;karcolás;kérdés;leszid;megjegyez;metszés;meztelen igazság;nyer;nyilvántartás;ok;partitúra;pont;pontállás;pontarány;ponteredmény;pontozás;pontszám;puszta tények;rovás;rovátka;sötét valóság;számla;számol;számontartás;szóbanforgó kérdés;szóbanforgó tárgy;talpraesett válasz;tárgy;vágás;vájat;vápa;váratlan szerencse;véset;vonalacska
+scoring#hangszerelés;karcolás;pontozás;pontszerzés;rovás
+scornful#gúnyos
+scornfully#gúnyosan;megvetõen
+scorn#gúny;lenéz;megvet;megvetés
+scotch eggs#fõtt tojás mártással
+scotch fir#erdei fenyõ
+scotch hands#vajmérõ lapicka
+scotch pine#erdei fenyõ
+scotch tape#cellux
+scotch#bemetszés;bevágás;ék;fékpofa;féksaru;féktuskó;határvonal;rovátka;skóciai;skót;skót kutya;skót nyelv;skót szövet;skót whisky;támasztóék;vágott felületi seb
+scottish#skót;skót nép;skót nyelv;skót nyelvjárás;skótok
+scot#bírság;cech;földadó;harag;hirtelen haragú ember;skót;számla összege
+scoundrelism#csibészség;gazemberség;gazság
+scoundrel#csibész;csirkefogó;gazember
+scoundrelly#csibész;gaz
+scourge#büntet;istencsapása;korbács;korbácsol;megpróbáltatás;ostor;ostoroz;veszedelem
+scour#alámos;átfésül;átfúr;átkutat;bejár;felderít;felsúrol;fürkészik;hántol;hashajtót ad;húsol;hústalanít;kalózkodik;kifürkész;kikotor;kikutat;kimos;kiöblít;kisúrol;kitisztít;kutat;lecsiszol;ledörzsöl;leétet;lemarat;letisztít;meghajt;mos;sikál;súrol;súrolás;tisztít;tisztítás;tisztító eszköz;tisztogat;zsírtalanít
+scoutmaster#cserkész õrsvezetõ;cserkészparancsnok;cserkésztiszt
+scout#cserkész;elutasít;felderít;felderítõ;fitymál;inas;járõr;lefitymál;megfigyel
+scowl#haragos tekintet;összevonja szemöldökét
+scow#lapos fenekû dereglye;lapos fenekû teherhajó;lapos vitorláskomp;uszály;vonszoló lemez
+scrabble#firkál;játék a betûkkel;négykézláb keres;négykézláb való keresés
+scragginess#egyenetlenség;elcsenevészesedés;göröngyösség;soványság
+scraggly#bütykös;durva;egyenetlen
+scrag#csenevész állat;felakaszt;fojtogat;kitekeri a nyakát;megfojt;nyak;nyakánál fogva elkap;sovány állat;sovány ember;tarkó
+scraggy#bütykös;csenevész;csomós;durva;egyenetlen;érdes;kiaszott;sovány;szirtes;vézna
+scramble#kúszás;kúszik;mászás;mászik;összezavar;tolongás;tülekedés;tülekedik
+scram#ellép;elsiet;meglóg
+scran#ennivaló;étel;ételmaradék;ételmorzsa;kaja
+scraper#kaparó;sárkaparó;vakaró;zsugori
+scrape#dörzsölõ hangot hallat;dörzsölõ hangot idéz elõ;felsért;kapar;kaparás;kaparó hangot hallat;kaparó hangot idéz elõ;karcolás;kellemetlen helyzet;kellemetlenség;ledörzsöl;leheletnyi vajréteg;lekapar;lesimít;levakar;megkarcol;nyekergés;nyekergetés;serceg;slamasztika;vakarás
+scrapings#ételmaradék;hulladék;kaparék;vakarék
+scraping#dörzsölés;kaparás;megtakarított pénzecske;vakarás
+scrap#bokszmeccs;darabka;dulakodás;dulakodik;félredob;hulladék;selejt;szemétre dob;töredék;törmelék;verekedés;verekszik
+scratch#firkál;firkant;firkantás;horzsolás;kapar;karcol;karcolás;karmol;lefirkant;megkarmol;megvakar;rajtvonal;rögtönzött;sercegés;takarékoskodik;töröl;vakar;vakarás;vakaródzás;visszavon
+scratchy#felületes;kaparó;összekapkodott;szálkás (írás);vakaró;vakaródzó;viszketõ
+scrawl#firkál;firkálás;lefirkant
+scrawny#ványadt;vézna
+scream#csuda dolog;elárul;fütyül;hahotázik;harsányan nevet;kikotyog;mulatságos dolog;nevettetõ dolog;ordítva énekel;rikácsol;rikít;rikolt;sikít;sikolt;sikoltás;sikoly;sípol;vijjog;visít;visítás
+screech#csikorgás;csikorog;kuvikol;rikolt;rikoltás;sikoltás;sivít;sivítás;visít
+screened#védett
+screening#árnyékolás;fedezés;igazolás (fasisztáé);káderezés;oltalmazás;priorálás;rostálás;szitálás;szûrés;vetítés
+screenplay#forgatókönyv
+screenwriter#forgatókönyvíró
+screen#árnyékol (rádiócsövet);elfed;ellenzõ;elrejt;ernyõz;fedez;film;filmmûvészet;képernyõ;leplez;megfilmesít;mozi;mozivászon;oltalmaz;rács;rosta;rostál;spanyolfal;szentélyrekesztõ fal;szitál;szúnyogháló;szûrõ;védõernyõ;védõfal;vetít
+scree#kavics;kõtörmelék;omladék
+screwball#bolond;dilis;ütõdött
+screwdriver#csavarhúzó
+screw shaft#csavarorsó;hajócsavartengely
+screw stopper#csavaros dugó;zárócsavar
+screw#baszik;becsavar;besrófol;betart vkinek;betesz vkinek;csavar;csavarás;csavarmenetet vág;csavarodik;csavarral megszorít;csavarral odaerõsít;csavarral összenyom;csavarral rögzít;dohány (pénz);egy kevés cukor stanicliban;egy kevés dohány stanicliban;elbánik vkivel;facsavar;falsot ad;falsot kap;figyel;fintorít;fintort vág;fordít;fordul;forog;fukarkodik;hajócsavar;kefél;kefélés;kibaszik vkivel;kikészít vkit;kikúr vkivel;krajcároskodik;légcsavar;megbasz;meghúz;megkefél;megszorít;menetet vág;néz;nyes;pörget;pörög;sanyargat;smasszer;srófol;szándékosan árt vkinek;szemmel tart;szorongat;takarékoskodik;uzsorás;vén gebe;visszapattan;zsugori
+screwy#bolond;bolondos;csavaros;értéktelen;excentrikus;fantasztikus;félbolond;félnótás;zsugori
+scribal#írástudói;írnoki
+scribbler#firkáló;firkász;skribler
+scribble#firkál;firkálás;ír;irkál;írogat;levélke
+scribbling#firkálás;irkafirka
+scrimmage#csetepaté;csomó (amerikai futballban);dulakodás;edzés;edzõmérkõzés;kavarodás;közelharc;verekedés
+scrimp#elspórol;fogához veri a garast;fukar;fukarkodik;garasos;hiányos;kicsi;krajcároskodik;krajcároskodó;lefarag;spórolós;szegényes;szûken mér;szûken mért;szûkmarkú;szûk marokkal mér;szûkösen él;szûkre szabott
+scrimpy#fukar;garasos;hiányos;kicsi;krajcároskodó;spórolós;szegényes;szûken mért;szûkmarkú;szûkre szabott
+scriptural#bibliai;Bibliára vonatkozó;szentírási;szentírásra vonatkozó
+scriptures#Biblia;szentírás
+scripturist#Bibliában jártas ember;bibliás ember;írástudó;szentírásban jártas ember
+script#forgatókönyv;írás;írásbeli dolgozat;kézírás;kézirat;szövegkönyv
+scrip#batyu;cédula;ideiglenes papírpénz;ideiglenes részvény;kis táska;tarisznya
+scrofula#görvélykór;skrofula
+scrofulide#görvélykóros;skrofulás
+scrofulism#skrofulózis
+scrofulous#görvélyes;skrofulás
+scrogged#elsatnyult;fejlõdésben visszamaradt;kényszeredett;satnya;törpe
+scrogs#bokros terület;bokros vidék;cserjés terület;cserjés vidék
+scrog#csenevész bokor;cserje;törpe bokor;vadalma
+scroll#burokráma;cikornya;cikornyáz;csigavonal;csigavonalakkal ékít;feliratos szalag;hegedûfejet díszítõ csiga;indadísz;jelmondat (szalagon);kacskaringó;kartus;kézirattekercs;összecsavar;összecsavarodik;összetekercsel;összetekeredik;papírtekercs;pergamentekercs;voluta
+scrotum#scrota,herezacskó
+scrounger#élõsködõ;harácsoló;potyázó;sikkasztó;tolvaj
+scrounge#elcsakliz;elcsen;ellop;élõsködõ;elsikkaszt;faszol;happol;harácsol;harácsoló;potyázik;potyázó;sikkasztó;szerez;tolvaj
+scrounging#aljas;elcsaklizás;elcsenés;elhappolás;elsikkasztás;harácsoló;számító
+scrubber#gáztisztító berendezés;kaparóvas;súrolókefe;vakaróvas
+scrubbing#gáztisztítás;súrolás;tisztítás
+scrub brush#súrolókefe
+scrubby#borotválatlan;bozótos;csenevész;jelentéktelen;ócska;rongyos
+scrubland#bozótos;cserjés
+scrub nurse#mûtõsnõ
+scrub suit#mûtõsruha
+scrubs#mûtõsruha
+scrub#alacsony növésû fa;bozót;csenevész;cserje;cserjés;csökkentett létszámú csapatok közötti mérkõzés;dörzsöl;gyengébb csapat;hajótõkét kefével tisztogat;játékos,aki nem tagja a csapatnak;kimos;kis tökmag;kis tüskés bajusz;lekopott kefe;másodosztályú csapat;megsúrol;megtisztít;mos;rövid szõrû kefe;satnya;sikál;sikálás;súrol;súrolás;sûrû bozót;sûrû bozótos vidék;szegény agyondolgozott nõ;tartalék játékos;tisztít;többnapos szakáll;töröl;törpe;törpe ember
+scruff#tarkó;tarkóbõr
+scruffy#ápolatlan;csenevész;elhanyagolt;koszos;nyiszlett;rosszul öltözött;satnya
+scrummy#klassz;pompás;remek
+scrumptious#klassz;pompás;remek
+scrum#buzgólkodik;csetepaté;dulakodás;dulakodik;kavarodás;kavarodásba dob;közelharc;összecsap;összecsapás;összefutás;sürög-forog;viaskodás;viaskodik
+scrunch#csikorgat;csikorog;fogcsikorgatás;összehúzódik;reccsen;reccsenés;recsegés;ropog;ropogtat;ropogtatás;szétmorzsol;szétrág
+scruple#0,6 g;aggály;aggályai vannak;habozik;kétség;lelkiismeretfurdalás;patikamérték
+scrupulous#aggályoskodó;kínosan pontos;lelkiismeretes
+scrutinise#alaposan megvizsgál;tüzetesen megvizsgál
+scrutinize#alaposan megvizsgál;tüzetesen megvizsgál
+scrutiny#alapos megvizsgálás;részletekbe menõ vizsgálat
+scuba#légzõkészülék
+scuddy#meztelen;meztelen kisgyerek;pucér kisgyerek
+scud#futás;gyors futó;száguld;száguldás;száguldó felhõ;szélsebesen fut;szétszakadozó felhõfoszlányok;tovasiklás
+scuffed#kopott
+scuffle#csoszog;dulakodás;dulakodik;hirig;lábbal dobbant;sarabol;saraboló;sarabolókapa;tolókapa;tömegverekedés;tülekedik;verekszik;viaskodik
+scuff#csoszog;elkoptat;lekoptat;papucs
+scullery#mosogató;mosogatóhelyiség
+scull#evez;evezõ;evezõlapát;farevezõ;farevezõvel evez;fúró evezõ;iklandó evezõ;kormányevezõ;molnárevezõ;párevezõ;párevezõvel evez;pároslapát;rövid szárú evezõ;scull-lapát
+sculptor#szobrász
+sculpture#farag;szoborral díszít;szobrász;szobrászat;szobrászmunkát végez
+sculpt#kifarag (szobrot)
+scummy#aljas;csõcselék-;gyatra;habos;habszerû;habzó;hitvány;közönséges;ócska;salakhabbal borított;szemét-;tajtékos;tajtékszerû;tajtékzó;vashabbal borított
+scum#hab;habját leszedi;habzik;salak;söpredék;szemét;tajték;tajtékzik
+scun#érczsinór;jelentéktelen telér
+scupper#bajban hagy;elront;elsüllyeszt;lemészárol;megfúr;vízkieresztõ rés
+scurrility#trágár beszéd
+scurrilous#mocskos;obszcén;sértõ;trágár
+scurry#hirtelen hóvihar;rohan;rohanás;siet;sietség
+scurvied#aljas;hitvány;közönséges;skorbutos;vacak
+scurvily#aljasul
+scurvy#alávaló;aljas;hitvány;skorbut
+scuttlebutt#ellenõrizhetetlen hír;ivóvíz-tartály;kacsa;mendemonda;pletyka
+scuttle#csapóajtó;elfut;elfutás;elnyargal;elpártol;elrohan;elrohanás;elsiet;elsüllyeszt;fedéllel zárható nyílás;fedélzeti lejáró;futás;futólépés;gyorsan elmenekül;gyors menekülés;hajóablak;lemond;megfúr;meglékel;menekülés;ökörszemablak;rakodónyílás;rohanás;sietés;sietõs járás;sietség;széljárat;szeneskanna;szenesvödör;szénhordó lapos kosár;tetõablak;tetõkibúvó;visszavonul
+scuz#ellenszenves ember;genny alak;germó;mocsok;piszkos ember;piszok;szar;szenny;trutyi
+scuzzbag#ellenszenves ember;genyó;mocsok;szemétláda
+scuzz#ellenszenves ember;genny alak;germó;mocsok;piszkos ember;piszok;szar;szenny;trutyi
+scuzzy#koszlott;mocskos;piszkos;szaros;szennyes;trutyis
+scythed#sarlós kerekû
+scythe#kasza;kaszál;pengesor;sarló

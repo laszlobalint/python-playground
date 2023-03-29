@@ -1,0 +1,32 @@
+occasional#alkalmi;esetenkénti;véletlen
+occasioning#okozó
+occasions#elfoglaltság;foglalkozás
+occasion#alap;alkalmat ad;alkalom;elõidéz;eset;helyzet;kedvezõ körülmény;kivált;létrehoz;ok;okot kiváltó alkalom;okoz;véletlen;véletlen esemény
+occidental#nyugati
+occident#nyugat
+occlude#abszorbeál;beszív;egymásra feküsznek;eldugaszol;eldugít;elnyel;eltöm;elzár
+occlusion#abszorbeálás;abszorpció;bezáródás;eldugítás;eldugulás;elnyelés;eltömés;elzárás;elzáródás;elzártság;felszívás;zár
+occlusive#abszorbeáló;elnyelõ;elzáró;elzáródó
+occultism#okkultizmus
+occultly#rejtetten;titkosan
+occult#ismeretlen;okkult;rejtett;titkos
+occupancy#birtokbavétel;birtoklás;elfoglalás
+occupant#bérlõ;birtokló;birtokos;lakó
+occupation#betöltés (üresedést);foglalkozás
+occupy#birtokol;elfoglal
+occurrence#bekövetkezés;elõfordulás;esemény;eset;jelenség;két ünnep egybeesése;megtörténés
+occurrents#esemény
+occurrent#elõforduló;esetleges;felmerülõ
+occur#akad;bekövetkezik;elõfordul;felbukkan;megesik;megtörténik;szerepel
+ocean liner#óceánjáró
+oceanography#oceanográfia;óceántan;tengerkutatás;tengerkutatástan
+ocean#óceán
+ocelot#ocelot;párducmacska
+ochre#okker
+octagonal#nyolcszögû
+octagon#nyolcszög;oktogon
+octette#nyolcas;nyolcsoros versszak;oktett
+octet#nyolcas;nyolcsoros versszak;oktett
+octogenarian#nyolcvanéves
+octopus#polip
+ocular lesion#szemsérülés

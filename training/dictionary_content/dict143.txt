@@ -1,0 +1,91 @@
+snack bar#büfé;falatozó
+snack#biztos dolog;biztos kilátás;biztos ügy;falatka;falatozás;gyorsétkezés;harapás;kis rész;kóstoló;könnyû hideg vacsora;osztályrész;rész;részesedés;tízórai;uzsonna
+snag#bányarém;bütyök;csomó;elcsábít;elcsór;gond;gubanc;hátrány;kiálló csonk;kiálló farönk;kiálló szikla;kidudorodás;legallyaz;megfúj;meglovasít;rejtett akadály;ronda nõ;rönköktõl megtisztít;váratlan bökkenõ
+snail#csiga
+snake#kígyó;kígyózik
+snap fastener#patent
+snapper#alligátorteknõs;csapósudár;harapós ember;harapós kutya;menetjegyvizsgáló;mogorva ember;odamondogatós ember;ostorhegy;zsémbes ember
+snappily#csípõsen;talpraesetten
+snapping#csattogás;csattogtatás;csettintés;elpattanás;elroppanás;eltörés;felvétel;harapós;hirtelen eltörés;kettétörés;kikattintás;mogorva;odamondogató;pattintás;pillanatfelvétel;roppanás;zsémbes
+snappish#csattanó;csípõs;élesen csattanó;harapós;ingerült;pattogó;zsémbes
+snappy person#csípõs megjegyzéseket tevõ ember;harapós ember;ingerült ember
+snappy return#rugóval visszaállítás az eredeti helyzetbe
+snappy sound#csattanó hang;pattogó hang
+snappy#csípõs;divatos;elegáns;élesen csattanó;eleven;energikus;finom;harapós;ingerült;ízes;lendületes;mozgékony;pattogó;rámenõs;szellemes;találó;talpraesett;visszavágós;zsémbes
+snapshot#amatõr fénykép;felvétel;fénykép;kép;pillanatfelvétel
+snap#amatõr fénykép;becsattant;bekap;bekattanás;bekattint;csat;csattan;csattanás;csattant;csütörtököt mond;elcsíp;elkap;elpattan;elpattant;elroppant;eltör;eltörik;harap;hirtelen;hirtelen idõváltozás;ingerülten megjegyez;kép;kettéroppan;kettétörik;könnyû munka;lefényképez;lekap;lopás;megfog;meglepetésszerû;odakap;patent;pattan;pattanás;pattant;pattint;pattintás;pillanatfelvétel;pillanatfelvételt készít;ropogós gyömbérsütemény;roppan;váratlan;zár
+snare#csapda;csapdával fog;háló;hurok;kelepce;kelepcébe ejt;polip-kacs (sebészmûszer);tõr;tõrbe ejt
+snarl#agresszíven kritizál;bonyodalom;csomó;fogát vicsorítva morog;hurok;mogorván mond;morgás;összecsomóz;összegubancol;összekuszál;összezavar;vicsorgás;zavar
+snatch#bekap;elkap;felkap;foszlány;hirtelen elkap;hirtelen elragad;hirtelen megkap;kap;kapkod;kis idõköz;megkaparint;megragad;odakapás;töredék;utánakap;utánanyúl;vmi után kap
+sneakers#gumitalpú cipõ;gumitalpú tornacipõ;surranó
+sneaker#settenkedõ
+sneaking#be nem vallott;sunyi;titkos
+sneak#alattomos ember;árulkodik;árulkodó;besúgó;elcsen;elcsór;elemel;ellop;lopakodik;oson;settenkedik;sompolyog;spicli;spicliskedik
+sneaky#csúszó-mászó;meghunyászkodó;szolgai;trükkös
+sneer#fitymál;gúnyosan mosolyog;gúnyos mosoly
+sneeze#tüsszent;tüsszentés
+snicker#kacarászik;kuncog;kuncogás;nyihog;nyihogás;röhög;röhögés;vihog;vihogás
+snick#bemetsz;bemetszés;benyisszant;berovátkol;bevágás;csomó;gubanc;gyenge érintõ ütés;gyengén üt;kattanás;kattant;kis bemetszést csinál;kis bemetszést ejt;kis bevágás;kis bevágást csinál;kis bevágást ejt;nyisszant;nyisszantás;rovátka;rovátkát metsz
+sniffle#szipákol;szipog;szipogás;szuszog
+sniff#beszív;megszimatol;szaglászik;szimatol;szimatolás;szipákol;szipákolás;szippant;szippantás
+sniffy#baró;egy kis szaga van;jó;lenézõ;remek;rossz szagú;szuper
+snifters#száraz nátha
+snifter#heves szélroham;ital;kis pohár ital;orkán;pálinka;szûkszájú ivópohár
+snift#dohog;szuszog
+snigger#kacarászás;kacarászik;kuncog;kuncogás;vihog;vihogás
+sniperscope#infravörös fénynél célzó készülék
+sniper#orvlövész
+snipe#egyenként lelövöldöz;lelövöldöz;lesbõl lelövöldöz;orvlövészkedik;snipe,csikk;snipe,félig elszívott szivar;snipe,kis görcs;snipe,kis vakarcs;snipe,mitugrász fickó;snipe,orvlövész-lövés;snipe,szalonka;sorra lelövöldöz;szalonkára vadászik;szalonkázik
+sniping#lövés rejtekhelyrõl
+snippet#apró darabka;töredék;vagdalék
+snips#lemezvágó olló
+snip#biztos dolog;darab;elõnyös dolog;lemetsz;metszés;nyisszant;nyisszantás;szabó;szelet
+snitcher#áruló;besúgó;kézi bilincs
+snitch#elcsen;eljár a szája;kitûnõ dolog;orr;orron vágás;pompás dolog;potyán szerez;remek dolog
+sniveler#nyafogó;nyavalygó;síró-rívó
+sniveling#nyafogó;nyavalygó
+sniveller#nyafogó;nyavalygó;síró-rívó
+snivel#csepegõ takony;folyik az orra;nyafog;nyafogás;nyavalygás;nyavalyog;sír-rí;szipákol;szipogás;taknyos
+snobbery#sznobizmus;sznobság
+snobbishness#sznobizmus;sznobság
+snobbish#sznob
+snobby#sznob
+snob#sznob ember
+snog#csókol;csókolódzás;csókolózik;etyepetye;nyalakodás;nyalakodik;nyal-fal;ölelkezés;ölelkezik;smacizás;smacizik;smárol;smárolás
+snoop#csen;csór;elcsen;elcsór;ellop;fürkész;lop;mindenhova beleüti az orrát;spicli;spicliskedés;spicliskedik;szaglász;szaglászás;szaglászik;szimatol;szimatolás
+snooty#beképzelt;felvágós;sznob
+snooze#szundikálás;szundít
+snore#horkol;horkolás;hortyog
+snoring#heves;hirtelen;horkolás;horkoló;hortyogás;hortyogó
+snorkel#búvárpipa
+snort#bosszúsan kijelent;felhorkan;felhorkant;fújtat;haragosan kijelent;horkan;horkant;horkantás;prüszköl;prüszkölés;slukk;szippantás (alkoholból)
+snot#piszkos fráter;rongy alak;takony
+snotty#piszkos;rongy;szemét;taknyos;tengerészkadét
+snout#pofa
+snowball#hógolyó
+snow boots#hótaposó
+snowdrift#hófúvás;hófuvat;hótorlasz
+snowdrop#hóvirág
+snowfall#hóesés
+snowflake#hópehely;hópihe
+snowman#hóember
+snowshoe#hótalp
+snow shovel#hólapát
+snowstorm#hóvihar
+snow suit#bélelt overall
+snow#esik a hó;havazik;hó;kokain
+snowy#havas;hófehér
+snozzle#ormány;orr
+snubber#dörzstárcsás lökésgátló;indító fúrólyuk
+snub#ág;ágcsonk;gally;hirtelen fékezés;hirtelen lefékez;letorkol;letorkolás;megakadályoz;púp;visszautasít;visszautasítás
+snuffler#képmutató;orrhangon beszélõ
+snuffles#dugult nátha;nátha;orrdugulás
+snuffle#ájtatoskodó hangon beszél;kenetes hangon beszél;kenetteljes hangon beszél;náthásan lélegzik;náthásan szuszog;orrhang;orrhangon beszél;szipákol;szipog;szortyog;szortyogás;szörtyög;szörtyögés;szuszogás
+snuff#burnót;burnótozik;felszív;gyertya hamva;gyertyát elkoppant;hamvát levágja (gyertyának);szipog;szippantás;szuszog;tubák;tubákol
+snuffy#mocskos;mogorva;rendetlen
+snug garment#testhez álló ruha
+snuggery#kényelmes kis szoba;meghitt kis szoba
+snuggle#magához ölel
+snugly#biztosan;kényelmesen
+snugness#kényelem
+snug#arányos;barátságos;barátságos zug;biztos;csinos;csinos kis;egyszerû vonalú;eléggé jövedelmezõ;éppen beleillõ;éppen hozzásimuló;gondozott;jól befészkeli magát;jól védett;kedves;kellemes;kényelembe helyezi magát;kényelembe teszi magát;kényelmes;kényelmesen elegendõ;kényelmes kis szoba;kuckó;meghitt kis szoba;meleg fészek;nem nagy,de elegendõ;otthonos;puha;puha fészek;rendes;rendes megélhetést biztosító;rögzítõ pecek;szép formájú;tisztességes;tisztességes megélhetést biztosító;védett;viharra felkészült;viharra jól elõkészített;viharra jól felkészített

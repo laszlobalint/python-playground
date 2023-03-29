@@ -1,0 +1,28 @@
+islamic#iszlám;mohamedán
+islamism#iszlamizmus
+islamist#iszlámtudós
+islamite#iszlámhívõ;mohamedán
+islamitic#iszlám;iszlámhívõ;mohamedán
+islam#iszlám nép;iszlám vallás;mohamedán nép;mohamedán vallás
+islander#szigetlakó
+island#sziget
+islet#szigetecske
+isle#sziget
+isobar#izobár
+isobutane#izobután
+isoclinal#egyenlõ irányban dûlõ;egyenlõ irányban lejtõsödõ;izoklinális
+isocline#izoklin;izoklina;izoklinális redõ;izoklinavonal;izoklin vonal
+isoclinic#azonos lejtésû;egyenlõ lejtésû;izoklin;izoklina;izoklinavonal;izoklin vonal
+isolated#elszigetelt
+isolation#elszigeteltség;szigetelés
+isomeric#izomer
+isomer#izomer
+isothermal#izotermikus
+isotope#izotóp
+israelite#izraelita;zsidó
+israelitic#izraelita;zsidó
+israelitish#izraelita;zsidó
+israeli#Izraelbõl való;izraeli
+israel#Izrael
+issueless#gyermektelen;utód nélküli
+issue#adódik vmibõl;ellát;ered;eredmény;felszerel;folyótorkolat;forgalomba hoz;forgalomba hozatal;ivadék;keletkezik;kérdés;kiad;kiadás;kiadvány;kibocsát;kibocsátás;kifolyás;kifolyik;kijárat;kilép;kimenet;kimenetel;kioszt;kiosztás;kiömlik;kiutalás;következmény;megjelenés;megjelentet;nyílik vhova;példány;példányszám;származik;téma;torkolat;utód;ügy;végeredmény;vitapont

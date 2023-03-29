@@ -1,0 +1,125 @@
+woad#festõ csülleng;festõfû;kék festék
+wobble meter#lengésmérõ;támolygásmérõ
+wobble plate#támolygótárcsa
+wobbler#baka;bizonytalankodó ember;fõtt ürücomb;gyalogos;határozatlan ember;hengercsaprózsa;ingadozó ember;kanalas villantó;támolygókorong;tétovázó ember
+wobble#bicegés;erõsen fõ;habozás;habozik;hangrezegtetés;ide-oda bukdácsol;ide-oda hintáztat;ide-oda támolyog;imbolygás;imbolyog;ingadozás;ingadozik;ingás;inog;kalimpál;kalimpálás;lötyög;lötyögés;mekeg;reszket;rezegtet;rotyog;támolygás;tántorog;tétovázás;tétovázik;tremoló;tremolózik;zötyög
+wobbliness#bizonytalanság;határozatlanság;ingadozás
+wobbling#bicegõ;bukdácsoló mozgás;frekvenciahintázás;imbolygó;ingadozás;ingadozó;ingó;kézi szivattyúzás;lebegtetés;sánta forgás;támolygás;támolygó;támolygó forgás
+wobbly voice#mekegõ hang;reszketõ hang;tremolózó hang
+wobbly#bizonytalan;bizonytalan lábon álló;határozatlan;ingadozó;ingó;kalimpáló;mekegõ;reszketeg;reszketõ;roskatag;tétovázó
+woebegone#bánatos;levert;szomorú
+woeful#bánatos;bánattól sújtott;búbánatos;elszomorító;lesújtó;nyomorúságos;siralmas;szánalmas;szánalomra méltó;szerencsétlen;szomorú
+woefully#bánatosan;bánattól sújtottan;búbánatosan;siralmasan;szánalmasan;szánalomra méltóan;szerencsétlenül;szomorúan
+woe#bánat;szomorúság
+wog#apró szennyezõdés;arab;ázsiai bennszülött;bacilus;baktérium;egyiptomi;élõsdi
+wok#kínai fõzõedény
+wolfish#farkasszerû;kapzsi;kegyetlen
+wolf#wolves,farkas;wolves,nagy kan
+wolverine#rozsomák;torkosborz
+womanhood#a nõk;asszonyiság;asszonnyá érés;nõk
+womanish#asszonyos;elnõiesedett;nõies
+womanizer#szoknyabolond;szoknyavadász
+womanize#asszonyossá tesz;bordélyházakat látogat;elpuhulttá tesz;férfiatlanná tesz;nõiessé tesz;nõzik;szoknyák után fut
+womanly#gyengéd;nõi;nõies
+woman student#diáklány;hallgatónõ
+woman#women,asszony;women,nõ
+wombat#erszényes medve
+womb#méh
+womp#elagyabugyál;legyõz;megtép
+wonderful#bámulatos;csodálatos;csodás
+wonderfully#csodálatosan;csodásan;remekül
+wonderingly#csodálkozva;meglepetten;tûnõdve
+wondering#csodálkozás;csodálkozó;kíváncsi;tûnõdés
+wonderland#csodaország;tündérország
+wonderment#csodálkozás
+wonder#azon tûnõdik;csoda-;csoda;csodálat;csodálkozás;csodálkozik;meglepõdik;szeretné tudni
+wondrously#bámulatosan;csodálatosan;meglepõen;nagyon
+wondrous#bámulatos;bámulatosan;csodálatos;csodálatosan;csodás;elképzelhetetlen;hihetetlen;meglepõ;meglepõen;nagyon;rendkívüli
+wonted#megszokott;szokásos;szokott
+wont#megszokott;szokás;szokott
+woodbine#jerikói lonc;olcsó cigarettafajta;vadszõlõ
+wood char#faszén
+woodchuck#amerikai mormota
+wood coal#lignit
+woodcraft#erdészeti tudomány
+woodcutter#fametszõ;favágó
+woodcut#fametszet
+wooden leg#faláb;gólyaláb;lécláb
+woodenly#esetlenül;ügyetlenül
+wooden shoes#facipõ;klumpa
+wooden spoon#fakanál
+wooden#esetlen;fa-;fából való;merev;ügyetlen
+woodfibre#cellulóz
+wood hyacinth#közönséges jácint
+woodland#erdõség;erdõs vidék
+woodpecker#fakopáncs;harkály
+woodsman#woodsmen,erdei ember;woodsmen,erdei favágó;woodsmen,erdei vadász;woodsmen,erdõlakó;woodsmen,prémvadász;woodsmen,vadász
+woods#erdõ;liget
+woodwork#famunka
+wood#erdõ;fa;liget
+woody sound#fahang;fénytelen hang;tompa hang
+woody#dilis;erdei;erdõ borította;erdõs;fafejû;fás;ostoba;tökéletlen;ütõdött
+woofer#mélyhangszóró
+woof#artikulátlan ugatásszerû hang;szövet;vetülék;vetülékfonal
+woolens#gyapjúáru;gyapjúholmi
+woolen#gyapjú-;gyapjúanyag;gyapjúszövet
+woollen#gyapjú-;gyapjúanyag;gyapjúszövet
+woollies#gyapjúholmi
+wool#fonal;gyapjú;lány;muff;nõ;nõi fanszõrzet
+woolly#elmosódó;gyapjas;gyapjú alsóruha;ködös
+woo#megkéri a kezét;megnyerni igyekszik;udvarol
+woozily#bágyadtan;betegesen;gyengéd;kábultan
+woozy#bágyadt;beteges;bizonytalan;furcsa;gyenge;kábult;részeg;szédülékeny
+wop#digó;macskaevõ;olasz bevándorló
+word index#szómutató
+wording#szerkesztés
+wordlessly#szó nélkül;szótlanul
+wordly#anyagias;evilági;földi;világi;világias
+word order#szórend
+words#szerep szövege;szöveg (dalé)
+word#adott szó;hír;ige;ígéret;jelszó;kifejez;kifejt;közmondás;megfogalmaz;megszövegez;parancs;parancsszó;szavakba foglal;szentírás;szó;szólás;üzenet
+wordy#bõbeszédû;szavakba foglalt;szóbeli;szóbõ;terjengõs
+workable#megvalósítható
+workaholic#munkabuzi;munkaõrült
+workbench#munkapad
+workbook#munkafüzet
+worker#munkás
+workhorse#igásló
+working#megmunkálás;mûködés
+workload#munkaterhelés
+workmanlike#hozzáértéssel;hozzáértéssel csinált;hozzáértéssel végzett;hozzáértõ;szakavatott;szakszerû;szakszerûen;szakszerûen csinált;szakszerûen végzett
+workmanship#kézi munka;kidolgozás;kivitelezés;megmunkálás;munka;mûve vkinek;szakszerûség;vkinek a mûve
+workman#workmen,fizikai munkás
+work paper#munkaokmány
+workplace#munkahely
+workroom#dolgozószoba
+worksheet#feladatlap;munkalap
+workshop#mûhely
+workstation#munkaállomás
+works#erõdítmények;erõdök;gyár;gyártelep;mûtárgyak;-mûvek;szerkezet;üzem
+worktable#kézimunkaasztal;varróasztal
+worktop#alsó konyhaszekrény
+work#alkotás;beválik;dagaszt;dolgozik;dolog;elfoglaltság;elõidéz;erjed;feldolgoz;forr (bor);hat;hímez;járat;kezel;kézimunkával készít;kézimunkázik;kidolgoz;kihímez;kiszámít;kivarr;kotyog;köt;ledolgoz (munkaidõt);létrehoz;megdagaszt;megdolgoztat vkit;megdolgoz vkit;megmunkál;megmûvel;megold (számtanpéldát);munka;mû;mûködik;mûködtet;mûvel;tesz;tevékenység;üzemeltet;véghezvisz
+worldliness#világiasság
+worldling#anyagias ember;világias ember
+worldly#anyagias;evilági;földi;világi;világias
+world#világ
+wormgear#csigakerék;csigakerékhajtás
+worms#makaróni;spagetti
+worm#csavarmenet;csavarmenetes rúd;csigafúró;csigamenet;csõkígyó;ellenszenves ember;féreg;féregnyúlvány;fojtáskivevõ;giliszta;hernyó;hitvány féreg;kígyócsõ;kukac;lyssa;nyû;pondró;utolsó rongy alak;végtelen csavar;veszettségi féreg
+worn#elnyûtt;kopott
+worrier#aggályoskodó ember;juhot megtámadó farkas;juhot megtámadó kutya;másokat gyötrõ ember;másokat zaklató ember;nyugtalankodó ember;zaklató
+worrisome#aggasztó
+worry#aggaszt;aggodalom;aggódik;gond;gyötör;izgat;nyugtalankodás;nyugtalankodik;zaklat
+worsen#elront;ront;rosszabbít;rosszabbodik
+worshipful#tiszteletre méltó
+worshipper#imádó
+worship#imád;imádás;imádkozik;istentisztelet;méltóság
+worsted#fésûsgyapjú fonal;fésûsgyapjú szövet;hosszú szálú fésûsgyapjúfonál;kamgarn;kamgarn szövet
+worst#diadalmaskodik;fölébe kerekedik;gyõzedelmeskedik;legrosszabb;legrosszabb dolog;legrosszabbul;legyõz
+worthless#érdemtelen;értéktelen;hitvány
+worthwhile#érdemes;érdemleges;fáradságot megérõ;valamirevaló
+worth#érték
+worthy#érdemes;kiváló ember;kiválóság;méltó
+wound#megsebesít;megsért;seb;sebesülés;sérelem;sértés
+wow#bombasiker;nagy siker;nyávog;nyávogás;pompás dolog;remek dolog;vonít;vonítás

@@ -1,0 +1,79 @@
+oozelet#kis eresz
+ooze#átcsurgás;átszûrõdik;csepeg;csepegés;cserfõzet;csöpög;elillan;elsomfordál;elszivárgás;ereszt;folyat;gyöngyözik;iszap;izzad;kereket old;kiszivárog;lassú kiáramlás;lassú kifolyás;nyirkosság;párolog;pehely;sár;szivárgás;szivárog;szivárogtat;szõr;váladék
+oozing#csepegés;csepegõ;elszivárgás;nedves;nedvességtõl csöpögõ;párolgás
+oozy#iszapos;izzadó;nedves;nyirkos;sáros;szivárgó
+opacity#átlátszatlanság
+opalescent#opálfényû;opalizáló;opálos;színeket játszó
+opal#opál
+opaque#átlátszatlan;nehézfejû;tudatlan
+open berth#nem védett kikötõ;nyílt kikötõ
+open ditch#vizesárok
+open fault#felszíni törés;nyílt gyûrõdés;nyílt törés;vetõdés
+open furrow#bakhát;barázda;bogárhát
+open hawse#szabadon futó horgonylánc;szabadon futó kötél;tisztán futó horgonylánc;tisztán futó kötél
+opening#megüresedett állás;munkalehetõség;nyílás
+openly#nyíltan
+openness#nyíltság
+open river#jégmentes folyó;nem befagyott folyó
+open seas#nyílt tenger
+open secret#nyílt titok
+open#kinyit;nyílik;nyit;nyitott
+operability#kezelhetõség;mûködõképesség;operálhatóság
+operable#funkcionáló;megoperálható;mûködõképes;operálható
+opera bouffe#opera buffa;vígopera
+opera glasses#színházi látcsõ
+operate#befolyásol;elõidéz;érvényes;hat;hatályos;mûködik;mûködtet;okoz;operál;üzemben tart;üzemel
+operatic#opera-;operai
+operatics#mûkedvelõ opera;mûkedvelõ operaelõadás
+operational#bevethetõ;hadmûveleti;harcképes;mûködési;mûveleti;operációs;operatív
+operation#mûtét;mûvelet;operáció;üzemeltetés
+operative#alkalmazott;dolgozó;döntõ;érvényes;fontos;hatályos;hatásos;leglényegesebb;munkás;mûtéti
+operator#észlelõ;gépész;gépkezelõ;gépvezetõ;irányító;kezelõ;mûszerész;operátor;sebész;telefonkezelõ;telefonközpontos
+opera#daljáték;opera;zenedráma
+ophthalmia#szemgyulladás
+ophthalmic#szem-
+opiated#ópiumos
+opiates#ópiumszármazékok
+opiate#altatószer;kábítószer;narkotikum;ópiummal kever;ópiumos;ópium tartalmú szer
+opine#gondol;gyanít;vél;véleményt nyilvánít;vmilyen véleményen van
+opinionated#fontoskodó;nagyképû;véleményéhez ragaszkodó
+opinion#nézet;szakvélemény;vélemény
+opium#ópium
+opossum#oposszum
+opponent#ellenfél
+opportune#alkalmas;alkalomszerû;idõszerû
+opportunism#megalkuvás;opportunizmus
+opportunist#megalkuvó;opportunista
+opportunity#alkalmas idõ;alkalom;kedvezõ alkalom;lehetõség
+opposable#szembeállítható;szembefordítható
+oppose#ellenáll;szembeállít;szembehelyezkedik
+opposing#ellenkezõ
+oppositely#átellenesen;ellentétesen;szemben;szemben állva
+opposite#ellenkezõ;ellentétes;szemben levõ
+oppositional#ellenzõ
+opposition#ellenállás;ellenkezés;ellentét;ellenzék;ellenzés;szembenállás
+oppressed#elnyomott
+oppression#elnyomás;lehangoltság;zsarnokság
+oppressive#elnyomó;nyomasztó;súlyos;terhes;tikkasztó
+oppressor#elnyomó;kényúr;zsarnok
+oppress#deprimál;elnyom;lenyom;nyom;nyomorgat;ránehezedik;sanyargat;terhel
+opprobriate#gyaláz;szidalmakkal áraszt el;szidalmaz
+opprobrious#gyalázatos;gyalázkodó;megvetésre méltó;piszkolódó;szégyenletes;szidalmazó
+opprobrium#gyalázat;szégyen;szemrehányás;szidalmazás
+optical#látási;látó-;optikai;szem-
+optician#látszerész;optikus
+optic nerve#látóideg
+optic#látási;látó-;szem-
+optics#fénytan;optika
+optimality#optimalitás
+optimal#optimális
+optimization#optimálás;optimalizálás;optimum meghatározása;optimum megválasztása
+optimize#legkedvezõbb értékre beállít;optimalizál;optimumot meghatároz
+optimum#legelõnyösebb;legjobb;optimális
+optional#fakultatív;nem kötelezõ;szabadon választható;tetszõleges
+option#elõvételi jog;opció;választás
+opt#választ
+opulence#bõség;gazdagság;vagyon
+opulently#dúsan;fényûzõen;pazarul
+opulent#bõ;bõséges;dús;dúsgazdag;fényûzõ;pazar
+op#mûtét;operáció;optikai;távirdász;távírókezelõ

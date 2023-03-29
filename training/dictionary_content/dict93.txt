@@ -1,0 +1,291 @@
+liabilities#passzívák;tartozások;teher
+liability#felelõsség;hajlam;kötelezettség;teher;tehertétel
+liable for#felelõs vmiért;köteles vmire
+liable#felelõs;hajlamos;köteles
+liaison#kapcsolat;összeköttetés;szerelmi viszony;viszony
+liana#kúszónövény;lián
+liane#kúszónövény;lián
+liar#hazudozó;hazug ember
+libel#becsületsértés;förmedvény;gúnyirat;megrágalmaz;rágalmaz;rágalmazás
+liberalism#liberalizmus;szabadelvûség
+liberality#bõkezûség;nagylelkû ajándék;nagylelkûség;nagyvonalúság;pártatlanság;széles látókör
+liberalize#liberalizál
+liberal#bõkezû;bõséges;elfogulatlan;liberális;liberális párt tagja;megértõ;nagylelkû;nagyvonalú;õszinte;szabadelvû
+liberally#bõkezûen;bõségesen;megértõen;nagyvonalúan;õszintén
+liberate#fejleszt;felment;felszabadít;kiszabadít;megszabadít;szabaddá tesz
+liberation#felszabadítás;felszabadulás;megszabadítás
+liberator#felszabadító
+liberties#elõjogok;kiváltságok
+libertine#csodabogár;excentrikus személy;feslett;feslett erkölcsû;feslett erkölcsû ember;kicsapongó;kicsapongó életet élõ ember;különc;szabadgondolkodó;szabados;szabados viselkedésû ember;züllött;züllött fráter
+liberty#szabadság
+libido#kéjvágy;libidó;nemi vágy
+lib#kiherél
+licence#engedély;engedélyez;engedélyt ad;felhatalmazás;hatósági engedély;jogosítvány;koncesszió;licenc;szabadosság
+licensed#engedélyezett;képesített;okleveles
+licensee#engedélyes;iparengedélyes
+license#engedély;engedélyez;engedélyt ad;felhatalmazás;jogosítvány;koncesszió;licenc;szabadosság
+licensing#engedélyezés;engedély kiadása
+licentious#buja;féktelen;kicsapongó;szabados
+licesee#engedélyes;iparengedélyes
+lichen#sömör;zuzmó
+lick#egy nyalásnyi vmi;eldönget;elver;közbeiktatott zenei frázis;legyõz;megnyal;megnyalás;nyal;nyalás;nyalató;nyaldos;nyalintás;sózó;szikes;szikes legelõ;sziksó;ütés;verés
+licorice#édesgyökér;medvecukor
+lidded#fedeles;kupakos
+lid#ácsolat-ék;ékfa;fedél;fedõ;fejfedõ;kupak;szemhéj;tökfedõ
+liege lord#hûbérúr
+lieutenancy#fõhadnagyi rang;fõhadnagyi rendfokozat;fõhadnagyság;hadnagyi rang;hadnagyi rendfokozat;helyettesi állás;helyettesi méltóság;helytartói állás;helytartói méltóság;helytartóság
+lieutenant#fõhadnagy;hadnagy;helyettes;helytartó;kormányzó
+lievrite#ilvait;lievrit
+lie#fekvés;hazugság;helyzet;lay,lain,elterül;lay,lain,fekszik;lay,lain,hever;lay,lain,horgonyoz;lay,lain,vesztegel;lied,hazudik;tanya;vacok
+lifebelt#mentõöv
+life belt#úszógumi
+lifeboat#mentõcsónak;mentõkabin
+life buoy#mentõöv
+life jacket#mentõmellény
+lifejacket#mentõmellény
+lifekind#életforma
+lifelessly#élettelenül
+lifeless#élettelen
+lifelike#élethû
+lifelong#egész életen át tartó;életre szóló
+lifer#életfogytiglani börtönbüntetés;életfogytiglani kényszermunka;életfogytos rab;hivatásos katona
+life saver#mentõmellény;úszógumi
+lifestyle#életmód;életstílus
+life#élet
+lifting#emelés
+lift#elemel;ellop;emel;emelés;emelkedés;emelkedik;felemel;felemelés;felemelkedés;felemelkedik;felold;felszáll;felvonó;kiemelkedik;lift;megszüntet;munkaszintek közötti magasság;segítség
+ligamental#ínszalagszerû;szalagos;szalagszerû
+ligamentary#ínszalagszerû;szalagos;szalagszerû
+ligamentous#ínszalagszerû;szalagos;szalagszerû
+ligament#ínszalag;kötelék;kötözõ anyag;kötözõ szalag;szalag
+ligand#kötött atom;kötött atomcsoport;ligandum
+light bay#gesztenye pej;világos pej
+light blues#cambridge-i egyetem csapata
+light bulb#villanykörte
+lighten#csökken;csökkenti a terhelését;csökkenti a terhét;enyhít;enyhül;felderít;kiderül;kivilágosodik;könnyebbé válik;könnyebbít;megkönnyebbül;megkönnyül;megvilágít;megvilágosít;világosabbá válik
+lighter#átrakóhajó;dereglye;dereglyén szállít;fidibusz;gyújtókészülék;kirakóhajó;lámpagyújtó;lámpagyújtogató;öngyújtó;rakodóhajó;uszály
+light fiction#könnyû olvasmány;szórakoztató regény
+lightheaded#bolond;dilinós;feledékeny;gyengeelméjû;könnyelmû;szórakozott
+light horse#könnyûlovasság
+lighthouse#világítótorony
+lighting#gyújtás;megvilágítás;meggyújtás;világítás
+lightless#fénytelen
+lightly#felszínesen;fürgén;könnyedén;könnyelmûen;könnyen
+lightness#finomság;gyengeség;jelentéktelenség;könnyedség;könnyelmûség;léhaság;tapintat
+lightning#villámlás
+light opera#operett
+light railway#keskeny vágányú vasút
+light signal#fényjel
+light sleeper#ébren alvó
+lights out#lámpaoltás
+light switch#villanykapcsoló
+lights#világítás
+lightweight#könnyû
+light#ablaknyílás;begyújt;csillogó;elegáns;enyhe;felszáll;fény;fényforrás;finom;gyenge;gyújt;halvány;jelentéktelen;jól megvilágított;kiderül;kivilágosodik;könnyed;könnyedén;könnyelmû;könnyen;könnyû;lámpa;láng;léha;leszáll (lóról);lit,begyújt;lit,megvilágít;lit,meggyújt;megvilágít;megvilágítás;meggyújt;meggyullad;nem hangsúlyos;ragyogó;rászáll;sápadt;szelíd;szõke;tapintatos;tiszta;tûz;üresen;világít;világos;világosság
+light year#fényév
+lignite#lignit
+likable#kedves;rokonszenves;szeretetre méltó
+likeable#kedves;rokonszenves;szeretetre méltó
+like enough#igen valószínû;igen valószínûen
+like hell#fenemód;kétségbeesetten;nagyon
+likelihood#valószínûség
+likely#feltehetõ;lehetséges;megfelelõ;sokat ígérõ;valószínû;valószínûleg
+likeness#arckép;hasonlóság;képmás
+liken#összehasonlít
+like smoke#azonnal;gõzerõvel
+likewise#hasonlóan;szintén
+like#akar;hajlamos vmire;hajlandó vmire;hangulata van vmihez;hasonló;hasonlóan vmihez;hasonmás;jellemzõ;kedvel;kedve van vmihez;kíván;mint;óhajt;szeret;tetszik;úgy amint;ugyanolyan;valószínûleg
+liking#kedv;szeretet;vonzalom;vonzódás
+likker#pia;szeszes ital;tütü
+lilac#orgona
+lilo#gumimatrac
+lilt#dallamosan énekel;édesen ömlõ dal;édesen ömlõ dallam;élénk dal;eleven lépkedés;hintázó járás;lendület;lendületes dal;lendületesen énekel;ringó járás;ringó léptekkel jár;ritmus;ütem;vidáman énekel;vidám dal
+lily#liliom
+lima bark#huanakó-kéreg
+lima bean#limabab;nagyhüvelyû holdbab
+lima#reszelõkagyló
+limber#ágyútaliga;felmozdonyoz;fürge;hajlékony;hajlékonnyá tesz;kocsirúd;lövegmozdony;rugalmas;rugalmassá tesz;ruganyos;taligához köt
+limbo#börtön;elfeledettség;pokol tornáca
+limbs#végtagok
+limb#faág;rossz kölyök;végtag
+lime coal#mészégetõ szén
+lime coating#meszelés
+lime cream#mésztej
+lime glue#csontenyv
+lime hydrate#mészhidrát;oltott mész
+lime juice#citromlé
+lime milk#mésztej
+lime putty#ablakgitt;ablakragasz
+limestone#mészkõ
+lime tree#hársfa
+lime whiting#meszelés
+lime#apró citromfajta;apró citromfajtát termõ fa;borostyánszín;citrusfa;hárs;hársfa;kutyaszíj;léppel fog;léppel von be;madárenyv;madárlép;mész;meszes;meszesbe tesz;meszez;mészvízzel öntöz;póráz;talajt meszez
+limitation#elévülés;elhatárolás;határolás;korlátozás
+limited#korlátolt;korlátozott;körülhatárolt;meghatározott
+limitless#határtalan;korlátlan;végtelen
+limit value#határérték
+limit#elhatárol;határ;határérték;határol;határpillér;határt szab;korlát;korlátoz;limes;megszorít;ütközõ
+limner#festõ;festõmûvész;illusztrátor;piktor
+limn#ábrázol;arcképet készít;fest;iniciálékkal díszít;képekkel díszít;lefest;lerajzol;rajzol
+limonite#barna vasérc;limonit
+limousine#kallózott és gyengén bolyhozott fésûgyapjú-szövet;limuzin;zárt karosszériájú autó
+limo#limuzin
+limp boards#fûzött kötés;hajlékony kötés;puha kötés
+limpet#állásához görcsösen ragaszkodó hivatalnok;kacsakagyló;tapadó tengeri csiga;tengeri tapadókagyló
+limpidity#tisztaság;világosság
+limpid#átlátszó;áttetszõ;tiszta;világos
+limp#biceg;bicegés;erõtlen;gyenge;hajlékony;petyhüdt;puha;sántikál;sántít;sántítás
+linchpin#összetartó kapocs;tengelyszög
+linden#hárs
+lineage#családfa;felmenõ ág;leszármazás;származás
+linear chain#elágazás nélküli lánc
+linear city#országútmenti település;szalagváros
+linearity#linearitás
+linear leaf#keskeny hosszú levél
+linear#egyenes alakú;egyenes irányú;elsõfokú;hosszirányú;lineáris;vonalas
+line clear#szabad pálya;zöld út
+line conduct#vezetékvonal
+line diagram#vázlat;vonalas rajz
+line drawing#vázlat;vonalas rajz
+line engaged#foglalt a vonal;mással beszél (hívott személy)
+line infantry#sorkatonaság
+line leather#hámiga;kantárbõr;nyergesbõr
+linen basket#szennyeskosár
+linen pin#szennyestartó
+linen rag#rongy
+linen tape#danúbia;pamutszalag;pamutszegõszalag;vászonszalag;vászonszegõszalag
+linen#ágynemû;fehérnemû;lenvászon;vászon;vászonnemû
+line officer#csapattiszt;kereskedelmi tengerésztiszt
+line pole#pózna;vezetékoszlop
+line post#pózna;vezetékoszlop
+line power#hálózati feszültség
+line radio#vezetékes rádió
+liner#alátét;óceánjáró;személyszállító hajó
+line service#pályafenntartó szolgálat;vezetékfenntartó szolgálat;vonalfenntartó szolgálat
+line signal#hívójel;vonaljelzés
+linesman#partjelzõ
+lines#erõdítési vonal;erõdvonal;írásbeli büntetés;írásbeli kitüntetés;kantár;költemény;szerep;vers
+line#arcvonal;árucikk;árufajta;bélel;csatasor;damil;egyenes;egy inch 12-ed része;felsorakoztat;foglalkozás;foglalkozási ág;határ;határvonal;irányvonal;járat;kibélel;körvonal;leszármazás;megtölt;megtöm;megvonalaz;pálya;sor;sorakoztat;sorba állít;szakma;származási ág;szegélyez;tájékoztatás;tölt;útvonal;vasútvonal;vezeték;vonal;vonalakat húz;vonalaz;vonalkáz;vonás;zsineg;zsinór
+lingerie#nõi fehérnemû
+lingering#epedõ;habozó;hosszadalmas;késlekedõ;lassú lefolyású;sóvár
+linger#habozik;idõben elnyúlik;idõzik;késlekedik;marad
+ling heather#csarab
+lingo#halandzsa;idegen nyelv;nyelv;nyelvjárás;szaknyelv;szakzsargon;számûzés;tájszólás;zagyva beszédmód;zsargon
+linguine#hosszú lapos tészta
+linguistic#nyelvészeti;nyelvi;nyelvtudományi
+linguist#nyelvész
+lining#bélés;betét;szigetelés
+linkage#kapcsolat;kapcsolódás
+linking#kapcsolat;kapcsolódás
+linkman#linkmen,fáklyahordozó;linkmen,fáklyavivõ;linkmen,kocsi-elõszólító
+link#csukló;fáklya;ízület;kézelõgomb;láncszem;összefûz;összekapcsol;összeköt;összeláncol
+linnet#kenderike
+linoleum#linóleum
+linotype#sorszedõgép
+linseed#lenmag
+lintel course#széles lapos párkány
+lintel girder#tartókoszorú
+lintel#architráv;áthidaló;áthidaló gerenda;fejgerenda;felsõ küszöbfa;hevedergerenda;keresztrúd;keresztvas;nyíláshidalás;szemöldökfa
+lint#foszlik;hasad;kötszer;mullpólya;sebkötõ géz;tépés (sebkötéshez)
+lionized#ünnepelt
+lionize#ünnepel vkit
+lions#egy hely látnivalói;egy hely látványosságai;egy hely nevezetességei
+lion#aranyérme;aranypénz;arany pénzdarab;híresség;kiemelkedõ egyéniség;oroszlán;oroszlános címer;oroszlános pajzs;oroszlán pajzs;pillanatnyi híresség
+lipgloss#ajakfény
+lipstick#ajakrúzs;rúzs
+lips#ajkak;száj
+lip#ajak;csõr;fecsegés;perem;pofázás;száj;szegély;szél;szemtelenség
+liquefaction#cseppfolyósítás;cseppfolyósodás;elfolyósítás;elfolyósodás;olvasztás
+liquefactive#cseppfolyósító
+liquefy#cseppfolyósít;cseppfolyóssá válik;elfolyósít
+liquid air#cseppfolyós levegõ;folyékony levegõ
+liquid assets#likvid tõke;rendelkezésre álló anyagi eszközök
+liquidate#eltesz az útból;felszámol;kiegyenlít;kivégez;likvidál
+liquidation#beszüntetés;csõd;elpusztítás;elszámolás;felszámolás;kiegyenlítés;kiirtás;lebonyolítás;megsemmisítés;megszüntetés
+liquidator#felszámoló
+liquid body#cseppfolyós test
+liquid eyes#csillogó szemek
+liquid glass#vízüveg
+liquidizer#turmixgép
+liquid manure#hígtrágya
+liquid#átlátszó;cseppfolyós;cseppfolyós állapotban lévõ;folyadék;folyékony;folyósítható;híg;kellemes;likvid;sima;tiszta;változékony
+liquorice#édesgyökér;medvecukor
+liquor#égetett szeszes ital;folyadék;gyógyszeroldat;lé;oldat;szeszes ital
+lira#lire,líra
+lire#hangszerre szerelt kottatartó
+lisp#selypít;selypítés
+listener#hallgató;hallgatózó
+listen#figyel;hallgat
+listing#dõlés;jegyzékbe vétel;lajstromozás;oldalra dõlés;szövetszegély;tõzsdei árfolyam;tõzsdei árjegyzék
+listlessly#kedvetlenül;közömbösen
+listlessness#kedvetlenség;közömbösség
+listless#kedvetlen;közömbös
+list price#árjegyzéki ár
+lists#küzdõtér
+list#besorol;besoroz;bevarr;bevon (posztóval);jegyzék;jegyzékbe vesz;katonának áll;kedvére van;lajstrom;lista;névsor;oldalra dõl;oldalra dõlés;posztószél;szegély;tetszik
+litany#litánia;vecsernye
+literalism#betû szerinti fordítás;betû szerinti magyarázat;betû szerinti vétele vminek
+literalist#mindent szó szerint értõ ember
+literal#betû szerinti;prózai;szó szerinti
+literally#szó szerint;szó szoros értelmében
+literary#irodalmi
+literateur#irodalmár
+literature#irodalom
+lithe#hajlékony;karcsú;ruganyos
+lithograph#kõnyomat
+lithography#kõnyomás;kõnyomtatás;kõrajz;litográfia
+lithology#litológia
+lithuanian#litván
+lithuania#Litvánia
+litigant#pereskedõ
+litigate#perel;pereskedik
+litigation#bírósági eljárás;per;pereskedés
+litotes#kicsinyítõ formájú állítás;litotész;túlzó kicsinyítés
+litter basket#szemétkosár
+litter bin#szemétkosár
+littering#szemetelés
+litter#almot készít;almoz;alom;hordágy;hordszék;hulladék;kölykezik;rendetlenség;széjjelhány;teleszór
+little belt#kis-belt
+little finger#kisujj
+little go#alapvizsga;elõvizsga
+little house#árnyékszék;illemhely;vécé
+little ones#kicsinyek;kisgyerekek
+little people#tündérek
+little#kicsi
+liturgical#liturgiához tartozó;liturgikus;szertartási
+liturgic#liturgiához tartozó;liturgikus;szertartási
+liturgist#liturgiakutató;liturgista
+liturgy#egyházi szertartás;egyházi szertartásrend;liturgia
+livable#elviselhetõ;kibírható;lakható
+liveable#elviselhetõ;kibírható;lakható
+live coals#égõ széndarabok;izzó szén;parázs
+livelihood#megélhetés
+liveliness#élénkség
+livelong#hosszadalmas
+lively#élénk;eleven;fürge;vidám
+liveried#egyenruhás;libériás
+live roller#etetõ-görgõs járat;meghajtott henger
+liverwurst#kenõmájas;májas hurka
+liver#máj
+liveryman#béristálló tulajdonosa;istállószolga;libériás inas;londoni céhtag
+livery stable#béristálló
+livery#átadás;átruházás;egyenruha;istállózás;libéria
+livestock#állatállomány;haszonállatok;lábasjószág
+live#egyenes adás;egyenesben;él;élénk;eleven;élõ;élõben;lakik;létezik;megél vmit;megér vmit;mûködõ;tartózkodik;valódi
+livid#hamuszínû;kékes;ólomszínû
+living being#élõ;élõlény
+living death#élõ halál;halálnál is rosszabb élet
+living force#életerõ;eleven erõ
+living fossil#élõ kövület
+living labour#eleven munka;élõmunka
+living matter#élõ anyag
+living rock#tiszta kõ
+living room#nappali
+living space#lakóterület
+living wage#létminimum
+living water#folyóvíz
+living#egyházi javadalom;élénk;élet;életben levõ;életerõs;életfenntartás;élethû;életmód;életszerû;eleven;élõ;élõk;megélhetés;plébánia javadalma
+lixiviate#kilúgoz
+lixiviation#kilúgozás
+lixivium#lúgozó folyadék
+lizard#gyík

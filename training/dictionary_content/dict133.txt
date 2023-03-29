@@ -1,0 +1,253 @@
+roach#csótány;keresztvitorla alsó peremének ív alakú bevágása;pirosszemû kele;svábbogár
+road accident#közúti baleset
+road agent#országúti útonálló
+road approach#útfeljáró
+roadblock#tankcsapda;útakadály;úttorlasz
+road clear#az út járható;szabad pálya;zöld út
+road fork#útelágazás
+road grader#útgyalu
+road grade#útlejtõ
+road junction#úttalálkozás;úttorkolat
+road making#útépítés
+road narrows#útszûkület
+road profile#út hossz-szelvény
+roadrunner#amerikai futókakukk
+road shocks#huppanók;zökkenõk
+roadside#padka;út széle
+road sign#közlekedési jelzõtábla
+roadster#igásló;kikötõben horgonyzó hajó;nyitott kétüléses gépkocsi;nyitott sportautó;révben horgonyzó hajó;sokat utazó ember;sportkerékpár
+road surface#útburkolat
+road sweeper#utcaseprõ
+roads#horgonyzó hely;kikötõ;rév;tengeri kikötõ
+road work#útjavítás
+road#alapvágat;kocsiút;országút;pályatest;tárna;út;úttest;vágány;vágat;városi út;vasúti pálya
+roaming#barangolás;barangoló;kóborlás;kóborló;kószálás;kószáló
+roam#barangol;bebarangol;bejár;bolyong;kalandozás;kalandozik;kóborlás;kóborol;kószál;kószálás
+roar#ordít;üvölt
+roast beef#marhasült
+roast chicken#sült csirke
+roasting#pörkölés
+roast joint#egybesült hús;pecsenye
+roast pan#tepsi (húshoz)
+roast#pörköl;rostélyos;sült;süt
+robber#rabló
+robbery#rablás
+robe#díszruha;díszruhába öltözik;díszruhába öltöztet;köntös;köpeny;palást;talár
+robin#vörösbegy
+robot bat#önmagát célra irányzó lövedék
+robot bomb#léglökéses automatikus repülõbomba;távirányított repülõbomba
+robotize#gépesít
+robot plane#pilóta nélküli repülõgép
+robot#gépember;lélektelen ember;robotautomata;távirányított lövedék;távvezérelt készülék
+robust engine#nagy teljesítményû motor
+robustful#erõs;erõteljes;izmos;markos;robusztus;szilárd
+robustfully#erõsen;erõteljesen;robusztus módon
+robustic#durva;erõs;erõteljes;féktelen;hangos;izmos;lármás;markos;robusztus;szilaj;szilárd;vad;zajongó
+robustious#durva;erõs;erõteljes;féktelen;hangos;izmos;lármás;markos;robusztus;szilaj;vad;zajongó
+robustness#erõteljesség;határozottság;izmosság
+robust#egészséges;erõs;erõteljes;izmos;markos;robusztus;szilárd
+rob#ellop;elrabol;kirabol;meglop;rabol
+rock band#rockzenekar
+rocker car#billenõcsille;buktatócsille;oldalt buktató csille
+rocker#áramszedõ kefe karja;aranymosó kézi szérke;aranymosó vályú;aranyszér;bukfencezõ játékszer;csillebuktató;csilléket felborító szerkezet;elõhívótál-himbáló;elõhívótál-rázó;felhajló orrú korcsolya;gyermeket ringató személy;himba;hintaszék;ingatest;kovácsfújtató himba;kulissza;lengõíves kormánymû emeltyûje;lengõkar;lengõrész;mosópad;mosószér;saru;szelepemelõ kar;váltóláda-himba;váltóláda-tengely
+rocket engine#rakétahajtómû
+rocket motor#rakétahajtómû
+rocketry#rakétatechnika;rakétatudomány;rakétázás
+rocket#elõreszökken;gyorsan emelkedik;gyorsan és egyenesen felszáll;rakéta;rakétákkal lõ;röppentyû
+rock salt#kõsó
+rock#akadály;ékszer;fux;himbál;himbálózik;hintáztat;kõ;kõdarab;kõzet;kristályosított kábítószer;leng;lenget;megrázkódtat;megrenget;nagyobb kavics;reng;renget;ring;ringat;rockzene;szikla;szirt;zátony
+rocky#köves;sziklás
+rococo#rokokó
+rodent#rágcsáló
+rod#horgászbot;pálca;rúd;vesszõ
+roe#halikra;õz;õzborjú;õztehén;ünõ
+roger#közösül;megdug;megtöm
+roguery#csalás;gazság;szélhámosság
+rogue#csavargó;gazember;gazfickó;huncut fickó;kópé;szélhámos
+roguishly#huncutul
+roguish#gaz;huncut
+roil#bosszant;felkavar;gyötör;zavarossá tesz
+roily#emulgeált víztõl zavaros;felkavart;zavaros
+roisterer#dõzsölõ ember;hangoskodó alak;hetvenkedõ;lármás alak;lump;mulatozó ember;szájhõs;tivornyázó ember;zsivajgó alak
+roistering#dáridózás;dáridózó;dõzsölés;dõzsölõ;hepciáskodás;hepciáskodó;hetvenkedés;hetvenkedõ;lármázó;nagyzolás;nagyzoló;tivornyázás;tivornyázó
+roister#dáridózik;dõzsöl;hepciáskodik;hetvenkedik;lármásan mulatozik;lármázik;tivornyázik
+role#feladat;kötelesség;szerep;teendõ
+roller bed#görgõjárat
+roller bridge#eltolható híd
+roller card#hengeres kártoló
+roller derby#görkorcsolyaverseny
+roller dies#menetmángorló alakozó;menetmángorló matrica
+roller gear#görgõs futómû;hengeres futómû
+roller gin#hengeres magtalanító-gép
+roller mill#hengermalom
+roller print#hengernyomás
+roller ring#koszorú
+roller roof#felgöngyölhetõ tetõ
+roller seat#gurulóülés
+roller skates#görkorcsolya
+roller#bukfencezõ galamb;bukógalamb;forgócsap;görgõ;görgõláb;görgõs futómû;görkorcsolya;hajcsavaró;henger;hengerész;hengerlõgép;hengerlõmunkás;hosszú hullám;kalander;kanárifajta;kékcsóka;keringõ galamb;kötelék;mángorló;mángorlófa;nagy hullám;nyújtó-munkás;parthullám;pólyatekercs;szalakóta;tekercs;tömörítõ henger;úthenger;visszaverõdõ hullám
+rollicker#bolondozó;dõzsölõ;lumpoló;mulatozó
+rollicking#bohém életmód;bohó viselkedés;jókedvû;könnyelmû;könnyelmû életmód;léha életmód;mókás;mókázás;mulatós;tréfálkozás;tréfás kedvû;vidám
+rollick#bohóskodás;bohó viselkedés;bolondozik;dáridó;dáridózik;dínomdánom;dõzsöl;emelkedett hangulatban van;gondtalan vidámság;kirúg a hámból;kitörõ vidámság;léháskodik;lumpol;mókázik;mulat;mulatság;örül az életnek;tivornyázik;tréfál;ugrabugrálás;ugrándozás;vigad;vigalom
+rolling#dimbes-dombos;dörgés;egymást követõ;gördülõ;gurulás;guruló;hengerlés;himbálódzó;hömpölygõ;ringó
+rolls#hengermû;hengersor
+roll#bankjegyköteg;becsavar;dörög (ágyú);dülöngél;dülöngélés;felcsavar;felgöngyölít;filmtekercs;forog;göngyöleg;göngyölít;gördít;gördítés;gördül;gördülés;görget;görgõ;gurít;gurítás;gurul;hempereg;henger;hengerel;hengerít;himbálódzás;himbálódzik;hömpölyög;jegyzék;lajstrom;markecol;névjegyzék;orsózás (repülõé);pereg (dob);perget (dobot);ring;ringás;tekercs;vég (kelme);zsemlye
+roman balance#gyorsmérleg;római mérleg
+romance#ábrándokat szõ;ábrándos dolog;ábrándozik;hazugság;idill;költészet;lovagregény;mese;poézis;regényes kaland;regényes történet;románc;román nyelv;romantika;romantikus dolog;romantikus kaland;romantikus történet;szabadjára engedi képzeletét;túloz;túlzás;újlatin nyelv;verses regény;versregény
+romanticism#romanticizmus;romantika
+romanticize#romantikussá tesz;romantizál
+romantic#regényes;romantikus
+roman#római
+rompers#rugdalózó
+romp#fiús lány;hancúrozás;lármás gyerek;pajkoskodik;vad játék;vadul;vadul játszik
+roofed#fedett
+roofgarden#tetõkert
+roofing#tetõszerkezet
+rooftop#tetõ
+rooftree#tetõgerenda
+roof#fedél;tetõ
+rookery#nyomortanya;rozzant bérkaszárnya;szegénynegyed;túlzsúfolt szegénynegyed;varjútanya
+rookie#regruta;újonc
+rook#bástya (sakkban);becsap;csaló;pénzt kicsal;vetési varjú
+rooky#csaló;regruta;rendetlen;szélhámos;újonc;varjakkal teli;vetési varjakkal teli;zilált
+roomer#albérlõ;lakó
+roomette#egyágyas hálófülke;egy fekhelyes hálófülke
+roomful#szobányi;szobára való
+roominess#tágasság
+roommate#lakótárs;szobatárs
+rooms#lakás;lakosztály
+room#albérletben lakik;férõhely;hely;lakik;szoba;tér;terem
+roomy#nagy;tágas;téres
+rooster#ágon ülõ madár;elült madár;hepciás ember;izgága ember;kakas
+roost#alszik;elül;hálóhely;lepihen;pihenõhely;ülõ (tyúkólban)
+root case#eredendõ ok
+rooted#gyökeres;megrögzött
+rooter#lármásan szurkoló
+rootlessness#gyökértelenség
+rootless#gyökértelen
+roots#gumós növények;gyökér
+root#alapja vminek;eredet;forrás;gumó;gyök;gyökér;gyökeresedik;gyökeret ver;gyökerezik;ideggyök;keresgél;kotorászik;meggyökereztet;szótõ;tõ;túr;turkál
+rooty bread#komiszkenyér
+rooty#felizgult;fickós;gyökérben gazdag;gyökérdús;gyökeres;gyökérszerû;gyökérterpeszes;kanos
+rope belting#kötélhajtás
+rope fender#ütközõ kötélgömb;ütközõ kötéltekercs
+rope machine#kötélverõ gép
+rope pulley#kötélcsiga;kötélkorong;kötéltárcsa
+rope sling#brága;kötélhurok
+ropes#bokszring;ring;szorító
+rope work#kötélgyártó üzem
+rope#akasztófakötél;fonadék;fonat;füzér;gyöngysor;hajókötél;hajókötélzet;kifeszített kötél;koszorú;kötél;kötél általi halál;kötélfelszerelés;kötéllel fog;kötélzet;lasszóval fog;nyúlós lesz;nyúlósság;odaköt;odakötöz;összekötöz;radarzavaró eszköz;sor
+rosarium#rosaria,rózsakert;rosaria,rózsáskert
+rosary#antológia;olvasó;rózsaágy;rózsacsokor;rózsafüzér;rózsakert;rózsáskert
+roscoe#pisztoly;revolver;stukker
+rosecruciean#rózsakeresztes
+rosemary#rozmaring
+rose starling#csacskamadár;pásztormadár;tarka seregély
+rose#rózsa
+rosicrucian#rózsakeresztes
+rosily#pirosan;rózsásan
+rosiness#rózsásság
+roster#névsor;sorrendi jegyzék;szolgálati beosztás jegyzéke
+rostrum#rostra,csõr;rostra,dobogó;rostra,hajóorr;rostra,karmesteri pult;rostra,szónoki emelvény
+rosy#rózsás;rózsaszínû
+rotary motion#körforgás;körmozgás
+rotary#forgó;körben forgó;körforgalom
+rotate#felvált;felváltva mûvel;forgat;forog;pörög;sorban felváltja egymást;váltakozik;váltogat
+rota#sorrendi jegyzék;szolgálati beosztás jegyzéke
+rote#ismétlés
+rotor#csõfektetõ munkás;forgólapát;forgórész;forgószárny;járókerék;orsó
+rototiller#rotációs kapa
+rototill#rotál
+rotten#erkölcstelen;rohadt;romlott;rothadt
+rotter#erkölcstelen fráter;gyalázatos alak;gyalázatos fickó;himpellér;hitvány fráter;kapcabetyár;mihaszna;munkakerülõ;rongyember;semmirekellõ;semmirevaló;szarházi
+rotting#rothadó
+rotunda#kerek szoba;kerek terem;kupolával fedett épület;rotunda
+rotundity#dagályosság;fellengzõsség;gömbölydedség;gömbölyû formák;gömbölyû idomok;gömbölyûség;hangzatosság;kerekség;kövérség;nagyhangúság;pocakosság;szónokiasság;telt formák;telt idomok
+rotund#dagályos;fellengzõs;gömbölyded;gömbölyû;hangzatos;kerek;kör alakú;nagyhangú;öblös;szónokias;telt;zengzetes
+rot#badarság;bomlás;buta beszéd;elkorhad;elkorhaszt;elporladás;faodú;hülyeség;korhad;korhadás;korhadtság;korhaszt;letörés;májmételykór;marhaság;megrothad;megrothaszt;odú;odvasodás;ostoba beszéd;ostobaság;összeomlás;rothad;rothadás;rothadtság;rothaszt;szuvasodás;szuvasság
+rouble#rubel
+roué#korhely
+rouge#ajakír;ajakrúzs;arcpirosító;finoman eloszlatott vashidroxid;kifesti magát;kipirosít;kirúzsoz;kirúzsozza magát;pirosít;pirosra fest;rúzs;rúzst ken fel;vörösre fest
+rough draft#elsõ fogalmazvány;piszkozat
+rough going#göröngyös út
+roughhouse#balhé;hirig
+roughing#megmunkálás
+rough plane#nagyológyalu
+rough road#hepehupás út;nehéz terep
+rough sketch#elsõ terv;hevenyészett vázlat;skicc
+rough tongue#durva beszéd;goromba beszéd
+rough walling#terméskõfalazat
+rough weather#zord idõ
+rough#brutálisan;csiszolatlan;durva;durva felületû tárgy;durván;egyenetlen;egyenetlen terep;érdes;érdes felületû tárgy;érdessé tesz;fanyar (bor);goromba;haragos;hepehupás terep;hevenyészett;hozzávetõleges;huligán;kényelmetlen;kezdetleges állapot;megközelítõ;megmunkálatlan;nagyol;nyers;nyers állapot;nyersen;primitív;primitív körülmények között;repedezett;útonálló;vagány;vázlatos;viharos;zord
+roulette#rulett
+roundabout#átfogó;gömbölyded;hosszadalmas;kerülõ;kerülõ út;kikerekedett;kiskabát;kitérés;köntörfalazás;köntörfalazó beszéd;körforgalom;körhinta;körtánc;körtér;körutazás
+round about#körül
+roundabout#körülírás;körülíró;körülményes;matrózzubbony;nem egyenes;oda-vissza utazás;pocakos;ringlispíl;rövid férfi felsõkabát
+round about#tájban
+roundabout#terjengõs;zakókabát
+round dance#körtánc
+round dozen#kerek tucat
+rounded#kerekített;lekerekített;tompa hegyû;tompa végû
+round game#akárhányan játszható játék
+round hand#gömbölyû betûs írás
+rounding#kerekítés
+roundish#gömbölyded;kerekded
+roundly#alaposan;erõteljesen;kereken;teljesen
+round midday#déltájban
+round number#kerek szám
+round oath#cifra káromkodás;nagy káromkodás
+round plane#körgyalu
+round robin#kérvény sok aláírással
+round sum#jókora összeg;komoly összeg;tekintélyes összeg
+round table#kerek asztal
+round tour#körutazás
+round trip#körutazás;oda-vissza út;oda-vissza utazás
+round#befejez;egész;egy lövés;forduló;forgás;futam;gömbölyödik;gömbölyû;hágcsó;járat;kánon;karika;kerek;kerekít;kikerekedik;kikerekít;kör-;kör;kör alakú;körbe;körben;körjárat;körtánc;körút;körül;körüljár;körülzár;legömbölyít;lekerekít;létrafok;megfordul;megkerül;menet;nyílt;õrjárat;õszinte;sorozat;szemleút;tájban;teljes;út;változás
+rouse#buzdít;felbuzdul;feldühít;felébred;felébreszt;felkelt;felriad;felriaszt;felver;serkent
+rousing#elképesztõ;harsány;lelkesítõ
+roustabout#alkalmi munkás;kirakodó munkás;mindenes ember;napszámos;rakodó munkás
+route#irányít;járat;menetparancs;telepít;útirány;útvonal
+routine#gyakorlat;jártasság;megszokott;megszokott munka;rutin-;rutin;szokásos;szokásos munkamenet
+routing#szállítmányirányítás;útvonal megállapítása
+rout#bomlás (megvert seregé);bõg;csoportosul;csõcselék;csõdület;felmorzsol;fújtat;horkol;kiváj;legyõz;lever;megfutamít;megfutamodás;megsemmisít;összecsõdül;összejövetel;összesereglik;süvít;süvölt;szétszalaszt;szétszór;szétver;teljes vereség;tönkrever
+rover#csavargó;elõfonó;elõfonógép;elõfonó munkás;kalóz;kóborló;ország-világjáró;öregcserkész;távcélpont;tengeri rabló
+rove#barangol;bebarangol;bejár;kóborol;kószál
+roving glance#kutató pillantás
+roving life#cigányélet;csavargó élet;csavargó életmód
+rovingness#bizonytalankodó egyéniség;ingatag egyéniség;kóbor élet;kóbor életmód;kóborlás;kószálás
+roving shot#lövés kapásból
+rovings#elkalandozás;kalandozás
+roving#barangolás;elõfonat;kalandozás;kalandozó;kószáló;távcélpont;vándorlás;vándorló
+rowboat#evezõs csónak
+rowdiness#hangoskodás;lármázás;verekedés
+rowdyism#garázdaság;huligánság;vagánykodás
+rowdy#csirkefogó;garázda;huligán;lármázó;verekedõ
+rowing boat#evezõs csónak
+rowing#evezés
+rowlock#evezõvilla
+row#csónakázás;csónakázik;csónakon szállít;csónakon visz;csúnyán lehord;erõsen megszid;evez;evezés;evezésben versenyez;evezõvel hajt;felfûz;felsorakoztat;hajba kap;hangosan szidalmaz;kirak;lárma;lármázik;lehord;lehordás;leszidás;megszid;nagy jelenetet rendez;összeszólalkozik;összeveszés;ricsaj;sor;sorba állít;versenyt evez;veszekedés;veszekedik;zenebona
+royal academy#királyi szépmûvészeti akadémia;királyi szépmûvészeti akadémia kiállítása
+royal assent#szentesítés
+royal blue#királykék;vöröseskék
+royal bracken#királypáfrány
+royal brake#királypáfrány
+royal colony#koronagyarmat
+royal command#királyi parancs
+royal demesne#koronauradalom
+royal fern#királypáfrány
+royalism#királypártiság;uralkodóhûség
+royalist#királypárti
+royal jelly#méhpempõ
+royal marines#angol tengerészgyalogság
+royal metal#arany
+royal palm#királypálma
+royal paper#beadványpapír;miniszterpapír
+royal pardon#királyi kegyelem
+royal sail#felsõsudárvitorla;felsudárvitorla
+royal society#királyi természettudományos akadémia
+royals#királyi dragonyos ezred;skót királyi gyalogezred
+royal tiger#királytigris
+royal touch#királyi érintés (mint csodatevõ gyógykezelés)
+royalty#felség;fenség;honorárium;jogdíj;király;királyi család tagja;királyi hatalom;királyi méltóság;királyi személy;szabadalmi díj;szerzõi díj;szerzõi jogdíj;tiszteletdíj
+royal vienna#bécsi porcelán
+royal#beadványpapír;fejedelmi;felséges;felsõsudárvitorla;felsudárvitorla;fenséges;királyi;királyi család tagja;kis mozsárágyú;miniszterpapír;nagyszerû;pompás;ragyogó;tizenkettes szarvas

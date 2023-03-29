@@ -1,0 +1,101 @@
+guarantee#biztosít;garancia;garantál
+guarantor#biztosítékot adó személy;biztosítékot nyújtó személy;jótálló;kezes;kezességet nyújtó személy;szavatos;szavatosságot adó személy
+guard arm#fedezõ kar;védekezõ kar
+guardedly#óvatosan;tartózkodóan
+guarded#megfontolt;óvatos;óvatos beszédû;tartózkodó
+guardianship#gondnokság;gyámság
+guardian#gondnok;gyám;õr
+guarding#õrzés
+guardroom#õrszoba;rendõrõrs;rendõrõrszoba
+guards#gárdaezred;gárdisták
+guard#betétszalag;biztosító berendezés;börtönõr;elõvigyázat;elõvigyázatosság;falcolás;fegyházõr;fegyõr;fogházõr;forgalmista;fõkalauz;futár;gyógyszeríz-javító vivõanyag;hírnök;kandallórács;karfa;kordában tart;korlát;markolatkosár;óvókerítés;õr;õriz;õrség;számoló;védekezés;védekezõ állás;védekezõ testtartás;védelmez;védõrács;védõszerkezet;vigyázat;vonatkísérõ;vonatvezetõ
+guava#guajáva;guajávafa
+guerilla#gerilla;gerillaharcos
+guerrilla#gerilla;gerillaharcos
+guessing#becslés;feltevés;kitalálás;találgatás
+guesswork#becslés;feltevés
+guess#becslés;feltételezés;hisz;kitalál;sejt;találgatás;vél
+guest#vendég
+guffaw#hahotázás;hahotázik;röhög;röhögés
+guff#badarság;halandzsa;hülyeség;üres duma
+guidance#irányítás;tanácsadás;útmutatás;vezérlés;vezetés
+guidebook#útikalauz;útikönyv
+guided tour#csoportos utazás;társasutazás
+guided#vezetett
+guideline#irányelv;program;vezérfonal
+guide#idegenvezetõ;irányít;ismertetõ;kalauz;kalauzol;példamutatás;sín;útikönyv;útmutató;vezérfonal;vezet;vezetõ
+guiding#vezetõ
+guilder#holland forint
+guild#céh
+guillotine#guillotine;klotûr;klotûrt alkalmaz;körülvág;lenyakaz;mandulakacs;nyaktiló;nyaktilóz;papírvágó gép
+guillotining#kivégzés guillotine-nel;nyaktilózás
+guiltily#bûnbánóan;bûntudatosan
+guiltless#ártatlan;bûntelen
+guilt#bûn;bûncselekmény;bûnösség;bûntudat;vétkesség
+guilty#bûnbánó;bûnös;büntetendõ;bûntudatos;vétkes
+guinea pig#tengerimalac
+guinea#21 shilling
+guise#álöltözet;álruha;külsõ megjelenés;látszat;megjelenés
+guitar player#gitáros
+guitar#gitár
+gulch#szakadék;szurdok
+gulf#öböl;örvény;szakadék
+gullet tooth#farkasfog
+gullet#garat;hegyszoros;keskeny csatorna;nyelõcsõ;száj;vezérárok;vízmosás
+gullibility#átejthetõség;együgyûség;hiszékenység;naivság;rászedhetõség
+gullible#átejthetõ;becsapható;hiszékeny;könnyen becsapható;könnyen hívõ;naiv;rászedhetõ
+gullied#vízmosásos
+gull#balek;becsap;bepaliz;pali;rászed;sirály
+gulp#korty;lenyel;nyel;nyelés;slukk
+gully#vízmosás;víznyelõ akna
+gumboil#fogínytályog
+gum boots#gumicsizma
+gumby#négerdob
+gummed#enyvezett hátú;gumizott;ragasztószerrel bevont
+gummy#csipás;dagadt;mézgás;nyúlós;puffadt;ragadós
+gumption#életrevalóság;józan ész;leleményesség
+gumshoes#kalocsni;sárcipõ
+gumshoe#detektív;hekus;kikémlel;megfigyel;nyomoz;titkosrendõr
+gums#gumicsizma;hócsizma
+gum#csipa;foghús;gumi;gumicukor;gumifa;gumiz;íny;megragaszt;mézga;ragaszt;ragasztószer
+gunfighter#revolverharc résztvevõje
+gunfire#ágyúdörgés;ágyúmoraj;ágyúszó;ágyútûz;ágyúzás;ébresztõ lövés;gyorstüzelés;takarodót jelzõ lövés
+gunge#gány;ragacsos piszok;trutyi;trutymó
+gunite#habarcsot lövell;lövellt beton;torkrétoz
+guniting#habarcslövellés;torkretozás
+gunk#gané;piszok;trutyi;trutymó
+gunman#gunmen,fegyveres bandita
+gunner#gépfegyverkezelõ;géppuskás;hajótüzér;puskás;tüzér;vadász
+gunnery#ágyúzástan;ballisztika;lõgyakorlat;tüzérség
+gunplay#pisztolyharc;pisztolylövések;revolverlövések
+gunpowder#lõpor;puskapor
+gunship#nehézfegyverzetû helikopter
+gunsmith#fegyverkovács;puskamûves
+gun#agyonlõ;ágyú;ágyúlövés;fegyver;lelõ;lõfegyver;löveg;lövöldöz;pisztoly;pisztolylövéssel megsebesít;puska;rákapcsol;revolver;revolverlövéssel megsebesít;szórópisztoly;vadász
+gurgle#bugyogás;csobog;csobogás;csörgedezik;gagyog
+gurkha#gurka
+gurney#kerekes hordágy
+guru#guru
+gusher#áradozó személy;gazdag kõolajforrás;ömlengõ személy
+gush#áradat;áradozás;áradozik;dûl;felbugyogás;kilövellés;ömleng;ömlengés;ömlik
+gushy#áradozós;ömlengõs
+gustatory#ízlelõ
+gust detector#széljelzõ berendezés
+gusto#élvezet;gusztus;ízlés
+gust#aroma;élvezés;élvezet;gyönyör;hirtelen kitörés;illat;íz;ízesít;kéj;kifakadás;kitörés;megízlel;szélroham;zamat
+gusty#szeles;viharos
+gutless#pipogya
+gutstring#bélhúr
+guts#belek;energia;has;lényege vminek;mersz;rámenõsség;veleje vminek;vminek a lényege;vminek a veleje;zsigerek
+gutted#kibelezett;kizsigerelt
+guttering#csatornázás
+gutter wit#útszéli szellem;útszéli szellemesség
+gutter#árkol;barázda;barázdál;csatorna;csatornáz;csöpögve ég (gyertya);csurgó;csurgóval ellát;csurog;ereszcsatorna;esõvíz-csatorna;hornyol;horony;jasszvilág;kanális;kibelezõ munkás;kötésmargó;kültelki szegénynegyed;kültelki szegénység;pislákol;szegélyárok;vájat;vízelvezetõ árok;zsigerlõ
+guttural#torok-;torokhang
+gutturally#torokhangon
+gut#bél;bélhúr;folyókanyar;folyószûkület;kibelez;kizsigerel;sikátor;szûk utca;utcaszûkület
+guvnor#fater;fõnök;tata;tulaj
+guv#fater;fõnök;tata;tulaj
+guy#faszi;hapsi;pacák;pasas
+guzzler#haspárti;iszákos;kajás;korhely;nagyevõ
+guzzle#dorbézol;dõzsöl;fal;iszik;korhelykedik;lakmároz;nyakal;részegeskedik;vedel;zabál

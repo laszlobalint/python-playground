@@ -1,0 +1,63 @@
+vocabulary#szókincs
+vocal cords#hangszálak
+vocal#énekelt;hang-;hanggal bíró;hangzó;lármás;magánhangzó;magánhangzói;vokális;zajos;zengõ
+vocation#elhivatottság;hivatás;tehetség
+vocative#megszólító eset
+vociferous#hangos;kiabáló;kiáltozó;lármás;lármázó;ordító;rikácsoló;üvöltõ;zajos
+voiced#hangú;szavú;zöngés
+voicelessly#hangtalanul
+voiceless#hangtalan;zöngétlen
+voice#hang;igealak;kifejez;kimond;szavazat;vélemény;zönge;zöngésen ejt;zöngésít
+void#érvénytelen;érvénytelenít;mentes;üres;üresség
+volatile#illékony
+volatility#illékonyság
+volatilize#elgõzölögtet;elillan;elpárolog;elpárologtat;feloldódik;gõzzé válik
+volcanic#vulkáni;vulkanikus
+volcano#vulkán
+vole#mezei egér;összes ütések (kártyában)
+volitional#akarati
+volition#akarás;akarat
+volleyball#röplabda
+volley#kapásból lõ;levegõbõl öt;levegõbõl üt;levegõbõl ütés;röpte;röptét üt;röptézik;sortûz;sortüzet ad le;szóáradat;szóözön;zápor (ütéseké);zúdít (ütéseket vkire)
+volt rise#feszültségemelkedés
+volt#fordulás;hirtelen kitérõ testfordulat;kanyarulat;körfordulat;volt
+volubility#pergõ beszéd;szóbõség
+voluble#beszédes;bõbeszédû;pergõ;szapora;szóbõ
+volumetrical#térfogat-;térfogat-elemzési;térfogati;térfogatmérési;térfogatos
+volumetric#térfogat-;térfogat-elemzési;térfogati;térfogatmérési;térfogatos
+volume#hangerõ;könyv;kötet;nagy mennyiség;térfogat;tömeg;ûrtartalom
+voluminous#sokkötetes;terjedelmes
+voluntarily#akaratlagosan;önként
+voluntary#akarati;akaratlagos;alapítványi;fakultatív tárgy;ingyenes;közadakozásból fenntartott;nem kényszerített;orgonaszóló;önkéntes;önkéntes adományokból fenntartott;önként jelentkezõ;önként vállalkozó;önként vállalt feladat;önként vállalt munka;önként végrehajtott feladat;önként végrehajtott munka;szándékos;választott tárgy
+volunteer#gyakornok;önként ajánlkozik;önkéntes;önkéntesnek jelentkezik;önként felajánl;önként jelentkezik;önként jelentkezõ;szolgálatait felajánlja
+voluptuary#élvhajhászó;kéjenc
+voluptuous#érzéki;kéjes;kéjsóvár
+vomiting#hányó
+vomit#hány;kihány;rókázik
+voodoo doctor#fekete mágus;fekete varázsló
+voodooism#néger mágia alkalmazása;néger mágiában való hit;néger varázslat alkalmazása;néger varázslatban való hit
+voodooist#néger mágia alkalmazója;néger mágia híve;néger varázslat alkalmazója;néger varázslat híve
+voodoo priest#fekete mágus;fekete varázsló
+voodoo#fekete mágus;fekete varázsló;mágiával elvarázsol;mágiával megbabonáz;mágiával megront;néger boszorkányság;néger mágia;néger varázslat;varázslattal megbabonáz;varázslattal megront
+voraciously#mohón;telhetetlenül
+voracious#falánk;mohó;telhetetlen
+voracity#falánkság;mohóság
+vortex#forgatag;örvény;örvénylés
+vortical#örvénylõ;örvényszerû
+vortiginous#örvénylõ
+voters#szavazó
+voter#szavazó
+vote#megszavaz;megválaszt;szavaz;szavazás;szavazati jog
+voucher#bizonyíték;bizonylat;elismervény;igazolás;jótálló;nyugta;utalvány
+vouchsafe#kegyeskedik;megenged;méltóztatik;teljesít
+vouch#állít;tanúsít;tanúskodik
+vowel harmony#hangrendi illeszkedés
+vowel#magánhangzó
+vow#állít;bizonygat;eskü;esküszik;esküt tesz;fogadalmat tesz;fogadalom;fogadkozik;kijelent;megesküszik;megfogad;szentül ígér;ünnepélyesen kijelent;ünnepélyesen megfogad;ünnepélyes ígéret;ünnepélyes ígéretet tesz
+vox humana#emberi hang
+vox populi#közvélemény
+vox#voces,hang
+voyager#hajóutas
+voyage#hajóút;hajózik;utazás;utazik
+voyaging#hajóút;tengeri utazás
+voyeur#kukkoló

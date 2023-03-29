@@ -1,0 +1,53 @@
+against#ellen
+again#egyébként;ezenfelül;ezenkívül;ezután;ismét;megint;továbbá;újból;újfent;újra;vissza-
+agape#tátott szájjal
+agaric#galóca
+ageing#anyagkifáradás;avulás;betonkezelés;elkopás;érlelés;gyantaképzõ hajlam;hevertetés;kopás;leromlás;nemesítés;öregedés;öregedõ;öregítés;pihentetés;stabilizálás
+ageless#idõtlen;kor nélküli;kortalan;örök idõre szóló;örökifjú;örökkévaló
+agency#hatóerõ;iroda;képviselet;közbenjárás;mûködés;tevékenység;ügynökség
+agenda#lista;napirend
+agent officer#pénzügyi tiszt
+agent#hatóanyag;képviselõ;közeg;közvetítõ;okozó;tényezõ;természeti erõ;ügynök
+age#életkor;érlel;kor;öregít;öregszik
+agglomerate#agglomerál;agglomerálódik;agglomerált;agglomerátum;breccsa;felhalmoz;felhalmozódik;felhalmozott;halmozott;összeállt;összehalmoz;összehalmozódik;összehord;összehordott;összeprésel;összepréselõdik;összeragasztott;összerak;összesült;tömegbe rak
+aggravate#bosszant;elmérgesít;eltúloz;idegesít;kétségbe ejt;megnehezít;növel;súlyosabbá tesz;súlyosbít;túloz
+aggravating#bosszantó;elkeserítõ;idegesítõ;megnehezítõ;nehezítõ;súlyosbító
+aggravation#bosszantás;elfajulás;elkeseredés;elkeserítés;elmérgesedés;elmérgesítés;felbosszantás;idegesítés;ingerlés;kiközösítéssel fenyegetõ feddés;súlyosbítás;súlyosbító körülmény;súlyosbodás;szigorítás
+aggravative#súlyosbító;súlyosbító körülmény
+aggregate#adalékanyag;aggregátum;ásványkonkréció;ásványösszenövés;csoportosít;csoportosul;felhalmoz;felhalmozódik;gépcsoport;globális;halmazállapot;összeáll;összeállít;összeg;összegyûjt;összegyûlik;összeköt;összes;összetömörít;számszerûleg kitesz;töltõanyag
+aggregation#egyesülés;együttes;felhalmozás;felhalmozódás;halmaz;halmozódás;kicsapódás;morzsaképzõdés;tömeg
+aggression#agresszió;támadás
+aggressively#agresszíven
+aggressive#agresszív;támadó;veszekedõ;veszekedõs
+aggressor#agresszor;támadó;támadó fél
+aggrievement#jogsértés;sértés
+aggrieve#bosszant;jogaiban sért
+aghast#megdöbbent;megijeszt;megrémít;megrémült;megrendült
+agile#agilis;fürge;gyors
+agility#agilitás;fürgeség;gyorsaság
+agily#fürgén;gyorsan
+aging#avulás;avuló;elhasználódó;elkopás;elkopó;érlelés;érõ;kopás;korosodás;korosodó;megöregedés;öregedés;öregedõ;öregítés;vénülõ
+agitatedly#felkavartan;izgatottan
+agitated#felkavart;felzavart;izgatott;zavaros
+agitate#felizgat;felkavar;felkever;felráz;felzavar;megmozgat;nyugtalanságot szít
+agitation#agitáció;izgalom;nyugtalanság
+agitator#agitátor;izgató;keverõ;keverõgép;lázító
+aglow#izzóan;kipirulva;lángoló;lángolóan;sugárzó;tündöklõ
+agog#izgatott;izgatottan;kíváncsi várakozásban;örömteli várakozásban
+agonized#aggodalmas;kétségbeesett;megkínzott;velõtrázó
+agonize#gyötör;gyötrõdik;kínlódik;kínoz
+agonizing#fájdalmat okozó;gyötrelmes
+agony#agónia;gyötrõdés;haláltusa;lelki gyötrelem;nagy fájdalom
+agouti#agouti,aguti;agouti,aranynyúl
+agouty#aguti;aranynyúl
+ago#elõtt;ezelõtt
+agrarian#agrár-;agrár szakember;földbirtokügyi;földosztás híve;földreform híve;mezei;mezõgazdasági;mezõgazdasági szakember;vadon növõ
+agreeable#kellemes;szeretetre méltó
+agreeably#kellemesen
+agreed#kölcsönösen megállapított;kölcsönösen megállapodott;megbeszélt;megegyezés szerinti
+agreement#egyezmény;egyeztetés;megállapodás;megegyezés
+agree#egyetért;egyezik;egyeztet;egyezséget köt;kijön vkivel;megállapodik;megegyezik;megfelel;összhangban áll
+agriculture#mezõgazdaság
+agronomist#agronómus
+aground#zátonyon
+ague#malária;mocsárláz

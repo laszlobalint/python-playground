@@ -1,0 +1,156 @@
+ribbed#bordás;bordázott
+ribbon agate#csíkozott achát
+ribbon park#országutat szegélyezõ parkos rész
+ribbon spool#szalagorsó
+ribbons#foszlányok;gyeplõ;kantár
+ribbon#csík;kanyarog;kígyózik;pántlika;rendjelszalag;sáv;szalag
+rib#bókony;borda;bordáz;bordázat;erezet;feleség;heccel;oldalborda;ugrat
+rice shape#rizsfelfújt
+rice#rizs
+rich colour#élénk szín;meleg szín;ragyogó szín
+riches#gazdagság;vagyon
+rich food#bõséges élelem;bõséges táplálék;válogatott hozzávalókból készült étel;zsíros étel
+rich harvest#bõ termés;gazdag termés
+richly#gazdagon
+rich mixture#benzindús keverék;dús keverék
+rich voice#öblös hang;telt hang;zengõ hang
+rich#bõ;bõséges;bõvelkedõ;buja;dús;élénk;értékes;finom;gazdag;meleg;mély;mulatságos;pompás;szórakoztató;tápláló;telt;termékeny;zengõ
+rickets#angolkór
+rickety#angolkóros;roskadozó;roskatag;rozoga
+rickey#alkoholos citromos ital
+rickshaw#riksa
+ricochet#geller;gellert kap
+rictus#rictus,fogvicsorítás;rictus,repedés;rictus,szájtátás;rictus,szakadék
+riddance#megszabadulás vmitõl;szabadulás vmitõl
+ridden#elnyomott;nyomorgatott;üldözött;vmi által elnyomott;vmi által megnyomorított
+riddle#átrostál;átszitál;megrostál;rejtély;rejtvény;rostál;szitál;találós kérdés;talány;talányokban beszél
+rider#függelék;lovas;ráépítmény;toldat;tolósúly;záradék
+ride#kerékpározás;kocsikázás;lovaglás;lovaglóösvény;rode,ridden,hajt;rode,ridden,lebeg;rode,ridden,lovagol;rode,ridden,úszik;távolság;út;utazás jármûvön
+ridge#bakhát;gerinc;hátság;hegygerinc;hegyhát;orom;taréj;tetõgerinc
+ridicule#gúny;kicsúfol;kigúnyol;kinevet;nevetség
+ridiculous#képtelen;nevetséges
+riding boots#lovaglócsizma
+riding track#lovaglóút
+rid#megszabadít;rid,megszabadít
+rife#bõséges;elterjedt;gyakori;nagyszámú
+riffle barrel#huzagolt fegyvercsõ
+riffle butt#puskaagy
+riffler#homokfogó
+riffle#aranymosó edény;aranyvályú;fodrozódás;folyó zúgója;gyorsan átlapoz;hornyozás zsilip fenekén;huzagolt csövû kézi lõfegyver;kártyasarkokat felhajt;kever (kártyát);kis felszíni hullám;vályú;végigpörget (könyv lapjait)
+riffraff#csõcselék
+riff#belek;belsõ részek;has;zenei aláfestés (dzsesszben)
+rifle drill#puskafogások
+rifled#huzagolt;vontcsövû
+rifleman#riflemen,lövész;riflemen,puskás gyalogos;riflemen,vadász
+rifle range#lõtávolság
+rifles#lövészezred;lövészgyalogság
+rifle#agyonlõ;fosztogat;géppisztoly;huzagol;karabély;kifoszt;kirabol;lelõ;puska;rabol;rálõ;rohampuska;rovátkol;von (puskacsövet)
+rifling#huzagolás
+rift#hasadás;repedés
+rigger#állványozó;árbocmester;egy liter sör;külvilla;nyerészkedõ;repülõgép-szerelõ;spekuláns;szerelõ;tárcsa;tõzsdei üzérkedõ;üzér;valutázó;vitorlamû-mester
+rigging#árbocozat;berendezés;kötélzet;vitorlázat
+right abeam#éppen oldalt;oldalirányban
+right angle#derékszög
+right away#azonnal;máris;rögtön;tüstént
+right back#jobbhátvéd
+right end#jobbszélsõ
+righteous#becsületes;igaz;igazságos;jogos;tisztességes
+rightful#igazságos;jogos;kijáró;megilletõ;törvényes
+rightfully#igazságosan;jogosan;törvényesen
+right guard#jobbhátvéd
+right hand#jobb kéz
+right here#éppen itt
+rightist#jobboldali (politikailag)
+right line#egyenes vonal
+rightly#helyesen;jogosan;méltán
+right now#azonnal;éppen most;most rögtön;rögtön
+right off#azonnal;máris;rögtön;tüstént
+right screw#jobbmenetes csavar;jobbos csavar
+right tackle#jobbszerelõ
+right there#éppen ott
+right through#teljesen keresztül;teljesen készen
+right time#pontos idõ
+right wing#jobboldal (politikai);jobbszárny (politikai)
+right word#helyes kifejezés;helyes szó;találó kifejezés
+right#alkalmas;azonnal;becsületes;egészen;egyenes;egyenesen;felállít;felegyenesít;helyénvaló;helyes;helyesen;helyreállít;igazán;igazi;igazol;igazság;igazságos;igazságosság;illetékesség;illõ;jó;jobb;jobb oldal;jobbra;jog;jogos;jogosan;jogosság;jól;juss;kijavít;kívánatos;megfelelõ;megfelelõen;méltányosság;mindjárt;nagyon;pont;pontosan;rendes;tulajdonjog
+rigid airship#merev vázú kormányozható léghajó
+rigid frame#merev keret;merev váz
+rigidity#ellenálló képesség;hajthatatlanság;keménység;kimértség;merevség;ridegség;szigor;szigorúság;szilárdság
+rigidly#hajthatatlanul;mereven;ridegen;szigorúan
+rigidness#ellenálló képesség;hajthatatlanság;keménység;kimértség;merevség;ridegség;szigor;szigorúság;szilárdság
+rigid#hajthatatlan;kimért;merev;rideg;szigorú;szilárd
+rigmarole#hanta;üres fecsegés
+rigor mortis#hullamerevség
+rigorous#kérlelhetetlen;rideg;szomorú;zord
+rigor#hajthatatlanság;kérlelhetetlenség;merevség;szigor;szigorúság;zordság
+rigour#hajthatatlanság;kérlelhetetlenség;merevség;szigor;szigorúság;zordság
+rig timber#gépállvány faanyaga;haszonfa;szerfa
+rig#árboc;árbocfa;árbocozat;bakhát;berendezés;berendezéssel ellát;cinkel;csarnakzat;csíny;ellát;elõkészített gonosztett;felárbocoz;felcicomáz;felcicomázás;felcsarnakol;felcsarnakolás;félig kiherélt bika;félig kiherélt csõdör;félig kiherélt kos;felöltöztet;felszerel;felszerelés;fogat;fúróállvány;fúrótorony;gerinc két barázda között;hintó;kártyákat megjelöl;kiöltözködés;kiöltöztet;kitervelt gonosztett;kocsi;kötélzet;kötélzettel ellát;külsõ megjelenés;megbundáz;meghamisít;nevetséges kiöltözködés;öltöny;öltözet;öltözködés;összeszerel;ruha;szélhámoskodás;szerelés;szerkezet;tõzsdei manipuláció;tõzsdei manõver;tréfa;viselet;vitorlával ellát;vitorlázat
+rill#ér;vízfolyás
+rime#jégvirág;zúzmara
+rimless#keret nélküli;perem nélküli
+rimmed#karimás;keretes;peremes;szegélyezett
+rim#abroncsoz;karima;kerékabroncs;keréktalp;keret (szemüvegé);pereme vminek;szegély;szegélyez;széle vminek;vminek a pereme;vminek a széle
+rimy#zúzmarás
+rind#héj;kéreg
+ringer#csengetõ készülék;csengõ;harangozó
+ring finger#gyûrûsujj
+ringing#csengés;csengetés;csengetõ;csengõ;fülcsengés;gyûrûs kimetszés;gyûrûzés;harangszó;harsány;harsogás;harsogó;kongó;kör alakú bemetszés;orrkarika betevése;pengés;zengés;zengõ;zúgó
+ringleader#fõkolompos
+ringleted#fürtös;göndör;loknis
+ringlet#fültincs;göndör hajfürt;gyûrûcske;huncutka;kis gyûrû;kis karika;lokni;pajesz
+ringlety#fürtös;göndör;loknis
+ring oiler#gyûrûs olajozó
+ringside#nézõtér elsõ sora
+rings#gyûrû
+ring#aréna;bekerít;bukmékerek;csengés;csengetés;elkerített rész;érdekcsoport;gyûrû;gyûrûz;karika;karikát tesz orrába;kartell;klikk;kör;kört alkot;körülfog;meggyûrûz;ökölvívás;porond;rang,rung,csendül;rang,rung,cseng;rang,rung,csenget;rang,rung,hangzik;rang,rung,harangot húz;rang,rung,harangoz;rang,rung,szól;rang,rung,telefonon felhív;rang,rung,visszhangzik;szorító;úszógumi;zengés
+rink#fedett jégpálya;görkorcsolyapálya;görkorcsolyázik;jégkorongcsapat;jégkorongpálya;jégpálya;korcsolyapálya;korcsolyázik
+rinsewater#öblítõvíz
+rinse#kiöblít;kiöblítés;öblít;öblítés;öblöget;öblögetés
+rioter#dorbézoló személy;lázadó
+rioting#lázadás;zavargás
+riotousness#lázadás;vad összevisszaság;zavargás
+riotous#dõzsölõ;garázda;kicsapongó;lázadó;zavargó
+riot squad#rendõri rohamkészültség
+riot#csendháborítás;felkelés;forrongás;kicsapongó életet él;lármás csoportosulás;lármás csõdület;lázad;lázadás;lázongás;nagy siker;orgia;ricsaj;tobzódás;zendül;zendülés;zenebona;zsivaj
+ripen#érik;érlel;megérlel
+ripe#érett
+ripping#elõvágás;elsõrangú;elsõrendû;fõteutánszedés;hasítás;hasító;irtó klassz;klassz;nagyszerû;omlás;omlasztás;pompás;remek;repesztés;szakító;vágás
+ripple#csobog;fodroz;fodrozódás;fodrozódik;hajfodor;halk moraj;hullámokat ver;hullámzik;mormol
+rip#felhasít;felrepeszt;felszakít;feltép;hasad;hasadék;hasít;hasítás;lebont;repeszt;repeszt (autóval);széthasít;tép (autóval)
+rise level#felsõ szint
+riser#lépcsõfok magassága
+rise#béremelés;domb;dõlés;elõmenetel;emelkedés;eredet;felemelkedés;felkelés;feltörés;fizetésemelés;fokozás;forrás;gurító;hajlás;ívmagasság;kilyukadás külfelszínre;lejtõ;magasabbra jutás;magaslat;nagyobbodás;növekedés;növelés;rose,risen,dagad;rose,risen,duzzad;rose,risen,elnapol;rose,risen,elõlép;rose,risen,emelkedik;rose,risen,ered;rose,risen,erõsödik;rose,risen,feláll;rose,risen,felbukkan;rose,risen,felemelkedik;rose,risen,felkel;rose,risen,fellázad;rose,risen,felszáll;rose,risen,feltámad;rose,risen,fokozódik;rose,risen,kel;rose,risen,kiemelkedik;rose,risen,megdagad;rose,risen,megduzzad;rose,risen,megkel;rose,risen,nagyobbodik;rose,risen,növekszik;rose,risen,származik;rose,risen,ülést berekeszt;rose,risen,ülést bezár;sikló;szaporodás;tenger alatti küszöb;vágattal felfelé haladás
+rising#erõsödõ
+riskiness#kockázatosság
+risk#kockázat;kockáztat;megkockáztat;reszkíroz;rizikó;veszély
+risky#kockázatos;merész;rizikós;veszélyes
+rite#rítus;szertartás
+ritualism#formasághoz ragaszkodás;ritualizmus
+ritualized#szertartásos
+ritual#rituálé;rítus;szertartás;szertartáskönyv
+rivalry#versengés;vetélkedés
+rival#rivális;verseng;versengõ;versenyez;vetélkedik
+riven#hasított;hasogatott;megrepesztett;repesztett
+river ballast#folyami kavics
+riverbank#folyópart
+river bar#folyami torlasz;folyami zátony
+river basin#folyómeder
+river control#folyószabályozás
+river dredge#úszókotró
+river drift#folyami hordalék
+river erosion#folyó által elõidézett erózió;letarolás folyó által
+river gunboat#folyami õrhajó;monitor
+river load#lebegõ anyag
+river meadow#árterületi legelõ;árterületi rét
+river novel#családregény;folytatásos családregény;több kötetes családregény
+river pier#mederpillér
+river police#folyamrendõrség;vízi rendõrség
+river shoals#folyami zátonyok
+river surveys#folyami felvétel;mederfelvétel
+river tug#folyami vontatóhajó
+river wall#folyami partfal;partfal
+river#áradat;favágó munkás;fehér csík;folyam;folyó;folyóvíz;hasító munkás;hasogató munkás;kötözõ munkás;vízfolyás
+rivet#szegecs;szegecsel
+rive#egy harapás (étel);hasadás;hasadék;kiszáll;megérkezik;part;repedés;rés;rived,riven,felhasad;rived,riven,felhasít;rived,riven,felreped;rived,riven,felszakad;rived,riven,felszakít;rived,riven,felszánt;rived,riven,kifoszt;rived,riven,kirabol;rived,riven,leszakít;rived,riven,letép;rived,riven,megpukkad (nevetéstõl);rived,riven,megszakad (szív);rived,riven,repeszt;rived,riven,széthasad;rived,riven,széthasít;rived,riven,szétrepeszt;szakadás
+rivulet#folyócska;patak

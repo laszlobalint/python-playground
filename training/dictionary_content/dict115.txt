@@ -1,0 +1,21 @@
+oscillate#habozik;ingadozik;leng;oszcillál;rezeg;vacillál
+oscillating#oszcilláló;rezgõ
+oscillation#habozás;ingadozás;ingás;lengés;oszcillálás;rezgés;vacillálás
+oscillator#oszcillátor;rezgéskeltõ
+oscillograph#hullámrajzoló;oszcillográf
+osculant#érintkezõ;simuló
+oscular#érintõleges;oszkulációs;oszkuláló;simuló;száj-
+osculate#azonos jellege van vmivel;azonos tulajdonsága van vmivel;csókol;csókolózik;megcsókol;összecsókolózik;találkozik
+osculation#csók;csókolás;csókolózás;érintkezés;nyalás-falás;oszkuláció;oszkulálás;simulás
+osculatory#békecsók;béketábla;csók-;érintõleges;osculatorium;oszkuláló;oszkulatorium;simuló
+osculum#oscula,szivacs vízkivezetõ nyílása
+osprey#halászsas;kócsagforgó;kócsagtoll
+ostensible#állítólagos;látszólagos;színlelt
+ostensibly#látszólag
+ostentate#fitogtat;mutogat
+ostentation#fitogtatás;hivalkodás;kérkedés;mutogatás;mutogatása vminek;tüntetés
+ostentatious#feltûnést hajhászó;feltûnõ;hencegõ;hivalkodó;kérkedõ;kirívó;leplezetlen;tetszelgõ;vmivel tüntetõ
+osteopath#csontrakó;hátgerincmasszõr
+ostracism#cegél;cserépszavazás;kiközösítés;számûzés;számûzetés
+ostracize#cserépszavazással számûz;kiközösít;társaságból kiutál;társaságból kizár
+ostrich#strucc

@@ -1,0 +1,274 @@
+eyeball#kukkol;megkukkol;megnéz;megstíröl;néz;stíröl;szemgolyó
+eyebrow#szemöldök
+eyelashes#szempilla
+eyelids#szemhéj
+eye patch#szemkötõ
+eyepiece#gázvédõ szemüveg;keresõ;nézõke;szemlencse
+eye shadow#szemhéjfesték
+eyesight#látás
+eyesore#szemet sértõ
+eye terminal#késélvégzõdés
+eyetie#digó;olasz ember
+eyewitness#szemtanú
+eye#csíraszem;figyelés;lyuk;megnéz;nézet;pillantás;rügy;szem;szemmel tart;tekintet;tûfok;vélemény
+eyrie#sasfészek
+eyry#sasfészek
+fabled#legendás;mesebeli
+fable#állatmese;mese;mesebeszéd;mesevilág;mítosz;tanmese;valótlanság
+fabricate#gyárt;készít;kitalál;kohol;összetákol
+fabrication#gyártás;készítés;kitalálás;koholmány
+fabric#ruhaanyag;szerkezet
+fabulously#mesésen
+fabulous#legendás;mesés
+facade#arculat;épülethomlokzat;homlokzat;külsõ;külszín;látszat;megtévesztõ külsõ
+facecloth#mosdókesztyû
+face cream#arckrém
+faceless#ismeretlen;névtelen
+face powder#púder
+facetious#bohókás;humoros;malackodóan mókás;malackodóan vicces;mulatságosan pikáns;szellemes;tréfás
+facet#csiszolt él;csiszolt felület;csiszolt lap;fazetta;oldal;oszlopborda
+face upwards#lapjával fölfelé
+face upward#lapjával fölfelé
+face#ábrázat;arc;betûfej;betûkép;betûtest;él;elõlap;elölnézet;elülsõ oldal;fej;fejoldal;fejtési felület;fejtési front;felszín;felület;homlokzat;jobb oldal;képe vkinek;külszín;lap;látszat;mintás oldal;munkahely (bányában);mûködési felület;mûködõ felület;nyomófelület;oldallap;rágófelület;síktárcsa;számlap;számol vmivel;szembenéz vmivel;szín;színoldal;ütõfelület;vágóél
+facial powder#púder
+facial twitch#arcizomvonaglás
+facile#alkalmazkodó;engedékeny;gyors;gyors és felületes;könnyû;ügyes
+facilitate#elõmozdít;elõsegít;megkönnyít
+facilitation#könnyítés;megkönnyítés
+facilities#berendezés;felszerelés;lehetõségek;létesítmények
+facility#adottság;képesség;könnyedség;könnyûség;tehetség
+facing#megmunkálás
+faction#frakció;klikk;párt;pártviszály
+factor#alkotóelem;bizományos;együttható;szorzótényezõ;tényezõ;tényezõkre bont;ügynök
+factory#gyár
+factotum#mindenes;tótumfaktum
+factual#tényeket tartalmazó;tényleges;valóságos
+fact#tény
+facultative#fakultatív
+faculty#egyetemi kar;fakultás;kar;képesség;rátermettség;tantestület;tehetség;ügyesség
+facsimile#fakszimile;hasonmás
+fade#elenyészik;elhalkul;elhalványul;elhervad;elhervaszt;elhomályosít;elhomályosodik;megfakul
+fad#hóbort;vesszõparipa
+faeces#fekáliák;ürülék
+faggot#buzi;ellenszenves férfi;görény;homokos;homoszexuális férfi;kötegelt vas;kötegelt vasrudak;meleg;rõzse;rõzsenyaláb;vesszõköteg
+fag#bagó;bláz;buzi;cigaretta;cigi;ellenszenves férfi;fárasztó unalmas munka;homokos;homoszexuális férfi;meleg;staub;toszakodás
+failing#bukásra álló;bukott;gyarlóság;gyenge;gyengeség;gyengülõ;hanyatló;hiányában;hiba;kihagyó;kudarcot valló;kudarcot vallott;romló;tökéletlenség
+failure#balsiker;bukás;csõd;elégtelenség;elmulasztás;elromlás;hiány;hiba;kudarc;leromlás;megbukás;meghibásodás;mulasztás;pályatévesztett ember;romlás;szervi elégtelenség
+fail#cserbenhagy;elmarad;hiányzik;kudarcba fullad;leromlik;megbukik;megbuktat;meghibásodik;meghiúsul;mulasztást követ el;nem sikerül;nem üti meg a mértéket
+faint heart#félénk természet
+faintness#ájulás;gyengeség
+faints#szesz eleje;szesz utója
+faint#ájulás;ájultság;aléltság;alig érezhetõ;alig érzékelhetõ;alig észrevehetõ;alig hallható;alig látható;bágyadt;bátortalan;bizonytalan;elájul;elhaló;elmosódott;enyhe;erõtlen;eszméletlenség;eszméletvesztés;félénk;gyenge;halk;halovány;halvány;kényszeredett;ködös;lagymatag;langyos (dicséret);lankadt
+fair copy#tisztázat
+fair game#megengedett vad
+fairly#becsületesen;egész;egészen;elég;eléggé;korrektül;meglehetõsen;méltányosan
+fair mark#közepes eredmény
+fair name#jó hírnév
+fairness#becsületesség;korrektség;méltányosság;pártatlanság;szépség;tökéletesség
+fair number#meglehetõs sok;meglehetõs sokan
+fair play#korrekt eljárás;korrekt viselkedés;tisztességes eljárás
+fairway#golfpálya ápolt pázsitos sima része;hajók rendes útvonala;hajózható átjáró;hajózható csatorna;hajózó csatorna;teniszpálya közepe
+fair weather#jó idõ;szép idõ
+fair wind#kedvezõ szél
+fair words#ékes szavak;szép szavak
+fair#becsületes;elég jó;helyesen;jó;jól;kedvezõ;korrekt;korrektül;közepes osztályzat;meglehetõs;pártatlan;pontosan;szép;szépséges;szõke;tetszetõs;tisztességes;tisztességesen;vásár;világos
+fairy spark#reves fény
+fairytale#tündérmese
+fairy#tündér-;tündér;tündéri
+fait accompli#befejezett tény;megmásíthatatlan tény
+faithful#hû;hûséges;pontos
+faithfully#hûségesen;pontosan
+faithless#hûtlen
+faith#becsület;bizalom;hit;hitvallás;hûség;ígéret
+fake news#álhír;kacsa;koholt hír
+faker#csaló;hamisító;szédelgõ
+fake#bûvészkellék;bûvészláda;cinkel;csalás;csaló;csel;értéktelen utánzat;felteker;gyûrûbe teker;hamisít;hamisítvány;kifõz;kikészít;kohol;koholás;koholmány;kötélgyûrû;meghamisít;meghamisítás;szédelgés;szédelgõ;szélhámos;szélhámosság;utánzat
+fakir#fakír
+falcon#sólyom
+fallacious#csalóka;félrevezetõ;megtévesztõ
+fallacy#megtévesztés;téves következtetés
+fallback#atomrobbanás után lehulló szennyezõ anyag;lehulló szennyezõ anyag;lemaradás;tartalék;visszaesés
+fallen trunk#kidõlt fatörzs
+fallibility#esendõség;gyarlóság;téves voltának lehetõsége vminek
+fallible#esendõ;gyarló;nem csalhatatlan;nem tévedhetetlen
+falling#ereszkedõ;esés;esõ;hulló;zuhanás
+falls#vízesés
+fall#bukás;bûnbeesés;csapadék;csapadék mennyisége;csökkenés;elbukás;esés;fell,fallen,beomlik;fell,fallen,csillapodik;fell,fallen,csökken;fell,fallen,elbukik;fell,fallen,elesik;fell,fallen,esik;fell,fallen,leesik;fell,fallen,lehull;fell,fallen,süllyed;fell,fallen,vmilyen állapotba kerül;hullás;leesés;lehullás;õsz;tönkrejutás;veszte vkinek;vkinek a veszte
+false alarm#vaklárma
+false attack#színlelt támadás
+false bottom#kettõs fenék
+false concord#hibás egyeztetés
+false fire#vaklárma
+false hemp#álkender
+false modesty#álszerénység
+false news#álhír;hamis hír;megtévesztõ hír
+false note#gikszer;hamis hang
+false pride#önhittség;önteltség;rosszul értelmezett büszkeség
+false report#álhír;kacsa
+false rib#álborda
+false shame#álszemérem
+false start#hibás rajt
+false teeth#mûfogak;mûfogsor;protézis
+false tooth#mûfog
+falsetto#fejhang
+false weight#hamis súly;pontatlan súly
+false window#vakablak
+false witness#hamis tanú
+false#ál-;álnok;csalárd;csalfa;félrevezetõ;hamis;hamisított;helytelen;hibás;hûtlen;kétszínû;megtévesztõ;mû-;nem igaz;nem valódi;pontatlan;színlelt;tettetett;téves;utánzott;valóságnak meg nem felelõ;valótlan
+falsified#hamisított
+falsify#hamisít;rácáfol
+falsity#csalárdság;hamisság
+faltering#bizonytalan;habozó;tétovázó
+falter#bizonytalanul mozog;botladozik;habozik;tétovázik
+famed#híres;nevezetes
+fame#hír;hírnév
+familiarity#bizalmaskodás;bizalmasság;jártasság;meghittség
+familiar#bizalmas;családias;fesztelenül bizalmaskodó;gyakori;intim;ismerõs;ismert;közvetlen stílusú;meghitt;megszokott
+family coach#családi batár;zálogosdi játék
+family doctor#háziorvos
+family jewels#családi ékszerek
+family life#családi élet
+family living#kegyúr által adományozott stallum
+family man#családapa;otthonülõ ember
+family pride#családi büszkeség
+family tree#családfa
+family#család-;család;családi;elõkelõ család;elõkelõ származás;házi;jó család;nemesi származás;régi család
+famine price#uzsoraár
+famine#éhínség;éhség
+famished#kiéhezett
+famish#éhezik;éheztet;kiéheztet
+famous#híres
+fanatical#fanatikus;rajongó
+fanaticism#fanatizmus
+fanatic#fanatikus;rajongó
+fanciful#bogaras;fantáziaszülte;furcsa;hóbortos;irreális;képzeletszõtte;különös;szeszélyes
+fancy cake#cukrászkülönlegesség;torta
+fancy dress#jelmez
+fancy goods#díszmûáru;luxuscikkek
+fancy man#selyemfiú;strici;szívszerelem
+fancy name#fantázianév
+fancy work#házimunka;hímzés
+fancy#ábránd;díszes;elgondol;elképzel;elképzelés;extra;gondol;hisz;kedv;kedvére van vmi;képzel;képzelet;képzeletbeli;különleges;luxus;szeszély;tarka;tetszés;tetszik vmi
+fandom#rajongók;szurkolók
+fanfare#fanfár;harsonaszó
+fang#agyar;karom;méregfog;tépõfog
+fantasia#ábránd;arab ünnepi lovasmutatvány;fantázia
+fantasist#képzeletbõl alkotó mûvész
+fantasize#álmodozik;fantáziál
+fantassin#gyalogos;gyalogos katona
+fantastic#abszurd;bizarr;bogaras;fantasztikus;furcsa;groteszk;hóbortos;irreális;képzeletbeli;képzelt;különös;látomásszerû;rendkívüli;sajátságos;szélsõséges;szertelen;szeszélyes;szokatlan
+fantast#álmodozó;fantaszta
+fantasy#ábránd;agyrém;agyszülemény;bizarr díszítés;bizarr minta;bizarr mûalkotás;bizarr rajz;csapongó képzelet;fantázia;fantazmagória;furcsa díszítés;furcsa minta;furcsa mûalkotás;furcsa rajz;groteszk díszítés;groteszk minta;groteszk mûalkotás;groteszk rajz;hallucináció;káprázat;képzelet;képzelõdés;képzelõerõ;képzelõtehetség;látomás;rögtönöz;szertelen gondolat;szertelen ötlet;szeszély
+fan#drukker;gabonarosta;kirostál;legyez;legyezget;legyezõ;rajongó;rostál;szellõztetõ készülék;szurkoló;ventillátor
+fanzine#amatõr magazin
+fanny#fenék;hüvely (nõi);popsi;segg;tiszti asztal;tiszti étkezõ;ülep
+faraday#faraday
+faradic#farádos
+faradism#villanyozás
+faradization#faradizálás;villanyozás
+faradize#faradizál
+faradmeter#kapacitásmérõ
+faradometer#kapacitásmérõ
+farad#farad
+far afield#messze kinn
+faraway#ismeretlen;messzi;messzi háttér;távol fekvõ;távoli;távolról felvett kép
+farce#komédia
+far country#távoli ország
+fare stage#szakasz;vonalszakasz
+farewell#búcsú;istenhozzád
+fare#boldogul;ellátás;eszik;étel;étkezik;halad;koszt;sikerül;utas;utazik;útiköltség;viteldíj
+farfetched#erõltetett;túlzott
+farmer#farmer;gazda;gazdálkodó;paraszt
+farmhand#mezõgazdasági munkás
+farmhouse#farmház;parasztház
+farming#gazdálkodás
+farmland#gazdaság
+farm produce#mezõgazdasági termények
+farm#bérbe ad;bérbe vesz;farm;gazdálkodik;gazdaság;kisbirtok;kosztba ad;kosztba vállal;major;megmûvel;mûvel;tanya;tartásra ad;tartásra vállal
+farmyard#gazdasági udvar
+farout#avantgard;avantgárd;haladó;kísérleti
+faro#fáraó
+farseeing#elõrelátó;körültekintõ;messzire látó;távolba látó
+farsighted#messzire látó;távolba látó;távollátó
+farthest#legszélsõ
+farthing#fitying
+fart#fing;fingik;szellentés
+far#erõsen;jóval;messze;messzebb esõ;messzebb fekvõ;messzebbi;messzi;messzire;nagyon;nagy távolságban;sokkal;távol-;távol;távolabbi;távol fekvõ;távoli;túlsó
+fascinate#elbájol;elkápráztat;megbûvöl;megigéz
+fascinating#elbûvölõ;elragadó;magával ragadó;megragadó;nagyon érdekes
+fascination#elragadtatás;megbûvölés;megigézés;varázs;vonzerõ
+fascism#fasizmus
+fascist#fasiszta
+fashionable#divatos;elegáns
+fashioning#megmunkálás
+fashion#alakít;divat;fazon;készít;megformál;megmunkál;mód;szabás;szokás
+fastener#csat;kallantyú;kapocs;retesz;tolózár
+fastening#gombolás;kapcsolás;leszorítás;odaerõsítés;retesz;rögzítés;tolózár;zár
+fasten#begombol;bekapcsol;bezár;csukódik;elreteszel;gombolódik;kapcsolódik;leszorít;megerõsít;megköt;odaköt;rögzít;zár;záródik
+faster film#érzékenyebb film
+faster#elõmozdít;elõsegít;támogat
+fast food#gyorsételek
+fast friends#jó barátok
+fastidious#finnyás;kényes;válogatós
+fastness#-állóság;ellenálló képesség;ellenállóság;erõd;erõsség;gyorsaság;könnyûvérûség;rögzítettség;szabadosság;szilárdság;színtartóság;szorosság;tartósság;valódiság;vár;védõbástya
+fast raid#lefutás (futballban)
+fast train#gyorsvonat
+fast woman#ledér nõ
+fast#bezárt;böjt;böjtöl;erõs;erõsen;gyors;gyorsan;igaz;kicsapongó;koplal;könnyûvérû;megbízható;rögzített;sebes;szilárd;szilárdan;színtartó;tartós;zárt
+fatalism#fatalizmus
+fatalistic#fatalista
+fatalist#fatalista
+fatalities#halálos
+fatality#balsors;balvégzet;haláleset;halálos végû szerencsétlenség
+fatal#fatális;halálos;halált okozó;végzetes
+fatally#halálosan;tragikusan
+fat bacon#kövér szalonna
+fated#elkerülhetetlen;kijelölt;pusztulásra ítélt;rendelt;végzetes
+fateful#életbevágó;végzetes
+fates#párkák;sors istennõi
+fate#elmúlás;halál;pusztulás;sors;vég;végzet
+fatherhood#apaság
+fatherless#apátlan
+fatherly#apához illõ;apai;atyai;atyailag;atyai módon
+father#apa;apaságot elismer;apaságot tulajdonít vkinek;atya;feltalál;kigondol;nemz;örökbe fogad;páter;szerzõséget tulajdonít vkinek
+fathomless#feneketlen;megfejthetetlen;mérhetetlen
+fathom#182,9 cm;mélyére hatol;mélységet mér;öl
+fatigued#fáradt
+fatigueless#fáradhatatlan
+fatigue#büntetésül kiszabott munka;elfáradás;elfáraszt;fáradság;fáradt;fáradtság;fáraszt;kifárad;kifáradás;kifáraszt;kimerít;kimerül;kimerültség;munkán van;soros munka;strapa;szolgálatban felmerülõ munka;veszõdség
+fatiguing#fárasztó;kimerítõ
+fat matter#álló szedés;spekk
+fatness#kövérség;termékenység;zsírosság
+fat price#nagy ár
+fat purse#dagadó erszény;degeszre tömött erszény;tömött erszény
+fat spark#erõs szikra
+fat stock#vágóállat
+fat stroke#vastag vonal
+fats#hízott marha;zsír;zsiradék
+fatted#hizlalt;hízlalt;hízott
+fattening#hízás;hízlalás;hizlaló;hízlaló
+fatten#hízik;hizlal;hízlal;meghízik;meghizlal
+fatuity#butaság;ostobaság
+fatuous#buta;ostobán önelégült
+fat volume#vaskos kötet;vastag kötet
+fat#bõséges;dús;elhízott;elõnyös;elõnyös munka;elõnyös vállalkozás;fekete üröm;gazdag;gyantás;háj;hájas;hatásos sorok;hatásos szerep;hízik;hizlal;hízlal;hízlalt;hízott;java vminek;jól felszerelt;kenõanyag;kiadós;kifizetõdõ munka;kifizetõdõ vállalkozás;kövér;kövérje (húsnak);pásztortáska;tapadós;termékeny;testes;tömött;vadspenót;vaskos;vastag;vminek a java;ziccer;zsír;zsiradék;zsíros
+fat years#bõ esztendõk
+fatty#dagadt;dagi;gömböc;hájas;pufi;zsíros
+faucet#csap
+fault#botlás;elmozdít;elmozdul;eltolódik;fogyatékosság;hiányosnak minõsít;hiányosnak talál;hiányosság;hiányzik;hiba;hibássá válni hagy;hibázik;hibáztat;kimozdít;megromlani hagy;megtör;megtörik;mulasztás;szabálytalan adogatás;téved;törés;vét;vetõ;vetõdés;vetõdik;vétség
+faulty#hibás
+fauna#állatvilág;fauna
+favorable#elõnyös;kedvezõ
+favorably#kedvezõen;szerencsésen
+favoritism#kivételezés;protekcionizmus;részrehajlás
+favor#csokor;elõnyben részesít;hasonlít vkire;helyesel;jelvény;jóindulat;kedvez;kedvezés;kegy;kitüntet;pártfogás;pártfogol;részrehajlás;szívesség;támogat;támogatás
+favourable#elõnyös;kedvezõ
+favourably#kedvezõen;szerencsésen
+favourite#kedvenc
+favouritism#kivételezés;protekcionizmus;részrehajlás
+favour#csokor;elõnyben részesít;elõsegít;hasonlít vkire;helyesel;jelvény;jóindulat;kedvez;kedvezés;kegy;kitüntet;megtisztel;pártfogás;pártfogol;részrehajlás;szívesség;támogat;támogatás
+fawningly#hízelegve
+fawning#hízelgõ;talpnyaló
+fawn#fiatal õz;õzbarna;õzborjú;sárgásbarna;szarvasborjú
+fazed#ideges;izgatott
+faze#felizgat;idegesít;zavarba hoz

@@ -1,0 +1,64 @@
+iambic#jambikus;jambikus költemény;jambikus vers;jambus;jambusi költemény;jambusi vers;jambusos;szatirikus költemény;szatirikus vers
+iambus#jambus
+iamb#jambus
+iceberg#úszó jéghegy
+icebox#hûtõszekrény;jégszekrény
+ice hockey#jégkorong
+icepick#jégcsákány
+icerink#mûjégpálya
+ice skates#korcsolya
+ice#bejegel;cukormázzal bevon;hidegre tesz;jég;jegel;levegõnek néz;megöl;nem vesz észre
+ichthyoid#halnemû;halszerû
+ichthyology#halak természetrajza
+ichthyol#ichtiol
+ichthyophagi#halevõk;hallal táplálkozók
+ichthyophagy#hallal való táplálkozás
+ichthyosis#bõrpikkelyesedés;halpénzbetegség;ichtiózis;pikkelybetegség
+icicle#jégcsap
+icily#hidegen
+icing#cukorbevonat;cukormáz;jégképzõdés;zúzmaraképzõdés
+icky#hányadék;undorító
+icon#ikon;szentkép
+icy#hideg;jeges
+idealism#idealizmus
+idealistic#idealista
+idealist#idealista
+idealized#idealizált
+idealize#eszményít;idealizál
+ideal money#eszmei pénz
+ideal#elméleti;eszményi;eszménykép;ideál;ideális;képzeletbeli;példakép
+ideally#elméletileg;ideális esetben
+idea#elgondolás;elképzelés;érzés;eszme;fogalom;gondolat;gyanú;ismeret;kép;képzet;ötlet;sejtés;terv
+identical#azonos;megegyezõ
+identify#azonosít;azonosnak tekint;azonosságot megállapít;egynek tekint;felfed;felismer;leleplez;ráismer
+identikit#mozaikkép
+identity#azonosság;személyazonosság
+ideological#ideológiai
+ideologist#ideológus
+ideology#ideológia;világnézet
+ides#idus
+ide#jászkeszeg
+idiocy#butaság;hülyeség
+idiomatical#köznyelvi;nyelvi;nyelvjárási;nyelvjárásra jellemzõ;nyelvre jellemzõ;nyelv sajátos kifejezésmódjával megegyezõ;nyelv sajátos kifejezésmódjával összhangban levõ;tájnyelvi;tájszólási
+idiomatic#köznyelvi;nyelvi;nyelvjárási;nyelvjárásra jellemzõ;nyelvre jellemzõ;nyelv sajátos kifejezésmódjával megegyezõ;nyelv sajátos kifejezésmódjával összhangban levõ;tájnyelvi;tájszólási
+idiom#kifejezés;kifejezésmód;stílus;szólás
+idiosyncrasy#egyéni sajátosság;idioszinkrázia;jellemzõ sajátosság
+idiotically#hülyén;ostobán
+idiotic#hülye;ostoba
+idiot#hülye;idióta;ostoba
+idle capital#nem kamatozó tõke
+idleness#haszontalanság;hiábavalóság;semmittevés;tétlenség
+idle roller#feszítõgörgõ;meghajtás nélküli görgõ;szabadonfutó görgõ
+idler#naplopó;semmittevõ
+idle story#légbõl kapott történet;merõ kitalálás
+idle words#fölösleges beszéd;haszontalan beszéd;üres szavak
+idle#céltalanul csatangol;céltalanul lézeng;céltalanul õdöng;céltalanul ténfereg;elfoglaltság nélküli;haszontalan;henye;henyél;holt (tér);lopja a napot;lusta;lustálkodik;munka nélküli;nem mûködõ;tétlen;tétlenül csatangol;tétlenül lézeng;tétlenül õdöng;tétlenül ténfereg;üres;üresen jár
+idly#lustán
+idolater#bálványimádó;imádó;tisztelõ
+idolatrous#bálványimádó;bálványozó
+idolatry#bálványimádás;bálványozás
+idolize#bálványoz
+idol#bálvány
+idyllic#idillikus
+idyll#idill;pásztorköltemény
+idyl#idill;pásztorköltemény

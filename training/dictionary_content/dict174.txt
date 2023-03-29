@@ -1,0 +1,60 @@
+wrack#elpusztulás;összetörés;partra vetett hínár;pusztulás;roncs;tönkremenés
+wraith#alakmás;kísértet
+wrangler#csikós;csordás;veszekedõ
+wrangle#csikósként mûködik;lovászkodik;pörlekedés;pörlekedik;veszekedik
+wrapper#borítás;borítólap;burkolat;csomagolás;csomagolóanyag;göngyöleg;keresztkötés;köpeny;pongyola
+wrapping#borítás;csomagolás;göngyöleg;takarás
+wraps#pokrócok;sálak;útitakarók
+wrap#beborít;beburkol;becsomagol;befed;begöngyöl;belépõ (ruhadarab);bepólyáz;betakar;burkol;burkolat;csomagol;elrejt;eltitkol;felöltõ;palástol
+wrathful#haragos
+wrath#harag
+wreak#bosszút áll;kiad (haragot);kitölt (bosszút);megbosszul;szabadjára enged (haragot)
+wreathe#átölel;fon;gomolyog;karikában gomolyog;kavarog;koronáz;koszorúba köt;koszorúval övez;koszorúz;körben gomolyog;köt;malomkõlyukat eltorlaszol;megkoszorúz;összefon
+wreath#füstcsiga;koszorú
+wreckage#összeomlás;roncs
+wrecked#hajótörött;tönkrejutott
+wrecker#autómentõ;bontási vállalkozó;hajóroncsrabló;zátonyra juttató
+wrecking#bontás;derékba törés;elakadt autó megindítása;elakadt jármû megindítása;kisiklatás;kiszerelés;leszerelés;meghiúsulás;megmentés;megsemmisítés;megsemmisítõ;megsemmisülés;megszakadás;mentés;pusztítás;pusztító;pusztulás;pusztulást okozó;rombolás;romboló;romlás;romlást okozó;tönkremenés;tönkremenést okozó;tönkretétel;zátonyra futás;zátonyra futtatás
+wreck#elpusztulás;hajótörés;hajótörést szenved;összeroncsol;összetörés;partra vetett tárgy;pusztulás;roncs;roncskocsi;tönkremenés;tönkretesz;zátonyra fut
+wrenched#kificamodott
+wrenching#csavarás;csavarodás;kiszakítás;kitépés
+wrench#csavarkulcs;elcsavar;elgörbít;elválás okozta fájdalom;ficam;franciakulcs;kificamít;kiránt;villáskulcs
+wrestler#birkózó
+wrestle#birkózás;birkózik;küzd
+wrestling#birkózás
+wrest#elcsavar;elcsavarás;elragad;hangolókulcs;kiforgat;kiránt vkinek a kezébõl
+wretchedly#nyomorultan;szerencsétlenül
+wretched#boldogtalan;nyamvadt;nyomorult;silány;szerencsétlen;vacak
+wretch#hitvány;nyomorult;szegény ördög
+wriggle#csavargat;csúszik-mászik;hímez-hámoz;ide-oda mozgat;izeg-mozog;izgés-mozgás;kígyózik;köntörfalaz;teker;tekergõzés;tekergõzik
+wring#facsarás;szorítás;wrung,elferdít;wrung,facsar;wrung,gyötör;wrung,kicsavar
+wrinkled#ráncos
+wrinkle#bizalmas értesülés;ötlet;ránc;ráncol;ráncolódik;redõ;redõz;redõzõdik;tipp
+wrist band#óraszíj
+wristlet#bilincs;csuklókötõ;karkötõ;karperec
+wristwatch#karkötõóra;karóra
+wrist#csukló
+writer#írnok;író;szerzõ
+write#wrote,written,ír;wrote,written,leír;wrote,written,megír
+writhe#gyötrõdik;lelki kínokat áll ki;vonaglik
+writhing#gyötrõdés;vonaglás
+writings#irodalmi mûvek;mûvek
+writing#írás;írásmód;írásmû;írásmûvészet;irat;irodalmi alkotás;kézírás;mû;szépírás;szerkesztés
+writ#bírói idézés;bírói megkeresés;bírói parancs;hatósági értesítés;hatósági felszólítás;hivatalos okirat;írásban lefektetett dolog;leírt dolog;lordok házának összehívására szolgáló irat;lordok házát összehívó irat
+wrongdoer#bajkeverõ;bajszerzõ;bûnös;jogsértõ
+wrongdoing#bûn;gaztett;igazságtalanság;méltánytalanság
+wrong font#hamis betû;nyomdahiba
+wrongful#igazságtalan;jogtalan;törvénytelen
+wrong ideas#helytelen nézetek;hibás nézetek
+wrong letter#hamis betû;nyomdahiba
+wrongly#ártatlanul;gonoszul;helytelenül;tévesen
+wrong note#fals hang;hamis hang;hibás hang
+wrong number#téves kapcsolás;téves szám
+wrongous#igazságtalan;jogtalan;méltánytalan
+wrong#alaptalanul;alkalmatlan;alkalmatlan módon;alkalmatlanul;árt;célszerûtlenül;fals;félreértett;félrevezetett;gonosz;hamis;hátrány;hátrányos helyzet;helytelen;helytelenül cselekvõ;helytelenül megállapító;helytelenül mondó;hiba;hibás;hibát elkövetõ;igazságtalanság;igazságtalanságot követ;igazságtalanul;igazságtalanul bánik;igazságtól eltérõ;jogsértõ cselekedet;jogtalan cselekedet;jogtalanságot követ el;jogtalanul;megállapodástól eltérõ;megbánt;megegyezéstõl eltérõ;megkárosít;megkárosítás;megrövidít;megsért;méltatlanság;méltatlanul bánik;nem alkalmas;nem célra vezetõen;nem helyénvaló;nem idõszerû;nem jó;nem megfelelõ;pontatlanul;rossz;rosszat tesz;rosszul;sérelem;sérelmet okoz;tévedés;tévedõ;téves
+wrought#feldolgozott;kidolgozott
+wrung#elgörbült;meghajolt;megrepedt;megszakadt;megvetemedett
+wryly#ferdén;kényszeredetten
+wryneck#nyakferdülés;nyaktekercs
+wryness#ferdeség;részarányosság hiánya;szabálytalanság;szimmetria hiánya
+wry#elfintorított;ferde;kényszeredett

@@ -1,0 +1,154 @@
+vc#vietkong
+veal cutlet#borjúszelet
+veals#borjúbõrök
+veal#borjú;borjúhús
+vealy#borjúhoz hasonló;éretlen;fiatal
+vectorial#vektoriális
+vector#betegséghordozó;vektor;vírushordozó
+veep#alelnök
+veer#bárdol;irányt változtat;irányváltozás;kienged;lazít;marat;megfordul;napirányba fordít;pácol
+vee#v alakú;v alakú tárgy;v betû
+vegetable#fõzelék;fõzelékféle;növényi;növényi eredetû;zöldség;zöldségféle
+vegetal#növényi
+vegetarian#növényvõ;vegetáriánus
+vegetate#tengõdik;tenyészik;tesped;vegetál
+vegetative#nem akaratlagos;vegetatív
+veg#buta ember;fafej;tejbetök;tökfej;vízfej;zöldség
+vehemence#hév;hevesség
+vehemently#indulatosan;szenvedélyesen
+vehement#erõs;heves;robbanékony;szilaj;vehemens
+vehicle#eszköz;hordozó közeg;jármû;közvetítõ közeg;vivõanyag
+vehicular#jármûvel kapcsolatos;közlekedési;közúti
+veiled voice#fátyolos hang
+veiled#burkolt;elfátyolozott;fátyollal borított;fátyollal letakart;fátyolos;lepellel borított;lepellel letakart;leplezett;palástolt
+veil#fátyol;függöny;lefátyoloz;lepel;leplez
+vein#ér;erez;erezet;hajlam;kedv;tehetség;véna;véredény
+velcro#tépõzár
+vellum paper#velin papír
+vellum#pergamen
+velocity#sebesség
+velours#bársony;gyapjúvelúrszövet;pamutvelúrszövet;velúr
+velour#bársony;gyapjúvelúrszövet;pamutvelúrszövet;velúr
+velveteen#pamutbársony
+velvet pad#bársony párnácska;fényesítõ párnácska
+velvet#bársony
+venality#megvásárolhatóság;megvesztegethetõség
+venal#haszonlesõ;megvásárolható;megvesztegethetõ
+vendetta#vendetta;vérbosszú
+vendibility#eladhatóság;keresettség
+vendibles#eladó áruk
+vendible#árusítható;eladható;kapható
+vendition#eladás
+vendor#árus;eladó;eladó fél;elárusító;kereskedõ;lapterjesztõ;utcai árus
+vend#árul;árusít;elad;kereskedik
+veneer#borítás;borítólemez;burkol;burkolat;felszín;furnér;furnérlemez;furnéroz;látszat;lemezel;leplez;máz;takargat
+venenate#megfertõz;megfertõzött;megmérgez;mérges;mérgezett
+venenation#mérgezés
+venenific#mérget képzõ;mérget kiválasztó
+venenous#mérges
+venepuncture#érbeszúrás
+venerable#nagytiszteletû;tiszteletre méltó
+venerate#hódol vki elõtt;tisztel
+veneration#hódolat;mélységes tisztelet;tisztelés;tisztelet
+venereal#nemi
+venetian#velencei
+vengeance#bosszú
+vengeful#bosszúálló;bosszúszomjas;bosszúvágyó
+veniality#bocsánatosság;elnézhetõ jelleg;megbocsátható jelleg;megbocsáthatóság
+venial#bocsánatos;elnézhetõ;jelentéktelen;megbocsátható
+venially#megbocsáthatóan
+venison#õzhús;õz húsa;szarvashús;szarvas húsa;vadkan húsa
+venomous#dühös;epés;mérges
+venom#méreg
+venous#eres;vénás
+ventilable#szellõztethetõ
+ventilate#kitereget;levegõztet;nagy nyilvánosság elõtt tárgyal;oxigenál;oxigénnel telít;rostál;szelel;szellõzéssel ellát;szellõztet;szellõztetõ berendezéssel ellát
+ventilating#szellõzõ;szellõztetõ
+ventilation#félelmek feltárása;félelmek levezetése;kényszerképzetek feltárása;kényszerképzetek levezetése;kiteregetés;légcsere;lelki konfliktusok feltárása;lelki konfliktusok levezetése;nyilvánosság elõtti tárgyalás;oxigénnel ellátás;szellõzés;szellõztetés;szellõztetõ berendezés
+ventilative#szellõztetõ
+ventilator#szellõzõnyílás;szellõztetõablak;szellõztetõkészülék;ventillátor;zsalu
+ventil#szelep;ventil;zárószelep
+venting#kitöltés
+ventless#kifolyó nélküli;szellõzõlyuk nélküli
+ventral#has-;hasi;hasuszony
+ventrally#has irányába;has irányában;hasmánt
+ventricle#gyomrocs;kamra;testüreg
+venturesome#kockázatos;merész;vállalkozó szellemû
+venture#kísérel;kockázat;kockáztat;megkísérel;megkockáztat;mer;merészel;merészkedik;vakmerõség;vállalkozás
+vent#bátorság;eladás;erély;értékesítés;felmerülés a víz felszínére;furulyalyuk;gyújtólyuk;gyújtónyílás;hasíték;kémény;kibúvó;kiereszt;kifolyó;kiömlési nyílás;kivezetõ út;kürtõ;lõrés;lyuk;nyílás;piac;rés;robbantólyuk;slicc;szabad folyás;szabad menet;szabad pálya;szaglás;szelelõlyuk;szellõztet;szimat;tûzhányókürtõ;végbélnyílás;ventillátor;vulkáncsatorna;vulkántorok
+venue#illetékes bíróság;találkozóhely
+veracity#igazmondás;igaz volta vminek;igazság
+verandah#tornác;veranda
+veranda#tornác;veranda
+verbal#betû szerinti;igei;igenév;szóbeli;szó szerinti
+verbatim#betû szerint;betû szerinti;szó szerint;szó szerinti
+verb drill#igeragozási gyakorlat
+verbiage#bõbeszédûség;locsogás;szóáradat;szószaporítás;szószátyárkodás;üres fecsegés
+verb#cselekvés;ige
+verdancy#tapasztalatlanság;zöldfülûség;zöld szín
+verdant#éretlen;kezdõ;naiv;tapasztalatlan;zöld;zöldellõ;zöldfülû
+verdict#döntés;ítélet;vélemény;verdikt
+verdigris#kukoricaüszög;patina;rézrozsda
+verger#pálcavivõ;templomszolga
+verge#határ;perem;szegély;széle vminek
+verifiable#ellenõrizhetõ;igazolható
+verification#bebizonyítás;bebizonyosodás;beigazolás;beigazolódás;bizonyítás;egyeztetés;felülvizsgálat;igaznak bizonyulás;igazolás;megállapítás;megerõsítés;okirati bizonyítás;okirati igazolás
+verifier#vizsgáló
+verify#átvizsgál;ellenõriz;igazol;megerõsít
+verily#bizony;valóban
+verisimilar#valószerû;valószínû
+veritable#igazi;valóságos
+verity#igazság;való dolog
+vermiculate#barázdált;féregmintás
+vermiculite#vermikulit
+verminous#bélférges;férgektõl hemzsegõ;férges;gilisztás
+vermin#csõcselék;élõsdiek;férgek;kis kártékony állatok
+vernacular#anyanyelv;nemzeti;nemzeti nyelv;népi;népnyelvi
+versatile#sokoldalú
+versatility#ingatagság;sokoldalúság;változékonyság
+versed#jártas;tapasztalt;verzátus
+versefier#versíró
+verse#költemény;strófa;vers;versbe szed;versel;verssor;versszak
+versify#költ;megversel;megversesít;versel;verset farag;verset ír
+version#változat;verzió
+versus#ellen
+vertebral#gerinc-
+vertebrate#gerinces
+vertebra#csigolya;hátcsigolya
+vertex angle#csúcsszög
+vertex#csúcs;koponyatetõ;orom;tetõpont;vertices,csúcs;vertices,csúcspont;vertices,fejbúb;vertices,fejtetõ;vertices,koponyatetõ;vertices,orom;vertices,tetõpont;vertices,zenit
+verticalism#függõlegesség
+verticality#függõlegesség
+vertical#fejbúbi;fejtetõi;függõleges;függõleges vonal;legmagasabb ponton levõ;magassági kör;tetõponthoz tartozó;zeniten levõ
+vertically#függõlegesen
+vertiginous#kavargó;körbe mozgó;örvénylõ;szédítõ;szédüléssel járó;szédülõ
+vertigo#szédülés
+vervain#verbéna
+verve#hév;lelkesedés;lendület
+very best#legeslegjobb
+very centre#kellõs közepe
+very devil#maga a megtestesült ördög;megtestesült ördög
+very first#legelsõ
+very good#igenis;igen jó;jól van
+very light#világítórakéta
+very much#igen sok;igen sokat;nagyon
+very same#pontosan ugyanaz;teljesen ugyanaz
+very#éppen az a;igazi;igen;maga a;maguk a;nagyon;valóságos
+vessel#edény;hajó
+vestibular#fültornáchoz tartozó
+vestibule#elõcsarnok;elõszoba;hall;tornác;zárt peron
+vestige#csökevény;maradvány;nyom;nyomdok
+vestry#egyházközségi tanács;sekrestye
+vest#alsóing;felöltöztet;felruház;kising;mellény;rábíz;ráruház;trikó
+vetchling#parlagi lednek
+vetch#bükköny
+veteran#gyakorlott;öreg;tapasztalt;veterán katona
+veterinarian#állatorvos
+veterinary#állatorvos;állatorvosi
+veto#megtilt;megvétóz;tiltakozás;vétó;vétójog;vétót mond
+vet#állatorvos;ellenõriz;felülvizsgál;kezel;lekáderez;lektorál;leszerelt katona;lódoktor;marhadoktor;megvizsgál;obsitos;veterán
+vexation#aggodalom;bosszantás;bosszúság;nyugtalanítás;zaklatás
+vexatious#bosszantó;kellemetlen;terhes;zaklató
+vexed#bosszankodó;ideges;kérdéses;mérgelõdõ;vitás;vitatott
+vexing#bosszantó;nyugtalanító
+vex#bosszant;felkavar;felzavar;ingerel;nyaggat;zaklat

@@ -1,0 +1,80 @@
+jobless#munkanélküli
+job printer#alkalmi nyomtatványokat készítõ nyomdász;apró nyomtatványokat készítõ nyomdász
+job watch#fedélzeti óra;hajóóra
+job#állás;apró vegyes nyomdai munka;befolyással való üzérkedés;dolog;feladat;foglalkozás;Jób;jogosulatlan mellékkereset;kínos feladat;korrupció;leány;munka;munkafeladat;munkalehetõség;nehéz feladat;nehéz munka;panama;síbolás;üzérkedés
+jockey#becsap;csal;csaló;csaló kereskedõ;csavargó;fifikával csinál;helyezkedik;helyezkedve csinál;kijátszik;lókereskedõ;lóra száll;lovas;lovász;lovat megül;manõverez;manövríroz;megcsal;mesterkedik;mesterkedve csinál;rászed;ügyeskedve csinál;vándorkobzos;vándorlantos;vándorregös;versenyben lovagol;zsoké
+jock#atléta;csillefék;élelem;étel;férfi;fószer;hapsi;hapsija vkinek;pacák;pali;skót férfi;skót katona;sportoló;táplálék;vkinek a hapsija;zsoké
+jocularity#tréfa;tréfás kedv;vidámság
+jocularly#tréfásan;vidáman
+jocular#tréfás;vidám;víg
+joe miller#régi szakállas adoma
+jogsuit#szabadidõruha
+jog#bök;elmegy;felráz;kiüt;kocog;kocogás;lök;lökés;megbök;meglök;megtaszít;összeráz;összetör;összezötyköl;rázás;séta;stószol;taszít;továbbmegy
+john blunt#goromba de tisztességes ember;mogorva ember;zsémbes ember
+john bull#tipikus angol ember
+john chinaman#kínai ember;kínai nép
+john company#angol-indiai társaság
+john dori#Szent Péter hala
+john hancock#saját kezû névaláírás
+john thomas#hímvesszõ;libériás inas
+john#árnyékszék;budi;klotyó
+joiner#ács;asztalos
+joinery#asztalosmesterség;asztalosmunka
+joining#csatlakozás
+joint author#társszerzõ
+joint bolt#ágyúcsapszeg;csuklócsap
+joint capital#társasági alaptõke;társasági tõke
+joint efforts#közös erõfeszítés;közös erõfeszítések
+joint end#csuklós vég
+joint estate#vagyonközösség
+joint gap#illesztési hézag
+joint gout#csúz;ízületi fájdalom;köszvény;szaggatás
+joint heiress#örököstárs
+joint heir#örököstárs
+jointly#együttesen;közösen
+joint owner#hajórészvényes;résztulajdonos;társtulajdonos;tulajdonostárs
+joint regent#régenstárs;társrégens
+joint ring#kapcsoló gyûrû;tömítõgyûrû
+joint rule#szinarchia;társuralkodás;többes fejedelemség
+joint shares#közösen birtokolt részvény
+joint stock#alaptõke;társasági vagyon
+joint tenant#bérlõtárs;társbérlõ
+joint tongue#ereszték
+joint traffic#csatlakozó forgalom;kombinált forgalom
+joint#ácsolatkötés;becsapolás;bütyök;csomó;csukló;csuklós csatlakozás;egybesült bélszín;egybesült vesepecsenye;egyesített;egymásba ereszt;egymásba illeszt;együttes;ereszték;eresztés;falcnyílás;felbont;felvág;görcs;hasadék;hegesztés;hegesztési varrat;helyiség;hézag;hézagol;illeszkedõ;illesztés;illesztési hely;illesztett;internódium;ízekre bont;ízel;ízköz;ízület;kapcsolás;kapcsolódás;kapcsolódó;kapcsolt;kétes hírû ház;két ízület közötti rész;könyvgerinc széle;kötés;közös;lebuj;összeilleszt;összeillesztés;összeillesztési hely;összekapcsol;összeköt;repedés;simító gyaluval meggyalul;tag;társ-;társas;ujjíz;ujjperc
+join#belép;beletorkollik;csatlakozik;egybeköt;egyesít;illeszt;illesztés;illesztési pont;kapcsol;kapcsolódik;követ;összeforr;összeilleszt;összekapcsol;összekapcsolódik;találkozik (ösvények)
+joists#ácsszerkezet
+joist#ászokfa;födémgerenda;födémgerendát beszerel;gerenda;gerendázatra erõsít;kötõgerenda;padlótartó gerendaszerkezet;padozattartó gerenda;tartó
+joker#dzsóker;mókás ember;pasas
+joke#móka;mókázik;tréfa;tréfál
+joking apart#tréfán kívül
+jolt#döcög;döcögtet;hirtelen meglök;kiábrándulás;lökdös;lökdösõdik;lökés;lökésszerû indulás;meglepetés;megráz;megrázkódtatás;rángás;rángat;rángatás;ráz;rázás;rázkódás;ütés;ütõdés;zökken;zökkenés;zökkenésszerû megállás;zökkent;zötykölõdés;zötykölõdik;zötykölõdtet;zötyög;zötyögtet
+jolly roger#kalózlobogó
+jolly well#bizony;nagyon
+jolly#felmagasztal;felvidít;jókedvû;kedves;kidicsér;kis csónak;magasztal;megtréfál;nagyon;rendes;spicces;ugrat;vidám
+jonah#bajt hozó ember;Jónás
+jonquil#jonquille-nárcisz;sárgásfehér;sárgásfehér szín;sárgásfehér színû;szelíd sárga kanári
+josher#heccelõ;heccelõdõ;incselkedõ;tréfálkozó;ugrató
+joshing#heccelés;heccelõ;incselkedés;incselkedõ;ugratás
+josh#felhúzás;heccel;heccelés;húz;incselkedés;incselkedik;jóindulatú tréfa;megtréfál;ugrat;ugratás
+jostle#lök;lökdös;lökdösõdik;összeütközik;tol;tolakodik
+jostling#lökdösõdés;tolakodás
+jotter#jegyzetfüzet
+jot#csekélység;iota;jotta;pont
+journalism#újságírás
+journalist#újságíró
+journeyer#utazó
+journey#út;utazás;utazik
+joust#lándzsát tör;lovagi torna;lovas harcjátékban vesz részt
+jove#Jupiter
+joviality#derû;derûsség;jovialitás;kedélyesség;vidámság
+jovial#derûs;joviális;kedélyes;vidám
+jovially#derûsen;vidáman
+jowl#állkapocs;alsó állkapocs;arc;lebernyeg;orca;pofa;szakáll;toka
+jowly#tokás
+joyful#örömteli;örvendetes;vidám
+joyfully#vidáman
+joyless#örömtelen;szomorú
+joyously#boldogan;vidáman
+joyous#boldog;jókedvû;örömteli;vidám
+joy#öröm;vidámság

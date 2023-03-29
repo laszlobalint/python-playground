@@ -1,0 +1,85 @@
+cicada#cicadae,kabóca
+cicala#cicalae,kabóca
+cicatrice#csírafolt;forradás;heg;kakashágás;levélripacs;mag köldöke;sebhely
+cicatricial#heg-;sebhelyszerû
+cicatricle#csírafolt;kakashágás;mag köldöke
+cicatricose#forradásos;heges;sebhelyes
+cicatricule#csírafolt;kakashágás;mag köldöke
+cicatrix#cicatrices,csírafolt;cicatrices,forradás;cicatrices,heg;cicatrices,kakashágás;cicatrices,levélripacs;cicatrices,mag köldöke;cicatrices,sebhely
+cicatrize#beforr;beforraszt;beheged;behegeszt;sebhelyekkel éktelenít
+cider apples#almabornak való alma;boralma
+ciderkin#másodszorra sajtolt almabor
+cider pomace#almabor-törköly
+cider viniger#almaecet
+cider#almabor
+cigarette#cigaretta
+cigar#szivar
+cig#bláz;cigi;staub
+cinch#erõs fogás;könnyû dolog;könnyû eset;nyeregheveder
+cinder#elhamvaszt;elsalakosít;hamu;kokszdara;parázs;pörk;salak;szénpor;széntörmelék;tufa;vasreve;zsarátnok
+cindery#hamuszerû;hamvas;salakos;salakszerû
+cindrous#hamuszerû;hamvas;salakos;salakszerû
+cinema#mozi
+cinnamon#fahéj
+cipher device#rejtjelzõ gép
+cipherer#rejtjelzõ;sifreszakértõ;sifrírozó
+ciphering#rejtjelezés;sifrírozás;titkosírás;zavaró búgás;zavaró zúgás
+cipher key#rejtjelkódex;rejtjelkulcs;sifrekódex;sifrekulcs
+cipher#hibás együtthangzó orgonasíp;jelentéktelen ember;monogram;név egybekapcsolt kezdõbetûi;nulla;rejtjel;rejtjeles jelentés;rejtjeles levél;rejtjeles távirat;rejtjelez;rejtjelezés;rejtjelkódex;rejtjelkulcs;rejtjeltávirat;sifrekódex;sifrekulcs;sifríroz;sifrírozás;sifrírozott jelentés;sifrírozott levél;sifrírozott távirat;számjegy;számol;szignó;titkosírás;titkosírással ír;zavarólag búg;zavarólag zúg;zéró
+circadian#egynapi;napi;naponkénti
+circaea#varázslófû
+circassian#cserkesz;finom pamutkásmir
+circassia#cirkasszia;cserkeszföld
+circa#cirka;körülbelül
+circle#ciklus;erkély (színházban);karika;kering;kerület;kör;körbejár;körbemegy;körforgás;körpálya;körülfog;körüljár;körülkerít;körülvesz;körvonal;körzet;megkerül;övez
+circuitously#hosszadalmasan;körülményesen
+circuitous#hosszadalmas;kerülõ;körülményes
+circuitry#áramkör kapcsolási séma
+circuit#áramkör;bejár;kering;kerület;kerülõ;kerülõ út;kitérõ;kör;körbejár;körben jár;körforgás;körméret;körút;körüljár;körzet;terület;útvonal;zárt görbe vonal
+circularity#circulus vitiosus;köralakúság;körben forgó okoskodás;petitio principii
+circulate#átáramoltat;forgalomba hoz;forgalomban van;kering;körben forog;körforgásba hoz;köröz;közkézen forog;terjed;terjeszt
+circulation#forgalom;keringés;példányszám;vérkeringés
+circulatory#keringési
+circumspect#körültekintõ;óvatos
+circumvent#kijátszik;megcsal;megkerül;rászed
+circus#cirkusz;kerek völgykatlan;körönd;körtér;repülõraj
+cirrus#cirri,fodros felhõ;cirri,kacs;cirri,serte;cirri,tapogató
+cistern#vécétartály;víztároló;víztartály
+citadel#fellegvár
+citation#idézés;idézet
+cite#beidéz;idéz;megidéz
+citified#elvárosiasodott
+citizenry#polgárság
+citizenship#állampolgárság
+citizen#állampolgár;polgári személy;városi polgár;városlakó
+city arab#utcagyerek
+city center#belváros
+city centre#belváros
+city#város
+civic centre#közigazgatási negyed
+civic design#városépítészet
+civic#polgári;városi
+civics#állampolgári ismeretek
+civies#civil;civil ruha
+civil action#polgári per
+civil code#polgári törvénykönyv
+civil death#polgári halál;polgári jogok elvesztése
+civil defence#légó;légoltalom;polgári védelem
+civilian#civil;polgári;polgári egyén
+civilisation#civilizáció
+civilised#civilizált
+civility#udvariasság
+civilization#civilizáció;kultúra;mûvelõdés;mûveltség
+civilized#civilizált;kimûvelt
+civilize#civilizál;kimûvel
+civil law#magánjog
+civil list#civillista;udvartartás költségei
+civil parish#község
+civil rights#polgárjogok
+civil servant#állami hivatalnok;hivatalnok;köztisztviselõ
+civil service#közigazgatás;köztisztviselõi kar;közszolgálat
+civil suit#polgári per
+civil war#polgárháború
+civil#békés;civil;civilizált;polgár-;polgári;udvarias
+civvies#civil;civil ruha
+civvy street#civil élet

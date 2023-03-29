@@ -1,0 +1,29 @@
+yucca#jukka
+yuck#ellenszenves ember;genyó;görény;patkány;poén;szar;szemétláda;trutyi;trutymó;utált dolog;vicc
+yugoslavian#jugoszláv;jugoszláviai
+yugoslavia#Jugoszlávia
+yugoslav#jugoszláv
+yuk#ellenszenves ember;genyó;görény;patkány;poén;szar;szemétláda;trutyi;trutymó;utált dolog;vicc
+yup#aha
+zany#bohóc;bohóckodó;bolondos
+zappy#energikus;intenzív
+zap#kiakaszt;kiborít;kilõ;ledurrant;legyõz;lelõ;lenyûgöz;ronggyá ver;tép;teper;tûz
+zealot#fanatikus ember;vakbuzgó ember
+zealous#buzgó;fanatikus;lelkes
+zeal#buzgalom;hév;lelkesedés;mohóság
+zebra#zebra
+zenithal#zenit-;zeniti
+zenith#csúcspont;tetõpont;zenit
+zen#zen
+zeolite#zeolit
+zephyr#szellõ
+zeppelin#léghajó;zeppelin
+zero altitude#kezdõ magassági pont;kiinduló magassági pont;talajszint
+zero hour#döntõ pillanat;kritikus pillanat;nagyobb hadmûvelet órája;támadás ideje;támadás órája
+zero line#kezdõ vonal;kiinduló vonal;koordinátarendszer alapvonala;koordinátarendszer nullvonala;semleges szál
+zero median#kezdõ délkör
+zero method#nullára redukálás módszere;nullázó módszer
+zero point#kezdõpont;nullapont;nullpont
+zero reading#nulla-leolvasás
+zero#gyenge látási viszonyok;lenulláz;nulla;nullafok;nullapont;nullára állít;nullfok;nullpont;nullpontra állít;rossz látási viszonyok;semmi;zéró;zérus;zérusfok;zéruspont
+zest#étvágygerjesztõ íz;kedv;lelkesedés;lendület;pikáns íz;tempó

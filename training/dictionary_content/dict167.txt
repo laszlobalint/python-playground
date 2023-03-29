@@ -1,0 +1,170 @@
+viability#életképesség;járhatóság;megvalósíthatóság
+viable#életképes;járható
+vial#ampulla;fiola;üvegcse
+via#át;keresztül
+vibes#megérzés
+vibrancy#rezgés;vibrálás
+vibrant#remegõ;reszketõ;rezgõ;rezonáló;vibráló
+vibrating#remegõ;rezgõ;vibráló
+vibrational#rezgési;rezgõ;vibrációs
+vibration#járás;lengés;rázkódás;rázkódtatás;remegés;rengés;rezgés;vibráció;vibrálás
+vicarage#egyházközség;lelkészlakás;paplak;parókia;plébánia
+vicariously#helyettesként;másodkézbõl
+vicarious#helyettes;helyettesítõ;más helyett tûrt;más helyett végzett
+vicar#anglikán lelkész;anglikán plébános;helyettes
+vice admiral#altengernagy
+vice versa#és viszont;fordítva;kölcsönösen
+vice#kicsapongás;satu;vétek
+vicinity#környék;közelség;szomszédság
+viciously#erõsen;gonoszul;rosszindulatúan
+viciousness#gonoszság;rosszakarat;rosszakaratúság;rosszindulat;rossz természet
+vicious#bûnös;erkölcstelen;gonosz;harapós;helytelen;hibás;romlott;rossz;rosszindulatú
+victimize#becsap;elnyom;feláldoz;megtorlást gyakorol;rászed
+victim#áldozat
+victoriously#diadalmasan;gyõzedelmesen;gyõzelmesen;gyõztesen
+victorious#diadalmas;gyõzedelmes;gyõzelmes;gyõzelmi;gyõztes
+victor#gyõztes
+victory#diadal;gyõzelem
+victualage#élelem;élelmiszer;eleség;ennivaló;étel
+victualler#anyagellátó hajó;élelmiszerszállító;markotányos
+victualling#élelmiszerellátás
+victuals#élelem;élelmiszer;eleség;ennivaló;étel;fogyasztási cikkek
+victual#élelemmel ellát;élelemmel felszerel;élelmez;élelmiszert raktároz be;ellátja magát élelemmel;eszik;etet;felszereli magát élelemmel;táplál;táplálkozik
+vic#ék alakú repülõraj;v-alakban repülõ gépraj;V-alakban repülõ gépraj
+video game#játékautomata
+vienna bread#zsemle
+vienna lake#karminpiros
+vienna#Bécs
+viennese#bécsi;bécsiek
+viewer#nézõ
+viewfinder#keresõ
+viewpoint#nézõpont;szempont
+view#kilátás;nézet
+vie#verseng;versenyez
+vigilance#éberség;vigyázat
+vigilant#éber;õrködõ;szemfüles;vigyázó
+vigil#ünnep elõestje;virrasztás
+vignetter#címkekészítõ;fejlécrajzoló;kapumaszk;záródíszrajzoló
+vignette#árnyal;címke;címrajz;ékítmény;fejléc;háttérbe beolvadó arckép;komikus jelenet;lefokoz;mellképet fényképez;rövid irodalmi karcolat;szõlõlevéldísz;tompít;vignetta;záródísz
+vignettist#címkekészítõ;fejlécrajzoló;záródíszrajzoló
+vigorously#erõteljesen;nyomatékosan
+vigorous#élénk;életerõs;erõteljes;nyomatékos
+vigor#életerõ;energia;erély;erõ;nyomaték
+vigour#életerõ;energia;erély;erõ;nyomaték
+vilely#aljasul;hitvány módra
+vileness#aljasság;hitványság
+vile#aljas;értéktelen;gonosz;gyarló;hitvány;ócska;vacak
+vilification#becsmérlés;rágalmazás
+vilifier#becsmérlõ;rágalmazó
+vilify#becsmérel;rágalmaz
+villager#falusi
+village#falu;község
+villainous#aljas;hitvány;komisz;ócska
+villain#cselszövõ;gazember
+villainy#alávalóság;gaztett;gazság
+villa#családi ház;rezidencia;villa
+vim#életerõ;életkedv;energia;rámenõsség;tetterõ
+vinaigrette#kétkerekû gyaloghintó;szagoltató üvegcse
+vindicate#érvényesít;fenntart;igazol;igényt tart vmire;magáénak követel;megtart;megvéd;tisztáz (személyt);vindikál
+vindication#érvényesítés;fenntartás;követelés;megvédelmezés;összefüggéstelen beszéd;visszakövetelés
+vindicative#bosszúálló;bosszúszomjas;igazoló;védelmezõ
+vindicator#védelmezõ
+vindictive#bosszúálló;bosszúszomjas;gyûlölködõ;haragtartó
+vinegar#ecet
+vine#kúszónövény;szõlõ;szõlõtõ;szõlõtõke
+vineyard#szõlõskert
+vin ordinaire#minõségi bor
+vinous#borgõzös;borízû;boros;borral átitatott;borszínû;ittas;részeg
+vintage#évi bortermés;szüret
+vinyl#vinil;vinilgyök
+violate#áthág;erõszakot követ el (nõn);megbecstelenít;megerõszakol;megront;megsért;megszeg;megszentségtelenít;meggyaláz
+violation#áthágás;erõszak;háborgatás;megbecstelenítés;megsértés;megszegés;nemi erõszak
+violator#sértõ;szabálysértõ;törvénysértõ;zavaró
+viola#brácsa;mélyhegedû
+violence#durvaság;erõszak
+violently#erõszakosan;hevesen
+violent#erõszakos;heves;robbanékony
+violet#ibolya
+violin clef#violinkulcs
+violinist#hegedûmûvész
+violin player#hegedûs
+violin school#hegedûiskola
+violin#hegedû
+viperidae#viperafélék
+viperiform#vipera alakú;viperaszerû
+viperine#álnok;gonosz;vipera-;viperaszerû
+viperish#álnok;gonosz;mérges;vipera-;viperaszerû
+viperousness#álnokság;gonoszság;viperatermészet
+viperous#álnok;gonosz;mérges;vipera-
+viper#gonosz személy;rosszindulatú személy;vipera
+virginals#virginál
+virginal#szûz-;szûzi
+virgin forest#õserdõ
+virginia#virzsínia;virzsíniadohány
+virginity#szüzesség
+virgin#érintetlen;hajadon;szûz
+virile#férfias
+virility#férfiasság
+virtual#benne rejlõ;látszólagos;lényegbeni;tényleges;tulajdonképpeni
+virtually#látszólag
+virtue#elõny;erény;erkölcsi tisztaság;érték
+virtuosity#mûértés;mûvészetek szeretete;virtuozitás
+virtuoso#virtuosi,különlegességek kedvelõje;virtuosi,mester;virtuosi,mûértõ;virtuosi,mûtárgyak kedvelõje;virtuosi,mûvész;virtuosi,mûvészetek kedvelõje;virtuosi,természetbölcselõ;virtuosi,természettudományos kísérletezõ;virtuosi,virtuóz
+virtuous#érdemes;erényes;erkölcsös;gyógyhatású;hathatós
+virulent#epés;fertõzõ;heveny;heves;maró;rosszindulatú;virulens
+virus#vírus
+visaged#vmilyen arccal rendelkezõ;vmilyen arcú
+visage#ábrázat;arc;tekintet
+visa#visa'd,útlevelet láttamoz;visad,útlevelet láttamoz;visa'd,vízummal ellát;visad,vízummal ellát;visa'd,vízumot ad;visad,vízumot ad;vízum
+visceral#belsõ részekre vonatkozó;belsõ részi;zsigeri
+viscera#belek;belsõ részek;zsigerek
+viscidity#nyúlósság;ragadósság;viszkozitás
+viscid#nyúlós;ragadós;viszkózus
+viscosity#belsõ súrlódás;nyúlósság;viszkozitás
+viscountcy#vicomte-i cím;vicomte-i rang
+viscountess#vicomte felesége;vikomtessz
+viscountship#vicomte-i cím;vicomte-i rang
+viscount#vicomte;vikomt
+viscounty#vicomte-i cím;vicomte-i rang;vicomte uralma alatt álló terület
+viscous#nyúlós;ragadós;viszkózus
+vise#satu
+visibility#látási viszonyok;láthatóság
+visible#látható
+visionary#képzeletbeli;képzelgõ;képzelt;látnok
+visioned#ihletett
+visionless#vak;világtalan
+vision#éleslátás;elõrelátás;látás;látóképesség;látomás;látvány;vízió
+visitation#ítélet;látogatás;megfenyítés;szemle
+visitor#látogató;vendég
+visit#látogat;meglátogat
+vista#allé;fasor;kilátás;látkép;távlat
+visual aid#szemléltetõ eszköz
+visualise#elképzel;képet felidéz;láthatóvá tesz;megjelenít
+visualize#elképzel;képet felidéz;láthatóvá tesz;megjelenít
+visual#látási;látó-;vizuális
+visually#vizuálisan
+vitality#életerõ;vitalitás
+vital spark#éltetõ szikra
+vital#alapvetõ;életbevágó;élethez szükséges;élettel teli
+vitally#alapvetõen;életbevágóan
+vitamin#vitamin
+vitreous#üvegszerû
+vitriolic#maró;vitriolos
+vitriol#kénsav;merõ gúny;vitriol
+vittler#élelmiszerszállító
+vituperate#lehord;összeszid
+vituperation#pirongatás;sértegetés;szidalom;szidás
+vituperative#gáncsoló;gáncsoskodó;gyalázkodó;gyalázó;rágalmazó;sértegetõ;sértõ;szidalmazó
+vituperator#gáncsoskodó személy;gyalázkodó személy;rágalmazó személy;sértegetõ személy;szidalmazó személy
+vivacious#élénk;eleven;vidám
+vivacity#élénkség;elevenség;jókedv;vidámság
+vividly#élénken;elevenen;színesen
+vividness#élénkség;elevenség;frisseség
+vivid#élénk;eleven;színes
+vivify#élénkít;életre kelt;feléleszt
+viviparous#elevenszülõ
+vivisection#élveboncolás;viviszekció
+vivisect#élveboncol
+vixenish#boszorkányszerû;civakodó;csörfös;házsártos;veszekedõ;zsémbes
+vixenly#boszorkányszerû;civakodó;csörfös;gonoszan;gonoszul;házsártos;komiszan;veszekedõ;zsémbes
+vixen#boszorkány;gonosz asszony;komisz asszony;nõi sárkány;nõstény róka;sárkány

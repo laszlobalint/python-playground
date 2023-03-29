@@ -1,0 +1,273 @@
+llama hair#lámaszõr
+llama#láma
+llano#dél-amerikai füves síkság
+loaded cane#ólmos végû bot
+loaded dice#cinkelt játékkocka
+loaded stick#ólmosbot
+loaded#hamis;hamisított;megrakott;megterhelt;pénzes;részeg;terhelt
+loading#berakás;berakodás;feltöltés;megterhelés;megtöltés;rakodás;terhelés
+loadstar#sarkcsillag;vezércsillag
+loadstone#mágnes;mágnesvasérc;természetes mágnes
+load#berakodik;betölt;eláraszt;elhalmoz;meghamisít;megrak;megterhel;megtölt;nehezebbé tesz;nyom;nyomás;rakomány;súly;teher;terhelés;töltet (fegyveré)
+loafer#léhûtõ;lézengõ;õgyelgõ;papucscipõ
+loafing#lézengés;õgyelgés
+loaf#cipó;csavarog;cselleng;lézeng;lóg;õgyeleg;vekni
+loam#agyag;agyagos föld;lápföld;termõtalaj;vályog
+loamy#agyagos
+loan#kölcsön;kölcsönad;kölcsönadás;kölcsönöz
+loathe#gyûlöl;ki nem állhat;undorodik;utál
+loathing#gyûlölet;irtózás;iszonyat;megvetés;undor;undorodás;utálat
+loathsome#gyûlöletes;undorító;utálatos
+lobbying#lobbizás
+lobby#befolyásolni igyekszik;elõcsarnok;érdekvédelmi csoport;lobbizik;nyomást gyakorol;protekciót keres
+lobe#fülcimpa;lebernyeg
+lobotomy#homloklebeny-metszés
+lobster#homár
+lob#átemel;átemelés (teniszben);beível;fajankó;magas labda
+local colour#sajátos helyi jellegzetesség;sajátos helyi színezet
+local doctor#körzeti orvos
+locale#helyszín;színhely;terep
+localism#helyi jelleg;helyi szokás;lokálpatriotizmus
+locality#fekvés;hely;helység;helyszín;lelõhely;terep
+localization#elhelyezkedés;helyhez kötés;helymeghatározás;lokalizáció;lokalizálás
+localize#elszigetel;helyhez köt;korlátoz;lokalizál
+local railway#helyiérdekû vasút;helyiérdekû vonat
+local side#hazai csapat
+local train#helyiérdekû vonat
+local#helybeli;helyi;helyi fiók;helyi hír;legközelebbi kocsma
+locally#helyileg
+locate#elhelyez;helyet megállapít;telepít
+location#elhelyezés;fekvés;hely;helymeghatározás;helyszín;helyzet;telepítés;terület
+loch#tó
+locker room#szekrényes öltözõ
+lockers#csomagmegõrzõ automata
+locker#öltözõszekrény;raktár (hajón);zárható láda;zárható szekrény
+locking#biztosítás
+lockjaw#rágóizomgörcs;szájzár;tetanusz
+lock pick#álkulcs
+locksmith#lakatos
+lock#átzsilipel;becsuk;bezár;bezárul;bezsilipel;csukódik;elakadás;elreteszel;gyapjúpihe;hajfürt;hajózsilip;kormányozhatósági szög;lakat;rögzít;torlasz;zár;záródik;zárul;závárzat;zsilipel;zsilipen áthalad;zsilippel elzár
+locomotion#helyváltoztatás
+locus sigilli#pecsét helye
+locust#fehér akácfa;kurbarilfa;sáska;szentjánoskenyér;szentjánoskenyérfa
+locus#loci,fekvés;loci,hely;loci,mértani hely;loci,mértani pálya;loci,mozgásdiagramm;loci,pontos fekvés;loci,színhely
+locution#állandósult szókapcsolat;beszédmód;kifejezésmód;szókapcsolat;szólás;szólásmód
+lodestone#mágnesvasérc;természetes mágnes
+lodgement#beszállásolás;kérvénybenyújtás;lerakódás;letétbe helyezés;szállás
+lodger#bérlõ
+lodge#behatol;beledöf;beleereszt (golyót);belefúródik;benyújt;deponál (értéket);elhelyez;elszállásol;házikó;kapusfülke;kunyhó;lak;lakik;letesz;megakad;megakaszt;megköt;megszáll;odaragaszt;portásfülke;portáslakás;szabadkõmûves-páholy;szállást ad;tartózkodik
+lodging#bérlemény
+lodgment#beszállásolás;kérvénybenyújtás;lerakódás;letétbe helyezés;szállás
+loess#lösz
+loft drier#fedett emeletes légszárító;fedett légszárító
+loftily#büszkén;emelkedett stílusban;fennhéjazóan;fennkölten;gõgösen;magasan;magasan fekvõ;magasztosan
+loftiness#büszkeség;emelkedettség;fennhéjazás;fennköltség;fenséges volta vminek;gõg;kiemelkedõ volta vminek;magasröptûség;magasság;magas volta vminek;magasztos volta vminek;önteltség
+lofting#fõteácsolat;új vágat feletti régi vágat
+loft#ágazat;emelõütés;emelõ ütéssel üt;galambdúc;galambdúcban tart;galambházban tart;galéria;karzat;lombozat;mennyezet;padlás;padlásmûhely;padlástér;padlásszoba;szénapadlás;tetõ alatti helyiség
+lofty#büszke;emelkedett;fennhéjázó;fennkölt;fenséges;fensõbbséges;gõgös;kiemelkedõ;leereszkedõ;magas;magasröptû;magasztos;öntelt;szárnyaló
+loganberry#kaliforniai málnafaj
+logan#dobogókõ;lebegõkõ;ringókõ
+logarithm#logaritmus
+logical#logikus
+logic#logika;logikai;logikai hálózat
+logistical#hadtáp-
+logistic#munkaszervezési
+logistics#anyagutánpótlási munkakör;hadtáp;hadtápszolgálat;szállásmesteri munkakör;utánpótlás
+logjam#holtpont;megoldhatatlan helyzet;szálfatorlódás;zsákutca
+logo#jel
+log plate#logtábla
+log sheet#állomásnapló
+log#állomást meghatároz;darabokra hasít;fahasáb;fatönk;fatörzs;feldarabol;félfa;felhasít;felhasogat;fúrólyukszelvény;gépnapló;gömbfa;hajónapló;hajónaplóba beír;halad vmilyen sebességgel;hasábfa;karottázs-szelvény;logaritmus;lyukszelvény;megy vmilyen sebességgel;napló;rönkfa;sebességmérõ;szálfát vág;talpgerenda;tuskó
+loincloth#lágyékkötõ
+loin#ágyék;bélszín;lágyék
+loiter#ácsorog;álldogál;idõz;lebzsel;lézeng;ólálkodik;õgyeleg;setteng;ténfereg
+lollipop#nyalóka
+lollop#esetlenül mozog;hanyagul mozog;henyél;kószál;lebzsel;õgyeleg
+loll#henyél;kószál;lazán lóg;lazán lógat;lebzsel;õgyeleg
+lolly#dohány;guba;pénz;porhanyós jég
+loneliness#egyedüllét;elhagyatottság;elhagyottság;magányosság
+lonely#egyedülálló;elhagyatott;elhagyott;magányos
+loner#magának való ember;magányos ember;zárkózott ember
+lonesome#egyedülálló;elhagyott;magányos;társtalan
+lone#egyedüli;elhagyatott;elhagyott;magányos
+long after#jóval utána
+long before#jóval elõtte;már régen
+longboat#dereglye;hosszú csónak;nagy csónak
+long chance#csekély esély;nagy kockázat;valószínûtlen esély
+long dozen#tizenhárom
+longest#leghosszabb;leghosszabban;legtávolabbra
+longevity#hosszú élet
+long family#nagy család;népes család
+long figure#borsos ár
+longhand#folyóírás;kézírás
+long home#sír
+long hundred#tíz tucat
+longing#vágy;vágyódás
+longish#hosszúkás;meglehetõsen hosszú
+longjohn#hosszú gatya
+long jump#távolugrás
+long lease#hosszú lejáratú bérleti szerzõdés
+long measure#hosszmérték
+long plane#eresztõgyalu
+long primer#10 pontos betûnagyság;garmond
+long pull#ráadás
+long royal#jézuspapír
+long seat#nyújtott ülés
+longshoreman#dokkmunkás;kikötõmunkás
+long suit#hosszú szín
+long tape#hosszan játszó hangszalag
+long wave#hosszúhullám
+long#akarna;hossz;hosszan tartó;hosszasan;hossza vminek;hosszú;hosszú ideig;hosszú ideje;hosszú idõ;hosszú idõköz;hosszú idõn át;sokáig;sok idõ;szeretne;tartós;vágyódik
+loofah#luffaszivacs
+looker#igen csinos személy;igen jóképû személy;televíziót nézõ személy
+lookout#figyelés;figyelõ;kilátás;megfigyelõ;õrhely;õrködés;õrtorony
+look#arckifejezés;külsõ;látszik;megjelenés;megnéz;néz;pillantás;tekint;tekintet;tekintetével kifejez;tûnik
+looming#derengõ
+loom#dereng;evezõnyél;homályosan láthatóvá válik;kiemelkedik;szövõszék
+loon#búvármadár;fajankó;jeges búvár;senkiházi
+loonybin#bolondokháza
+loony#bolond;félcédulás
+loo paper#vécépapír
+looped braid#csomós paszományáru
+loophole#kémlelõnyílás;kibúvó;kiút;lõrés;menekülési lehetõség
+loop#bukfenc (mûrepülésben);csomó;edény füle;fogantyú;hurkol;hurok;kabátakasztó;kampó;karika;kötés;méhhurok;összehurkol
+loopy#hurkos;ütõdött
+loose answer#körülbelüli válasz;pontatlan válasz
+loose ball#gyenge labda;gyenge ütés;szabad labda
+loose bowels#jól mûködõ belek;könnyû székelés
+loose cargo#ömlesztett rakomány
+loose cash#aprópénz
+loose change#aprópénz
+loose cheeks#ernyedt arc;petyhüdt arc
+loose collar#bõ gallér
+loose colour#fakuló szín
+loose cough#jól oldódó köhögés;slejmos köhögés;szakadozó köhögés
+loose cover#védõhuzat
+loose earth#laza föld;porhanyós föld
+loose end#meg nem erõsített vége vminek
+loose fabric#laza szövésû kelme;ritka szövésû kelme
+loose filter#ritka szûrõ
+loose fish#kicsapongó ember;könnyelmû fráter;léha fráter;lump;züllött ember
+loose funds#le nem kötött pénzkészlet;le nem kötött tõke
+loose game#tervszerûtlen játék
+loose handle#laza fogantyú;szabadon forgó fogantyú
+loose ice#úszójég
+loose leaf#különálló lap
+loose masonry#laza falazás;száraz falazás
+loose milk#kannatej;kimért tej
+loosening#megoldás (csomóé)
+loosen#felbomlik;kibomlik;kibont;kitágul;meghajt (hasat);meglazít;meglazul
+loose part#különálló alkatrész;pótalkatrész;tartalék alkatrész
+loose piece#lejáró rész;leváló rész
+loose play#tervszerûtlen játék
+loose pulley#laza felerõsítésû csiga;szabadon futó csiga
+loose sheet#különálló lap
+loose soil#laza talaj;porhanyós talaj
+loose soot#szálló korom
+loose tooth#meglazult fog;mozgó fog
+loose wheel#laza felerõsítésû kerék;szabadon futó kerék
+loose#billegõ;bõ;elold;elsüt (fegyvert);elszabadult;erkölcstelen;felold;felszabadult;feslett;ingó;kibont;kiold;kivehetõ;könnyelmû;különálló;laza;lebegõ;lötyögõ;megereszkedett;megerõsítetlen;meglazul;meglazult;megold;mértéktelen;mozgatható;mozgó;nem összefüggõ;nem pontos;ömlesztett;ömlesztett állapotú;összefüggéstelen;pontatlan;ritka;szabad;szétesõ;tág;természetben szabadon elõforduló;zavaros
+looter#fosztogató
+looting#fosztogatás
+loot#fosztogat;fosztogatás;hadizsákmány;kifoszt;kirabol;zabrál;zsákmány;zsákmányol
+loo#budi
+lope#szökell;szökellés;üget;ügetés
+lopsidedness#elfogultság
+lopsided#aránytalan;aszimmetrikus;elfogult;féloldalra dûlõ;félszeg;heppes;idomtalan;kétbalkezes;kiegyensúlyozatlan
+lop#farönk-fûrészelési hulladék;fodrozódik;lenyes;megnyes;nyír;rönkfûrészelési hulladék;szökdécsel;vízfodrozódás
+loquacity#fecsegés;szószátyárság
+lordly#fennkölt;gõgös;kevély;méltóságteljes;nagyúri
+lord mayor#fõpolgármester;megindító
+lordship#birtok;felsõbbség;földbirtok;hatalom;uradalom;uralom
+lord#fejedelem;földesúr;lord;mágnás;úr
+lore#tan;tudomány
+lorgnette#lornyon
+lorn#elhagyott;elveszett
+lorry driver#teherautó-sofõr
+lorry#teherautó
+loser#kiadó lap;kiadó ütés;legyõzött;saját golyó lyukba lökése;vesztes
+lose#lost,elmulaszt;lost,elpocsékol;lost,elveszít;lost,elveszteget;lost,késik (óra);lost,kikap;lost,lekésik vmirõl;lost,lemarad vmirõl;lost,vereséget szenved;lost,veszít
+losing game#reménytelen játszma;vesztésre álló játszma
+losing side#vesztes csapat;vesztes fél
+losings#veszteség
+losing#elvesztés;vesztes;vesztés;vesztésre álló;vesztõ
+loss#csökkenés;elkallódás;elveszés;elvesztés;kár;veszteség
+lots better#sokkal jobban
+lottery#lottó;lutri;sorsjáték;szerencsejáték;tombola
+lotus#lótusz
+lot#árutétel;juss;nagy mennyiség;osztályrész;parcella;sors;sorshúzás;telek;tétel
+loud cheers#élénk tetszésnyilvánítás;hangos helyeslés;nagy taps;úgy van,úgy van
+loudhailer#kézi hangerõsítõ
+loudly#hangosan
+loudness#feltûnõség;hangosság
+loudspeaker#hangfal
+loud#feltûnõ;hangos;hangosan;lármás;rikító színû
+lough#fjord;keskeny tengeröböl;tó
+lounger#házicipõ;henyélõ;here;naplopó;papucscipõ;semmittevõ
+lounge suit#utcai ruha
+lounge#ácsorog;elõcsarnok;hall;henyél;kószál;lebzsel;õgyeleg;társalgó
+louring#beborult;borús;fenyegetõ;komor;sötét
+lour#beborul;borús tekintet;elborulás;elkomorodik;elsötétedés;elsötétedik;fenyeget;fenyegetõen néz;komor tekintet;összeráncolja szemöldökét;összevonja szemöldökét;tornyosul
+loury#beborult;fenyegetõ;sötét
+louse#lice,tetû
+lousy#pocsék;tetves;vacak
+loutish#esetlen;faragatlan
+lout#fajankó;faragatlan fickó
+louver#zsalu
+louvre#zsalu
+lovable#kedves;szeretetre méltó
+loveable#kedves;szeretetre méltó
+love game#sima játék
+lovelace#nõcsábász
+loveless#szerelem nélküli;szeretetlen;szeretet nélküli
+loveliness#kedvesség;szeretetreméltóság
+lovelock#csábászfürt;csábfürt;huncutka
+lovelorn#reménytelenül szerelmes;szerelmében csalódott
+lovely#bájos;csinos;csinos nõ;finom;kedves;nagyszerû;pompás;remek;szép;szép lány;szeretetre méltó
+lovemaking#szerelmeskedés;szeretkezés;udvarlás
+lovers#szerelmesek;szerelmespár
+lover#kedves;szeretõ
+lovescene#szerelmi jelenet
+love seat#kétüléses kanapé
+lovesick#epekedõ;fülig szerelmes;szerelme miatt szenvedõ
+love#élvezetet talál vmiben;semmi (teniszben);szerelem;szerelmes vkibe;szeret;szeretet
+loving#kedves;szeretõ
+low birth#alacsony származás
+lowbrow#nem intelligens;nem kifinomult ízlésû
+low comedy#bohózat
+low company#rossz társaság
+low countries#Németalföld
+low dress#mélyen kivágott ruha
+low dutch#alnémet nyelv;alnémet nyelvjárás;plattnémet nyelv
+lower arm#alkar
+lowercase#kisbetû
+lower case#nyomtatott kisbetû
+lowercase#nyomtatott kisbetû;szedõszekrény alsó része
+lower classes#proletariátus
+lower deck#alsófedélzet;tengerészlegénység
+lower echelon#hátrább levõ fokozat;lejjebb levõ fokozat
+lower jaw#alsó állkapocs
+lower lid#alsó szemhéj
+lower story#alemelet;alsó emelet
+lower#alacsonyabb;alsó;csökken;csökkent;kisebbít;lebocsát;leenged;leereszt;lehalkít;lesüllyeszt;megaláz;mélyít;süllyed
+lowest depths#betetõzés;legmélyebb pont;tetõfok;utolsó fok
+low fellow#hitvány alak;züllött alak
+low fever#hõemelkedés;kis láz
+low frequency#kisfrekvencia
+low german#alnémet
+lowlands#alföld;skót síkság
+lowland#alacsonyan fekvõ terület
+low language#durva beszéd;közönséges beszéd
+low latitudes#Egyenlítõ tájéka
+lowlife#csavargó;csöves
+lowly#alacsony;alázatos;alázatosan;egyszerû;egyszerûen;mély;mélyen fekvõ;szerény;szerényen
+low pulse#gyenge érverés;gyenge pulzus
+low range#rövid lõtávolság
+low relief#síkdombormû
+low water#alacsony vízállás;apály
+low woman#közönséges nõ
+low#alacsony;alacsonyan;alacsonyrendû;alantas;aljas;alsó;alsóbbrendû;bõg (tehén);csekély;csendes;erõtlen;gyenge;gyengén;halk;halkan;kis;közönséges;lehangolt;mély;mélyen;mély hangon;rossz;rosszkedvû;tehénbõgés
+lo#íme;lám
+loyalty#hûség;lojalitás
+loyal#hû;kitartó;lojális
+lozenge#ferde négyszög;rombusz;ruta;szögletes cukorka;szögletes tabletta

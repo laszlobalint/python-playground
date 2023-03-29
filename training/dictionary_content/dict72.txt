@@ -1,0 +1,306 @@
+hoarder#áruhalmozó
+hoarding#hirdetõtábla
+hoard#felhalmoz;felvásárol;készlet;kincs;összehord
+hoarfrost#jégvirág;zúzmara
+hoarsely#rekedten
+hoarse#rekedt
+hoar#dér;deres;fehér;õsrégi;õsz;régi
+hoary#deres;fehér;õsrégi;õsz;régi
+hoax#becsap;beugratás;megtévesztés;megtréfál;rászed;tréfa
+hobble#béklyó;biceg;bicegés;megbéklyóz;zavarba hoz
+hobbyhorse#faló;hintaló;vesszõparipa
+hobby#hobbi
+hobgoblin#kobold;lidérc;manó;mumus;rémkép
+hobnail#bakancsszeg
+hobnob#bratyizik
+hoboism#csavargás
+hobo#csavargó;csavargó módjára él;csavarog;vándormunkás
+hob#fõzõlap
+hock monday#húsvéthétfõt követõ hétfõ
+hock#biztosíték;csánk;elzálogosít;megbénít;rajnai fehér bor;térdínt átvág;térdízület négylábúak hátsó lábán;zaciba csap;zálog
+hocus pocus#ámítás;becsapás;bûvészmutatvány;csalás;hókuszpókusz;megtévesztés;szédítés
+hocus#becsap;felültet;kábítószerrel elbódít;kábítószerrel elkábít;kábítószert kever vmibe;kábítószert tartalmazó ital;lóvá tesz;megtéveszt;orvosságot kever vmibe;rászed;sok orvosságot ad be
+hodgepodge#összevisszaság;zagyvaság
+hod#habarcshordó;téglahordó;téglástrogli;teknõfa
+hoe#kapa
+hogwash#moslék;sületlenség;szamárság
+hog#disznó;disznó módra viselkedik;domborít;fejét leszegi;felpúposodik;ív alakban emel;kefél;kidomborít;kidomborodik;önzõ ember;rövidre nyír;sertés;súrol
+hoick#felkap;kirángat;kiránt
+hoik#kirángat;kiránt
+hoi polloi#átlagemberek;néptömegek;széles néprétegek
+hoist#daru;emelés;emelõ;felhúz;felhúzás;felvon;felvonás;felvonó
+hokum#giccses film;giccses színdarab;halandzsa
+holdall#sportszatyor;sporttáska
+holder#befogó készülék;befogókészülék;betöltõ;bíráló;birtokban tartó;birtokos;fogantyú;foglalat;fogó;irattartó;jogosított;szár;szipka;tám;támvas;tartály;tartó;tartó készülék;tartókészülék;tok;tokmány;viselõ;vmit kézben tartó
+holdfast#leszorítás
+holdings#tárca
+holding#aktívák;alátámasztás;bírlalás;birtok;birtoklás;feltartás;feltartóztatás;halogató;késleltetõ;kitartás (hangé);megfogás;megtartás;rögzítés;tárolás;tároló;tartás;tartó;tulajdon;vagyon;vagyonrész;vmiben lekötött tõke
+holdup man#bandita
+holdup#fegyveres rablótámadás
+hold#befolyás;börtön;erõd;fermata;fogás;gyám;hajótér;hatalom;held,becsül;held,befog;held,birtokol;held,érvényes;held,fog;held,hord;held,igaznak bizonyul;held,irányt tart;held,kézben tart;held,kitart;held,leköt;held,megfog;held,megül (ünnepet);held,megvéd;held,ragaszkodik;held,rendez;held,tart;held,tartalmaz;held,tartósnak bizonyul;held,visszatart;held,vonatkozik;jól sikerült felvétel;korona;odú;raktér;támasz;tartó;üreg;vár
+hole puncher#lyukasztógép
+hole#átfúr;átlyukaszt;beássa magát;elszakad;fúr;gödör;két munkahelyet átjáróval összeköt;kifúr;kilyukad;kilyukaszt;kiváj;lyuk;lyukaszt;lyukat fúr;lyukba dob;lyukba küld;lyukba üt (golflabdát);odú;vacok
+holidays#szabadság;szünidõ;vakáció
+holiday#munkaszüneti nap;szabadság;szünidõ;ünnep;vakáció
+holiness#szentség
+holistic#holisztikus
+holler#kiabál;ordítozik
+hollowness#üresség
+hollow punch#lyuggató;lyukasztó;lyukvágó
+hollow#beesett;életlen;hamis;homorú;lyukas;medence;tompa;üreg;üreges;üres;völgy
+holocaust#áldozat;népirtás;tûzáldozat
+holster#pisztolytáska;tok
+holy ghost#szentlélek
+holy land#szentföld
+hollyhock#mályvarózsa
+holy orders#egyházi rend;papi rend
+holy rollers#féktelen érzelemkitöréseket mutató szekta;protestáns szekta
+holy writ#szentírás
+holy#jámbor;megszentelt;szent
+homage#hódolat;hûbéri eskü;mély tisztelet
+hombre#hombre (kártyajáték)
+homburg#puhakalap
+home address#lakáscím
+home affairs#belügyek
+home army#anyaországbeli hadsereg
+homecoming#hazatérés;hazatérõ;visszatelepülõ;visszatérõ
+home counties#London környéki megyék
+home coverts#házhoz közel esõ cserjés;házhoz közel esõ erdõ
+home currency#belföldi pénznem
+home fleet#hazai hajóhad;honi flotta
+home forces#anyaországbeli hadsereg
+home freight#visszaszállítás költsége
+home game#saját pályán folyó játék
+home ground#hazai pálya;saját pálya
+home guard#angliai helyi önkéntes haderõ;angol szárazföldi haderõ;nemzetõrség;polgárõrség
+home industry#belföldi ipar;hazai ipar;háziipar;otthoni munka
+home journey#hazautazás;út hazafelé;visszaút
+homeland#anyaország;szülõföld
+homelessness#hajléktalanság;otthontalanság
+home lessons#házi feladat;lecke
+home lesson#házi feladat
+homeless#hajléktalan;hontalan;otthontalan
+homely#barátságos;családias;csúnyácska;egyszerû;igénytelen;jelentéktelen külsejû;kellemetlen;keresetlen;meghitt;mesterkéletlen;nem szép;otthonias;semmitmondó külsejû;szerény
+home market#belföldi piac
+home match#mérkõzés hazai pályán
+home mission#belmisszió
+home news#belföldi hírek
+home office#belügyminisztérium
+homeopathic#hasonszenvi
+homeopathist#homeopata
+homeopath#homeopata
+homeopathy#hasonszenvi gyógymód
+homeowner#lakástulajdonos
+home port#anyakikötõ;lajstromozási kikötõ
+home position#alapállás;nyugalmi helyzet
+home product#hazai gyártmány;hazai termék
+home reserve#milícia
+homeric#homéroszi
+homerid#homéroszi dalnok
+home rule#autonómia;önkormányzat
+homesickness#honvágy
+homesick#hazavágyódó
+home side#hazai csapat;helybeli csapat;helyi csapat
+home signal#bejárati jelzés;bejárati jelzõ;bejárati karjelzés;bejárati karjelzõ
+homespun#durva szövésû szövet;durva szövésû vászon;egyszerû;faragatlan;házilag font;házilag font fonalból készült;házilag szõtt;háziszõttes;háziszõttesbõl készült;házi szövésû;keresetlen;kezdetleges;mesterkéletlen;nyers
+home station#honállomás
+homestead#tanya
+home straight#célegyenes
+home stretch#célegyenes
+home team#hazai csapat
+home terminal#honállomás
+home town#szülõváros
+hometown#szülõváros
+home trade#belkereskedelem;parthajózás;part menti hajózás
+home training#családi nevelés
+home truth#kellemetlen igazság
+homewards#hazafelé
+homeward#hazafelé menõ;hazafelé vezetõ
+homework#házi feladat;lecke
+home#a helyére;bel-;belföld;belföldi;cél;célra repül;családi;egészen;elevenére tapintó;érzékeny ponton érintõ;ház;haza-;haza;hazai;hazairányít;hazaküld;hazarepül;hazavezet;házi;háztartási;helybeli;helyére;helyi;hon;irányít;kapu;lakás;lakhely;lakóház;lelõhely;menedék;menhely;otthon;otthoni;otthont nyújt vkinek;porta;rádióval repülõgépet irányít vhova;rárepül;saját;szülõföld;találó;teljesen;vissz-;vissza-;visszarepül kiindulási pontjára;visszatér
+homicidal#emberölési;gyilkos;gyilkossági;öldöklõ
+homicide#emberölés;gyilkosság
+homily#szentbeszéd
+homing#önvezérlés;önvezérléses
+homogeneity#homogenitás
+homogeneous#egynemû;homogén
+homosexual#homoszexuális
+honduranean#hondurasi
+honduran#hondurasi
+honduras#Honduras
+honest#becsületes;nyílt;õszinte;tisztességes
+honesty#becsületesség
+hone#élesít;fen;fenõkõ
+honeybunch#mókuci;nyuszi;nyuszikám
+honeycombed#átlyuggatott;likacsos
+honeycomb#aláaknáz;aláás;átlyuggat;hatszögekkel mintáz;lép;lépesméz;lépsejt;lépsejtszerûen mintáz;likacsossá válik;méhsejt;mézes lép;repedtté válik;sejtszerû hólyagok;üregessé válik
+honeydew#édesített dohány;mézharmat
+honeyed#édeskés;mézes;mézesmázos;mézzel borított;nyájasságtól csepegõ
+honeymooners#nászutasok
+honeymoon#nászút
+honey#méz
+honing stone#fenõkõ
+honing strap#fenõszíj
+honk#autóduda hangja;dudál;gágog;vadlibagágogás
+honorable#becsületes;tiszteletre méltó;tisztességes
+honorary#becsületbeli;címzetes;díjazás nélküli;dísz-;fizetéstelen;tiszteletbeli;tiszteleti
+honor code#becsületkódex
+honorific#díszítõ;megtisztelõ
+honor#becsül;becsület;becsületesség;bevált;büszkeség;dísz;elfogad (váltót);figura (kártyajátékban);kifizet;kitüntet;magas rang;megbecsül;megbecsülés;megtiszteltetés;méltóság;tisztel;tisztelet
+honourable#becsületére váló;becsületes;becsületet szerzõ;dicséretes;dicséretre méltó;dicsõ;dicsõséges;dicsõséget hozó;elõkelõ;kitüntetõ;megtisztelõ;tiszteletet érdemlõ;tiszteletre méltó;tisztességes
+honoured#köztiszteletben álló;megbecsült;tisztelt
+honours#érdemjel;kitüntetés;tiszteletadás
+honour#becsül;becsület;becsületesség;bevált;büszkeség;dísz;elfogad (váltót);figura (kártyajátékban);kifizet;kitüntet;magas rang;megbecsül;megbecsülés;megtiszteltetés;méltóság;tisztel;tisztelet
+hoocher#iszákos;szeszkazán
+hooch head#iszákos;szeszkazán
+hooch hound#kontyvirág;szeszkazán
+hooch#gatyaszaggató;kemény pia
+hooded crow#hamvas varjú;kálomista varjú
+hooded#búbos;burkolt;csuklyás;fejkötõs;kámzsás;kapucnis;rejtett;sisakos;szemellenzõs;vak
+hoodlum#gengszter
+hoodoo#balszerencsét hoz;balszerencsét hozó dolog
+hoodwink#becsap;rászed
+hood#csuklya;fejkötõ;gengszter;kámzsa;kapucni;motorháztetõ
+hoof#gyalogol;hooves,láb;hooves,pata;kutyagol;megrúg;talpal
+hookah#vízipipa
+hooked rug#egyszerû csomózású szõnyeg
+hooked#görbe;hajlott;horgos;horog alakú;horoggal ellátott;kampó alakú;kampós;kampóval ellátott
+hooker#balra eltérõ ütés;csatár;éjszakai pillangó;hollandi kisebb fajta vitorlás hajó;ír kisebb fajta vitorlás hajó;kocsicsatoló;kocsicsatoló munkás;prosti;prostituált
+hook#akasztó;begörbít;behúz (ütést);bekapcsol (ruhát);elemel;felakaszt;horog;horoggal megfog;kampó;megfog (férfit férjnek);meggörbül;ráakaszt
+hooligan#huligán
+hoopla#balhé;banzáj;felfordulás;felhajtás;patália;ramazúri;ricsaj;ricsajozás;zajos vita;zrí
+hoop#abroncs;abroncsoz;gyûrû;húzás (szamárköhögésben);húz (szamárköhögõs);kapu (krokettben);karika;kiált;kiáltás;rivalg;ujjong
+hoosegow#börtön;sitt
+hootch#bódé;erõs ital;kunyhó;pálinka
+hooter#autókürt;duda;hefti;jelzõkürt;klakszon;kürt;orr;síp;sziréna;távrecsegõ;telefon;tülök
+hoot#huhog;huhogás;kiabál;kiabálás;sípol;sípolás;tülköl;tülkölés
+hoover#kiporszívóz;porszívó;porszívóz
+hopeful#bizakodó;ígéretes;reménykedõ;reményteljes;sokat ígérõ
+hopelessly#reménytelenül
+hopeless#reménytelen
+hope#remél;remény
+hopper#bunker;garat;surrantó;tartály;tölcsér;verem
+hopscotch#ugróiskola
+hops#sör
+hop#átrepül;átugrik;biceg;elindít;féllábon szökdécsel;féllábon ugrál;féllábon ugrándozik;házibál;komló;megy;sántikál;sántít;szökdécsel;szökdécselés;szökdelés;szökellés;táncmulatság;táncol;ugrál;ugrálás;ugrándozás;ugrándozik;ugrás;ugrik
+horde#csorda;horda
+horizontal#horizontális;lapos;láthatári;látóhatári;látóköri;sík;vízszintes
+horizontally#vízszintesen
+horizon#horizont;látóhatár;munkaszint;rétegszint;szemhatár;szint
+hornbeam#gyertyánfa
+hornbill#szarvcsõrû madár
+hornblende#amfibol;hornblende
+horn comb#szarufésû
+horned adder#szarvas vipera
+hornet#lódarázs
+horn#agancs;autóduda;csáp;duda;erekció;felnyársal;felöklel;felszarvaz;fogantyú;hangszóró;hefti;Horn-fok;kürt;megdöf;orr;pata;szaru;szarv;szarv alakú serleg;szarv alakú tartó;szarvával felnyársal;szarvaz;szarvval ellát;szipózik;tapogató;telefon;tollbóbita;tölcsér;tölcsér alakú öböl;tölcsér alakú torkolat;tölcsér alakú vízfolyás;tülök;üllõszarv
+horny handed#kérges tenyerû
+horny#bõrkeményedéses;kemény;szaru-;szarus
+horologist#órás
+horology#idõmérés;órakészítés
+horoscope#horoszkóp
+horrde#sétány
+horrendously#borzasztóan;iszonyúan;rettentõen
+horrendous#borzasztó;iszonyú;rettentõ
+horrible#borzasztó;iszonyú;rettenetes;szörnyû
+horribly#borzasztóan;iszonyúan;rettenetesen
+horrid#szörnyû
+horrified#megborzadva
+horror#borzadás;borzalmasság;borzalom;borzasztó volta vminek;borzongás;hidegrázás;irtózás;iszonyatosság;iszonyodás;rémület;rettegés;rettenetes volta vminek;szörnyûség;undorodás
+horse battery#lovas tüzérüteg
+horseblanket#lópokróc;lótakaró
+horse bus#omnibusz
+horsefly#bögöly
+horse guards#lovas testõrség
+horsehide#lóbõr
+horse opera#vadnyugati film
+horseplay#durva játék;durva tréfa
+horsepower#lóerõ
+horseradish#torma
+horse riding#lovaglás
+horse sense#józan ész;paraszti ész;természetes ész;természetes ösztön
+horseshit#lószar
+horseshoe#patkó
+horse tick#lócsimbe;tetûlégy
+horse tram#lóvasút
+horse trot#ügetõverseny
+horse#állvány;bak;csikó (sakkban);csõdör;deresre húz;fedez;fedeztet;hátán lovagoltat;hátán visz vkit;hátára vesz vkit;herél mén;kötélhágcsó;ló;lóra száll;lóra ül;lóra ültet;lovagol;lovakkal ellát;lóval ellát;lovas;lovas katona;lovasság;lovat ad;meddõkõzet-zárvány;meghág;megkorbácsol;mén;salakdugasz;sárlik;tartó;vitorlarúdsín
+horticulture#kertészet;kertmûvelés
+hosepipe#fecskendõ;öntözõcsõ
+hose#hosszú harisnya;kerti öntözõcsõ;kerti tömlõ;lemos;locsoló;megöntöz;öntözõcsõ;slag;testhez álló nadrág;testhez álló térdnadrág;tömlõ;tömlõvel lemos;tömlõvel megöntöz
+hosiery#harisnya-kötöttáru
+hospitable#vendégszeretõ
+hospitably#vendégszeretõen
+hospitality#vendéglátás;vendégszeretet
+hospitalize#kórházba beutal;kórházba felvesz;kórházba szállít
+hospital#kórház
+hoss#ló
+hostage#túsz
+hostelry#fogadó (vendéglõ);vendégfogadó
+hostel#diákszálló;fogadó (vendéglõ);szálló
+hostess#háziasszony
+hostile#barátságtalan;ellenséges;ellenséges érzületû;haragos viszonyban álló;kedvezõtlenül elfogult;rosszakaratú;rosszindulatú
+hostilities#ellenségeskedések;háborús cselekmények
+hostility#ellenséges érzelem;ellenséges viszony;rosszindulat;viszály
+host#fogadós;házigazda;háziúr;sereg;sokaság;tömeg;vendéglátó;vendéglõs
+hot bearing#áthevült csapágy
+hotbed#melegágy
+hot blood#heves vér
+hotcake#palacsinta
+hotchpotch#összevisszaság;zagyvaság
+hot electrode#fûtõszál
+hotelier#szállodaigazgató;szállodatulajdonos
+hotel voucher#szállodai szobautalvány
+hotel#hotel;szálloda
+hotfoot#lélekszakadva;lóhalálában;nagy sietve
+hot goods#csempészáru;lopott holmi
+hothead#hirtelen ember;meggondolatlan ember
+hotline#forró drót
+hotly#indulatosan;ingerülten;szenvedélyesen
+hotplate#fõzõlap
+hot potato#cikis dolog;cikis ügy;kényelmetlen probléma;kényes probléma
+hotshot#befolyásos ember;fontos ember;nagyágyú
+hot spell#kánikula
+hot water#forró víz;kellemetlenség;kutyaszorító;meleg víz
+hot#alaposan;ász;begerjedt;be van gerjedve;be van indulva;csípõs;dögös;dühös;élénk;erõs;felgerjedt;felhevít;felkapott;felmelegít;fel van húzva;forró;forrón;forróvá válik;friss;heves;hevesen;híres;indulatos;kapós;kelendõ;kirobbanó formában lévõ;legújabb;lopott;menõ;mérgesen;penge;pipa;rikító;sláger;szenvedélyes;szexi;szexis;szexuálisan felgerjedt;szexuálisan vonzó;túl fûszeres;veszélyes
+hounds#árbocfa
+hound#hitvány ember;kopó;kopóval vadászik;vadászkutya;vadászkutyával vadászik
+hour hand#óramutató
+hourly#folyamatosan;gyakori;minden órában;óránként;óránkénti;szünet nélkül;szüntelen
+hour#óra
+house arrest#házi õrizet
+house bill#saját váltó
+housebreaker#betörõ;bontási vállalkozó
+housebreak#-broke,-broken,szobatisztaságra nevel;housebroke,housebroken,szobatisztaságra nevel
+housebroken#szobatiszta
+house coal#háztartási szén
+housecoat#otthonka;pongyola
+house dog#házõrzõ kutya
+housedress#háziruha
+house flannel#padlóruha;porrongy;portörlõ
+housefly#házi légy
+houseful#ház befogadóképessége;háznép;lakás befogadóképessége;telt ház
+householder#háztulajdonos
+household#háztartás
+house organ#üzemi lap;vállalati újság
+house paper#üzemi lap;vállalati újság
+houseplants#szobanövények
+houseplant#cserepes növény
+houseroom#férõhely;hely
+house trailer#nagyméretû lakókocsi
+housewife#háziasszony
+housework#házimunka
+house#bástya;befogad;cég;család;dinasztia;dologház;elhelyez;elõadás;elõadóterem;elszállásol;épület;felépítmény hajó farán;gyár;gyárépület;hajlék;hallgatóság;ház;háztartás;internátus;képviselõház;kollégium;közönség;lak;lakik;lakóház;lakóhely;nézõtér;parancsnoki fülke;porta;színház;tombolával összekötött társasjátékféle;torony (darun);tõzsde;uralkodóház;üzletház;vállalat
+housing#árbocfészek;árboctalapzat;begyûjtés;behajtás;behordás;betakarítás;beterelés;burkolat;csûrbe hordás;falfülke;falhorony;fészekbe illesztés;fûtõházba beállítás;fûtõházba elhelyezés;garázsba beállítás;garázsba elhelyezés;garazsírozás;gépszínbe beállítás;gépszínbe elhelyezés;hajlék;ház;horonyba illesztés;istállózás;kocsiszínbe beállítás;kocsiszínbe elhelyezés;lakás;lakásépítés;lebocsátás;leeresztés;lótakaró;magtárba hordás;menedék;nyeregtakaró;remízbe beállítás;remízbe elhelyezés;szállás;védõberendezés
+hoveller#hajóroncs-fosztogató;nem képesített révkalauz
+hovel#befed;betetõz;fáskamra;fészer;fészerbe elhelyez;kalyiba;kamrába elhelyez;kulipintyó;kunyhó;lebuj;melléképület;nyitott csûr;nyitott pajta;nyomortanya;odú;patkányfészek;szerszámkamra;szín;tetõ alá hoz;viskó
+hovercraft#légpárnás hajó;légpárnás siklóhajó
+hovering#lebegõ
+hoverkraft#légpárnás hajó;légpárnás jármû
+hover#habozik;kering;körbe-körbe száll;köröz;lebeg;lengedez;szálldos vmi felett
+hove#felfúj;felpuffaszt
+however#akárhogyan;ám;azonban;bármennyire;mégis;mindamellett;viszont
+howitzer#mozsárágyú;tarack
+howler#nevetséges baklövés;üvöltõ;vaskos tévedés
+howling#ordító;roppant
+howl#bömböl;bömbölés;hahotázik;harsogva nevet;mellékzörejek (rádióban);ordít;ordítás;üvölt;üvöltés;vonít;vonítás

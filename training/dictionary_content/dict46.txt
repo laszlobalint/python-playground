@@ -1,0 +1,109 @@
+emaciated#lesoványodott
+emaciate#lefogyaszt;lesoványít
+emaciation#beteges soványság;girhesség;soványság
+emanate#árad;áraszt;ered;kiárad;kiömlik;kisugároz;ömlik
+emanation#emanáció;kiáradás;kisugárzás
+emancipate#emancipál;felszabadít
+emancipation#emancipáció;felszabadítás
+emancipator#felszabadító
+emasculated#erõtlen;herélt;kasztrált;nõies
+emasculate#elgyengít;elnõiesít;elpuhít;erejétõl megfoszt;erõtlen;férfiatlanít;herélt;kasztrál;kasztrált;kiherél;megférfiatlanít;nõies
+emasculation#elerõtlenedés;elerõtlenítés;elférfiatlanodás;elgyengítés;elgyengülés;elnõiesedés;elpuhítás;elpuhulás;elszegényedés;elszegényesítés;enerválódás;enerváltság;kasztrálás;kiherélés;megcsonkítás
+emasculative#elerõtlenítõ;elnõiesítõ;elpuhító;elszegényítõ;enerváló
+emasculatory#elerõtlenítõ;elnõiesítõ;elpuhító;elszegényítõ;enerváló
+embalmer#balzsamozó;bebalzsamozó
+embalming#balzsamozó
+embalmment#balzsamozó készítmény;balzsamozó szer;bebalzsamozás;bebalzsamoztatás
+embalm#balzsamos illatokkal telít;bebalzsamoz;illatosít;illatos kenetekkel bedörzsöl;illatos kenetekkel beken;illatossá tesz;megóv;megõriz a feledéstõl
+embankment#feltöltés;kiépített rakpart;rézsû (töltésé);töltés;vasúti töltés;védõgát
+embargo#behozatali tilalom;elkoboz;elkobzás;embargó;embargó alá helyez;hajózár;hajózási tilalom;kiviteli tilalom;lefoglal;lefoglalás;szállítási tilalom alá von;zárol
+embarkation#beszállás;hajóra szállás
+embark#beszáll;hajóra száll
+embarrassing#kínos;zavaró
+embarrass#akadályoz;gátol;zavarba hoz
+embassy#nagykövetség
+embed#beágyaz
+embellish#díszít;kiszínez;szépít
+ember days#kántorböjt
+embers#parázs;zsarátnok
+ember#izzó fadarab;izzó széndarab;kántorböjti;zsarátnok
+embezzlement#elsikkasztás;sikkasztás
+embezzler#sikkasztó
+embezzle#elsikkaszt;sikkaszt
+embittered#elkeseredett
+embitter#elkeserít;megkeserít
+emblazon#címerrel ékesít;dicsõít;díszít;felmagasztal;magasztal
+emblematical#jelképes;képletes;szimbolikus
+emblematic#jelképes;képletes;szimbolikus
+emblem#embléma;jelkép;jelképes ábrázolás
+embodied#testet öltött
+embodiment#megtestesítés;megtestesülés
+embody#magába foglal;megtestesít
+embolden#felbátorít
+embossed#dagadt;domborított;dombornyomásos;kipúposodott
+embossing#barkasajtolás;domborítás;dombormû;dombornyomás;domború veret;mintapréselés;relief;trébelés;trébelt munka;vaknyomás
+embossment#dombormû;relief;vízjel
+emboss#agyonhajszol;cizellál;domborít;dombormûvel díszít;dombornyomást készít;ellát;felszerel;halálra hajszol;kifáradásig hajszol;présel;sûrûbe menekül;tajtékkal borít;trébel;vaknyomást készít;vízjellel ellát
+embrace#átölel;magáévá tesz;megölel;megragad;ölelés;választ
+embroider#díszít;hímez;kihímez;kiszínez;szépít
+embroidery#hímzés;kézimunka
+embroil#összezavar
+embryogeny#embrió fejlõdése;embriogenezis;méhmagzat fejlõdése
+embryology#embriológia
+embryoma#embrióma
+embryonary#csírájában levõ;embrió-;embrionális;embrióval kapcsolatos;kezdetleges;méhmagzattal kapcsolatos
+embryonic#csírájában levõ;embrió-;embrionális;embrióval kapcsolatos;kezdetleges;méhmagzattal kapcsolatos
+embryotomy#magzatdarabolás
+embryo#csíra;embrió;magzat
+emerald#smaragd;smaragdzöld
+emergence#elõbukkanás;érvényesülés;felbukkanás;felmerülés;jelentkezés;kiemelkedés
+emergency#kényszerhelyzet;szükségállapot;váratlan esemény
+emergent#kilépõ
+emerge#felbukkan;felemelkedik;felmerül;kiderül;kiemelkedik;kikerül;kilép;nyilvánvalóvá válik
+emetic#hánytató;hánytatószer
+eminence#domb;emelkedés;emelkedettség;eminencia;felsõbbrendûség;hegycsúcs;kitûnõség;kiugró rész;kiválóság;magas állás;magaslat;magas méltóság;nagyvonalúság
+eminently#elsõsorban;legfõképpen;legnagyobb mértékben;messzemenõen;rendkívül;rendkívüli módon
+eminent#eminens;kiemelkedõ;kimagasló;kiváló;magas
+emirate#emirátus
+emir#emír
+emissary#kiküldött;küldött;megbízott;titkos megbízott
+emission#kiáramlás;kibocsátás;kisugárzás;rádióadás
+emissive#kibocsátó;sugárzó
+emissivity#fajlagos emisszió;sugárzó képesség
+emitter#adókészülék;emitter;impulzusadó;kibocsátó;kisugárzó;sugárzó;sugárzó anyag
+emit#áraszt;forgalomba hoz;kiáraszt;kibocsát;kisugároz;sugároz
+emollient#bõrápoló krém;lágyító
+emotionality#érzelmesség
+emotional#érzelmes;érzelmi;lobbanékony
+emotionally#érzelmileg
+emotionless#érzéketlen;szenvtelen
+emotion#elérzékenyülés;emóció;érzelem;felindulás;hév;indulat;izgalom;izgatottság;meghatottság;megindultság;nyugtalanság
+emotive#affektív;érzelemfelidézõ;érzelmi;érzelmileg színezett
+empathize#beleéli magát
+empathy#átélés;beleélés;beleérzés;empátia
+emperor#császár
+emphasise#hangsúlyoz
+emphasis#hangsúly;nyomaték
+emphasize#aláhúz;hangsúlyoz;kiemel;kihangsúlyoz
+emphatically#félreérthetetlenül;határozottan;nyomatékosan
+emphatic#érthetõ;hangsúlyos;határozott;kifejezõ;nyomatékos;világos
+emphysema#légdaganat;tüdõtágulás
+empire#birodalom
+empirical#empirikus;tapasztalati
+empiricist#empirista
+emplacement#ágyúállás;elhelyezés
+employee#alkalmazott;dolgozó;munkavállaló;tisztviselõ
+employ#alkalmaz;alkalmazás;dolgoztat;felhasznál;foglalkoztat;használ;szolgálat
+emporium#emporia,áruház;emporia,kereskedelmi központ
+empower#felhatalmaz;feljogosít;képessé tesz;meghatalmaz
+empress#császárné
+empties#göngyöleg;üres kosarak;üres ládák
+emptily#üresen
+emptiness#ûr;üresség
+empty#elnéptelenedik;kiborít;kifolyat;kiürít;kiürül;megüresedik;ömlik;torkollik;üres;ürít;ürül
+emt#szakképzett mentõs
+emulate#felülmúlni igyekszik;verseng;versenyez;vetélkedik
+emulation#munkaverseny;versengés;vetélkedés
+emulator#versengõ;versenyzõ;vetélkedõ
+emulsion#emulzió
+emu#emu

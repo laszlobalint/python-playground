@@ -1,0 +1,36 @@
+eel#angolna
+eerie#hátborzongató
+eerily#hátborzongatóan
+eeriness#hátborzongatóság
+eery#hátborzongató
+effaceable#kitörölhetõ;törölhetõ
+efface#elfeledtet;elhomályosít;eltöröl a föld színérõl;felülmúl;háttérbe szorít;homályba borít;kitöröl;olvashatatlanná tesz;töröl
+effectively#eredményesen;hatásosan;hathatósan;ténylegesen
+effectives#tényleges katonaság
+effective#célravezetõ;effektív;eredményes;érvényes;hatályban levõ;hatásos;hatékony;hathatós;találó;tényleges;valóságos
+effects#értékpapírok;holmi;ingóságok;ingó vagyon
+effectual#eredményes;érvényes;hatásos;hathatós
+effectuate#létrehoz;megvalósít;végrehajt
+effectuation#kivitelezés
+effect#effektus;eredmény;eredményez;értelem;eszközöl;hatály;hatás;hatékonyság;jelenség;kihatás;következmény;megvalósít;megvalósulás;okoz;okozat;összhatás;teljesítmény;végrehajt
+effeminacy#elpuhultság;nõiesség
+effeminate#elpuhult;nõies
+effervesce#felbuzog;felpezseg;gyöngyözik;szabadfogás
+effete#elerõtlenedett;kimerült;meddõ;terméketlen
+efficacious#eredményes;hatékony;hathatós
+efficacy#hatásfok;hatékonyság;hathatóság;hatóerõ;teljesítmény
+efficiency#alkalmasság;eredményesség;hatásfok;hatékonyság;hathatósság;hatóerõ;rátermettség;teljesítmény;termelékenység
+efficiently#hatásosan;hatékonyan
+efficient#eredményes;gyakorlatias;hatékony;hathatós;termelékeny;tevékeny
+effigy#kép;képmás
+effing#büdös;ellenszenves;kellemetlen;rohadt;utált
+effluent#kifolyó;kiömlõ
+effluvium#ártalmas kigõzölgés;aura;kellemetlen szag
+effortlessly#könnyen;megerõltetés nélkül
+effortless#könnyû;megerõltetés nélküli;passzív
+effort#erõfeszítés;erõkifejtés;fáradozás;törekvés
+effuse#kiáramlik;kifolyik;kiömlik;kiönt;ont
+effusion#kifolyás;kiömlés;ontás;ömlengés
+effusively#áradozva;ömlengve;terjengõsen
+effusiveness#kiömlés;ömlengõsség;túláradó érzés
+effusive#áradozó;dagályos;effúziós;érzelmeit túlságosan kimutató;kiáradó;kifolyásos;kiömléses;kitódulásos;kitörõ;nyíltszívû;ömlengõ;szenvelgõ;túláradó;vulkanikus

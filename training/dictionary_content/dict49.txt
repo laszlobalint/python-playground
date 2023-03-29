@@ -1,0 +1,33 @@
+equable#egyenletes;egyforma
+equality#egyenlõség;egyformaság;egyöntetûség
+equalization#kiegyenlítés;kiegyenlítõdés
+equalizer#egyenlítõ gól;revolver
+equalize#egyenlít;kiegyenlít;kiegyenlítõdik
+equal poise#egyensúly
+equal sign#egyenlõségjel
+equals sign#egyenlõségjel
+equal#azonos;azonos mennyiség;beállít (csúcsot);egyenlõ;egyenlõ mennyiség;egyenrangú;felér;higgadt;kiegyensúlyozott;megegyezik
+equally#egyaránt;egyformán;hasonlóképpen
+equanimity#egykedvûség;nyugalom
+equate#egyenlõvé tesz;kiegyenlít
+equation#egyenlet
+equatorial#egyenlítõ-;egyenlítõi;egyenlítõ körüli;egyenlítõ melléki
+equator#egyenlítõ;ekvátor
+equerry#istálló;istállómester;lovászmester;szolgálattevõ kamarás;udvaronc
+equestrianne#mûlovaglónõ;mûlovarnõ;úrlovasnõ
+equestrian#lovaglási;lovagló;lovas-;lovas;mûlovagló;mûlovar;úrlovas
+equestrienne#mûlovarnõ
+equilibrant#egyensúlyozó;kiegyensúlyozó
+equilibrate#egyensúlyba hoz;kiegyensúlyoz
+equilibrator#egyensúlyozó szerkezet
+equilibrist#akrobata;egyensúlyozó mûvész;kötéltáncos
+equilibrium#egyensúly
+equipage#díszfogat;engedelmesség;felszerelés;felszerelési tárgyak;tartozékok
+equipment#berendezés;felszerelés;felszerelési tárgyak;szerelvények
+equip#berendez;fegyverrel ellát;felszerel
+equitable#igazságos;méltányos;pártatlan
+equity#jogosság;méltányosság
+equivalence#egyenérték;egyenértékûség;ekvivalencia
+equivalent#azonos értékû;egyenérték;egyenértékes;egyenértékû;ekvivalens;megfelelõ
+equivocality#félreérthetõ volta vminek;félremagyarázható volta vminek;gyanús volta vminek;kétértelmûség;kétértelmû volta vminek;kétes volta vminek;kettõs értelem
+equivocal#bizonytalan;dubiózus;félreérthetõ;félremagyarázható;gyanús;határozatlan;homályos;kérdéses;kétértelmû;kétes;kétes értékû;megbízhatatlan;többféleképpen magyarázható

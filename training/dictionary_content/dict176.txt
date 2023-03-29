@@ -1,0 +1,50 @@
+ycleped#hívott;nevezett;nevezve;úgynevezett
+yclept#hívott;nevezett;nevezve;úgynevezett
+yean#ellik
+yearling#egyéves állat
+yearly growth#évi termés
+yearly#egyszer egy évben;évenként;évenkénti;évente egyszer;minden évben
+yearning#epedõ;epekedés;epekedõ;sóvárgás;sóvárgó;vágyakozás
+yearn#áhítozik;bánkódik;búsul;epedez;epekedik;sóvárog;szomorkodik;vágyódik
+years after#évekkel azután
+year#esztendõ;év;évfolyam
+yeast cake#élesztõ
+yeast#élesztõ;élesztõgomba;erjed;erjedés;erjesztõ;forr;hab;habzik;hullámtaréj;kovász;tajték
+yea#bizonnyal;igen;sõt
+yellow boy#aranypénz;sárga csikó
+yellow brass#sárgaréz
+yellow daisy#borzas kúpvirág
+yellow dog#piszok fráter
+yellow fever#aranyláz;sárgaláz
+yellow flag#betegséget jelzõ sárga zászló;járványt jelzõ sárga zászló;nemzetközi code jelzõkönyv q betûje;sárga nõszirom;sárga zászló
+yellow george#arany guinea
+yellow hair#aranyszõke haj;szõke haj
+yellow jack#egészségügyi zárlatot jelzõ sárga hajózászló;sárga hajózászló;sárgaláz
+yellow looks#gyanakvó tekintet
+yellow man#mulatt;sárgabõrû
+yellow metal#arany;sárga bronz;sárga fémötvözet
+yellow ocher#sárga okker;sárga okkerföld
+yellow ore#kalkopirit;rézkovand
+yellow peril#sárga veszedelem
+yellow poplar#tulipánfa
+yellow press#bulvársajtó;sárga sajtó;szenzációt hajhászó lapok;szenzációt hajhászó sajtó
+yellow river#sárga folyó
+yellow sea#sárga-tenger
+yellow soil#lösz
+yellow spot#sárgafolt
+yellows#féltékenység;irigység;rosszkedv;sárga irigység;sárgaság
+yellow vision#sárgalátás
+yellow wort#gyíkpohár
+yellow wove#halványkék velinpapír
+yellow#bánatos;féltékeny;gyanakvó;gyáva;hitvány;irigy;levert;megsárgít;megsárgul;mulatt;sárga;sárga festék;sárga szín;sárgít;sárgul;savanyú arcot vágó;tojássárgája
+yell#ordít;sikolt
+yelp#csahol;csaholás;ugat;ugatás
+yeomanly#bátor;derék;hûséges;kisbirtokosi;kisgazda-;vitéz
+yeomanry#önkéntes lovasság;szabad kisbirtokosság
+yeoman#yeomen,írnok altiszt;yeomen,irodista altiszt;yeomen,kisgazda;yeomen,önkéntes lovas katona;yeomen,önkéntes lovaskatona;yeomen,raktárfelügyelõ;yeomen,raktárnok;yeomen,raktáros;yeomen,szabad kisbirtokos
+yep#aha
+yesterday#tegnap
+yesteryear#a múlt évben;múlt esztendõ;múlt év;tavaly;tavalyi év
+yes#igen;igenis;sõt
+yet#de azért;eddig;már;még;mégis
+yew#tiszafa

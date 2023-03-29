@@ -1,0 +1,240 @@
+head agent#vezérképviselõ
+headband#fejpánt
+headboard#fejtámla
+head clerk#irodafõnök
+head cold#nátha
+head cook#fõszakács;konyhafõnök;szakácsmester
+headcount#létszám;létszám megállapítása
+head down#leszegett fõvel
+headdress#fejdísz;fejfedõ;fityula;frizura;hajviselet
+header pipe#fõvezeték
+header#csõfejelõ gép;elosztó csõ;elõvájó réselõgép;fejcsõ;fejelõtégla;fejes;fejezõ gép;fejgerenda;fejzömítõ gép;felsõ fúrólyuk;gyûjtõ csõ;kalászvágó;kamra;kazándob;kiváltógerenda;tároló;vágószerkezet;vízkamra;zsomp
+headfirst#elhamarkodottan
+head first#fejest;fejjel elõre
+headfirst#fejjel elõre;hirtelen;meggondolatlanul;rámenõsen;vakmerõen
+head foremost#fejest;fejjel elõre
+headframe#aknatorony
+headgear#aknatorony;fejfedõ;fejrevaló;fejszerszám;kalap
+heading#címsor;fejelés;fejszöveg;felzet;haladási irány;irány;könyvelési tétel;kötõtégla;labdafejelés;rovat;tétel
+headlamp#elsõ lámpa
+headland#elõhegység;hegyfok
+head lessee#fõbérlõ
+headlight#elsõ lámpa
+headliner#címsor író;nagy szenzáció;nap fõ eseménye;sztár
+headline#címfej;fõcím
+headlock#fejfogás
+headlong#fejjel elõre;gyorsan;hanyatt-homlok;heves;hirtelen;meggondolatlan
+headman#headmen,elõmunkás;headmen,munkavezetõ;headmen,törzsfõnök
+headmaster#igazgató
+headphones#fejhallgató
+headpiece#értelem;ész;fej;fejezetdísz;fejléc;sisak
+head punch#hegyes vésõ
+headquarters#fõhadiszállás;központ
+headrest#fejtámla
+head scarf#fejkendõ
+headscarf#fejkendõ
+head scarf#kendõ
+headset#fejhallgató
+headstand#fejenállás
+headstone#fejfa
+headstrong#akaratos;konok;makacs;nyakas;önfejû
+heads#dústermék;gazdag koncentrátum
+headwater#felvíz
+head water#felvízcsatorna
+head workman#elõmunkás
+head#állomány;cím;címszöveg;családfõ;csúcs;csúcspont;darab;él;eleje vminek;élén áll vminek;elõfok;elõmenetel;elõrehaladás;elõvágat;ereszcsöpögõ alatti tölcsér;értelem;ész;fej;fejel;fej (érmén);fejes rész;feje vminek;fejezet;fejjel ellát;fejtési front;felirattal ellát;felsõ rész;felvízcsatorna;fenék;fok;fõ-;fõ;fõhely;földnyelv;fõnök;fronthossz;gubó;hajóbordák felsõ része;hajó elõrésze;hajó orra;halad;haladás;hegyfok;holtfej;igazgató;igyekszik;irányító;kalász;kategória;készlet;kifejlés;kiindulópont;korona (fáé);mákfej;megy;orom;oszlopfõ;rovat;rubrika;sebesség;szarvasagancs;személy;tárgykör;térnyerés;tetõpont;vájvég;vállalatvezetõ;vezet;vezetõ;vezetõ hely
+heady#heves;mámorító;részegítõ;szenvedélyes
+healer#gyógyító
+healing#gyógyítás;gyógyító;gyógyulás
+healthily#egészségesen
+healthy#egészséges
+heal#begyógyul;meggyógyít;meggyógyul
+heaping#egymásra hányó
+heap#elhalmoz;felhalmoz;halom;halomba hord;halomba rak;megrak;rakás;telerak;tömeg
+heard#hallott
+hearer#hallgató
+hearing#bírósági tárgyalás;hallás;hallótávolság;kihallgatás;meghallgatás;tárgyalás
+hearken#figyel;hallgat;hallgatódzik;hallgatózik
+hearsay#hallomás;mendemonda;szóbeszéd
+hearse#halottaskocsi
+heartache#bánat;szívfájdalom;szívpanasz;szívpanaszok
+heart attack#szívroham
+heartburn#gyomorégés
+heartening#bátorító;buzdító
+hearten#bátorít;buzdít;felbátorít;felbátorodik;új erõt ad
+heartfelt#õszinte;szívbõl jövõ
+hearthrug#kandallószõnyeg
+hearth#családi tûzhely;kandalló;lángkemence-fenék;medence;otthon;tûzhely
+heartily#alaposan;bõségesen;jó étvággyal;szívélyesen
+heartiness#erõteljesség;melegség;szívélyesség
+heartlessly#szívtelenül
+heartless#szívtelen
+hearts#kõr;piros (kártyában)
+heart#bátorság;belsõ rész;ér (kábelé);fejbe borul;fejesedik;kõr;lelkiállapot;mag;szív
+hearty meal#bõséges étkezés
+hearty#bátor ember;bõséges;derék ember;erõs;erõteljes;jó erõben lévõ;õszinte;szívbõl jövõ;szívélyes;tápláló
+hear#heard,értesül;heard,hall;heard,hallgat;heard,letárgyal;heard,meghall;heard,meghallgat;heard,megtud;heard,tárgyal
+heat carrier#hõvezetõ
+heated debate#heves vita
+heatedly#hevesen
+heated#forró;heves;tüzes
+heat emission#hõsugárzás
+heater#fûtés;fûtõszál
+heat flux#hõáram
+heathen#pogány
+heather#csarab;hanga
+heath#csarab;hanga;pusztaság
+heat output#hõteljesítmény
+heat recovery#hõvisszanyerés
+heat stroke#hõguta
+heat transfer#hõátadás
+heat#befût;búgás (kocáé);felgerjed;felindulás;fût;hév;hevít;hõ;láz;megmelegít;melegít;melegszik;tûzbe hoz;tüzelés (szukáé);verseny
+heavenly#csodás;égi;mennyei;pompás
+heavens#égbolt
+heavenwards#ég felé
+heavenward#ég felé
+heaven#ég;menny;paradicsom
+heave#dagad;dagadás;dob;dobás;emel;emelés;emelkedés;emelkedik;felemel;felemelés;felemelkedik a hullámon;felfordul (gyomor);felfúvódik;felpuffad;háborog;hajít;hányingere van;hove,dagad;hove,dob;hove,emel;hove,emelkedik;hove,felemel;hove,felemelkedik a hullámon;hove,felfordul (gyomor);hove,felfúvódik;hove,felpuffad;hove,háborog;hove,hajít;hove,hányingere van;hove,hullámzik;hove,húz;hove,kibök (szót);hove,liheg;hove,megdagad;hove,megduzzad;hove,oldalvást tol;hove,öklendezik;hove,undorodik;hove,vet;hove,zihál;hullámzik;húz;kibök (szót);liheg;lökés;megdagad;megduzzad;oldalvást tol;öklendezik;undorodik;vet;zihál
+heavies#jéger alsóruha;nagy teheráru-forgalmú vasúttársaság;nehéz dragonyosok;nehéz tüzérség;vastag gyapjú alsóruha
+heaving#csömör;dagadás;duzzadás;emelkedés;felemelkedés;fordulat (hajóé);undor
+heavy arse#lusta dög
+heavy blow#erõs ütés;súlyos csapás
+heavy clay#nehéz agyag
+heavy crops#bõ termés
+heavy day#fárasztó nap;mozgalmas nap;nehéz nap;zsúfolt nap
+heavy drinker#nagy ivó
+heavy food#nehéz étel
+heavy lather#dús szappanhab;sûrû szappanhab
+heavy oil#gázolaj;nehéz olaj
+heavy sea#viharos tenger
+heavyset#erõs testalkatú
+heavy traffic#nagy forgalom;teherforgalom
+heavy type#kövér betû;vastag betû
+heavyweight#nehézsúly;nehézsúlyú
+heavy#álmos;beborult;buta;erõs;fáradt;heves;jelentõs;kemény;kimerült;nagy;nehéz;sötét;súlyos;terhes;unalmas;viharos
+hebrew#héber;héber nyelv;izraelita;zsidó;zsidó ember
+heckler#gerebenezõ;gerebenezõ gép;heccelõ
+heck#fene
+hectare#hektár
+hectically#izgatottan;lázasan;nyugtalanul
+hectic#izgatott;lázas;mozgalmas;nyugtalan
+hectoring#hencegõ;megfélemlítõ;szájhõsködõ;terrorizáló
+hector#henceg;megfélemlít;szájhõsködik;terrorizál
+hedgehog#sündisznó
+hedgerow#élõsövény;sövénykerítés
+hedge#bebiztosít;beültet;élõsövény;kordon;lefedez;nem vall színt;nyír;sorfal;sövény;sövénykerítés;sövénnyel bekerít
+hedonistic#hedonista
+heeby jeebies#izgatott várakozás
+heedful#gondos;óvatos
+heedlessly#elõvigyázatlanul;figyelmetlenül;meggondolatlanul
+heedless#elõvigyázatlan;figyelmetlen;meggondolatlan
+heed#figyelem;gondosan figyel vmire;óvatosság;törõdik vmivel;vigyáz vmire
+heeling#dõlés;labda megkaparintása a csomóból;sarkalás;sarkozás;sarokfelszegezés
+heel moulding#falkiugrás
+heel#árbocrúd töve;árboctalp;falvastagítás lépcsõje;fedélszék alsó része;felfegyverez;fogás;griff;gyök;hajó dõlése;hajó labilis egyensúlya;ingyenélõ;kenyérvég;megsarkal (cipõt);nyomon követ;oldalára dönt (hajót);pata;potyázó;rongy alak;rongyember;sajtvég;sarkában van vkinek;sarkantyú;sarok;sercli;szarufaék;szél;táncol;tányérnyaló;undok fráter;utolsó alak;vég
+heft#megemeléssel súlyt becsül;súly
+hefty#erõs;izmos;meglehetõsen nehéz;tagbaszakadt
+heightening#élénkség;emelet ráépítés;emelkedés;felemelés;növekedés;ráépítés;súlyosbodás
+heighten#emelkedik;felemel;fokoz;fokozódik;kiemel;kihangsúlyoz;magasra emel;nõ;növekszik;növel;súlyosbít
+height#csúcspont;hegy;magaslat;magasság;tetõpont
+heinie#fenék;popsi
+heinous#förtelmes;szörnyû
+heir apparent#törvényes örökös
+heirloom#családi bútor;családi ékszer
+heir#örökös
+heist#betörés;elemel;kipakol;kirabol;kirámol;lop;lopás;lopott holmi;megfúj;rablás;szajré;szajrézás;zsákmány
+helical#csavarvonalas;spirális
+helicopter#helikopter
+heliotrope#lilás rózsaszín;napraforgó
+heliport#helikopter-leszállóhely;helikopter-repülõtér
+helix#csavarvonal;csigavonal;spirálvonal
+hellhole#nagyon kellemetlen hely
+hellish#ördögi;pokoli
+helluva#óriási;pokoli;remek
+hell#fene;játékbarlang;kártyabarlang;pokol
+helmet#bukósisak;sisak
+helmsman#helmsmen,kormányos
+helm#irányítás;kormányrúd;kormányzás;vezetés
+helper#pártfogó;segítõ
+helpful#hasznos;segíteni kész;szolgálatkész
+helping#adag;ételadag
+helplessly#gyámoltalanul;haszontalanul;tehetetlenül;ügyefogyottan
+helplessness#gyámoltalanság;tehetetlenség;ügyefogyottság
+helpless#gyám nélküli;gyámoltalan;haszontalan;támasz nélküli;tehetetlen;ügyefogyott
+helpmate#hitvestárs;segítõtárs
+helpmeet#hitvestárs;segítõtárs
+help#bejárónõ;elõsegít;felszolgál;háztartási alkalmazott;kiszolgál;orvosol;segédlet;segély;segít;segítség;támogatás
+hematite#hematit;vörösvasérc;vörösvaskõ
+hemisphere#félgömb
+hemming#hümmögés;szegés
+hemorrhage#vérzés
+hemorrhoids#aranyér
+hemorrhoid#aranyér-
+hemp#kender
+hem#beszeg;felhajt;felhajtás;hümmög;korc;szeg;szegély;szegés
+henceforth#ezentúl;mától fogva;továbbiakban
+henceforward#ezentúl;mától fogva;továbbiakban
+hence#ennélfogva;ezentúl;ezért
+henchman#henchmen,bérence vkinek;henchmen,csatlós;henchmen,híve vkinek;henchmen,szolga
+hen house#tyúkól
+henhouse#tyúkól
+hen#tyúk
+herald#beharangoz;elõfutár;elõre bejelent;elõre jelez;hírnök
+herbage#fûnövényzet;füvezet;legelõ;legeltetési díj
+herbalist#gyógyfûkereskedõ;növénygyûjtõ
+herbal#füvekbõl álló;füvekbõl készített;füvészkönyv
+herbarium#növénygyûjtemény
+herb beer#gyógytea;herbatea
+herb bennet#erdei gyömbérgyökér
+herb grace#ruta
+herbivore#növényevõ állat
+herbivorous#növényevõ
+herb paris#farkasszõlõ
+herb robert#ebfojtó müge;nehézszagú gólyaorr
+herb twopence#ínnyújtó fû;pénzeslevelû liszinka
+herb#fû;fûszer;fûszernövény;lágyszárú növény
+herd#csorda;csordás;embertömeg;gulya;gulyás;legeltet;nyáj;õriz;összeterel;pásztor
+here below#földi életben;itt lenn a földön
+hereby#ezáltal;ezennel
+hereditary#örökletes;öröklött;örökös
+heredity#örökség
+hereinafter#alábbiakban;következõkben;lejjebb
+herein#ebben;itt
+heresy#eretnekség
+heretical#eretnek
+heretic#eretnek
+heretofore#ezideig
+here#ide;itt
+her grace#hercegné õfõméltósága;hercegné õkegyelmessége
+heritage#örökség
+her ladyship#õméltósága
+hermetically#hermetikusan;légmentesen
+hermitage#remetelak
+hermit#remete
+hernia truss#sérvkötõ
+hernia#sérv
+heroical#emberfeletti;hõsi;hõsies
+heroically#hõsiesen
+heroic poem#hõsi eposz
+heroic remedy#drasztikus gyógyszer
+heroic verse#ötlábas jambus
+heroic#emberfeletti;hõsi;hõsies
+heroics#hõsi versek;hõsködõ viselkedés és beszéd;nagyhangú viselkedés és beszéd
+heroine#hõsnõ
+heroin#heroin
+heron#kócsag
+hero#hõs
+herring#hering
+hesitancy#habozás
+hesitantly#habozva;tétován
+hesitant#habozó;tétovázó
+hesitate#habozik;hezitál;tétovázik
+hesitation#határozatlanság;tétovázás
+hessians#elöl felnyúló szárú ráncos csizma
+hessian#bérenc;durvaszövésû jutavászon;durvaszövésû kendervászon;felbérelhetõ ember;hesseni;hesszeni;megvásárolható ember;megvesztegethetõ ember;zsákvászon;zsoldos katona
+hewer#favágó;kõfaragó;vájár
+hew#aprít;dönt;hewed,hewn,aprít;hewed,hewn,dönt;hewed,hewn,kialakít;hewed,hewn,kinagyol;hewed,hewn,kivág;hewed,hewn,körülfarag;hewed,hewn,körülvág;hewed,hewn,levág;hewed,hewn,vág;hewed,hewn,vagdal;hewed,hewn,vés;kialakít;kinagyol;kivág;körülfarag;körülvág;levág;vág;vagdal;vés
+hexagonal#hatoldalú;hatszögletû;hatszögû
+hexagram#Dávid-csillag;hatágú csillag;hat egymást metszõ vonalból alkotott síkidom;zsidócsillag
+hex#boszorkány;bûbáj;bûvölet;igézet;megbabonáz;megbûvöl;megigéz;megront;rontás;varázslat
+heyday#aranykor;csúcspont;tetõfok;tetõpont;virágkor

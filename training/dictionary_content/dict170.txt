@@ -1,0 +1,111 @@
+weak beat#hangsúlytalan ütem
+weakening#gyengítés;gyengülés;gyengülõ
+weaken#elgyengül;gyengít;gyengül;hígít;legyengít;legyengül
+weak form#gyenge ejtésû alak;gyenge kiejtésû alak
+weakling#nyápic ember;puhány;vékonydongájú ember
+weakly#beteges;betegesen;gyenge;gyengén
+weakness#gyengéje vkinek;gyengéje vminek;gyenge oldala vkinek;gyenge oldala vminek;gyenge pontja vkinek;gyenge pontja vminek;gyengeség
+weak point#gyenge oldal;gyenge pont
+weak#egyes osztályzat;gyarló;gyenge;gyönge;hatástalan;híg
+wealth#gazdagság;vagyon
+wealthy#gazdag
+weal#boldogság;boldogulás;csíkosra ver;jólét;jószerencse;korbácsütés nyoma;ostorcsapás nyoma
+wean#elválaszt;leszoktat
+weaponless#fegyvertelen
+weaponry#fegyverzet
+weapon#fegyver
+wearable#hordható;viselhetõ
+wearer#viselõ
+wearied#fáradt;lankadt
+wearily#ernyedten;fáradtan
+weariness#fáradtság;kimerültség;türelmetlenség;unalom
+wearisome#fárasztó;hosszadalmas;unalmas;untató
+wear#használat;kopás;viselet;wore,worn,elhasznál;wore,worn,elhord;wore,worn,elkopik;wore,worn,elkoptat;wore,worn,elmúlik;wore,worn,elnyû;wore,worn,hord;wore,worn,kifáraszt;wore,worn,kimerít;wore,worn,visel
+weary#fáradt;fárasztó;kifáraszt;kimerít;kimerítõ;kimerült;unalmas;untat
+weasel#agyafúrt ember;buzgómócsing;menyét;sunyi ember;túlbuzgó ember
+weathered#levegõn szétmállott;mállott;megpatinásodott
+weathering#elmállás;eresz;fizikai mállás;idõjárás hatása;légköri behatás;mállás;pusztulás szabadban (gumi)
+weathervane#szélkakas
+weather#átvészel;baj nélkül elmegy vmi mellett;bányalevegõ;edz;elmállaszt;elmállik;idõ;idõjárás;idõjárási;idõjárásnak kitesz;kiáll;meteorológiai;patinát kap;szél irányába nézõ;széloldali;szétporlad
+weaver#takács
+weave#szövés;szövésmód;szövet;wove,woven,fon;wove,woven,kanyarodik;wove,woven,kieszel;wove,woven,kígyózik;wove,woven,kileng;wove,woven,leng;wove,woven,összefon;wove,woven,szõ;wove,woven,szövõdik
+weazened#aszott;fonnyadt;kiszáradt;összezsugorodott;pergamenszerû;ráncos
+webbed foot#evezõláb
+webbed#úszóhártyás
+web#háló;penge;pókháló;rotációs henger;szövedék;szövet;toll (kulcsé);úszóhártya;vég (szövet)
+wedded life#házasélet
+wedded#egybekelt;férjes;férjezett;házas-;hitvesi-;nõs;összeadott;összeesketett
+wedding#esküvõ
+wedge#beékel;beszorít;ék;ékkel széthasít
+wedlock#férjhez ad;házasélet;házasság;megházasít;megnõsít
+wed#egybekel;egybeköt;egyesít;feleségül ad;feleségül vesz;felségül vesz;férjhez ad;férjhez megy;házasodik;házasságra lép;hozzáad;hozzámegy;megesküszik;megházasít;összead;összeesket;összeházasít;összeházasodik;párosít;zálog
+weeding#gyomlálás
+weed#cingár ember;dohány;dudva;dudvától megszabadít;dudvától megtisztít;gaz;gaztól megszabadít;gaztól megtisztít;gizgaz;göthös ló;gyom;gyomtalanít;gyomtól megszabadít;gyomtól megtisztít;kártékony elem;kigyomlál;kóros jelenség;köntös;marihuána;rozzant gebe;ruha;ruházat;sarabol;szivar;tenyészcélokra alkalmatlan állat;vízi növény
+weedy#beteges külsejû;cingár;gazos;gyomos
+weekday#hétköznap
+weekly test#iskolai heti dolgozat
+weekly#heti
+week#hét
+weenie#hímvesszõ;kukac;kuki;virsli
+weeny#apróka;icipici;picurka
+weeping#csöpögés;csöpögõ;gyöngyözés;gyöngyözõ;lecsüngõ;sírás;síró
+weep#wept,csepeg;wept,csepegtet;wept,folyik;wept,lekonyul;wept,sír;wept,sirat;wept,szivárog;wept,zokog
+weeviled#zsizsikes
+weevilled#zsizsikes
+weevil#ormányos bogár;zsizsik
+weevilly#zsizsikes
+weevily#zsizsikes
+wee#parányi;pici
+weft#szövet;vetülék;vetülékfonal
+weigh box#mérõláda
+weighing#felmérés
+weighted#súlyozott
+weight limit#súlyhatár
+weight#mér;súly
+weighty#fontos;nyomatékos;nyomós;súlyos
+weigh#befolyása van;latolgat;mázsál;megfontol;megmázsál;megmér;mér;méreget;mérés;mérlegelés;nehezedik;nyom vmennyit;súly;súlya van;vmennyi súlya van
+weirdly#furcsán;hátborzongatóan
+weirdness#furcsaság
+weirdo#bolondos ember;dilis alak;dilis fazon;furcsa ember;hangyás alak;hangyás fazon;különc ember
+weird#furcsa;hátborzongató;sors;természetfeletti;végzet
+weir#gát;vízduzzasztó
+welcome#fogad;fogadtatás;kellemes;örömmel fogad;szívesen lát;szívesen látott;szívesen vesz;üdvözlés;üdvözöl
+weldability#hegeszthetõség
+weldable#hegeszthetõ
+welder#hegesztõ
+weld#hegeszt;hegesztés;hegesztés helye;meghegeszt;összeforr
+welfare#boldogulás;jólét
+well attended#látogatott
+well found#jól ellátott;jól felszerelt;jól megalapozott
+wellies#gumicsizma
+wellingtons#gumicsizma
+well meaning#jó szándékú
+wellnigh#majdnem
+well requited#busásan megjutalmazott;jól megjutalmazott
+well stocked#nagy készlettel rendelkezõ;nagy raktárral rendelkezõ
+well worded#helyesen fogalmazott;jó szövegezésû
+well#akna;bugyog;egészséges;forrás;helyesen;I never!,no de ilyet!;jó;jól;kút;nagyon;nos;ömlik;szerencsés;szerencsésen;to be sure!,a kutyafáját!;to be sure!,ejha!;üreg;you are a beauty!,na ezt jól megcsináltad!
+welsh rabbit#meleg olvasztott sajtos pirítós
+welter#fetreng;háborgás;hentereg;hömpölygés;hullámzik;zajlik;zûrzavar
+weltschmertz#világfájdalom
+welt thread#cipõvarró-fonal;varrófonal
+welt#bélés;beszeg;csík;elagyabugyál;elnáspángol;elpáhol;eltángál;elver;felsõ dupla szél;furda;gurka;korbácsütés nyoma;ostorcsapás nyoma;rámáz;rand;recés szárrész;szegély;szegélyez;szegéllyel ellát;talpbélés;varrat;varrókeret;varróráma;varrótalp-keret
+wenching#nõk után járás;nõzés
+wench#fiatal lány;fiatal parasztlány;szolgáló
+wen#faggyúdaganat;faggyús tömlõ;golyva;guga;kelevény;óriásivá növekedett túlzsúfolt város;runikus th betû jele;városrengeteg;zsírdaganat
+werewolf#farkasember
+westering#nyugati;nyugatra irányuló
+westerly#nyugat felé;nyugati;nyugatra
+westerner#nyugati ember
+westernize#nyugati kultúrával átitat
+westernmost#legnyugatibb
+western#nyugati;vadnyugati film;western
+west#nyugat;nyugat felé;nyugati;nyugati terület;nyugati területek;nyugatra
+wetback#illegális határátlépõ;tiltott határátlépõ
+wet canteen#ivó-kantin
+wet cough#köhögés köpettel;köhögés slejmmel;köhögés váladékkal
+wetland#láp;vizenyõs terület
+wetness#nedvesség
+wetting#nedvesítés
+wet ullage#hordóban maradó ital;le nem fejthetõ ital
+wet#alkoholtilalom-ellenes;beáztat;benedvesít;csapadék;esõ;esõs;ivás;megnedvesít;nedves;nedvesség;vizes

@@ -1,0 +1,498 @@
+cabaret#kabarémûsor;kávéskészlet;kiskocsma;szórakoztató mûsor;teáskészlet;zenés mûsoros mulató;zenés mûsoros vendéglõ
+cabbage#fejes káposzta;káposzta
+cabbie#taxisofõr
+cabby#bérkocsis;taxis;taxisofõr
+cabdriver#taxisofõr
+caber#hajítórúd;lucfenyõ-rúd;vörösfenyõbõl készült farúd;vörösfenyõ fatörzs
+cabin baggage#kézipoggyász
+cabin boy#hajósinas
+cabin cruiser#kajütös motorjacht;kajütös túramotorcsónak;motoros hajó
+cabinetmaker#mûbútorasztalos
+cabinet#konyhaszekrény;kormány
+cabin#faház;utastér
+cable#kábel;kábelez;sodronykötél;sürgöny;távirat;vezeték
+cab#bérkocsi;kezelõfülke;konflis;taxi;taxin megy;taxizik;vezetõülés
+cacao beans#kakaóbab
+cacao#kakaóbab;kakaócserje;kakaófa
+cache#eldug;elrejt;elrejtett élelem;elrejtett holmi;elrejtett készlet;hibernáló rovarok téli szállása;készletet halmoz fel;rejtegetett holmi;rejtegetett készlet;rejtekhely;telelõ rovarok téli szállása;télre tárolt élelmiszerkészlet;titkos raktár
+cackle#fecseg;fecsegés;gágog;gágogás;kodácsol;kodácsolás;vihog;vihogás
+cacodaemon#gonosz szellem;lidérc;megszállott;ördöngös;rossz szellem
+cacodemon#gonosz szellem;lidérc;megszállott;ördöngös;rossz szellem
+cacophony#hangzavar;kakofónia
+cactus#kaktusz
+cadaverously#halálsápadtan;hullaszerûen
+cadaverous#halálsápadt;hullaszerû
+cadaver#hulla;tetem
+caddie car#golfütõ targonca
+caddie#alkalmi segéderõ;kifutó;labdaszedõ és ütõhordó
+caddy#alkalmi segéderõ;bádogkanna;kifutó;labdaszedõ és ütõhordó;teás doboz
+cadenced#mértékes;ritmikus;ritmikusan esõ;ritmikusan lejtõ;ütemes
+cadence#hanghordozás;hanglejtés;kadencia;lépésütem;lépésszám;mérték;ritmikus esés;ritmikus lejtés;ritmus;ütem;zárlat;záró rész
+cadent#ereszkedõ;esõ;hulló;ritmusos;ütemes
+cadet corps#iskolazászlóalj
+cadet#gyakornok;hadapród;kadét;kisebbik fiú
+cadmium#kadmium
+cadre#hadkiegészítõ parancsnokság;káder;katonai keretszervezet;keret;kiegészítõ parancsnokság;pótkeret;terv;váz;vázlat
+caduceus#caducei,kaduceus;caducei,Merkúr kígyós botja
+caducity#elaggás;elaggottság;esendõség;gyarlóság;múlandóság;múlékonyság;roskatagság;szenilitás;természetes korai elhullás;természetes korai lehullás
+caducous#futó;lehulló;múlandó;múlékony;múló;nem állandó;pusztulásnak indult;pusztuló;röpke;tünékeny;tûnõ
+cad#durva ember;fajankó;gazember;jellemtelen fráter
+caesarean#cézári;császári
+caesarism#abszolút uralom;világuralmi vágy
+caesarist#autokrata rendszer híve;Caesar híve;Caesar párti
+caesar#cézár
+cafeteria#önkiszolgáló étterem;önkiszolgáló vendéglõ
+cafe#kávéház
+café#kávéház
+cafe#kávézó
+café#kávézó
+caffeine#koffein
+caftan#kaftán
+cage#hadifogolytábor;kalitka
+cagey#gyanakvó;óvatos;ravasz
+caiman#kajmán
+cain#Káin;testvérgyilkos
+cairn terrier#kis bozontos skót terrier
+cairn#kõhalom
+caisson#keszon;lõszerszekrény;süllyesztõszekrény
+cajolery#hízelgés
+cajole#cirógat;levesz a lábáról
+cajoling#cirógató
+cake#húspogácsa;laposra összenyom;laposra összeprésel;megalvad;megkeményedik;pogácsa;sütemény;süti;takarmánypogácsa;tészta;torta;zablepény
+caking coal#koksz-szén;összesülõ szén
+calamari#fõtt tintahal
+calamary#kalamájó;kis kalamájó;tintahal
+calamity#balsors;csapás;szerencsétlenség
+calcar arch#frittelõ kemence;porzsoló kemence
+calcareous#meszes;mésztartalmú
+calcar#égetõkemence;frittelõ medence;mészégetõ kemence;mészszerû;porzsoló medence;pörkölõkemence
+calcinate#éget;kalcinál;kalcinált anyag;pörk;pörköl
+calcination#égetés;kalcinálás
+calcinator#kalcináló berendezés
+calcinatory#kalcináló tégely
+calciner#pörkölõ kemence
+calcine#pirit;pörk;rásülés
+calcining#kalcinálás;pörkölés
+calcium#kalcium
+calculable#kiszámítható;megbízható
+calculated#kiszámított;szándékos
+calculate#hisz;kiszámít;tekintetbe vesz;tervez;vél
+calculating#ravasz;számító;számoló
+calculation#kiszámítás;költségvetés;számítás;terv
+calculator#kalkulátor;zsebszámológép
+calculus#calculi,kõ (epe,vese);calculi,számítás
+caldron#katlan;üst
+calendar#almanach;céduláz;elõjegyez;elõjegyzésbe vesz;elrendez;jegyzék;jegyzékbe szed;lajstrom;lajstromoz;napirend;naptár;nyilvántart;osztályoz;rendez
+calf#calves,boci;calves,borjú;calves,borjúbõr;calves,lábikra;calves,vádli
+caliber#belsõ átmérõ;fontosság;formátum;furat;kaliber;képesség;rátermettség;súly;ûrméret
+calibrate#hitelesít;kalibrál
+calibration#beosztás;fokbeosztás;hitelesítés;kalibrálás
+calibre#belsõ átmérõ;fontosság;formátum;furat;kaliber;képesség;rátermettség;súly;ûrméret
+calisthenics#csuklógyakorlat
+caller#hívó fél;látogató
+calling#egybehívás;életpálya;elhivatottság;foglalkozás;hajlam;hívás;hivatás;hivatottság;hívó;kiáltás;látogatás;összehívás
+callously#érzéketlenül;kõszívûen
+callousness#érzéketlenség;kõszívûség
+callous#bõrkeményedéses;érzéketlen;kérges tenyerû
+callowness#éretlenség;tapasztalatlanság
+callow#éretlen;kopasz;tapasztalatlan;tollatlan
+call signal#hívójel;szünetjel
+callused#bõrkeményedéses;heges;kérges
+callus#bõrkeményedés;csontheg;heg;hegszövet;kérgesedés;kérgesség;sebpara;tyúkszem
+call#bemond;bemondás;benéz vkihez;elhivatottság;felhív;felhívás;felszólítás;fizetési felhívás;függöny elé szólítás;hív;hívás;hivatás;hivatásérzet;hívójel;hívó szó;kereslet;kiabál;kiált;kiáltás;kihív;kikiált;látogatás;látogatást tesz;licit;licitál;madárfütty;meglátogat;nevez;odahív;szól;telefonbeszélgetés;telefonhívás
+calm belt#szélcsendzóna
+calmness#nyugalom
+calm#csend;csendes;hidegvérû;lecsendesedik;lecsendesít;lecsillapít;lecsillapul;nyugalom;nyugodt;sima;szélcsend;szenvtelen
+calorie#kalória
+calorimeter#hõmennyiség-mérõ;hõmennyiségmérõ
+calorimetric#kalorimetrikus
+calorimetry#hõmennyiség-mérés;kalorimetria
+calorofic#hõ-;hõtermelõ;melegítõ
+cal#kalória;wolframit
+camaraderie#bajtársiasság
+camber angle#kerékdõlés szöge
+cambered#bogárhátú;domború;hajlított;ívelt
+camber line#szárny hajlásvonala;szárnyszelvény hajlásvonala
+camber#bogárhát;domborodik;domborulat;domborúra épít;görbület;hajlat;harántdomborulat;ívben görbül;ívben meghajlik;ívben meghajlít;ível;ívelés;íveltség;íves gerenda;íves süvegfa;ívet alkot;kerékdõlés;kidomborodik;kikötõ-medence;kis dokk;meghajlik
+cambodian#kambodzsai
+cambodia#Kambodzsa
+camel#teve
+cameraman#cameramen,filmoperatõr;cameramen,fotóriporter
+camera#fényképezõgép
+came#ólomvezetõ léc
+camomile#kamilla
+camouflaged#álcázott
+camouflage#álcáz;álcázás;rejtõztet
+campaigner#hadjáratban részt vett katona;hadjáratban résztvevõ katona;képviselõjelölt;kortes
+campaign#hadjárat;hadjáratban részt vesz;kampány;mozgalom
+camp chair#kempingszék
+camper#kempingezõ;lakóautó;sátorozó
+campfire#tábortûz
+campground#táborhely;táborozó hely
+camping#kempingezés;táborozás
+camply#buzisan
+campsite#táborhely
+camp stove#kempingfõzõ
+camp table#kempingasztal
+campus#egyetem;egyetem területe;egyetemváros;fõiskola területe
+camp#abszurd;bizarr;buzis;groteszk;homoszexuális;kempingezik;meleg;nosztalgikusan régimódi;sátortábor;tábor;táborhely;táborozik
+campy#buzis;homoszexuális;meleg
+cam#bütyök;vezérlõ bütyök
+canada goose#kanadai lúd
+canada#Kanada
+canadianism#Kanadában szokásos kifejezés
+canadianize#elkanadaiasít;kanadaivá tesz
+canadian#kanadai
+canal#csatorna
+canapé#szendvics;zsúrszendvics
+canary sack#száraz fehér borfajta
+canary#besúgó;kanári;kanárimadár;kanárisárga
+canasta#kanaszta
+cancellation#áthúzás;bevonás;érvénytelenítés;érvénytelenítõ lebélyegzés;felbontás;hatálytalanítás;helylemondás;leírás;lemondás;stornírozás;törlés;visszavonás
+cancel#áthúz;eltöröl;érvénytelenít;kiiktat;kitöröl;levesz a mûsorról;megsemmisít;visszavon
+cancerous#rákos
+cancer#rák
+candelabra#gyertyatartó;karos gyertyatartó
+candelabrum#candelabra,gyertyatartó
+candidacy#jelölés
+candidate#jelölt;kandidátus;pályázó
+candidature#jelöltség
+candidly#nyíltan;õszintén
+candid#elfogulatlan;nyílt;õszinte;pártatlan
+candlefish#csendes-óceáni lazacfajta
+candlelit#gyertyafényes
+candlestick#gyertyatartó
+candle#gyertya
+candor#elfogulatlanság;nyíltság;õszinteség
+candour#elfogulatlanság;nyíltság;õszinteség
+candyassed#beszari;gyáva;majrés;nyuszi
+candyass#beszari alak;beszari hapsi;gyáva ember;nyúl;nyúlbéla
+candy#cukorban eltesz;cukorka;cukorral bevon;édesség;jegeccukor;kábítószer;kandíroz;kandiscukor;kokain;kokó;narkó;nõ;por
+canecutter#nádvágó
+canella#fehér fahéj
+cane sugar#nádcukor
+cane#sétabot
+canine tooth#szemfog
+canine#kutya-;kutyaféle;szemfog
+canister#bádogdoboz;doboz;kartács
+cank#bazaltkõzet
+canned fish#halkonzerv
+canned fruit#befõtt
+canned meat#húskonzerv
+canned music#gépzene
+canned#eltett;-konzerv;konzervált;tökrészeg
+cannelloni#töltött tészta
+cannery#konzervgyár
+cannibalism#emberevés;kannibalizmus
+cannibalize#kibelez
+cannibal#emberevõ;kannibál
+canning#befõzés;burkolás;dobozolás;konzerválás;konzervgyártás;tartósítás;tokba zárás;tokozás
+cannonade#ágyútûz;ágyúzás
+cannonball#ágyúgolyó
+cannoneer#lövegkezelõ
+cannon#ágyú;ágyúz;karambol (biliárdban);löveg;összeütközik
+canoe#kenu;kenuzik
+can opener#konzervnyitó
+canopy#ágymennyezet;ágysátor;baldachin;baldachint emel;boltoz;ejtõernyõ kupola;elõtetõ;ernyõ;ernyõz;füsternyõ;füstkürtõ;hordozható mennyezet;levehetõ ernyõ;mennyezet;napellenzõ ponyva;sátorként borul vmi fölé;sátrat von vmi fölé;vászontetõ;védõtetõ
+cantaloupe#sárgadinnye
+cantaloup#sárgadinnye
+cantankerous#civakodó;civódó;harapós;házsártos;izgága;kötekedõ;veszekedõs;zsémbes
+canteen#büfé;csajka;étkezde;kantin;tábori fõzõ felszerelés;tábori kulacs;üzemi étkezde
+canter#könnyû vágta;könnyû vágtában lovagol;könnyû vágtában megy
+cantilever#konzolos tartó
+cant phrase#klisé;üres fázis;zsargon-kifejezés
+cant#álszent frázisok;alvilági nyelv;ámító beszéd;billenés;billentés;csibésznyelv;csoportnyelv;dõl;dõlés;élénk;éneklõ beszédmodor;faél;faragott gerenda;felbillen;felbillent;felborít;feldõl;felfordít;félrehajlít;félrelök;ferde él;ferde lap;ferdén áll;ferdére vág;ferdeség;ferde sík;ferde szél;ferdeszögben csiszol;ferdeszögben metsz;fûrészelt gerenda;hajlik;horgony körül mozog;kántáló beszédmodor;kantni;kegyes frázisokat ont;kegyeskedõ frázisok;kenetes frázisokat ont;képmutatás;lejt;lejtés;lejtõssé tesz;lökés;megbillent;megdõl;megdönt;meglök;odébb lök;odébb taszít;oldalára dõl;oldalt dönt;rézsútosan áll;rézsútos lap;rézsútosság;rézsútos sík;sarok;szakmai zsargon;szalmai tolvajnyelv;szédítõ beszéd;szélez;szenteskedõ frázisok;szenvelgés;szöglet;szögletes fûrészáru;tolvajnyelv;üres frázisokat ont;vidám
+canvas awning#napellenzõ;ponyvatetõ
+canvasser#házaló ügynök;kortes
+canvass#házal;korteskedés;korteskedik;meghány-vet;megvitat
+canvas#kanavász;olajfestmény;vászon
+can#abbahagy;alfele vkinek;altáj;autó;bádogdoboz;bebörtönöz;befõz;bödön;börtön;budi;doboz;elbocsát;elhalaszt;fej;felhagy;félreállít;félretesz;fenék;kanna;kitesz;klotyó;kobak;konzerv;konzervál;konzervdoboz;mell;pléh kaszni;repülõgép;siti;talonba rak;tartósít;tejcsárda;tejcsarnok;vécé
+canny#okos;ravasz
+canyoned#szurdokos
+canyon#kanyon;szurdok
+capability#adottság;képesség
+capable#alkalmas;hozzáértõ;képes
+capacious#nagy befogadóképességû;tág;tágas
+capacitor#kapacitás;kondenzátor;sûrítõ
+capacity#befogadóképesség;felvevõképesség;hengerûrtartalom;hordképesség;kapacitás;képesség;kihozatal;megmunkálható legnagyobb darabméret;munkaképesség;munkateljesítõ képesség;névleges teljesítmény;tartalom;teherbírás;tehetség;teljesítmény;teljesítõ képesség;térfogat;termelõképesség;ûrtartalom
+caped#köpenyes
+caper#bakugrás;csíny;fickándozás;kapribogyó;kópéság;szökdécsel;ugrál
+cape#földfok;köpeny;körgallér;pelerin
+capillarity#hajszálcsövesség
+capillary#hajszál-;hajszálcsõ;hajszálcsöves;hajszálér;hajszálfinom;hajszálvékony
+capitalize#hasznosít;kihasznál;nagy kezdõbetûvel ír;tõkésít;tõkét kovácsol
+capital#alaptõke;desztilláló sisak;fontos;fõ-;fõbenjáró;fõváros;kapitális;kéménysisak;kéménytoldat;kitûnõ;legfõbb;lényeges;nagybetû;oszlopfõ;remek;tõke;törzsvagyon
+capitulate#kapitulál;megadja magát
+capitulation#feladás;felsorolás;kapituláció;megadás
+capon#kappan
+capper#csúcsa vminek;dugaszoló munkás;kupakoló munkás;teteje vminek;tetõpont
+cap ribbon#köriratos szalag
+capricious#önfejû;szeszélyes
+cap screw#sapkacsavar;záró csavar;zárt anya
+capsize#felborít;felborul
+capstan#csörlõ;forgófej csúszószánja;függõleges tengelyû csörlõ;gugora;járgány
+capsule#kapszula
+captaincy#kapitányi rang;kapitányság;parancsnokság;századosi rang;vezetés
+captainship#hadvezéri rátermettség;kapitányi rang;kapitányi rendfokozat;századosi rang;századosi rendfokozat
+captain#aknász;bányamester;csapatkapitány;hadvezér;hajóparancsnok;hajóvezetõ;kapitány;kapitánya vkinek;parancsnok;parancsnoka vkinek;parancsnokol;százados;századosi rangban parancsnokol;szürke morgóhal;vezér;vezérevezõs;vezet;vezetõ
+caption#fej (okiraté);felirat;képaláírás;képszöveg
+captivate#elbájol;meghódít;megnyer
+captivating#elbájoló;megnyerõ
+captivation#elbájolás
+captive#bebörtönzött;foglyul ejtett;fogoly;letartóztatott;rab;rabul ejtett;rögzített
+captivity#fogság;rabság
+captor#foglyul ejtõ
+captured#foglyul ejtett
+capture#befog (részecskét);bevesz (várat);elfog;elfogás;foglyul ejt;megragad (figyelmet);zsákmány;zsákmányol;zsákmányolás
+cap#fedél;fedõ;fejkötõ;felülmúl;fityula;kivezetés;kupak;lefõz;sapka;sapkával ellát;tetõ;válogatott csapatba bevesz
+carabine#karabély
+carabinieer#karabélyos;vadász
+carabinier#karabélyos;vadász
+carabin#karabély
+caramel#égetett cukor;karamell
+carat#karát
+caravan#vontatott lakókocsi
+carbide#karbid
+carbineer#karabélyos
+carbine#biztonsági rugóshorog;karabély;karabiner;rugóshorog
+carbolated#karbolos;karbolsavas
+carbolize#karbolsavval átitat;karbolsavval kimos;karbolsavval lemos
+carbonaceous#karbonátdús
+carbonate#karbonát
+carbon copy#másodpéldány
+carbon paper#indigó
+carbon#átütéses másolat;elemi szén;elszínezõdött ipari gyémánt;fekete ipari gyémánt;indigó;indigómásolat;karbonádó;karbonpapír;kopírpapír;másolat;másolópapír;szén;szénrúd
+carbozine#acélt cementál;karbonizál;szenesít;szenet szárazon lepárol
+carburetor#karburátor;porlasztó
+carburetter#karburátor;porlasztó
+carburettor#karburátor;porlasztó
+carcase#dög;hulla;tetem
+carcass#dög;hulla;tetem
+carcinogenic#karcinogén;rákkeltõ
+cardamom#malabár-kardamóm;malabár-kardamomum
+cardamum#malabár-kardamomum
+cardboard#karton;kartonpapír
+card file#cédulagyûjtemény;kartotékdoboz;nyilvántartás
+card game#kártyajáték
+cardiac#szív
+cardia#gyomorszáj
+cardigan#kardigán
+cardinal#bíboros;legfõbb;sarkalatos
+card index#cédulakatalógus;kartotékdoboz;nyilvántartás
+cards#kartotékok;kártya
+card trick#kártyamutatvány
+card#fickó;gyapjúfésû;kártoló;kartotéklap;kártya;lap;levelezõlap;névjegy
+careen#hajót oldalára fordít
+career man#hivatásos állami alkalmazott;karrierista
+career#életpálya;elõmenetel;hivatás;karrier;pályafutás;rohanás;szalad;vágtat
+carefree#gondtalan
+careful#gondos
+carelessly#gondatlanul
+carelessness#gondatlanság
+careless#figyelmetlen;gondatlan;gondtalan
+caress#átölel;átölelés;cirógat;cirógatás;csókolás;dédelget;dédelgetés
+caretaker#gondnok;házfelügyelõ
+careworn#elcsigázott;gondterhelt
+care#aggodalom;gond;gondoskodás;gondosság;gondozás;hajlandó vmit megtenni;igyekezet;szeretne vmit megtenni;törõdés;törõdik
+cargo battens#hombár hosszpántok
+cargo bay#raktér
+cargo door#rakodónyílás
+cargo hold#hajótér;raktér
+cargo#rakomány;teher;teherárú
+caribee#karibi
+caribou#rénszarvas
+carib#karib
+caricature#karikatúra;karikatúrát rajzol;kifiguráz;torzít;torzkép
+carillonneur#harangjáték kezelõje
+carillon#harangjáték;harangjátékmû billentyûsorral;szól a harangjáték
+car mechanic#autószerelõ
+carnage#mészárlás;vérontás
+carnal sins#testi bûnök
+carnal#érzéki;gyilkos;hívságos;húson élõ;mondén;nemi;testi;vérengzõ;világi
+carnation#szegfû
+carnival#farsang;karnevál
+carnivore#húsevõ
+carnivorous#húsevõ
+carol#csattog (pacsirta);dalol;énekel;örömének;pacsirtacsattogás;pacsirtadal;pacsirtatrillázás;trillázik;vidám ének
+carom#biliárd;biliárdozik;karambol;karambolozik
+carousal#ivászat;mulatás;tivornya
+carouse#dõzsöl;iszik;mulat
+carpal joint#kézcsukló
+carpenter#ács;asztalos
+carpeting#beszõnyegezés;bitumenezés;dorgálás;intés;kavicsozás;szidás;szõnyeg;szõnyeganyag;szõnyegezés
+carpet#felhint;lehord;összeszid;szõnyeg;szõnyeggel borít;szõnyeggel takar
+carping#ócsárló
+carport#fedett autóparkoló;fészer-garázs;két oldalán nyitott fészer-garázs;többemeletes garázs
+carp#ócsárol;ponty
+car rental#gépkocsi kölcsönzés;gépkocsi-kölcsönzés
+carriageway#kocsiút;országút;úttest
+carriage#ágyszán;állvány;állványzat;csillealváz;csúszószán;fenéklap;futókocsi;futómû;fuvar;fuvardíj;fuvarozás;gondola;írógépkocsi;jármû;kas;kocsi;kocsiszerkezet;lövegtalp;orsószán;szállítás;szállítmány;szán;tarifa;távgépíró-kocsi;testtartás;vagon;varrógéphajtó
+carrier#hordozó
+carrion#dög;hulla
+carrots#sárgarépa
+carrot#sárgarépa
+carrycot#mózeskosár
+carrying#elfogadás;szállítás;várbevétel;vitel
+carryon#sportszatyor;sporttáska
+carry#beszállít;cipel;elfoglal;elszállít;elvisz;hord;hordoz;hordtávolság;megnyer;röppálya;röptáv;röptávolság;szállít;vezet;visel;visz;von
+carse#termékeny lápföld
+cartage#fuvardíj;fuvarozás
+cartesian#derékszögû;Descartes-féle
+carthorse#igásló
+cartilage#porc;porcogó
+cartographer#térképész
+cartographic#kartográfiai;térképészeti
+cartograph#illusztrált térkép;térkép
+cartography#térképészet
+carton#kartondoboz
+cartoonist#gúnyképrajzoló;karikaturista;tervezõ;torzképrajzoló;torzrajzoló
+cartoon#gúnyképet rajzol;gúnyrajz;gúnyrajzot készít;humoros rajz;karikatúra;karikatúrát készít;rajzfilm;rajzvázlat;szatirikus rajz;torzkép;vázlatot készít
+cartridge#biztosító dugó;lõszer;papíralak;patron;töltény;tölténytár
+cartwheel#cigánykereket hány;kocsikerék
+cart#elszállít;fuvaroz;hord;kézikocsi;kocsi;kordé;szállít;szekér;taliga;targonca
+carver#képfaragó;szeletelõkés
+carve#darabol;farag;kifarag;kivés;metsz;vág
+carving#fafaragás;faragás;faragvány;vésés
+car#autó;kocsi;vagon
+cascade#aláesik;fokozat;kaszkád;kaszkádba kapcsol;rohanó;sellõ;sorba kapcsol;vízesés;zuhatag;zuhog
+cascading#átívelés szigetelõláncon;kaszkádkapcsolás;önmorzsolódás;sorba kapcsolás;széthullás
+cascet#koporsó
+casement#ablakszárny;mégis
+case study#egyedi próba;egyedi vizsgálat
+casework#esettanulmány
+case#beburkol;becsomagol;behúz;bevon;doboz;eset;fiók;köpeny;láda;ládába rak;ládáz;szekrény;tartó;táska;tok;tokba rak;töltényhüvely;ügy
+cashier#pénztáros
+cashmere#kasmír;kasmírszövet
+cash money#készpénz
+cash register#kassza;pénztárgép
+cash#készpénz
+casing#burkolat;foglalat;köpeny;tok;tömítés
+casino#filagória;játékkaszinó;kaszinó;kerti ház;társas szórakozóhely
+casket#ékszerládikó;érckoporsó
+cask#hordó
+casque#búb;sisak
+cassata#olasz fagylaltféle
+cassava#kasszava;manióka;maniókalepény;maniókaliszt
+casserole#lábas;ragu;serpenyõ;tûzálló edény;tûzálló tál;vagdalék
+cassia#kasszia
+cassis#feketeribiszke-likõr
+cassock#reverenda
+castability#hígfolyósság;önthetõség
+castaway#hajótörött;kitaszított
+cast concrete#öntött beton
+caster#borsszóró;bútorgörgõ;cukorszóró;dobó;gipszöntõ;gurítókerék;meddõlapátoló;mintázó;öntõ;öntõgép;palaválogató;szóró
+caste#kaszt
+cast integral#egybeöntött;egy öntést képezõ
+cast iron#öntöttvas
+castle#bástya (sakkban);vár
+castoff#eldobott darab;kiselejtezett darab
+castoreum#hódzsír;kasztoreum
+castor gloves#hódprém kesztyû
+castorin#hódpézsma;kasztorin
+castors#asztali ecet és olajtartó;ecet és olajtartó
+castor#borsszóró;bútorgörgõ;cukorszóró;gördül;görög;gurítókerék;hód;hódbõr;hódprém;hódprém sapka;hódszõr;hódzsír;kasztoreum;szarufolt (ló lábán);szóró
+castrate#kasztrál;kiherél
+castration#kasztrálás;kiherélés
+cast shadow#árnyék
+cast steel#acélöntvény;öntött acél
+cast stone#mûkõ
+cast wool#silány gyapjú
+cast#árnyalat;cast,dob;cast,elhány;cast,elveszt;cast,hajít;cast,kioszt (szerepet);cast,kiszámol;cast,ledob;cast,levet;cast,önt (fémet);cast,vet;dobás;dobás távolsága;dobóhorgászásra alkalmas hely;dobott;egy alomnyi állat;egy ellésnyi állat;együttes;elhullatott tollak;elképzelés;elõadás;eltervezés;elvetélt állatok;elvetett;fajta;fluoreszkálás;fosszilis ásványi anyaggal kitöltött állatnyom;gipszkötés;gipszminta;gipszöntvény;hajítás;hajított;horogzsinór toldaléka;irány;irány (szemé);kefelevonat;kiöklendett hányadék;kiöklendezett hányadék;kirajzó méhcsalád;kivetés;kockavetés;lenyomat;levedlett bõr;minta;mozgás;negatív öntõminta;olvasztott;osztályrész;öntés;öntõminta;öntött;öntvény;összeadás;pillantás;pontok;sors;számítás;szemmozgás;szereposztás;színárnyalat;színezõdés;tervezés;típus;tömöntvény;ürülék;vetemedés;vetés;vetett;visszautasított
+casual hand#alkalmi munkás
+casualness#lezserség
+casualties#halálos áldozatok;veszteség
+casualty#baleset;baleseti sérült;haláleset;halálos baleset;halott;sebesült;sérülés;sérült
+casual ward#hajléktalanok menhelye
+casual#alkalmi;alkalmi munkás;hétköznapi;kényelmes;köznapi;lezser;nemtörõdöm;rendszertelen;utcai;véletlen
+casuarina#kazuárfa
+catabolism#bontó anyagcsere
+cataclysm#felfordulás;kataklizma;összeomlás;özönvíz;világfelfordulás;világkatasztrófa
+catacomb#katakomba
+catalepsy#merevkór;viaszmerevség
+catalogue#jegyzék;jegyzékbe vesz;katalogizál;katalógus;lajstromoz
+catalog#jegyzék;jegyzékbe vesz;katalogizál;katalógus;lajstromoz
+catalysis#katalízis
+catalyst#katalizátor
+catalytic#katalitikus
+catalyzer#katalizátor
+catalyze#katalizál
+catamaran#harapós nõ;hárpia;katamarán;összekapcsolt két párhuzamos állású csónak;tutaj;zsémbes nõ
+catapult#katapult;katapultál
+cataract#hályog;vízesés;zuhatag
+catarrh#hurut
+catastrophic#katasztrofális;szerencsétlen;végzetes
+catatonia#katatónia
+catatony#meredtség
+catcall#kifütyül;kifütyülés;lehurrog;lehurrogás
+catcher#fogójátékos
+catchline#fõcímsor;slágersor
+catchment#forrásfoglalás;vízbeszerzés talajvízbõl;vízgyûjtõ;vízgyûjtõ medence;vízgyûjtõ terület;víztároló
+catchphrase#divatos szólás
+catchup#ketchup
+catchword#divatos jelszó;élõfej (szótárban);õrszó
+catch#caught,beleakad;caught,elkap;caught,felfog;caught,fog;caught,kap (betegséget);caught,megakad;caught,megért;caught,megkap;caught,megragad;caught,rajtakap;caught,rászed;csapda;csappantyú;csel;elfogás;elkapás;fogás;fogas kérdés;kánon;retesz;zsákmány
+catchy#elbájoló;fogós;fülbemászó;ravasz
+catechism#hitoktatás;káté;katekézis;katekizmus
+categorical#feltétlen;határozott;kategorikus
+categorise#osztályoz
+categorize#kategorizál;osztályba sorol
+category#fogalomkör;kategória;osztály
+caterer#élelmezõ;élelmiszerszállító;ellátásról gondoskodó cég;szállító
+catering#élelmezés;ellátás;utasellátás
+caterpillar#hernyó
+caterwauling#macskazene;nyávogás;nyivákolás
+caterwauls#macskazene;nyávogás;nyivákolás
+caterwaul#kornyikál;lármázik;nyávog;nyávogás;nyivákol;nyivákolás;zajt üt
+cater#élelmez;ellát;gondoskodik
+cateshesis#catecheses,hitoktatás;catecheses,katekézis
+cat family#macskák családja
+catfight#mérges vita
+catfish#harcsa
+catflap#macskaajtó
+catfood#macskaeledel
+catharsis#catharses,katarzis;catharses,lelki megtisztulás
+cathartic#hashajtó
+cathode#katód
+cathouse#bordélyház;kupi
+catmint#gyöngymenta;illatos macskamenta
+catnap#szundikálás;szundítás;szunyókálás
+catnip#gyöngymenta;illatos macskamenta
+catsup#ketchup
+cattle#lábasjószág;marha
+catwalk#futóhíd;gyalogjáró;tetõjáró
+cat#csávó;hány;hapsi;korbács;krapek;macska;manus;muksó;pasas;rókázik;rosszindulatú nõ
+caucasian#kaukázusi
+caucasus#Kaukázus
+caucus#pártválasztmány;pártvezetõségi gyûlés
+caudal fin#farkuszony;faruszony;kormánysörény;kormányuszony
+caudal#fark-;farkhoz tartozó;farok-;farokhoz tartozó
+caudally#faroktájon;fartájon
+cauldron#katlan;üst
+cauliflower#karfiol
+caulk#tömít;tömítés
+causality#kauzalitás;okbeliség;okozati viszony;okság;okviszony
+causal#kauzális;ok-;okbeli;oki;okozati
+causative#mûveltetõ
+causeless#indokolatlan;oktalan
+causeway#töltésút
+cause#elõidéz;ok;okoz;per;ügy
+causing#okozó
+caustic#csípõs;égetõ;epés;maró
+cauterize#kiéget
+caution#biztosíték;csodabogár;egyéb veszély;figyelmeztet;figyelmeztetés;furcsa alak;intés;különös dolog;óvadék;óva int;óvatosság
+cautious#óvatos
+cavalryman#huszár
+cavalry#lovasság
+caveat#fenntartás;kikötés
+caveman#barlanglakó;cavemen,barlanglakó;cavemen,ösztönember;ösztönember
+cavernous#üreges
+cavern#barlang;üreg
+cave#barlang;kiváj;üreg
+caviare#kaviár
+caviar#kaviár
+cavity#lyuk;odú;szuvasodás;üreg;üresség
+cavorting#fickándozás;ugrabugrálás
+cavort#fickándozik;ugrabugrál
+cawing#károgás;krákogás
+caw#károg;krákog
+cayman#kajmán

@@ -1,0 +1,64 @@
+hyacinthine#ibolyakék színû
+hyacinth#cirkon;ibolyakék;ibolyakék szín;ibolyakék színû;jácint;jácintkõ
+hybridize#hibrid alakot hoz létre;hibridizál;keresztez;keresztezõdik;korcs alakot hoz létre
+hybrid#hibrid;keresztezett;keverék;korcs
+hydrant#hidráns;tûzcsap;vízcsap
+hydrargilite#hidrargillit
+hydrate#hidrál;hidrát;hidratál;hidrogénez
+hydration#hidrálás;hidratáció;hidratálás;hidrogénezés;vízfelvétel
+hydraulician#hidraulikus;hidraulikus mérnök;vízépítési szakértõ
+hydraulic#folyadéknyomásos;hidraulikus;víz-;víz alatt kötõ;vízi;vízmûtani;víznyomásos
+hydraulics#gyakorlati áramlástan;hidraulika;vízerõtan;vízmûtan
+hydra#édesvízi hidra;hidra;hidra-féle;lernai hidra;tömlõsbelû;vízikígyó
+hydrodynamic#áramlástani;hidrodinamikai
+hydrofoil#szárnyashajó
+hydrophobia#veszettség;víziszony
+hydrophone#hidrofon;víz alatti lehallgató készülék;víz alatti lehallgató-készülék;víz alatti mikrofon
+hydrophony#víz alatti hangjelzés
+hydropulper#anyagfeloldó;hirdopulper
+hydropulping#hirdopulperezés
+hydrotechny#vízmûtan
+hydrous#víztartalmú
+hyena#hiéna
+hygiene#egészségtan;egészségügy;higiénia
+hygienic#egészségügyi;higiénikus;tiszta
+hygroscopic#higroszkópos;nedvszívó
+hymnal#egyházi énekeskönyv
+hymn#egyházi ének;énekszóval dicsõít;zsolozsma
+hyped#felvillanyozott;jókedvû
+hyperactive#túlzottan aktív
+hyperbola#hiperbola
+hyperbole#nagyítás;szó szerint nem vehetõ túlzó kijelentés;túlzás;túlzó kijelentés
+hyperbolic#hiperbolikus
+hyperbolism#nagyítás;túlzás
+hyperbolist#háryjános;nagyokat mondó;túlzó
+hyperboloid#hiperboloid
+hypergolic#összekeverve spontán gyulladó
+hypertrophy#betegesen megnagyobbodik;betegesen túlteng;beteges nagyobbodás;hipertrófia;túlnövekedés;túltengés
+hype#agresszíven reklámoz;agresszív reklám;agyonreklámoz;csinnadratta;felhajtás;futtat (prostituáltat);hamis reklám;kábítószer-injekció;nyom;orrba-szájba dicsér;reklám;reklámoz
+hyphenated#nem teljesen asszimilálódott bevándorolt
+hyphenate#kötõjelet tesz;kötõjellel ír;kötõjellel összeköt
+hyphen#kötõjel;kötõjelet tesz;kötõjellel ír;kötõjellel összeköt;választójel
+hypnosis#hipnotikus állapot;hipnózis
+hypnotic#hipnotikus
+hypnotise#hipnotizál;megigéz
+hypnotism#hipnotizálás;hipnotizmus
+hypnotist#hipnotizõr
+hypnotize#hipnotizál;megigéz
+hypo bath#fixírfürdõ;redukáló fürdõ
+hypocrisy#álszenteskedés;hipokrízis;képmutatás
+hypocrite#álszent;hipokrita;képmutató
+hypocritical#álszent;álszenteskedõ;hipokrita;képmutató
+hypodermic#bõr alá adott injekció;bõr alá fecskendezett;bõr alatti
+hypotenuse#átfogó
+hypothecary#jelzálog-;jelzálogi;jelzálogos
+hypothecate#elzálogosít;jelzáloggal megterhel;zálogba tesz
+hypothec#jelzálog;zálogjog
+hypothermia#kóros lehûlés
+hypothetical#feltételezett;hipotetikus;képzelt
+hypo#hipochondria;injekciós fecskendõ;nátriumszulfát;szubkután injekció
+hysteresis#hiszterézis
+hysteria#hisztéria
+hysterical#hisztérikus
+hysteric#hisztérikus
+hysterics#hisztériás kitörés;hisztériás roham

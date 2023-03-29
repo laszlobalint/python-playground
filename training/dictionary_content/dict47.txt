@@ -1,0 +1,227 @@
+enable#képessé tesz
+enactment#becikkelyezés;kihirdetés;rendelet;törvény;törvényalkotás;törvénybe iktatás;törvényerõre emelés;törvényerõre emelkedés;törvényhozás;törvényhozó határozat
+enact#elrendel;törvénybe iktat
+enameling#emailírozás;lakkozás;zománcfestés;zománcozás
+enamelist#zománcmûvész;zománcozó
+enamelled#fényezett;lakkozott;mázas;zománc festésû;zománcozott
+enameller#tükörfényesítõ sajtó;zománcmûvész;zománcozó
+enamelling#emailírozás;fényezés;lakkozás;zománcfestékkel való bevonás;zománcfestés;zománcfestmény;zománcmunka;zománcozás;zománcozó mûvészet
+enamel paint#zománcfesték
+enamel#fényes arcfesték;fényez;lakk;lakkal bevon;lakkoz;máz;simít;zománc;zománc arcfesték;zománcáru;zománcedény;zománcfestékkel bevon;zománcmáz;zománcoz
+encampment#tábor;táborhely;táborozás
+encamp#elhelyezkedik;letáboroz;tábort üt
+encapsulate#betokosodik;tokba zár
+encase#tokba zár
+enchanted#elbûvölt;megbabonázott;megigézett
+enchanter#varázsló
+enchantingly#elbûvölõen;varázslatosan
+enchanting#elbûvölõ;varázslatos
+enchantment#bûvölet;varázs;varázslás;varázslat
+enchantress#igézõ nõ;varázslónõ
+enchant#elbájol;elbûvöl;elvarázsol;magával ragad;megbabonáz
+encirclement#bekerítés
+encircle#bekerít;körülfog;körülkerít;körülvesz
+encircling#körülvevõ
+enclave#beékelt terület
+enclose#bekerít;bezár;csatol;körülkerít;mellékel
+enclosure#bekerítés;kerítés;körülkerítés;körülzárt hely;melléklet;sövény
+encode#bekódol;kódol
+encomiast#dicsõítõ;hízelgõ;magasztaló;panegirikus
+encomium#encomia,dicshimnusz;encomia,dicsõítõ beszéd;encomia,dicsõítõ ének;encomia,magasztaló beszéd;encomia,magasztaló ének
+encompass#behálóz;bekerít;bezár;felölel;kijátszik;körülfog;körülölel;körülvesz;körülzár;övez;tartalmaz;túljár az eszén
+encore#megismételtet;megismétlés;megújráztat;ráadás;újrázás
+encounter#csetepaté;légyott;mérkõzés;összeakad;összecsap;összecsapás;összetalálkozás;összetalálkozik;összeütközés;párbaj;szerelmi légyott;találkozás;tompa illesztés;tusa;véletlen találkozás;viadal
+encourage#bátorít;felbátorít
+encroaching#tilosban járó
+encroachment#beavatkozás;túlkapás
+encroach#beavatkozik;beleavatkozik;betolakodik
+encrust#beborít;kéreggel bevon;kéregként lerakódik
+encumber#akadályoz;megakadályoz;meggátol;megnehezít;megterhel;terhel
+encumbrancer#jelzálogos hitelezõ
+encumbrance#hátráltatás;jelzálog;kellemetlenség;kényelmetlenség;kerékkötõ;megterhelés;szolgalom;teher;terhes kötelezettség
+endanger#kockáztat;veszélyeztet
+endearingly#gyengéden;megnyerõen;nyájasan
+endearing#gyengéd;kedveskedõ;megnyerõ;nyájas
+endearment#gyengédség;kedveskedés
+endear#megkedveltet;megszerettet
+endeavor#erõfeszítés;igyekezet;igyekszik;törekszik;törekvés
+endeavour#erõfeszítés;igyekezet;törekvés
+endemic#helyi járvány;helyi jellegû;népbetegség
+endgame#végjáték
+end gauge#határmérték-idomszer
+ending#befejezés;befejezõdés;halál;képzõ;rag;vég;végzõdés
+endless#se vége se hossza;szûnni nem akaró;végtelen
+endocrine#belsõ elválasztású;endokrin;endokrin mirigy
+endorsee#forgatmányos
+endorsement#forgatmány;forgatmányozás;hátirat;hozzájárulás;jóváhagyás
+endorser#forgató
+endorse#hátirattal ellát;hátlapra ír;helyesel;hozzájárul;jóváhagy
+endothermal#endoterm;hõelnyelõ
+endothermic#endoterm;hõelnyelõ
+endowment#adottság;alapítvány;alapítványozás;dotáció;dotálás;kiházasítás;tehetség
+endow#adományoz;alapít;alapítványt tesz;felruház (tehetséggel);járadékot biztosít;kiházasít
+end plate#mozgató idegvég
+end point#végforrpont;végpont
+end product#végtermék
+end rhyme#sorvégi rím
+end stone#fedõkõ
+end stress#sorvégi hangsúly;véghangsúly
+endurable#elviselhetõ
+endurance#állóképesség;béketûrés;eltûrés;kitartás;maradandóság;tûrés;üzemképességi idõtartam
+endurer#elszenvedõ;eltûrõ;szenvedõ;szenvedõ alany;szenvedõ fél;tûrõ
+endure#áll;bír;elbír;elszenved;eltart;eltûr;elvisel;fennmarad;kiáll;kibír;kitart;megadással tûr;megadással visel;megedz;megmarad;tart
+enduring#állhatatos;kitartó;maradandó;tartós
+end values#határértékek;szélsõ értékek
+end#befejez;befejezés;befejezõdik;befejezõ rész;bevégez;bevégzõdik;cél;célkitûzés;csonk;deszkadarabok;eselék;gerendavég;határ;hulladék;kártszalag;láncfonal;lezár (vitát);maradék;megszûnik;megszüntet;nyolc lábnál rövidebb gerenda;vágási forgács;vég;végcél;véget ér;véget vet;végpont;végzõdés;végzõdik
+enema#allövet;beöntés
+enemy#ellenfél;ellenség
+energetic#energikus;erélyes
+energize#áram alá helyez;erélyesen mûködik;erõt ad;felvillanyoz;stimulál
+energy#energia
+enervate#elerõtlenedett;elerõtlenít;elgyengít;enervált
+enfeeble#elgyengít
+enfold#beborít;beburkol
+enforceable#alkalmazható;érvényesíthetõ;perelhetõ
+enforced#erõltetett;erõszakolt;kényszeredett
+enforcement#alkalmazás;büntetõ szankció;hatályba léptetés;kierõszakolás;kikényszerítés;végrehajtás (törvényé)
+enforce#érvényre juttat;kierõszakol;kikényszerít
+enfranchise#felszabadít;választójogot ad
+engaged#elfoglalt;foglalt;harcban álló;összekapcsolódott
+engagement#alkalmazás;állás;elfoglaltság;eljegyzés;ígéret;kötelezettség;megbeszélés;megbeszélt találkozó;összekapcsolódás;program;szerzõdés;szerzõdtetés;ütközet
+engage#alkalmaz;eljegyez;elkötelezi magát;felvesz;kötelez;kötelezettséget vállal;lefoglal;leköt;összekapcsolódnak (fogaskerekek);szembeszáll;szerzõdtet;támad
+engaging#kellemes;megnyerõ;rokonszenves
+engender#elõidéz;nemz;okoz
+engine driver#mozdonyvezetõ
+engineering#fondorlat;gépesítés;gépészet;gépszerkesztés;hadmérnökség;machináció;mérnöki munka;mérnöki tudomány;mérnökség;mesterkedés;mûszaki tudományok;technika
+engineer#épít;forral;gépész;gépkezelõ;konstruál;mérnök;mesterkedik;mozdonyvezetõ;mûszaki katona;tervez
+engine fitter#géplakatos
+engine oil#gépolaj
+engines#hajtómû
+engine#gép;motor;mozdony
+english#angol
+engorged#eldugult;eltömõdött
+engorgement#eldugulás;elnyelés;felfalás;vértolulás
+engorge#befal;bekap;fal;felfal;magába töm
+engrain#bevés;megrögzít;rögzít;színtartóan fest
+engraver#gravírozógép;vésnök;vésõ
+engrave#bemetsz;bevés;gravíroz
+engraving#maratott klisé;metszés;metszet;vésés;véset
+engrossed#elfoglalt;lekötött
+engrosser#felvásárló;letisztázó;megszerkesztõ;összevásárló;szerkesztõ
+engrossment#belemerülés;elmélyedés;elmélyülés;elmerülés;kiállítás (okiraté);lemásolás;letisztázás;másolat;megszerkesztés;szerkesztés;tisztázat
+engross#durvává tesz;felhalmoz;felvásárol;kiállít;lefoglal;leír;leköt;lemásol;letisztáz;megfogalmaz;megszerkeszt;monopolizál;összevásárol;sûrít;vaskossá tesz;vastagít
+engulf#beborít;elnyel
+enhancement#erõsítés;fokozás
+enhance#emel;erõsít;fokoz;kihangsúlyoz;növel
+enigmatical#rejtélyes;titokzatos
+enigmatic#rejtélyes;titokzatos
+enigma#rejtvény;talány
+enjoyment#élvezet
+enjoy#élvez
+enlarge#kibõvít;kitágít;megnagyobbít;nagyít;növel
+enlarging#kiengedés;kitágítás;nagyítás
+enlightened#felvilágosult;tisztán látó;világosan gondolkodó
+enlistment#besorozás;sorozás;toborzás
+enlist#beáll katonának;besoroz;felcsap katonának;hívéül szegõdik;megnyer (híveket);toboroz;zászló alá áll
+enmesh#behálóz
+enmity#ellenségeskedés;gyûlölködés
+ennoble#megnemesít;nemesi rangra emel;nemesít;nemesség tesz
+ennobling#nemesítõ
+ennui#közöny;unalom
+enormity#gazság;iszonyúság;szörnyûség
+enormous#hatalmas;óriási;roppant nagy
+enough#elég;elégséges
+enquire#kérdezõsködik;nyomoz;vizsgálatot folytat
+enquiringly#érdeklõdõen
+enquiry#érdeklõdés;kérdezõsködés;nyomozás;tudakozódás;vizsgálat
+enraged#felbõszült
+enrage#felbõszít;felbõszült
+enrapture#elbájol;elragadtat
+enrichment#dúsítás;feldúsítás;feldúsulás;gazdagítás;gazdagodás;javítás;meggazdagodás
+enrich#gazdagodik;gazdagszik
+enrolling#beiratkozás
+enrollment#beiratkozottak;besorozás;felvétel
+enroll#beáll;beiktat;beír;beiratkozik;bejegyez;besoroz;felvesz
+enrolment#beiratkozás;beiratkozottak;besorozás;felvétel
+enrol#beáll;beiktat;beír;beiratkozik;bejegyez;besoroz;felvesz
+ensconce#behúzódik;betelepszik
+ensemble#együttes;több részes nõi ruha
+enshrine#kegyelettel gondoz;kegyelettel õriz
+ensigncy#tengerészzászlósi rang;zászlósi rang;zászlósi rendfokozat
+ensign#felségjel;jelvény;lobogó;nemzeti lobogó;tengerészzászlós;zászló;zászlós;zászlótartó tiszt;zászlóvivõ
+enslavement#elnyomás;rabigába döntés
+enslave#leigáz;rabszolgává tesz;rabul ejt
+ensnare#elcsábít;tõrbe csal
+ensnarl#összegabalyít;összekuszál;összezavar
+ensue#következik;származik
+ensuing#következõ;követõ
+ensure#biztosít;gondoskodik
+enswathe#bebugyolál;beburkol;bepólyáz
+entablature#koronapárkányzat
+entablement#lépcsõs oszlopbefedés;lépcsõs oszloptörzs-befedés;oszloptalapzat alsó része
+entail#hitbizomány;maga után von;õsiség;ráró;ró;vele jár
+entangle#belekever;összekuszál;összezavar
+entering#behatolás
+enterprise#vállalat;vállalkozás
+entertainer#házigazda;szórakoztató;vendéglátó
+entertaining#mulatságos;szórakoztató
+entertain#foglalkozik (gondolattal);szórakoztat;táplál (érzelmeket);vendégül lát
+enter#behatol;beír;bejegyez;bejön;belép;bemegy;benevez;bevezet;feljegyez;idomítani kezd
+enthalpy#entalpia
+enthralled#lenyûgözött;megigézett
+enthralling#lenyûgözõ
+enthrall#elbûvöl;rabjává tesz
+enthral#elbûvöl;rabjává tesz
+enthronement#megkoronázás;püspökké szentelés;trónolás;trónra emelés
+enthrone#felszentel;megkoronáz;trónra emel;trónt emel
+enthuse#lelkesedik;rajong
+enthusiasm#lelkesedés;rajongás
+enthusiastic#lelkes
+enthusiast#rajongó;rajongója vminek
+enticement#csábítás;elcsábítás;vonzerõ
+entice#csábít;elcsábít
+enticing#csábító
+entirely#maradéktalanul;teljesen
+entirety#egésze vminek;teljesség
+entire#egész;ép;hibátlan;teljes
+entitled#jogosult
+entitlement#jogosultság
+entitle#címet ad;címez;feljogosít
+entity#entitás;lényeg;lét;valóság
+entombment#elföldelés;eltemetés
+entomb#befogad (sír halottat);elföldel;eltemet
+entourage#kíséret
+entrails#belek;belsõ részek
+entrainment#folyadékfelragadás;légbeszívás;magával húzás;menesztés;vonatba rakodás
+entrain#bevagoníroz;vonatba rak;vonatra száll
+entrance#behatolás;bejárás;bejárat;bejövetel;belépés;bemenetel;egyetemi felvétel;elbájol;elragad;felvétel;hajótestnek a víz vonalán levõ elsõ része
+entrancing#elbûvölõ
+entrant#belépõ;jelentkezõ;kezdõ;pályakezdõ
+entrapment#visszatartás
+entrap#beugrat;felfog;kifog;megfog;tõrbe csal;visszatart
+entreat#bánik vkivel;esedezik;kér;könyörög
+entreaty#esedezés;folyamodás;könyörgés
+entree#húsos fogás
+entrepreneur#impresszárió;színházi vállalkozó;vállalkozó
+entropy#entrópia
+entrust#megbíz;rábíz
+entry#behatolás;beírás;bejárat;bejegyzés;belépés;benevezés;bevonulás;birtokbavétel;feljegyzés;szótári címszó
+entwine#egymásba fon;körülfon
+enumerate#elszámlál;felsorol
+enumeration#felsorolás
+enunciate#artikulál;enunciál;kiejt;kihirdet;kijelent
+enunciation#artikulálás;kiejtés;kihirdetés;kinyilatkoztatás
+envelope#átkötés;bevonat;boríték;burkolás;burkolat;burkoló;burkológörbe;elektroncsõbura;fénykoszorú;göngyöleg;rádiócsõbura;takaró
+envelop#beborít;beburkol
+enviable#irigylésre méltó
+enviously#irigykedve
+envious#gonosz;haragos;irigy;irigykedõ;rosszindulatú
+environment#környezet
+environs#környék;külsõ övezet;vidék
+environ#körülvesz;övez
+envisage#elképzel;elõre lát;kitûz;számol vmivel;szembenéz vmivel
+envision#felidézi a képét vminek;látomása van vmirõl;lelki szemeivel lát vmit
+envoy#követ;küldött
+envy#irigyel;irigység
+enwreathe#átfon;egymásba fonódik;koronáz;koszorúval övez;koszorúz;körülfon
+enzyme#enzim

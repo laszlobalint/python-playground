@@ -1,0 +1,117 @@
+swab#esetlen fickó;felmos;felmosórongy;felsúrol;feltörlõrongy;kenet;súrol;tampon;tamponoz;tisztogat
+swaddler#metodista
+swaddle#bepólyáz;pólya
+swad#csomó;embertömeg;kormozó rossz szén;tömeg
+swaggerer#jampec;szájhõs
+swaggering#fesztelenül fölényes
+swagger#büszkélkedik;felvágás;fesztelenség;henceg;hencegés;hepciáskodik;jampecos;parádézik;túlöltözött
+swag#bányász batyuja;bányász cucca;belóg;csavargó batyuja;csavargó cucca;fityeg;fõtesüllyedés;himbálódzik;himbálózás;imbolygás;imbolyog;ingadozás;ingadozik;ingás;lelóg;leng;lengés;lopott holmi;süllyedés;szajré;virágfüzérdísz;zsákmány
+swahili#szuahéli;szuahéli nyelv
+swain#parasztlegény;pásztorlegény;romantikus udvarló
+swale#gödör;gödrösödés;süllyedés
+swallow#bevesz vmit;elnyel;falat;fecske;felemészt;lenyel;lenyelés;nyel;nyelés
+swami#brámin;hindu úr;hindu vallásoktató;pandit
+swamp angel#mocsárlakó;mocsárlakó ember
+swamp buggy#légcsavarhajtású csónak
+swamp fever#mocsárláz
+swampland#mocsár
+swamp#eláraszt;elhalmoz;elönt;ingovány;láp;mocsár;posvány;tõzegtelep;vízzel tölt meg
+swampy#ingoványos;mocsaras
+swan#hattyú;káromkodik;méltóságteljesen mozog
+swapping#csere;cserebere;cserélés
+swap#csencsel;csere;cserebere;csereberél;cseretárgy;duplikát;elcserél;másodpéldány
+sward#gyep;gyepesít;pázsit
+swardy#füves;gyepes;pázsitos
+swarm#hemzseg;nyüzsög;raj;rajzik;sokaság;tömeg
+swarthiness#barnabõrûség
+swarthy#barna bõrû;füstös képû
+swart#barna bõrû;füstös képû
+swashbuckler#hetvenkedõ;kalandor;krakéler;szájhõs
+swastika#horogkereszt
+swathe#batyu;bebugyolál;beburkol;beköt;bepólyáz;csomag
+swathing#borogatás;göngyöleg;kötés;pólya
+swath#lekaszált rend;rend
+swat#agyoncsap;agyonüt
+sway#befolyás;befolyásol;billeg;elhajlik;hajlít;hatalom;himbál;himbálózás;hintázás;hintáztatás;ingás;ingat;inog;kibillenés;kilengés;lebeg;leng;lengés;lóbál;lóbálás;uralkodik;uralom
+swearing#eskütevés;esküvés vmire;káromkodás;megesküvés vmire
+swear#káromkodás;sware,sworn,esküszik;sware,sworn,esküt tesz;sware,sworn,esküt tétet;sware,sworn,esküvel fogad;sware,sworn,káromkodik;sware,sworn,megesket;sware,sworn,megesküszik;sware,sworn,szitkozódik;swore,sworn,esküszik;swore,sworn,esküt tesz;swore,sworn,esküt tétet;swore,sworn,esküvel fogad;swore,sworn,káromkodik;swore,sworn,megeskedtet;swore,sworn,megesket;swore,sworn,megesküszik;swore,sworn,szitkozódik;szitkozódás
+sweat band#izzasztó
+sweater#pulóver;szvetter
+sweat pants#melegítõnadrág
+sweat shirt#melegítõfelsõ
+sweatshirt#melegítõfelsõ
+sweat suit#melegítõ;tréningruha
+sweats#tréning
+sweat#éhbérért dolgozik;forraszt;izgul;izzad;kiveri a víz;kizsákmányol;lecsutakol;megizzaszt;robotol;szenved;verítékezik
+sweaty#átizzadt;fárasztó;fülledt;izzadó;izzadt;izzasztó;strapás
+sweden#Svédország
+swede#karórépa;svéd;svéd ember
+swedish#svéd;svéd nyelv
+sweeper#söprögetõ (futballban);szõnyegseprû;utcaseprõ gép
+sweepings#összesepert hulladék;összesepert szemét;összesöpört hulladék;összesöpört szemét;söpredék;szemét
+sweeping#átfogó;elsöprõ;nagy lendületû;rohanó;sebes;sepregetõ;seprõ;sodró;söprés;száguldó
+sweep#aknakeresõ hajó;áradás;átfogóképesség;elõretörés;elsodor;elsöpör;elsuhan;evezõvel hajt;gyors folyás;hordtávolság;iramlik;kanyarodik;kanyarulat;kéményseprõ;kotor (folyómedret);kútgém;lendületes haladás;letapogatás;méltóságteljesen vonul;nagy evezõ bárkához;nagy ív;nagy kanyar;összesöpört hulladék;pásztáz;pásztázás;peckesen lépdel;seper;söpör;söprés;suhan;suhintás;swept,söpör;tekintetét végigjáratja vmin;végigrohan;végigseprõ mozdulat;végigsöpör;végigszáguld
+sweet bay#európai nemes babér;európai nemes babérfa
+sweetbread#borjúmirigy
+sweet briar#illatos csipkerózsa;illatos vadrózsa
+sweet butter#teavaj
+sweet cider#almamust
+sweet corn#csemegekukorica
+sweet delight#édes gyönyörûség;édes öröm
+sweeten#édesít;kellemessé tesz;lágyít;megcukroz;megédesít
+sweet flag#kálmos
+sweetheart#babája vkinek;jár vki után;jegyes;kedves;szerelmes;szeretõ;teszi a szépet;udvarol
+sweet herbs#illatos konyhakerti fûszernövények
+sweetie#bonbon;cukorka;édesség;kedves;szerelmes;szeretõ
+sweetish#édeskés;egy kicsit édes
+sweetmeat#bonbon;cukorka;édesség
+sweet morsel#csemege;nyalánkság
+sweet stuff#édesség
+sweets#édesség
+sweet#andalító;aranyos;bájos;behízelgõ;bonbon;cukorka;csemege;dallamos;desszert;édes;édes bor;édes illat;édes öröm;édesség;finom illat;friss;házilag készített likõr;illatos;jó illat;jó illatú;jóízû;jószagú;kedves;kellemes;kénmentes;nyájas;savmentes;szagos;szelíd
+swelling#áradás;dagadás;dagadó;daganat;dombocska;dudor;duzzadás;duzzadó;duzzanat;duzzasztás;erõsödõ;kidudorodás;kiöblösödõ;megdagadás;megduzzadás
+swell#dagadás;divatos;domborulat;elegáns;elõkelõ;hömpölygés;hullámverés;kiemelkedés;klassz;pompás;remek;swelled,swollen,dagaszt;swelled,swollen,duzzaszt;swelled,swollen,kiemelkedik;swelled,swollen,megdagad;swelled,swollen,megduzzad;swelled,swollen,megnagyobbodik;swelled,swollen,növekszik;swelled,swollen,növel;swelled,swollen,puffaszt;swelled,swollen,súlyosbít;swelled,swollen,szaporít
+sweltering#fullasztó;izzadt;nyomasztó;tikkasztó;verejtékezõ;verejtéktõl csatakos;verejtéktõl lucskos
+swelter#állandó verejtékezés;bágyasztó forróság;bágyasztó hõség;bõséges izzadás;eltikkad;fulladozik;fullasztó forróság;fullasztó hõség;izzad;kókadozás;kókadozik;meló;nyomasztó forróság;nyomasztó hõség;robot;strapa;tikkad;tikkadás;tikkadtság;tikkasztó forróság;tikkasztó hõség;verejtékezik
+swerve#elkanyarodik;eltér;farol;félrefordul;fordulat;kanyarodás;megfarol;oldalt kicsúszik
+swiftly#fürgén;gyorsan;sebesen
+swiftness#fürgeség
+swift#fürge;gyors;gyorsan;motolla;sarlós fecske;sebes;sebesen
+swig#hörpint;iszik;kifeszít;kiherél;korty;nagy húzás;nagy korty;nagy kortyokban iszik;nagyokat kortyint;nagyokat kortyol;nem párhuzamos húzószálú csigasor;nyakal;vedel
+swill#kiöblít;lõre;lötty;moslék;nyakal;öblítés;öblöget;öblögetés;vedel;vedelés
+swimmer#úszó
+swimming#úszás
+swimsuit#nõi fürdõruha
+swim#az események sodrása;események sodrása;lebegés;swam,swum,átúszik;swam,swum,fennmarad;swam,swum,forog;swam,swum,fürdik;swam,swum,káprázik;swam,swum,kóvályog;swam,swum,kusza lesz;swam,swum,lebeg;swam,swum,leúszik;swam,swum,összefolyik;swam,swum,szédül;swam,swum,úszik;swam,swum,úszkál;swam,swum,úsztat;swam,swum,zavaros lesz;szédülés;úszás
+swindler#csaló;svindler;szélhámos
+swindle#becsap;csal;csalás;megcsal;rászed;svindli;szélhámoskodik;szélhámosság
+swine#disznó;sertés
+swing music#szvingzene
+swing#amplitúdó;elfordíthatóság;elfordulás;eltolódás;fordulás;forgás;hajó körmozgása horgony körül;himbálódzás;hinta;hintázás;ingás;kilengés;kilengés nagysága;lendület;lendületvétel;lengés;lengéstágasság;lengõ ütés;mozgási tér;ritmikus lejtés;ritmus;swung,csapódik;swung,elfordul;swung,eredményesen elintéz;swung,fordul;swung,forgat;swung,forog;swung,himbál;swung,himbálódzik;swung,hintázik;swung,hintáztat;swung,ingat;swung,inog;swung,lendül;swung,leng;swung,lenget;swung,lóbál;swung,mozgat;szabad forgás;szving;szvingtánc
+swipe#elcsen;elemel;ellop;erõs lendülettel üt;erõs ütés;kútgém;nyomókar
+swirl#forgatag;kavargás;kavarog;örvény;örvénylik
+swish#elegáns;megcsap;megsuhint;ostorcsapás;sikkes;suhint;suhintás;suhog;suhogás;sziszegés;zizegés
+swiss admiral#állítólagos tengerész;folyami tengerész;folyami tengernagy
+swiss guards#svájci gárda;svájci testõrök;svájci testõrség
+swiss roll#lekváros tekercs;piskóta rolád
+swiss#kapuõr;svájci;svájci gárdista;svájci nyelvjárás;svájci testõr;svájci zsoldos;testõr
+switchboard#telefonközpont
+switch desk#kapcsolóasztal
+switch handle#kapcsoló hajtókar;kapcsolókar
+switch#átállás;átkapcsol;áttérés;csapkod;elfordít;fordít;hajlékony ág;kapcsol;kapcsoló;kitérõbe irányít;lovaglópálca;más vágányra terel;megcsap;váltó
+swivel block#forgó csigasor
+swivel chair#forgószék
+swivel eye#bandzsa szem;gyorsan forgó szem
+swivel hook#forgóhorog;forgó kapcsolóhorog
+swivel joint#csuklópántos kötés;csuklós kötés;forgócsukló;kilengõ kötés
+swivel#elfordul;forgat;forgattyú;forgó;forgócsukló;forgógyûrû;forgókampó;forgó lövegtalp;forgórész;forgótengelycsap;forog;láncforgó
+swollen#dagadt;duzzadt;megdagadt;megduzzadt
+swooned#ájult;alélt;elalélt;ernyedt;lankadt
+swooningly#aléltan;elernyedve;elhalóan;ellankadva
+swooning#ájult;alélt;elaléló;elhaló;ernyedt;lankadt
+swoon#ájulás;elájul;elájulás;elalél;elhal
+swoop#elragad;felragad;hirtelen megrohanás;lecsap;lecsapás;lecsapás (ragadozó madáré);váratlan megrohanás
+sword belt#kardkötõ;kardszíj
+swordfish#kardhal
+sword#kard
+swung dash#hullámjel;szótári jel;tilde

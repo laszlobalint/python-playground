@@ -1,0 +1,125 @@
+vacancy#állás;megüresedés;semmi;ûr;üresség
+vacant#gondolat nélküli;kifejezéstelen;szabad;tunya;üres
+vacate#elhagy;elutazik;érvénytelenít;hatálytalanít;kiköltözik;kiürít;lemond;megakadályoz;semmisnek nyilvánít;szabaddá tesz;szabadságra megy
+vacationer#nyaraló;szabadságon levõ
+vacation#szünidõ
+vaccination#oltás
+vacillate#habozik;ingadozik;oszcillál;reszket;rezeg;tétovázik
+vacuousness#bárgyúság;gondolatszegénység;kifejezéstelenség;léhaság;ostobaság;tétlenség;üresfejûség;üresség
+vacuous#bárgyú;dologtalan;gondolatszegény;hülye;kifejezéstelen;léha;ostoba;tétlen;üres;üresfejû
+vacuum bottle#hõpalack;termosz
+vacuum brake#légfék
+vacuum flask#hõpalack;termosz
+vacuum pump#légszivattyú
+vacuum tube#elektroncsõ;vákuumcsõ
+vacuum valve#elektroncsõ;vákuumcsõ
+vacuum#kiporszívóz;porszívóz;vacua,légûr;vacua,légüres tér;vacua,vákuum
+vadose#vadózus
+vagabondage#csavargás;kóborlás
+vagabond#csavargó
+vagary#hóbort;szeszély
+vaginal#hüvely alakú;hüvelyi;hüvelyként környezõ;tok alakú
+vagina#hüvely;vagina;vaginae,burok;vaginae,hüvely;vaginae,levélburok;vaginae,vagina
+vagrant#csavargó;kóborló
+vaguely#bizonytalanul;határozatlanul;tétován
+vagueness#bizonytalanság;határozatlanság
+vague#bizonytalan;halvány;határozatlan;homályos;tétova
+vainglorious#beképzelt;dicsekvõ;hencegõ;kérkedõ;öntelt
+vainglory#beképzeltség;elbizakodott gõg;henceg;hencegés;kérkedés;kérkedik;kicsinyes hiúság
+vainly#hiába;hiábavalóan;hiún
+vainness#hiábavalóság;hiúság
+vain#csalóka;hiábavaló;hiú
+valance#ágyfüggöny;ágykárpit;függönytartó;karnis;kárpitszövet;keskeny kárpittal díszít;rojtos fodor;sárhányókötény;selyemdamaszt;szakállal díszít
+valence#ágyfüggöny;ágykárpit;kárpitszövet;molekula atomszáma;rojtos fodor;selyemdamaszt;vegyérték;vegyértékûség
+valency#molekula atomszáma;vegyérték;vegyértékûség
+valet bag#ruhatartó zsák
+valet#inas;kiszolgál;komornyik
+vale#völgy
+valiantly#bátran;vitézül
+valiant#bátor;derék;vitéz
+validate#érvényesít;jóváhagy;megerõsít
+validation#érvényesítés;jóváhagyás;megerõsítés
+validity#érvényesség
+valid#alapos;érvényes;indokolt;megalapozott
+valise#katonai poggyászzsák;kézitáska;poggyászzsák;útitáska
+valley#völgy
+valorize#árat megállapít;felértékel;valorizál
+valor#bátorság;hõsiesség;vitézség
+valour#bátorság;hõsiesség;vitézség
+valuable#értékes
+valuation#értékelés
+valued#becses;értékes
+valueless#értéktelen
+valuer#becsüs
+values#erkölcsi értékrend;értékrend;szellemi értékrend
+value#becsül;érték;értékel;megbecsül;tisztel
+valve flap#szelepcsappantyú
+valve piston#dugattyús tolattyú
+valve#elektroncsõ;kagylóhéj;rádiócsõ;szelep;tolózár
+vamoose#elillan;elkotródik;elszelel;kereket old;lelép;meglóg
+vamose#elillan;elkotródik;elszelel;kereket old;lelép;meglóg
+vampire#kalandornõ;süllyesztõ;szipolyozó ember;vámpír;vérszopó kísértet
+vampiric#szipolyozó;vámpírszerû;vérszopó
+vampirism#gyötrésre való hajlam;kínzásra való hajlam;vámpírokban való hit;vámpírok kegyetlenkedése;vámpírok vérszívása
+vanadium#vanádium
+vandalism#vandalizmus
+vandalize#lerombol;tönkretesz
+vandal#barbár;romboló;vandál
+vandykes#hullámos minta;tarajos minta
+vandyke#csipkéz;díszít;fodroz;van Dyke gallérral díszít
+vane#szárny;szélkakas
+vanguard#elsõ csatasor
+vang#csonkakötél
+vanilla#vanília
+vanishing#elenyészés;elenyészõ;eltûnés;eltûnõ
+vanish#elenyészik;eltûnik;elveszik
+vanity bag#piperetáska
+vanity case#piperetáska
+vanity#hiábavalóság;hiúság;öltözõasztal
+vanquishable#legyõzhetõ;leigázható;leküzdhetõ
+vanquished#legyõzött
+vanquisher#gyõzõ;gyõztes;hódító
+vanquish#gyõz;gyõzedelmeskedik;gyõzelmet arat;juhok tbc-je;legyõz;leigáz;leküzd
+vantage#elõny;fölény;kedvezõ alkalom
+van#arcvonal;élcsapat;elõcsapat;elõhad;elõõrs;élvonal;fedett teherkocsi;fedett teherszállító kocsi;fedett tehervagon;front;furgon;rostál;szárny;szárnyépület;szelel;szelelõlapát;szelelõrosta;szélmalomkar;teherautó;teherautón szállít;teherkocsin szállít;teherszállító kocsi;vezet;zárt teherszállító kocsi
+vapid#ízetlen;lapos;sületlen;unalmas
+vaporization#elgõzölögtetés;párologtatás;permetszerû szórás;porlasztás
+vaporizer#elgõzölögtetõ;párologtató;permetezõ;porlasztó
+vaporize#elgõzölög;elgõzölögtet;elpárolog;elpárologtat;elporlaszt;elporlik;párolog;párologtat
+vapor#dumál;fecseg;gõz;gõzölög;henceg;kigõzölgés;pára;párolog
+vapours#deprimáltság;idegesség;szeszély
+vapour trail#kondenzcsík
+vapour#dumál;fecseg;gõz;gõzölög;henceg;kigõzölgés;pára;párolog
+variable#állhatatlan;függvényváltozó;ingatag;módosítható;változékony;változó;változtatható;variálható
+variance#diszharmónia;ellentét;ellentmondás;eltérés;viszály
+variant#eltérõ;eltérõ olvasat;különbözõ;változat;variáns
+variate#sztochasztikus változó;valószínûségi változó;véletlen változó
+variation#ingadozás;váltakozás;változás;változat;variáció
+varied#sokféle;sokszínû;változatos
+variegated#tarka;változatos
+variegation#sokszínûség;tarkaság;tarkázás
+variety#változatosság
+various#különbözõ;különféle
+varnished#fényezett;lakkozott;politúrozott
+varnishing#belakkozás;fényezés;kencézés;lakkozás;politúrozás;szépítgetés
+varnish#fényez;fényezés;fénymáz;külsõ máz;lakk;lakkoz;politúr;politúroz;politúrozás;szépítget
+vary#megváltozik;módosít;tarkít;váltakozik;váltogat;változatossá tesz;változik;változtat
+vascular#ér-;véredény-
+vasectomy#ondóvezeték elkötése;vasektómia
+vase#váza
+vasodilation#értágulás
+vasodilator#értágító
+vastness#mérhetetlenség;óriási nagyság
+vast#hatalmas;óriási;rengeteg
+vatful#dézsányi;kádnyi
+vaticide#próféta gyilkosa;próféta megölése
+vaticinal#jövendölõ;jövõbe látó;prófétai
+vaticinate#jósol;jövendöl;jövendõt mond
+vaticinator#jós;jövendõmondó;próféta
+vat#csáva;csávába tesz;dézsa;dézsába tesz;erjesztõkádba tesz;kád;kádban erjeszt;kádba tesz;medence;tartály;tartályba tesz
+vaudeville#énekes-zenés vígjáték;kabaré;revü;varieté;vidám operett
+vaulted#boltozatos
+vaulter#akrobata;mûlovar;ugró;ugróakrobata
+vaulting#boltozat;szökellés;szökellõ;ugrás;ugró
+vault#átugrik vmit;beboltoz;bolthajtás;boltív;boltozat;boltozatos pince;égbolt;kripta;páncélterem;pince;rúdugrás;ugrás;ugrik
+vaunt#dicsekszik;feldicsér;hencegés;kérkedés;magasztal

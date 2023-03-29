@@ -1,0 +1,42 @@
+jealous#féltékeny
+jealousy#féltékenykedés;féltékenység
+jeans#farmernadrág
+jeep#dzsip
+jeers#többszörös csigamû
+jeer#bántó tréfa;csúfolódás;gúnykacaj;gúnyolódás;gúnyos kiáltás;kigúnyol;lehurrogás;sértõ hangnem;sértõ tréfa
+jell#alakul;kialakul;kocsonyásodik;megalvad
+jellyfish#medúza
+jelly#kocsonya;kocsonyásít;kocsonyásodik;lekvár;megkocsonyásít;megkocsonyásodik;zselé
+jeopardize#kockáztat;veszélyeztet
+jeopardy#kockázat;veszély
+jerkwater#isten háta mögötti;jelentéktelen;kisstílû;mucsai;piti;pitiáner;vicinális
+jerk#balfácán;balfasz;faszfej;hülyegyerek;lódít;lódítás;lök;lökés;meglök;megrándulás;megránt;rándulás;rángatózás;rángatózik;ránt;rántás;rázkódás;taszít;taszítás;tökfej;zökkenés
+jerky#döcögõs;egyenetlen;rázkódó;szaggatott
+jerry#bili;csapszék;csárda;éjjeliedény;ivó;kocsma;lebuj;német;német katona
+jersey#mez;nõi pulóver
+jester#udvari bolond
+jest#gúnyol;gúnyolódik;móka;mókázik;nevetség tárgya;tréfa;viccelõdés
+jet aircraft#sugárhajtású utasszállító repülõgép
+jet airliner#sugárhajtású utasszállító repülõgép
+jet airplane#sugárhajtású utasszállító repülõgép
+jet bomber#sugárhajtású bombázó
+jet disperser#porlasztó fúvóka
+jet engine#sugárhajtómû
+jet lance#szúróláng
+jet liner#sugárhajtású utasszállító repülõgép
+jet motor#sugárhajtómû
+jet plane#sugárhajtású utasszállító repülõgép
+jetsam#hajóroncs úszó darabjai;rakomány kidobása hajóról;tengerbe dobott áru;tengerbe dobott rakomány;tengerpartra kivetett tárgy
+jet stream#kondenzcsík
+jettisoning#lemondás vmirõl;tengerbe dobás
+jettison#hajóroncs úszó darabjai;könnyítésül kidob;megszabadul vmitõl;rakomány kidobása hajóról;tengerbe dobott áru;tengerbe dobott rakomány;tengerpartra kivetett tárgy
+jet#betûsorja;csapolóvályú;dobás;fecskendõ;fekete borostyánkõ;folyadéksugár;fúvóka;gagát;gázégõ;gázsugár;gázsugárhajtómû;gõzsugár;hajítás;hajólocsolófej;holtfej;hõlégsugár;kiáramló nyílás;kibocsát;kilövell;kiszögellés;kiszökken;kiugrás;koromfekete;légsugaras meghajtású;locsoló;locsolófej;lökhajtásos;lökhajtásos repülõgép;nagy kanál;öntõfej;öntvénysorja;rakétasugár;sugár;sugárban kiáramlás;sugárban kilövellõ anyag;sugárban kiszökkenés;sugárhajtású;sugárhajtású géppel repül;sugárhajtású repülõgép;sugárhajtómû;szurokfekete;szurokszén;vízsugár;zsett;zsettfekete
+jetty#kikötõgát;móló
+jeweled#ékesített;felékszerezett;köves (óraszerkezet)
+jeweler#ékszerész
+jewelled#ékesített;felékszerezett;köves (óraszerkezet)
+jeweller#ékszerész
+jewellery#ékszerbolt;ékszerek;ékszerészbolt
+jewelry#ékszerbolt;ékszerek;ékszerészbolt
+jewel#ékkõ;ékkõvel díszít;ékszer;ékszerrel díszít;kõ (órában)
+jew#zsidó

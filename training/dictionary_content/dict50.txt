@@ -1,0 +1,39 @@
+eradicate#gyökerestül kitép;kiirt;kipusztít;megsemmisít
+eradication#kiirtás;megsemmisítés
+eraser#radír;táblatörlõ
+erase#töröl
+erasure#törlés
+era#éra;kor;korszak
+erection#emelés;építmény;épület;erekció;felállítás;létesítés;összeszerelés
+erectness#egyenes tartás
+erector#emelõ;építõ;épületet emelõ;épületet építõ;gépezetet konstruáló;gépezetet összeállító;képvisszafordító szemlencse;konstruáló;konstruktõr;merevítõ izom;összeállító
+erect#égnek álló;egyenes;egyenesen álló;emel;feláll;felállít;függõleges;létesít;összeállít;összeszerel
+ere#mielõtt
+erin#írország
+ermine#hermelin
+erode#elhord;erodál;kimar;kimos;szétrág
+erogenic#erogén
+erogenous#erogén
+erosion#erózió;kimarás;lepusztulás
+erosive#eróziót okozó;kimaródást okozó
+eroticism#erotika;érzékiség;kéj;szerelmi gyönyör
+erotic#buja;erotikus;erotikus költemény;érzéki;kéjes;szerelmes vers;szerelmi;szexuális
+erotism#beteges érzékiség;erotizmus;érzékiség hajszolása
+erotogenic#kéjadó;kéjérzést okozó;nemi kéjérzést okozó
+erotomaniac#betegesen érzéki természetû;erotomániás
+erotomania#beteges szerelmi düh;erotománia;szerelmi düh
+errand#küldetés;megbízás
+errant#kóbor;megtévedt;tévelygõ;vándor;vándorló
+errata#errata;hibajegyzék;sajtóhibajegyzék
+erratic#akadozó;egyenetlen;kiszámíthatatlan;rendetlen;szeszélyes
+erratum#errata,elírás;errata,sajtóhiba
+erroneously#hibásan;tévesen
+erroneous#hibás;téves
+error#eltévelyedés;erkölcsi botlás;hiba;tévedés
+err#hibázik;téved;tévelyeg;vétkezik
+ersatz coffee#kávépótló;pótkávé
+ersatz#pót-;pótanyagból készült;pótlék
+erstwhile#ezelõtt;hajdan;hajdanában
+erudite#képzett;magas képzettségû;mûvelt;nagy tudásra valló;nagy tudásról tanúskodó;nagy tudású;tanult;tudományos;tudományos értékû;tudós
+erudition#erudíció;mûveltség;tanultság;tudományos képzettség
+erupt#kibújik;kinõ;kitör

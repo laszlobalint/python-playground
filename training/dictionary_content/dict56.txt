@@ -1,0 +1,133 @@
+fealty#hõség;hûbéreskü;lojalitás
+fearlessness#bátorság
+fearless#bátor;rettenthetetlen
+fearsome#ijesztõ;rémséges
+fear#aggodalom;aggódik;fél;félelem;félve tisztel;rettegés;tart vkitõl;tart vmitõl;tisztel;tisztelet;törvénytisztelet
+feasibility#megvalósíthatóság;valószínûség
+feasible#alkalmas;keresztülvihetõ;lehetséges;megvalósítható;valószínû
+feaster#ínyenc;lakmározó;vendég;vendéglátó;vendéglátó gazda
+feasting#dõzsölés;lakmározás
+feast#dõzsöl;gyönyörködtet;lakoma;lakomán részt vesz;megvendégel;ünnep;ünnepség;vendégség
+featherbrain#mamlasz;szeleburdi;szeles;üresfejû
+feather#feltollaz;forgat;habzik;hajladozik;hornyol;hornyosan illeszt;hullámzik;kilövi pár tollát vminek;lapjára fordít;lebeg;madártoll;nyomot keres;nyomra vezet;ring;szakállal lát el (nyílvesszõt);száll;szállingózik;szélet élez;szétfolyik;tajtékzik;tollakat növeszt;tollal díszít;tollal lát el;tollasodik;tollat tûz;tollazat;zászlóba állít
+feathery#elütõ színû szõrcsomó;hajladozó;lebegõ;pehelykönnyû;pehelyszerû;pelyhes;puha;ringó;tollas;tollszerû
+featureless#jellegtelen;mástól megkülönböztethetetlen
+features#tagoltság
+feature#arcvonás;attrakció;felvázol;fõ helyen közöl;jellegzetesség;jellemez;jellemvonás;kiemel;sajátság;szerepeltet;vonás
+feat#hõstett;mutatvány;tett
+feces#ürülék
+fecundate#megtermékenyít;termékennyé tesz
+fecundation#megtermékenyítés
+fecundity#termékenység
+fecund#termékeny
+federalism#föderalizmus;szövetségi államrendszer
+federal#államszövetségi;központi;szövetségi
+federate#államszövetségbe egyesít;államszövetséget alkot;államszövetségre lép;szövetséges;szövetséges társ;szövetségi
+fed#szövetségi hivatalnok;szövetségi ügynök
+feebleness#gyöngeség
+feeble#erõtlen;gyarló;gyenge
+feebly#erõtlenül;gyöngén
+feedback#visszacsatolás
+feeder#adagoló;cuclisüveg;elõke;etetõ;evõ;mellékfolyó;partedli;szárnyvonal;tápláló;tápvezeték;töltögetõ
+feeding#élelmezés;elõtolás;etetés;evés;takarmányozás;táplálás;táplálkozás;zabálás
+feedline#tápvezeték
+feed motion#elõtolás
+feedstock#betáplált alapanyag;betáplált nyersanyag
+feed#abrak;díjazott;eleség;elõtolás;etetés;evés;fed,adagol;fed,élelmez;fed,eszik;fed,etet;fed,takarmányoz;fed,táplál;fed,táplálkozik;fed,tápot ad;fed,tölt;takarmány;táplálás;táplálék;táplálkozás
+feeler#csáp;tapogató;tapogatódzás;tapogatózás
+feeling#érzékelés;érzelem;érzés;érzet;érzõ;hangulat;tapintás;tapintóérzék
+feel#érzék;érzékelés;érzet;felt,érez;felt,érint;felt,érzékel;felt,érzi magát vhogy;felt,keres;felt,kitapogat;felt,kotorász;felt,megérez;felt,megtapint;felt,tapasztal;felt,tapint;felt,végigtapogat;felt,vél;felt,vmilyennek érzik;fogás;hangulat;tapintás
+fee#díjaz vkit;fizetés;honorárium;hûbér;hûbérbirtok;illeték;illetmény
+feigned#erõltetett;kitalált;színlelt;tettetett
+feign#kitalál;kohol;színlel;tettet;tetteti magát
+feint#csel;cselez;cselfogás;félrevezetõ támadást indít;megtévesztõ támadás;színlelés;színlelt támadás;színlelt támadást indít
+feldspar#földpát
+feldspathic#földpát tartalmú
+felicific#boldogító
+felicitate#boldog;boldoggá tesz;boldoggá tett;boldogít
+felicitation#gratuláció;jókívánság;szerencsekívánat
+felicitous#boldog;helyesen alkalmazott;helyesen választott;illõ;szerencsés;találó;vidám
+felicity#boldogság;öröm;szerencse;szerencsés kifejezés;szerencsésség;szerencsés szó;szerencsés volta vminek;találó kifejezés;találó szó;találó volta vminek
+feline cough#makacs száraz köhögés
+feline#macska-;macskaféle;macskaszerû;macskatermészetû
+fellatio#felláció;pénisz érintése szájjal
+fella#férfi;fickó;manus;pacák;pasas;pasi;szivar;udvarló
+feller#férfi;fickó;manus;pacák;pajtás;pasas;pasi;szivar;udvarló
+fellowship#baráti társaság;barátság;diákság;egyesület;egyetemi ösztöndíj;hallgatóság;közösség;ösztöndíj;szövetség;tagság;társaság
+fellow#fickó;kutató ösztöndíjas;pajtás;párja vminek;pasas;tag;társ;vminek a párja
+fell#beszeg;bõr;kegyetlen;kopár hegyoldal;könyörtelen;ledönt;letaglóz;leüt;nyersbõr;szõrme;vad
+felonious#bûnös;büntetendõ;gonosz
+felon#aljas;álnok;bûntettes;gonosz;gonosztevõ;kegyetlen;körömágy-gyulladás;körömméreg
+felony#bûn;bûncselekmény;bûntett
+felt marker#filctoll
+felt#filc;nemez;nemezel;nemezelõdik;nemezzel bevon;összeáll;összefilcesedik;összetapad;szigetelõ fedéllemezzel befed
+female screw#anyacsavar
+female#nõi;nõstény
+feminine#nõies;nõnemû
+feminist#feminista
+femoral#combcsonti
+femur#combcsont
+fencer#vívó
+fence#kerítés;vív
+fencing#vívás
+fender#sárhányó;sárvédõ
+fen#láp;mocsár
+feral#állati;állatias;elvadult;nyers;vad;vadállati;vadon
+ferine cough#makacs száraz köhögés
+ferine#rosszindulatú;vad
+fermentation#erjedés;erjesztés;felizgatás;forrás;forrongás;izgalom;izgatás;zavar;zavargás
+fermented#erjesztett
+ferment#erjed;erjedés;erjeszt;erjesztõ;erjesztõ anyag;felizgat;forrongás;izgalom;kovász;megerjed;megerjeszt;nyugtalanság;zavargás
+fern#páfrány
+ferocious#kegyetlen;vad;vérengzõ
+ferocity#kegyetlenség;vadság
+ferret eyes#hiúz szemek
+ferret#menyéttel vadászik;vadászmenyét
+ferryboat#komp;komphajó
+ferryman#ferrymen,révész
+ferry scow#lapos vitorláskomp;uszály
+ferry#átszállít;komp;rév
+fertile#termékeny
+fertilizer#trágya
+fertilize#megtermékenyít
+fervently#hevesen
+fervent#buzgó;forró;heves
+fervid#buzgó;forró;heves
+fervor#buzgalom;forróság;szenvedély
+fervour#buzgalom;forróság;szenvedély
+fesse#címerpólya
+fess#címerpólya
+festering#fekélyes;fekélyesedés;feloszlás;gennyedés;gennyedõ;gyûlés;korhadás;korhadó;oszlás;oszló;rothadás;rothadó;üszkös;üszkösödõ
+fester#daganat;elgennyesít;elgennyeszt;elkorhad;fekély;feloszlik;gennyed;gennyedés;gennyesít;gerjed;gyûlik;gyûlik (harag);kelés;megrohaszt;megrothad;meggyûlik;oszlik;szít;táplál;üszkösödik
+festively#ünnepélyesen;ünnepien;vidáman
+festive#pityókás;spicces;ünnepélyes;ünnepi;ünnepies;ünnepi hangulatú;vidám
+festivity#ünnep;ünnepség;vidámság
+festoon#füzérdíszítés;füzérrel díszít;girland
+fetal#magzati
+fetchingly#elbájolóan;elragadóan
+fetching#elbájoló;elragadó
+fetch#csel;elbájol;elhoz;elragadtat;kikötõbe ér;megérkezik;távolság;trükk
+fetid buckeye#amerikai bokrétafa;amerikai vadgesztenyefa
+fetidity#büdösség;bûzösség
+fetid#büdös;rossz szagú
+fetishism#fetisizálás;fetisizmus;fétiskultusz
+fetishistic#fétis-;fétises;fétis jellegû;fétisszerû
+fetishist#bálványimádó;fetisizáló
+fetish#bálvány;fétis
+fetlock#bokaszõr;bokaszõrzet;csüdszõrzet
+fetter#béklyó;béklyóz;bilincsel;lábbilincs;megbilincsel
+fettuccine#vékony lapos tésztaféle
+fettucine#vékony lapos tésztaféle
+fettucini#vékony lapos tésztaféle
+fetus#magzat
+feudal tenure#hûbér;hûbéri birtok
+feudal#feudális;hûbéri
+feud#családi viszály;ellenségeskedés;hûbérbirtok;viszály
+fevered#lázas
+feverfew#kerti székfû
+feverishly#hevesen;lázasan
+feverish#heves;lázas
+fever#belázasít;belázasodik;felajzottság;hév;hõemelkedés;izgalom;izgatottság;láz;lázas;lázat okoz;lázba hoz;lázban ég;lázt okoz
+fever zones#maláriazónák;mocsárláz zónák;mocsárlázzónák
+fey#a vég közeledtét érzõ;bolondos;elátkozott;elvarázsolt;euforiás;halálra szánt;halált váró;haldokló;kótyagos;megbabonázott;szerencsétlen;túlvilági;vég közeledtét érzõ;végzetes;vizionáló
+fez#fezzes,fez

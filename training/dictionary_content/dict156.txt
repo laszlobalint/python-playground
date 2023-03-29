@@ -1,0 +1,401 @@
+traceable#kimutatható;kinyomozható;kipuhatolható;követhetõ;nyomon követhetõ
+trace element#nyomelem
+tracer bullet#nyomjelzõ lövedék
+tracer shell#nyomjelzõ gránát;nyomjelzõ lövedék
+tracer#elõfogat-erõsítõ ló;elõrajzoló;felfedezõ;irdaló;jelzett atom;keresõlap;kikutató;lógós ló;másoló;másolóüveglap;nyomjelzõ izotóp;nyomjelzõ lövedék;nyomozó;pontozó;rajzmásoló csúcs;szabórádli;tapintókörzõ;terv megrajzolója;vonal meghúzója
+tracery#áttört gótikus;kõcsipkézet;mérmû
+trace#átmásol;átrajzol;csapás;elenyészõ mennyiség;elõrajzol;felrajzol;felvázol;gondosan leír;hám;ír;istráng;kerékcsapás;kijelöl;kinyomoz;kis mennyiség;kiszimatol;lábnyom;maradvány;másol;megjelöl;megtalálja nyomait;nyom;nyomdok;nyomon követ;nyomvonal;tussal kihúz
+trackage#hajóvontatás (partról);vágányrendszer;vágányzat
+tracker#billentyûkötõ léc;hajóvontató;nyomozó személy;vadász
+track events#futószámok
+tracking#követés
+trackless#nyomot nem hagyó;sín nélküli;úttalan;vágánytalan
+trackman#vasúti pályafelvigyázó
+track suit#melegítõ
+tracksuit#melegítõ
+track suit#tréningruha
+tracksuit#tréningruha
+tracks#sín;vágány
+track#csapa;csapás;futófelület;hangbarázda;hernyótalp;kerék csúszásának útja;kerék forgásának útja;keréknyom;keréktávolság;kerékvágás;kikövetkeztet;kinyomoz;kocsiszélességnyi útsáv;követ;követõfelvételt készít;lábnyom;megszokott útvonal;menetvonal;nyom;nyomdok;nyomokat hagy;nyomon követ;nyomtáv;ösvény;pálya;pályatest;rendes útvonal;sáv;sín;sínpár;terelõpálya;útirány;útvonal;vágány;versenypálya;vontat (partról hajót)
+tractability#engedékenység;hajlékonyság;kezelhetõség
+tractable#engedékeny;hajlékony;jól megmunkálható;könnyen kezelhetõ
+tractate#értekezés;röpirat;traktátus
+traction#húzás;izom-összehúzódás;összehúzódás;vonás;vontatás
+tractor#traktor;vontató
+tract#értekezés;földsáv;idõszak;idõtartam;pászta;röpirat;szerv;tájék;terület;traktátus;vidék
+trade card#cégkártya;névkártya
+trade debtor#kereskedelmi vevõ
+trader#kereskedõ
+trade school#ipariskola;szakiskola
+trade secret#gyártási titok
+tradesman#tradesmen,iparos
+tradespeople#kereskedõk;mesteremberek
+trades union#szakszervezet
+trades#passzátszelek
+trade union#szakszervezet
+trade#foglalkozás;forgalom;ipar;kereskedelem;kereskedik;mesterség;rendszeresen vásárol;szakma;üzletet köt
+traditional#hagyományos
+trafficator#index;irányjelzõ
+trafficker#kalmár;üzér;üzérkedõ
+trafficking#üzérkedés
+traffic#adásvétel;forgalom;kereskedés;közlekedés;titkos kereskedés;trafficked,csereberél;trafficked,kalmárkodik;trafficked,kereskedik;üzérkedés
+tragedy#tragédia
+tragic actor#tragikus színész
+tragical#szomorú kimenetelû;szomorú végû;tragédiával kapcsolatos;tragikus;végzetes
+tragically#gyászosan;szomorúan;tragikusan
+tragic art#tragikus mûfaj
+tragic drama#tragédia;tragikus színmû
+tragic#gyászos kimenetelû;megrázó;siralmas;szomorújátékkal kapcsolatos;szomorú kimenetelû;szomorú végû;tragédia;tragédiaíró;tragédiával kapcsolatos;tragikum;tragikus;végzetes
+trailblazer#úttörõ
+trailer#filmelõzetes;inda;kacs;kúszónövény;lakókocsi;pótkocsi;utánfutó;vontatott lakókocsi
+trail spade#ágyútalp támaszrésze
+trail#a földet sepri;ágyútalp;cammog;csapás;csapáz;földet sepri;földön húzódik;földre ér;hosszúra nyúlik;kúszik;nehézkesen jár;nyom;nyomon követ;nyomot hagy maga után;nyomoz;ösvény;rendõrileg megfigyel;uszály;vonul;vonul vmi után
+train boy#fékezõ;vonatkísérõ fiú;vonatvezetõ fiú
+train brake#folytatólagos légnyomású fék
+trained#alakra nevelt;betanított;edzett;felfuttatott;gyakorlott;kiképzett;szakképzett
+trainee#gyakornok;szakmunkástanuló;újonc
+trainers#edzõcipõ;sportcipõ
+trainer#edzõ;idomító;oktató
+training#alakra nevelés;begyakoroltatás;edzés;felfuttatás;gyakorlat;idomítás;képzés;kiképzés;löveg megfordítása;nevelés;oktatás;oldalirányú célzás;trenírozás
+trainload#vonatrakomány;vonatterhelés
+train service#vasúti közlekedés
+trains#csalétek
+train ticket#menetokmány
+train#ágyútalp alsó része;együtt dolgozó fogaskerekek csoportja;elõkészít;emeltyûrendszer;farok;fogaskerék-áttétel;fogaskerék-meghajtás;fogaskerék-sorozat;hengersor;hosszú vonalban elszórt lõpor;impulzussorozat;irányít (fegyvert);képez;kiképez;kikészít;kíséret;láncolat;mechanizmus;népfelkelõ;polgárõr;sebességváltó olló;sor;sorozat;szán;szánkó;szegez (fegyvert);szerelvény;trén;treníroz;uszály;vonat;vonatosztály
+traitorous#áruló;hitszegõ
+traitor#áruló;hitszegõ
+trait#jelleg;jellegzetesség;jellemzõ vonás
+trajectory#pályagörbe;röppálya
+tramlines#villamosvágány
+trample#letapos;tapos
+tramp steamer#alkalmi teherhajó;szabadhajózást ûzõ teherhajó
+tramp#csavargó;csavarog;dübörög;fárasztó járkálás;gyaloglás;járkálás;kóborol;lábdobogás;lábdübörgés;lépések zaja;vasalás
+tram stop#villamosmegálló
+tram#villamos
+trance#transz
+tranquillity#békesség;csendesség;csöndesség;nyugalom;nyugodtság
+tranquilness#békesség;csöndesség;nyugalom;nyugodtság
+tranquil#békés;csendes;nyugodt;zavartalan
+transactions#kiadvány
+transaction#elintézés;lebonyolítás;megkötés;tranzakció;ügylet;üzlet
+transact#lebonyolít;végrehajt
+transborder#határon át;határon keresztül;határon túli
+transcendent#kitûnõ;páratlan;tapasztalattól független;transzcendens
+transcend#felülmúl;meghalad;túllépi a határait vminek
+transcribe#átír;felvesz (mûsort);leír;lemásol
+transcript#átírás;áttétel;kiírás;másolat
+transept#kereszthajó
+transferable#áthelyezhetõ;átruházható;engedményezhetõ
+transference#átengedés;áthelyezés;átköltözés;átruházás;átvitel
+transferor#átruházó;engedményezõ
+transfer#átenged;átengedés;áthelyez;áthelyezés;átigazol;átigazolás;átköltözik;átmásol;átmásolás;átruház;átruházás;átszáll;átszállás;átszállít;átszállítás;átutal;átutalás;átvisz;átvitel
+transfigure#átalakít;átszellemít;átváltoztat
+transfixion#átdöfés;átfúródás;átszúrás
+transfix#átdöf;áthat;teljesen átjár
+transformer#áramátalakító;trafó;transzformátor
+transform#átalakít;átalakul;átváltozik;transzform;transzformál
+transfuse#átömleszt;átönt;áttölt;átvisz;vérátömlesztést alkalmaz
+transfusion#átömlesztés;átöntés;áttöltés;elkeveredés;feltöltés;transzfúzió
+transgressor#bûnös;vétkes
+transgress#áthág;bûnt követ el;megszeg;túllép
+transhipment#átrakodás másik jármûre;átszállítás másik jármûre
+tranship#átrak;átszállít
+transience#átmeneti jelleg;múlékonyság;rövid idõtartam
+transiency#átmeneti jelleg;múlékonyság;rövid idõtartam
+transient#átmeneti;átmenõ vendég;futó;futóvendég;ideiglenes;mulandó;múló;tünékeny;tûnõ
+transistor#tranzisztor;tranzisztoros;tranzisztoros rádió
+transitional#átmeneti
+transition#átalakulás;áthaladás;átmenés;átmenet;átmeneti;átvezetés;ívátmenet;képátmenet
+transitive#tárgyas
+transitivity#tranzitivitás
+transitory#átmeneti;ideiglenes;mulandó;tünékeny
+transit#áruszállítás;áthaladás;átjárás;átmenés;átmenõ;átutazás;átutazó;tranzit-;tranzit
+translatable#lefordítható
+translate#értelmez;fordít;lefordít
+translation#fordítás
+translator#fordító;transzformátor
+translucent#átlátszó;áttetszõ
+transmission#adás;átadás;áttétel;erõátvitel;sebességváltó;továbbítás
+transmitter#adó;adóállomás;átadó;közvetítõ;távíró-adókészülék;telefonkagyló;terjesztõ
+transmitting#adás;adó;átadás;átadó;átvitel;átvivõ;közlõ;leadás;leadó;sugározás;sugárzó
+transmit#átad;átörökít;átvisz;közöl;közvetít;lead;sugároz;továbbad;továbbít;vezet
+transmute#átalakít;átváltoztat
+transom#keresztfa;keresztgerenda;osztófa;szemöldökfa
+transparency#átlátszóság;áttetszõség;dia;diapozitív
+transparent#átlátszó;áttetszõ;nyílt;õszinte;tiszta;világos
+transpire#kigõzölög;kiizzad;kipárolog;kipárologtat;kiszivárog;kitudódik;megesik;megtörténik;történik
+transplant#áttelepít;átültet;átültetendõ szerv;átültetett növény;átültetett szerv
+transport#beszállít;elragad;elragadtatás;extázis;fuvaroz;fuvarozás;hatalmába kerít;közlekedés;szállít;szállítás;szállítóhajó
+transposal#áttétel;áttevés;kicserélés
+transpose#áthelyez;áttesz;felcserél;más hangnembe áttesz;transzponál
+transposing#transzponálás;transzponáló
+transship#átrak;átszállít
+transvest#másik nem ruhájába öltözik
+trans#átható;átlós;fordítás;fordított;lefordított;szállítás;tárgyas;tárgyas ige;ügylet;üzlet;üzletkötés
+trapdoor#csapóajtó;kimászó ablak;süllyesztõ;szellõztetõ ajtó
+trapes#csatangol;csavarog;cselleng;jön-megy
+trapeze#trapéz (tornaszer)
+trapezist#légtornász
+trapper#prémvadász
+trappings#díszes lószerszám;ünnepi díszruha
+trap#agyaggalambdobó gép;bûzelzáró;csapda;csapdába ejt;csapdával fog;csapóajtó;felszerszámoz;kelepce;kidíszít;kordé;leállít (labdát);pofa;szagfogó;szagfogóval ellát;száj;tõrbe csal
+trash can#szemétláda;szeméttartó
+trash#alja nép;giccs;hulladék;limlom;ostoba beszéd;ponyva;ponyvairodalom;söpredék;szemét;vacak
+trashy#értéktelen;hitvány
+traumaticine#seb légtelenítõ;traumaticin
+traumaticin#seb légtelenítõ;traumaticin
+traumatic#nyomasztó emlékû;sérüléses;sérült;traumás
+traumatism#sérülés;sérült állapot;trauma;traumatizmus
+traumatize#megsebesít
+traumatology#sérülések tana;traumatológia
+trauma#sérülés;törés;trauma;traumata,sérülés;traumata,törés;traumata,trauma
+travail#vajúdás
+travel agency#utazási iroda
+travel bureau#utazási iroda
+traveller#utazó
+travelling#utazás
+travelogue#úti beszámoló;úti elõadás;útirajz
+travelog#úti beszámoló;úti elõadás;útirajz
+travel#bejár;beutazik;jár;járás;megtesz;megy;menet;terjed;utazás;utazik
+traverse#akadály;akadályoz;áthalad;áthaladás;átkel;átkelés;átlósan;átlós irányú;átlós vonal;áttekint;áttol;átvágás;boksz;cáfol;cikcakkos út;cikkcakkban halad;elfordul;elforgat;ellenállás;ellenez;ellenkezés;elutasít;elválasztó fal;elválasztó lap;elválasztó lemez;felmér;forog;függõleges mozgás;fülke;gát;gátló körülmény;gátol;gránátszilánk-fogó földhányás;harántgát;hosszirányban dolgozik;hosszirányban mozog;hosszirányú mozgást végez;keresztbe;keresztbe futó;keresztbe haladó;keresztbe húzódó;keresztben;keresztben gyalul;keresztben megmunkál;keresztben megy;keresztez;keresztgerenda;keresztsánc;kereszttartó rúd;keresztül;keresztülmegy;kifogásol;kileng;létrafok;nehézség;oldalgás;oldalirányít;oldalirányzás;oldalirányzással beirányít;oldalmozgás;oldaloz;oldalozás;oldalsánc;rövidítõ út;sokszögel;sorompó;szemügyre vesz;szerpentin;szerpentinút;szilánkfogó földhányás;tagad;tagadás;tolóajtó;tolópad;transzverzális;traverz;veszekedés;visszautasítás
+traversing#átkelés;átszelés;áttekintés;áttolás;hosszesztergályozás;keresztezés;oldalirányzás;oldalmozgás;oldalt csúszás;sokszögelés;tagadás;visszautasítás
+travesty#kifiguráz;nevetségessé tesz;paródia;rosszul ad elõ
+trawler#fenékhálós halászhajó;vonóhálóval halászó hajó;vonóhálóval halászó halász
+trawl#aknakeresõ berendezés;fenékháló;fenékhálóval halászik;fenékkötél horgokkal;fenékvonóháló;hajóhoz kötve húz;húzóháló;maga után vontat;vonóháló;vonóhálóval fog;vonóhálóval halászik;zsákháló
+tray#serpenyõ;tálca
+treacherous#áruló;hûtlen
+treachery#árulás;hûtlenség
+treacle#balzsam lelki sebekre;deákflastrom;melasz;melasszal bevon;melasszal fog;szirup;sziruppal leönt;theriáka
+treacly#édeskés;melaszos;mézesmázos;szirupos
+treadle#pedál
+treadmill#taposómalom
+treadwheel#mókuskerék
+tread#cipõtalp;futófelület;lépés zaja;trod,trodden,jár;trod,trodden,lépked;trod,trodden,megy;trod,trodden,tapos;trod,trodden,tipor
+treasonable#hazaáruló;hitszegõ
+treasonably#áruló módon
+treasonous#hazaáruló;hitszegõ
+treason#árulás;hitszegés
+treasured#nagyra becsült
+treasurer#kincstáros;pénztáros
+treasure#felhalmoz;kincs;kincsként õriz;megõriz (emlékezetben);nagyra becsül
+treasury#kincsesház
+treas#kincsesház;kincstár;kincstáros
+treatable#kezelhetõ
+treatise#értekezés;tanulmány
+treatment#bánásmód;eljárás;kezelés
+treat#bánik vkivel;élvezet;feldolgoz (témát);kezel;mulatság;ritka élvezet;vendégség
+treaty#megállapodás;szerzõdés
+treble clef#g kulcs;violinkulcs
+treble#felsõ szólam;háromszoros;háromszorosa vminek;háromszoroz;háromszorozódik;megháromszoroz;megháromszorozódik;szoprán;szoprán hang;szoprán szólam
+tree guard#fatörzsvédõ rács
+treeless#fátlan;kopár
+treeline#erdõhatár
+treetop#fatetõ
+tree trunk#fatörzs
+tree#akasztófa;bak;bitó;bitófa;dúc;élõfa;fa;faalakban csapódik ki;faalakot vesz fel;fára felkúszik;fára felzavar;fára kerget;fára menekül;felsámfáz;gerenda;gyám;kaptafa;kaptafára húz;kereszt;keresztfa;kínos helyzetbe hoz;kisámfáz;munkapad;nehéz helyzetbe hoz;nyeregfára kifeszít;sarokba szorít;támfa;tartó
+trefoil#lóhere
+trek#költözés;költözik;nagy út;nagy utat tesz;utazás;vándorol
+trellis#léccel elkerít;lugas;lugasra felfuttat;ráccsal elkerít;rácsozat;rácsra felfuttat
+tremble#borzong;didereg;remeg;remegés;reszket;reszketés
+trembling#remegés;remegõ;reszketés;reszketõ
+tremendously#borzasztóan;félelmetesen
+tremendous#borzasztó;félelmetes;óriási
+tremor#remegés
+tremulous#félénk;reszketõ
+trenchant#éles;erõteljes;határozott;metszõ
+trencherman#trenchermen,asztaltárs;trenchermen,evõ;trenchermen,jó evõ
+trench#árkot ás;árok;felás;folyóka;futóárok;lecsapoló árok;lövészárkot ás;lövészárok;mûvel;nyiladék;sáncol
+trend#áramlat;irány;irányvonal;irányzat;tendencia;trend
+trendy#divatos;menõ;modern;módi
+trepidancy#felbolydulás;felindulás;izgalom;kapkodás;lázas sietség;megbolydulás;rángás;rángatózás;rázkódás;remegés;reszketés;végtagok reszketése;zaklatottság
+trepidant#remegõ;reszketõ
+trepidation#felbolydulás;felindulás;izgalom;kapkodás;lázas sietség;megbolydulás;rángás;rángatózás;rázkódás;remegés;reszketés;végtagok reszketése;zaklatottság
+trepidity#felbolydulás;felindulás;izgalom;kapkodás;lázas sietség;megbolydulás;rángás;rángatózás;rázkódás;remegés;reszketés;végtagok reszketése;zaklatottság
+trespasser#birtokháborító;bûnös;tilosban járó személy;vétkes
+trespass#birtokháborítás;bûn;engedély nélkül átjár;jogsértés;törvénysértés;törvényszegés;túlkapás;vétek;vétkezik;visszaél
+tressed#felcsavart;felkötött;fürtös;fürtös hajú
+tresses#fürtök;hajzat
+tress#átköt;felköt;fürt;fürtökbe rendez;hajfonat;hajfürt;virágos ág
+trestle#állvány;bak;kecskeláb
+triage#prioritási sorrend (kórházban)
+trial balance#fõkönyvi kivonat
+trial docket#tárgyalásra kitûzött ügyek jegyzéke
+trial jury#ítélkezõ esküdtszék;kis esküdtszék
+trial#bírósági tárgyalás;kihallgatás;megpróbáltatás;próba-;vizsgálat
+triangle#háromszög;háromszögû vonalzó;triangulum
+triangular#háromszögû
+tribalism#törzsi rendszer
+tribal#törzsi
+tribesman#törzstag;tribesmen,törzstag
+tribe#faj;fajta;nem;néptörzs;pereputty;társaság;törzs
+tribulation#bánat;csapás;lelki kín;megpróbáltatás;szomorúság
+tribunal#bíróság
+tribune#néptribün;népvezér;szónoki emelvény
+tributary#adófizetõ;alárendelt;hûbéres;mellékfolyó
+tribute#adó;elismerés;hûbér;sarc;tartozás;tisztelet
+triceps#deltaizom;háromfejû izom;triceps
+trice#pillanat
+trickery#csalás;trükk
+trick flying#légi akrobatika;mûrepülés
+trickle#csepeg;csepegtet;csörgedezik;szivárgás;szivárog;vékony erecske
+trickster#csaló;szélhámos
+tricksy#agyafúrt;cicomás;csinos;díszes;elegáns;elmés;ravasz;takaros
+trick#becsap;csal;fogás;rászed;trükk
+tricky#agyafúrt;bonyolult;elmés;furfangos;ravasz
+tricot#lánchurkolt kelme;trikó;trikókötés;trikó-szövet
+tricycle#tricikli
+trident#háromágú szigony
+trifler#frivol személy;pepecselõ;piszmogó
+trifle#apróság;csekélység;egy kicsit;enyeleg;lebzsel;tréfálkozik
+trifling#csekély;felületesség;jelentéktelen;komolytalanság;könnyelmûség
+trigger#elõidéz;kioldó;kioldógomb;kivált;ravasz (lõfegyveré)
+triglyph#dór szegély dísze;triglif
+trigonometry#háromszögtan;trigonometria
+trihydric#hárombázisú
+trilby hat#puhakalap
+trilby#puhakalap
+trill#pergés;perget (hangot);trilla;trillázik
+trimly#csinosan;rendesen;takarosan
+trimmer#egyengetõ olló;fiókgerenda;horgászkészség nagy kerek faúszóval;kalap-átalakító;kiegyenlítõ kondenzátor;kiegyenlítõ lap;kikészítõ munkás;kiváltott gerenda;köpönyegforgató;körülvágó gép;lámpatisztító;leélezõ gép;nyesõ olló;nyesõolló;olló;opportunista;posztókikészítõ;rakomány-elrendezõ;ruhadíszítõ;sorjázó gép;szénegyengetõ berendezés;szénegyengetõ munkás;szerelõ;többpengés bütüzõ himbafûrész;többpengés bütüzõ körfûrész;utánhangoló kondenzátor;vágógép;vágószerkezet
+trimmings#forgács;körítés;levágott darabok;paszomány;sujtás;szegélydísz
+trimming#dísz;körülvágás;nyesés;nyírás;sujtás;szegély;szóvirág
+trimness#jó állapot;rendes külsõ;takarosság
+trim#alkalmazkodik;állapot;anyagilag becsap;anyagilag megrövidít;belsõ kárpitozás;borítás;csinos;díszít;egyensúlyi helyzet;elõkészít (vitorlát);farag;feldíszít;gondozott;gyalul;hulladék;jó állapotban levõ;jó karban levõ;jól ápolt;karban tartott;kicicomáz;kiegyenlítõlap;kiegyensúlyoz;kiegyensúlyozás;köpönyeget forgat;lehord;lenyes;lenyír;leszid;levágott szél;merüléskülönbözet;nyes;nyír;öltözet;paszomány;rend;rendbe hoz;rendben tartott;rendes;rövidre vág;ruházat;sujtás;szegély;szegélyez;szegélyezés;takaros;úszó helyzet;vágott szélesség
+trinity#háromság;három személy;három tárgy;szentháromság
+trinket#bizsu;csecsebecse
+trio#hármas;trió
+tripartite#háromoldalú;három részbõl álló
+trip circuit#kioldó áramkör
+trip coil#kioldó tekercs
+tripes#belek;bendõ;gyomor
+tripe#értéktelen holmi;kacat;limlom;pacal;szar;szennyirodalom;vacak holmi
+triple time#hármas ütem
+triplet#harmadpéldány;hármas;hármas ablak;hármas iker;hármas lencse;háromágú láncos billentõ;háromágú láncos buktató;háromágú láncos kirakodó;három dolog;három egységbõl álló együttes;háromsoros rím;háromsoros versszak;három személy;háromszoros rím;terzina;trió;triola;triplett
+triple#hármas;háromszoros;háromszoroz;háromszorozódik;megháromszoroz;megháromszorozódik
+triplex#háromszoros
+triplicate#harmadpéldány;három példányban készült;háromszoros;háromszoroz;megháromszoroz
+triply#háromszorosan;triplán
+tripod clamp#fényképezõállvány szorítócsavar
+tripod#bunsen-állvány;háromlábú
+tripos#kitüntetéses vizsga
+tripping#feltartás
+trip relay#kioldó relé
+trip#baki;baklövés;ballépés;beporoz;botlás;egyszeri menet két pont között;elbotlik;elbuktat;elgáncsol;felbuktat;felnyílik;felszakad;forduló;fuvarforduló;fürgén ad elõ;gáncs;gáncsol;gáncsolás;gáncsot vet;gáncsvetés;gikszer;hiba;hibát követ el;kábítószer okozta kábulat;kábulat;kicsatol;kikapcsol;kikapcsolás;kikapcsolódik;kikapcsoló szerkezet;kilincs;kiold;kioldás;kioldódik;kioldó szerkezet;kirándulás;kitüntetéses vizsga;könnyedén aprókat lépked;könnyed lépés;könnyen ad elõ;megakaszt;megbotlás;megbotlik;megdönt;meghiúsít;megtéved;melléfogás;mellélépés;nyelv;nyelvbotlás;nyelvbotlást követ el;nyitó berendezés;pecek;rajtakap vkit;szerelvény;szökellés;téved;tévedés;tipeg-topog;túljár vki eszén;túra;út;utazás;utazást tesz;utazik
+tristfulness#bánatosság;szomorúság
+tristful#bánatos;búbánatos;bús;szomorú
+trist#bánatos;bizalom;búbánatos;bús;remény;reménység;szomorú
+triteness#banalitás;elcsépeltség;közhely
+trite#banális;elcsépelt;közhelyszerû
+triumphantly#diadalmasan
+triumphant#diadalmas;diadalmaskodó;gyõzelmes
+triumph#diadal;diadalmámor;diadalmenet;diadalmenetet tart;gyõzelem;örömujjongás
+triumvirate#triumvirátus
+triumvir#triumviri,hármas kormány tagja;triumviri,triumvir
+trivalent#háromvegyértékû
+trivet#háromlábú állvány
+trivialise#banálissá tesz;elcsépel;hétköznapivá tesz
+triviality#banalitás;jelentéktelenség;köznapiság
+trivial#csekély fontosságú;egyhangú;elcsépelt;hétköznapias;jelentéktelen;unalmas
+trivia#jelentéktelen tények;lényegtelen dolgok;trivialitások
+trodden#kitaposott
+troika#hármas;triumvirátus;trojka
+trolley#kézikocsi;targonca;villamos
+trolling#villantós horgászat
+trollman#trollmen,varázsló
+trollop#lompos nõ;mocskos nõ;piszkos nõ;rendetlen nõ;ringyó;rossz hírû nõ;szajha;szutykos nõ
+troll#forgás;forgatás;hangosan énekel;jókedvûen énekel;kánon;kánont énekel;körének;manó;mozgó csónakról horgászik;óriás;törpe;vidáman énekel;villantó;villantókanál
+trombone#harsona
+trombonist#harsonamûvész
+trommeling#rostálás dobbal;szitálás dobbal
+trommel#dob;dobrosta;dobszita
+trooper#csapatszállító hajó;lovas katona;lovas rendõr;lovassági ló;motoros rendõr
+trooping#csapatgyülekezés;összesereglés
+troopship#csapatszállító hajó
+troops#csapatok;katonaság
+troop#csapat;csoport;csoportosul;falka;menetel;sereg
+trophity#trofitásfok
+trophy#diadalemlék;díj;hadizsákmány;trófea;vadásztrófea
+tropic acid#tropinsav
+tropical#trópusi
+tropic#délszaki;forró égöv alatti;forró égövi;térítõ;tropikus;trópusi
+tropics#forró égöv;trópusok
+trotters#birkaláb (étel);csülök;disznóláb
+trotter#ügetõló
+trot#megfuttat;siet;üget;ügetés;ügetésre fog
+troubadour#középkori dalnok;középkori dalos;trubadúr
+troubled#nyugtalan;zaklatott;zavaros
+troublesome#fáradságos;kellemetlen;kínzó;nehéz;neveletlen;zavaró
+trouble#aggaszt;aggodalom;aggódik;baj;bánkódik;betegség;fárad;fáradozás;fáradság;fáraszt;gond;hiba;nehézség;ne nevess korán;nyugtalanít;nyugtalankodik;szomorkodik;üzemzavar;veszi a fáradságot;veszõdik;zaklat;zavar;zavartatja magát
+troughful#teknõnyi;vályúnyi
+trough#árkos vetõ;bemélyedés;depressziós zóna;esõvízcsatorna;fatál;fenéktér;iszákos ember;katlan;kis légnyomású csatorna;kis légnyomású terület;öböl;serpenyõ;sütõteknõ;szállítóvályú;teknõ;teknõszerûség;tektonikus árok;vályú;vályús szállító készülék;vályúszerû mélyedés;vízlevezetõ csatorna;völgy
+trounce#elver;legyõz;lehord;leszid;megbírál;megkorbácsol;megver
+trouncing#elagyabugyálás;eldöngetés;elnáspángolás;megkorbácsolás;megverés
+trouper#színtársulat tagja
+troupe#színtársulat;trupp
+trousers#nadrág
+trout#pisztráng
+trove#gazdátlan kincslelet;kincslelet
+trowelful#vakolókanálnyi
+trowel#kõmûveskanál;ültetõkanál;vakolókanál
+troy#373,24 gramm;Trója
+truce#fegyverszünet
+truck driver#teherautó-sofõr
+truckdriver#teherautó-sofõr;tehergépkocsi-vezetõ
+trucker#bolgárkertész;teherautó-sofõr;tehergépkocsi-vezetõ;zöldségkertész
+truckload#teherkocsi-rakomány
+truck#fuvarkocsi;kamion;taliga;targonca;teherautó;teherkocsi
+truculence#garázdaság;vadság
+truculency#garázdaság;vadság
+truculently#vadul
+truculent#garázda;vad
+trudge#cammog;hosszú és fárasztó gyaloglás;vánszorog
+true altitude#valódi magasság
+true bill#megalapozottnak tekintett vád
+true blue#igazi hazafi;jó ügy kitartó harcosa;jó ügy megbízható harcosa;konzervatív
+true copy#hiteles másolat;másodlat
+true friend#hû barát;hûséges barát
+true ground#egyenletes pálya;egyenletes talaj
+true heading#tényleges irányszög;tényleges iránytartás;tényleges útirány;valóságos útirány
+true skin#derma;irha
+true story#igaz történet
+true time#valóságos idõ
+true#beállít;becsületes;beszabályoz;centíroz;eredeti;eredetivel megegyezõ;helyes;helyesen;helyrehoz;hiteles;hitelesít;hozzáigazít;hozzáilleszt;hû;hûséges;igaz;igazán;igazmondó;igazmondóan;igazul;igazság;igazságnak megfelelõ;kiigazít;kipróbált;kitartó;központosít;lojális;megbízható;megigazít;õszinte;õszintén;pontos;pontosan;rendületlen;szabályos;szabályosan;szabályszerû;tényleges;tulajdonképpeni;való;valóban;valódi;valóság;valóságnak megfelelõ;valóságos
+truffle#szarvasgomba
+truly#hûségesen;igazán;õszintén;tényleg;valóban
+trumpeter#kürtös;trombitás
+trumpet#elhíresztel;hallócsõ;híresztel;kikürtöl;szócsõ;trombita;trombitál;trombitaszó
+trump#adu;aduval üt;harsona;remek ember;remek fickó;ütõkártya;ütõkártyát kijátssza
+truncated#megcsonkított
+truncate#megcsonkít
+truncheon#gumibot
+trundle#alacsony targonca;görget;görgõ;görgõkerék;gurít;gurul
+trunk cable#összekötõ-vonalkábel;távolsági kábel
+trunk call#távolsági beszélgetés;távolsági hívás
+trunk check#személypoggyász feladási bárca;személypoggyász tárolási bárca
+trunks#ágyékkendõ;ágyéktakaró;combközépig érõ nadrág;fürdõnadrág;interurbán;rövid férfi alsónadrág;sportnadrág;távolsági bejelentõ;távolsági beszélgetés;testhezálló férfi alsónadrág;úszónadrág
+trunk#bõrönd;csomagtartó;értörzs;fatörzs;fõ közlekedési út;fõvonal;idegtörzs;iszapteknõ;iszapvályú;kiiszapol;koffer;köpeny;ormány;oszloptörzs;pillértörzs;rönk;távbeszélõvonal;torzó;tönk;törzs;tuskó;utazóláda
+trussing#összekötés;rácsos tartószerkezet
+truss#bálába köt;bordákkal feszít;csomó;csomóba köt;kitámaszt;merevít;nyaláb;összekötöz;rácsos szerkezet;rácsos tartó;rácsoz;sérvkötõ;váz;vázszerkezet
+trusted#bizalmas;megbízható
+trusteeship#gondnokság;gyámság;meghatalmazott mûködés;meghatalmazott tisztség;nemzetközi ellenõrzés;nemzetközi védnökség;vagyonkezelés
+trustee#célvagyon kezelõje;felügyelõ;gondnok;igazgatósági tag;kurátor;letéteményes;megbízott;megbízott személy;meghatalmazott;vagyonkezelõ
+trustfulness#bizalom
+trustful#bizalomteljes
+trustiness#megbízhatóság
+trustingly#bizalommal;bízva;reménykedve
+trusting#bizakodó;bízó;hívõ;remélõ;reménykedõ
+trustless#gyanakvó;megbízhatatlan
+trustworthy#becsületes;bizalomra méltó;biztos;elhihetõ;hiteles;hitelt érdemlõ;megbízható;szavahihetõ;tisztességes
+trust#bizalmi tulajdon-átruházás;bizalom;bizalommal viseltetik;célvagyonrendelés;érdekszövetkezet;felelõsség;hisz;hitel;hitelt ad;letét;letétbe helyez;megbíz;megõrzés;megõrzésre átad;meg van gyõzõdve;õrizet;rábíz;remény;reménység;tröszt
+trusty#becsületes;megbízható
+truthfulness#hitelesség;igazmondás
+truthful#igaz;igazmondó;õszinte;szavahihetõ
+truthfully#igazságnak megfelelõen;õszintén
+truthless#hamis;nem igaz;szószegõ;valótlan
+truth#igazság;valóság
+trying light#szemet fárasztó fény
+tryingness#alkalmatlan volta vminek;bosszantó volta vminek;kellemetlen volta vminek;terhes volta vminek
+trying#alkalmatlan;bosszantó;fájdalmas;fárasztó;gyötrõ;hosszadalmas;kellemetlen;keserves;kihallgatás;kipróbálás;lehangoló;megerõltetõ;megkísérlése vminek;megpróbálás;nehéz;próbálkozás;próbára tevõ;tárgyalás;terhes;unalmas
+tryout#kipróbálás;próba
+tryst#légyott;légyottot ad;randevú;randevúhely;randevúzik;találka;találkahely;találkát ad;találkozó;találkozóhely
+try#bíróság elé állít;ellenõriz;hárompontos gól (rögbiben);igyekszik;kihallgat;kipróbál;kísérlet;megerõltet;megkísérel;megpróbál;megvizsgál;próbálkozik;próbára tesz

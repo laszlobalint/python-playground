@@ -1,0 +1,219 @@
+clack ink#tus
+clack#csattan;csattog;fecseg;fecsegés;kattog;kattogás;locsog;zörgés;zörög
+cladding#védõburkolat
+claimant#felperes;igényjogosult;igénylõ
+claim#állít;érdemel;igény;igényel;igénnyel lép fel;igényt emel;igényt támaszt;igényt tart;joggal bír;jogosultsággal bír;jogot formál;követel;követelés;követeléssel lép fel
+clairaudient#telepata
+clairvoyance#éleslátás;látnoki képesség;spiritiszta távolbalátás;távolbalátás;tisztánlátás
+clairvoyante#látó asszony
+clairvoyant#éleslátású;jövõbelátó;látnok;látnoki erejû;látnoki képességû;látó ember;spiritiszta távolbalátó;távolbalátó;tisztánlátó
+clambake#kagylósütés
+clamber#kapaszkodás;kúszás;kúszik;mászik
+clammy hand#nedves kéz
+clammy mouth#tapadó lepedékes szájpadlás
+clammy skin#nyirkos bõr
+clammy#hideg;hideg izzadsággal lepett;megnyúlósodott;nedves;nyirkos;nyúlós;ragacsos;ragadós;sûrûn folyó;szalonnás;szappanos;tapadós
+clamorous#hangos;hangoskodó;kiabáló;lármás;nagyhangú;ordítozó;zajongó;zajos
+clamor#lárma;lármázik;moraj;zaj;zúg
+clamour#lárma;lármázik;moraj;zaj;zúg
+clamping#leszorítás
+clamp#árboctámasztó;befogópofa;befogószerkezet;burgonyaverem;csavar;csíptetõ;csõbilincs;csõpánt;csõszorító;döngõ járás;döngõ lépés;enyvezõ;felsõvezeték-szorító;fogó;halom;kampó;kapocs;lefog;leszorít;nehéz járás;otromba járás;összefog;összekapcsol;összeszorít;pofa;prizma;rakás;rögzít;saru;satu;sebkampó;sikattyú;szárított tégla saroglyába rakva;szemétdomb;szorító;szorítókapocs;szorítókeret;trágyadomb
+clamshell#markoló;önkiürítõ függõveder
+clam#árboctámasztó;befogópofa;befogószerkezet;csavar;csíptetõ;csõbilincs;csõpánt;csõszorító;ehetõ kagyló;enyvezõ;felsõvezeték-szorító béka;fogó;hallgatag ember;kagyló;kagylót gyûjt;kagylót szed;kapocs;lucskos;mogorva ember;nyirkosan hideg;saru;satu;sebkampó;sikattyú;szófukar ember;szorítókapocs;szorítókeret;szorítószerkezet;tapadós;zárkózott ember
+clandestina#vicsorgó rejtekfû
+clandestine#meg nem engedett;rejtett;tilalmas;titkos
+clanging#csengõ;kongó;zengõ
+clangorous#csengõ;éles;harsogó;kongó;metszõ;zengõ
+clang#cseng;csengés;csenget;rikácsol;rikácsolás;zeng;zengés
+clankingly#csengõen
+clanking#csengõ;csörgõ
+clank#cseng;csörgés;csörget;csörög;lánccsörgés;zörget
+clanky#csörgõ;csörömpölõ
+clannish#klánjához húzó;klikkjének érdekeit szolgáló
+clan#klán;skót törzs;törzs
+clapper#harangnyelv;kereplõ
+claptrap#feldicsérés;halandzsa;halandzsázó;handabandázás;hatásvadászat;hatásvadászó;hatásvadászó beszéd;nagyhangú;népszerûséget hajhászó beszéd;politikai vezércikk-stílus;porhintés;reklám;tetszetõs közhely;tetszetõs közhelyek;üres
+clap#csattanás;csattog;csattogtat;dörgés;durranás;gyenge ütés;kankó;kézlegyintés;kis pofon;megtapsol;mennydörgés;taps;tapsol;tapsolás;tripper;ütés;vállveregetés;veregetés
+claret#vörösbor
+clarifier#derítõanyag;derítõkészülék;derítõtartály;iszapkotró;víztisztító készülék;zavarszûrõ
+clarify#derít;kitisztul;leszûr;tisztáz;tisztít;tisztul
+clarinet#klarinét
+clarity#tisztaság;világosság
+clashing#csapás;csattanás;csattanó;csattogás;csattogó;csörömpölés;harsogó;kardcsörgés;összekoccanás;összeütközés;összeütõdés;recsegés-ropogás;recsegõ-ropogó;ütés;visszhangzás
+clash#csapás;csattanás;csörömpölés;ellenkezik;ellentét;ellentmond;ellentmondás;érdekellentét;fecsegés;kardcsörgés;nézeteltérés;összecsap;összecsapás;összekoccanás;összeüt;összeütközés;összeütközik;összeütõdés;pletyka;recsegés-ropogás;terefere;ütés;ütközik;visszhangzás;zörög
+clasp#átfog;átkarol;átölel;bekapcsol;csat;fogás;kampó;kapocs;kézszorítás;megragad;ölelés;összekapcsol
+class content#osztálytartalom
+class enemy#osztályellenség
+classes#elõkelõ társaság;elõkelõ világ;úri társaság
+class firing#össztûz
+classical#klasszikus
+classic#elsõrangú;kitûnõ;klasszikus;klasszikus mû;remekíró;remekmû
+classics#latin és görög nyelv,irodalom
+classifiable#besorolható;osztályozható
+classified#bizalmas;titkos
+classifier#osztályozó
+classify#besorol;osztályoz;rangsorol
+class mark#szakjelzet
+classmate#osztálytárs
+class meaning#osztályjelentés
+classroom#elõadóterem;osztályterem
+class war#osztályharc
+class work#gyakorlat;szeminárium
+class#beoszt;besorol;elõadás;év;évfolyam;fajta;fokozat;jeles osztályzat;jó osztályzat;kategória;kitûnõ osztályzat;korosztály;minõsítés;óra;osztály;osztályoz;rendszertani osztály;tanfolyam;tanítási óra;tanóra;társadalmi osztály;társadalmi rang;társadalmi rend
+classy#elõkelõ;finom;ízléses;klassz;príma
+clatter#csattogás;csörömpöl;fecseg;neszez;társalgás zaja;zörgés;zörget;zörög;zörömböl;zsibongás
+clause#cikkely;kikötés;mellékmondat;záradék
+claustral#klastromi;kolostori;zárdai
+claw#karmol;karom;köröm;megkarmol;megragad;olló (ráké);szöghúzó fogó;szöghúzó villásvég
+clayey marl#agyagmárga
+clayey#agyagos
+clay marl#agyagmárga
+claymore#kétélû skót kard;kétkezi skót kard;klémor
+clay#agyag;porhüvely
+cleaner#takarító;takarítónõ;tisztító
+cleaning#tisztít
+cleanliness#rendesség;tisztaság
+clean record#büntetlen elõélet;tiszta elõélet
+cleanse#purgál;tisztít
+clean sheet#büntetlen elõélet;tiszta elõélet
+cleansing#tisztítás
+clean slate#tiszta elõélet;tiszta lap
+cleanup#nagy haszon;razzia;tisztogatás
+clean#akadálymentes;jó;kitakarít;kitisztít;korrekt;lesúrol;megmos;mos;sima;súrol;takarít;teljesen;tiszta;tisztít;ügyes
+clearance#elvámolás;engedély;felszállási engedély;hézag;igazolvány;játék;kiárusítás;leszállási engedély;megtisztítás;szabaddá tétel;szabad mozgás;tér;térköz;vámkezelés;vámnyugta;vámvizsgálat
+clear bole#ágaktól megtisztított fatörzs;rönk
+clear estate#tehermentes birtok
+clear hawse#szabadon futó horgonylánc;szabadon futó kötél;tisztán futó horgonylánc;tisztán futó kötél
+clearing#igazolás (fasisztáé);tisztás
+clear loss#tiszta veszteség
+clearly#világosan
+clear profit#tiszta haszon;tiszta nyereség
+clear pulse#törlõ impulzus
+clear road#szabad a pálya;zöld út
+clear signal#szabad útjelzés;zöld út
+clear soup#átlátszó húsleves;húsleves
+clear timber#csomómentes fa;hibátlan fa
+clear voice#tiszta hang
+clear#akadálymentes;átlátszó;áttetszõ;átugrik;belterület;bevált (csekket);bizonyos;biztos;egész;egészen;el;érthetõ;érthetõen;felment;félre;hibátlan;kiderül;kiegyenlít;kifizet;kiürít;leszed (asztalt);levonás nélküli;lezár (számadást);makulátlan;megtisztul;mentes;nettó;nyilvánvaló;szabad;szabaddá tesz;szemléletes;teljes;teljesen;tiszta;tisztalelkû;tisztán;tisztán látó;tisztáz;tisztít;vámkezeltet;világos;világosan
+cleat#bõrszeg;ék;kikötõbak;kötélbak;léccel rögzít;léccel vezet;rögzítõléc;stopli;vezetõléc
+cleavage#hasadás;hasítás
+cleave#clave,cleaved,ragaszkodik;clave,cleaved,tapad;cleft,cleft,hasad;cleft,cleft,hasít;clove,cleaved,ragaszkodik;clove,cleaved,tapad;clove,cloven,hasad;clove,cloven,hasít;hasad;hasít;ragaszkodik;tapad
+cleft palate#farkastorok
+cleft#hasadék;szakadék
+clemency#elnézés;enyheség;irgalmasság;irgalom;kegyelem
+clement#elnézõ;enyhe;irgalmas;kedvezõ;kegyelmes
+clench#eldönt;fogás;horog;kampó;kapocs;kilincs;markolás;megköt;megmarkol;megragad;megszegel;összeerõsít;összeszegel;összeszorít;szorítás
+clepe#clept,hív;clept,nevez;hív;nevez;ycleped,hív;ycleped,nevez;yclept,hív;yclept,nevez
+clerestory#ablakokkal ellátott oldalkarzat;karzatvilágító ablaksor;kis ablakos torony;oldaltetõ feletti ablaksor;szellõztetõ nyílásokkal ellátott oldalkarzat
+clergyman#anglikán lelkész;anglikán pap;egyházi személy
+clergy#klérus;papság
+clerical#írnoki;klerikális;lelkész;pap;papi
+cleric#lelkész;pap
+clerkess#hivatalnoknõ;tisztviselõnõ
+clerk hand#szép kézírás
+clerkly#hivatali;írástudó;irodai;papi;tudós
+clerk#adminisztrátor;áruházi elárusító;egyházi személy;felszentelt pap;hivatalnok;hivatalnokoskodik;írástudó;írnok;irodai alkalmazott;kántor;kereskedõsegéd;könyvelõ;lelkész;pap;tisztviselõ;tudós ember;ügyintézõ;ügyvédbojtár;ügyvédjelölt;üzleti elárusító
+clever#ügyes
+clew#gombolyag;kulcsa vminek;nyitja vminek;nyom;nyomravezetõ jel;vezérfonal;vitorla alsó csúcsa;vitorla alsó csücske;vitorla alsó sarka
+cliché#elkoptatott frázis;közhely
+clicker#tördelõ
+click#bekapja a legyet;csattan;csattanás;csattant;csattog;csettintés;csörren;csörrent;eléri célját;elsõ látásra megszeret;elsõ látásra megtetszenek egymásnak;jókor jön össze;jól összeillik;jól összepasszol;kattan;kattanás;kattant;kattog;ketyeg;kettyenés;mázlija van;összepasszol;patkóit összeüti;sikere van;sikerül;szerencséje van;szerencsés;szerez vmit;teherbe esik
+clientele#klientéla;utazóközönség;ügyfelek;vevõkör
+client#kliens;törzsvevõ;ügyfél
+cliff#kõszirt;szikla;sziklafal;szirt;szirtfal
+climate#klíma
+climaxing#kulminálás;kulmináló;legmagasabb
+climax#emelkedés;fokozás;klimax;orgazmus;tetõfok;tetõpont
+climber#emelkedõ;kúszó;kúszónövény;mászó;törtetõ
+climbing#emelkedés;hegymászás;kúszó;mászás;mászó
+climb#emelkedés;emelkedik;futtat (rózsát);kúszik;mászás;mászik;megmászik
+clime#éghajlat;táj
+clincher#gumiperem;kötélbog;megdönthetetlen érv;megdönthetetlen érvelés;perdöntõ bizonyíték;szög-visszagörbítõ szerszám;találó válasz;visszagörbített végû szeg
+clinching#megdönthetetlen;perdöntõ
+clinch#átkarolás;eldönt;lefogás;megköt;megszegel;összeerõsít;összeszegel;szójáték;szögrögzítés
+clingfilm#folpack
+cling#clung,belekapaszkodik;clung,kapaszkodik;clung,ragaszkodik;clung,tapad
+clinical#klinikai
+clinic#egyetemi kórház;kiképzõ kórház;klinika;klinikai elõadás;rendelõintézet;szakrendelõ
+clinkering#összesülés
+clinkers#paksi mogyoró;szarcsimbók;szõrre száradt fécesz
+clinker#baki;csavarszeg;csengõkõ;fals;használt autó;hiba;kemény tégla;keramit útburkoló tégla;kitisztít;klinker;klinkertégla;kongótégla;maflás;megdönthetetlen érv;megdönthetetlen érvelés;nagyszerû dolog;nagyszerû ember;öreg autó;összesült anyag;perdöntõ bizonyíték;pofon;remek dolog;remek ember;reveréteg;salak;salakol;salakosodik;salakréteg;találó válasz;tragacs;ütés;visszavert fejû szeg;vulkáni salakkõ;zsugorított salak
+clink#börtön;csengés;csörgés;csörget;csörög;csörömpölés;sitt
+clipboard#csipeszes írótábla
+clippers#metszõolló
+clipping#jegylyukasztás;lapkivágat;nyiradék;nyírás;újságcikk-kivágás;újságkivágat
+clip shackle#angol félszembilincs
+clips#drótvágó olló;fûnyíró gép;gyapjúnyíró olló;hajnyíró gép;hajvágó gép;klipsz;szövetnyíró gép
+clip#átlyukaszt;befogópofa;birkanyírás;csatlakozóvég;csipesz;csíptet;csíptetõ;csõbilincs;ékszorító;frizura;gemkapocs;juhnyírás;juhnyírási idény gyapjúhozama;juhról lenyírt gyapjú;kábelsaru;kapcsolólemez;kapocs;kefél;kilyukaszt;klipsz;körülfog;körülnyír;körülvesz;leélezés;lenyír;levág;levágás;lyukaszt;megnyír;megnyirbál;melltû;nagy iram;nagy sebesség;nehézlövedék emelõkészüléke;nyakleves;nyes;nyír;nyírás;ostorcsapás;összekapcsol;pofa;pofon;sínheveder;szorító;szorítóbilincs;szorítófog;szorítókapocs;szorítókengyel;szorosan tart;szögvas-felerõsítõ kapocs;tölténykarima;tölténykeret;tölténytár;ütés;vág;vagdal;vakar
+clique#banda;klikk
+clitoris#csikló
+cloaked#álcázott;álcázottan;kabátba burkolt;kabátba burkoltan;palástba burkolt;palástba burkoltan;titkon
+cloaking#takarás
+cloakroom#ruhatár
+cloak#beborít;köpeny;leplez;palást
+clobber#alaposan elagyabugyál;cókmók;cucc;ellátja a baját;jól eldönget;kékre zöldre ver;megsemmisítõ gyõzelmet arat vki felett;ócska holmi;rapityára ver vkit;ringy-rongy
+clockface#számlap
+clock hand#óramutató
+clockwork#óramû;óraszerkezet;rugós szerkezet;ütõmû
+clock#óra
+clod#bumfordi ember;földet túró paraszt;göröngy;rög
+clog#akadály;akadályoz;akadozik;béklyó;beszorul;betapad;eldugaszol;eldugul;eltorlaszol;eltöm;eltömõdik;elzár;elzáródik;facipõ;fatalpú megvasalt bakancs;fatuskó;gátlás;gátol;hátramozdító;klumpa;kölönc;különc;lebiztosít;megakad;megbéklyóz;megterhel;megzavar;rögzít;rönk;sárcipõ;szorul;töm;tönk;tuskó
+cloister#bezár;kerengõ;kolostor;kolostorba zár
+clomp#csörtet;dobban;dobbant;zajosan megy
+clone#klónoz
+close bond#szoros kötelék
+close contest#szoros küzdelem
+closed#csukott;zárt
+close fight#szoros küzdelem
+close grain#finom szemcséjû
+close links#szoros kötelék
+closeness#dohosság;elzártság;fülledtség;közelség;pontosság;zárkózottság
+close reach#félszél
+closet drama#könyvdráma
+close ties#szoros kötelék
+closet play#könyvdráma;olvasásra szánt darab;olvasásra szánt színdarab
+closet#angol vécé;beépített szekrény;budoár;dolgozószoba;faliszekrény;fülke;kamra;kis bolt;különszoba;lomtár;szoba;szobácska;vécé
+closeup#közeli felvétel;közelkép;premier plan
+close vote#szoros választási eredmény
+close#alapos;becsuk;becsukódik;befejez;befejezés;befejezõdik;bekerített;bezár;bezárul;csuk;csukott;fülledt;hallgatag;hû;köz;közel;közeli;levegõtlen;lezár;pontos;sikátor;sûrû;szoros;szorosan;szûk;szûken;szûkmarkú;takarékos;tartózkodó;tilos;titkolózó;titoktartó;tömör;tömött;végzõdik;zárkózott;záródik;zárt;zárul;zsugori
+closure#bezárás;zárlat
+cloth boards#vászonkötés
+clothesline#ruhaszárító kötél
+clothespin#ruhacsipesz
+clothes#öltözék;ruha;ruházat;ruházati cikkek
+clothe#clad,felöltöztet;clad,felruház;clad,kifejez;clad,öltöztet;felöltöztet;felruház;kifejez;öltöztet
+clothing#öltözés;öltözet;öltözködés;ruhák;ruházat
+cloth#ruhaanyag
+clot#csomó;csomósodik;hülye;megalvad;rög;vércsomó
+cloudburst#felhõszakadás
+clouded#felhõs;foltos;zavaros
+cloudless#felhõtlen
+cloud#árnyék;beborul;elhomályosul;felhõ;felhõbe borít;felleg;folt;homály;sötétség
+cloudy#borús;felhõs;homályos;zavaros
+clout#barack (fejre);megüt;pofon;rongy;törlõrongy;ütés
+cloverleaf#lóhere alakú útelágazás;lóherelevél
+clover#lóhere
+clove#gerezd;szegfûszeg
+clowning#bohóckodás;bolondozás
+clown#bohóc;bohóckodik;bolondozik;faragatlan ember
+cloying#csömör;eltöltõ;émelyítõ;jóllakató;jóllakottság;undor
+cloy#eltölt (étel);émelyít;felkavar;megterhel;túlságosan eltölt;túlságosan jóllakat;túlságosan megtölt
+clubbable#barátságos modorú;egyesületi tagságra érdemes;kaszinói tagságra érdemes;kellemes modorú;klubtagságra érdemes;társaságot kedvelõ
+clubbing#egyesülés;golyva;összejövetel;szövetség
+clubby#barátságos modorú;egyesületi tagságra érdemes;férfitársaságba való;kaszinói tagságra érdemes;kellemes modorú;klubtagságra érdemes;sikamlós;társaságot kedvelõ
+clubhouse#egyesület helyisége;egyesületi székház;klubház;klubhelyiség;kör helyisége;öltözõ;társaskör helyisége
+clubs#treff
+club#bunkósbot;bunkósbottal megüt;bunkósbottal üt;egyesít;egyesület;golfütõ;klub;makk (kártyában);sportegyesület;társaság;treff;ütõ;zárt kör
+clucking#kotyogó
+cluck#buta ember;kotkodácsol;kotyog;kotyogás;lotyog;ostoba ember;tompaeszû alak;tyúkeszû alak
+clue#bûnjel;gombolyag;kulcs;kulcsa vminek;nyitja vminek;nyom;nyomravezetõ jel;vezérfonal
+clump#csomó;csoport;csoportosan ültet;felhalmoz;halom;nehézkesen megy;rakás;vastagon megtalpal
+clumsiness#esetlenség;ügyetlenség
+clumsy boots#ügyetlen fickó
+clumsy#balkezes;esetlen;ügyetlen
+clunker#mihaszna dolog;mihaszna ember;tragacs
+clunk#döngve megüt;dördülés;dübörögve mozog;erõs ütés;ostoba alak;unalmas alak
+cluster#csomó;csoport;csoportba gyûjt;csoportosul;fürt;nyaláb;összegyûlik;raj
+clutch#fészekaljnyi vmi;kuplung;kuplungol;megfog;megragad;megragadás;tengelykapcsoló
+cluttered#rendetlen;zsúfolt
+clutter#összevisszaság;rendetlenséget teremt;zûrzavar;zûrzavart teremt

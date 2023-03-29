@@ -1,0 +1,136 @@
+aa patrol#sárga angyal;segélykocsi
+aardvark#földi malac
+aardwolf#aardwolves,cibethiéna
+aback#hátra;vissza;visszafelé
+abacus#számológép
+abaft#a hajó fara felé;hajó fara felé
+abandoned#elhagyott
+abandonment#átengedés;elhagyás;lemondás
+abandon#elhagy;felad;fesztelen viselkedés;letesz vmirõl
+abasement#lealacsonyítás;megalázás
+abase#lealacsonyít;megaláz
+abashed#elképedt;meghökkent;zavart
+abashment#elképedés;hüledezés;kelletlen érzés;kényszeredett érzés;meghökkenés;zavar
+abash#elképeszt;kellemetlen helyzetbe hoz;meghökkent;megszégyenít;zavarba hoz
+abatement#bûnpártolás;csökkenés;csökkentés;leszállítás
+abate#alábbhagy;csökken;csökkent;enyhít;enyhül;hatálytalanít;mérsékel;véget vet
+abattoir#vágóhíd
+abbess#apáca-fejedelemasszony;apácafõnöknõ
+abbey#apátság;kolostor
+abbot#apát
+abbreviate#rövidít
+abbreviation#rövidítés
+abc#ábécé;betûrend;vminek elemei
+abdicate#felad;leköszön;lemond
+abdication#feladás;lemondás
+abdomen#has;potroh
+abdominal#hasi;hasüregi
+abduction#erõszakos megszöktetés
+abduct#elrabol;erõszakkal megszöktet
+abeam#hajó oldalára merõlegesen
+abed#ágyban
+aberrant#aberrált;eltévelyedett
+aberration#aberráció;eltérés;rendellenes fejlõdés;tévelygés
+abetment#bûnpártolás
+abetter#bûnrészes;bûnsegéd
+abetting#bûnpártoló;felbujtó
+abettor#bûnrészes;bûnsegéd
+abet#elõsegít;felbújt
+abhorrence#undor;utálat
+abhorrent#elrémítõ;iszonyatos;undort keltõ
+abhor#gyûlöl;irtózik;iszonyodik;utál
+abide#abode,eltûr;abode,elvisel;abode,marad;abode,megmarad;abode,tartózkodik;eltûr;elvisel;lakik;marad;megmarad;tartózkodik
+abiding#maradandó
+ability#képesség;tehetség
+abiogenesis#abiogenézis;õsfejlõdés
+abiogenetic#abiogenetikus;õsfejlõdés elvének megfelelõ;õsfejlõdés tanával kapcsolatos
+abiogenous#õsfejlõdés útján létrejött
+abiogeny#abiogenézis;õsfejlõdés
+abjection#alávalóság;megalázottság
+abjectly#aljasul;gyáván;nyomorúságosan
+abjectness#alávalóság
+abject terror#pánik;páni rémület
+abject#alávaló;aljas;csúszómászó;eldob;eltaszít;félredobott holmi;gyászos;hitvány;hulladék;kitaszított;lealacsonyít;megaláz;nyomorult;nyomorúságos;siralmas;sorsüldözött;szánalmas;szolgalelkû;talpnyaló
+abjuration#esküvel való lemondás;esküvel való tagadás
+abjure#eskü alatt lemond;eskü alatt megtagad
+ablation#elhordás;eltávolítás;kimosás;kivétel;lehordás;lemosás;leolvadás;leoperálás;levágás;levétel
+ablative#ablatívusz;ablatívusz eset;csökkentõ;eltávolító
+ablaze#izgatott;lángvörös
+able#alkalmas;képes;rátermett;tehetséges;ügyes
+ablution#kézöblítés;mosdás
+ably#hathatósan;ügyesen
+abnegation#lemondás;megtagadás;önmegtagadás
+abnormality#rendellenesség;szörny;szörnyûség
+abnormal#abnormális;rendellenes;szabálytalan
+aboard#autóbuszon;hajón;repülõn;vonaton
+abode#lakóhely;tartózkodási hely
+abolish#eltöröl;megszüntet
+abolition#eltörlés;megszüntetés;rabszolgaság eltörlése
+abominable#förtelmes;gyalázatos;gyûlöletes;kibírhatatlan;tûrhetetlen;undok;undorító;utálatos;visszataszító
+abominably#förtelmesen;undorítóan;utálatosan
+abominate#gyûlöl;undorodik;utál
+abomination#undor;utálat
+aboriginal#eredeti;õsi;õslakó
+aborigines#bennszülöttek;õslakók
+abortion#abortusz;elvetélés;kudarc;torzalak;torzszülött;vetélés
+abortive#meddõ;sikertelen
+abort#elvetél;koraszülése van;semmi sem lesz belõle
+about here#ezen a tájon
+about#a közelben;körös-körül;körül;körülbelül;közel;megközelítõleg;mindenfelé;nem messze;táján
+above all#legfõképp;mindenekelõtt;mindenek felett;mindezeken túl
+above board#becsületes;egyenesen
+aboveboard#korrekt
+above board#korrektül
+aboveboard#korrektül
+above board#nyílt
+aboveboard#nyílt;nyíltan;õszinte;õszintén;tisztességes
+above board#tisztességesen
+aboveboard#tisztességesen
+aboveground#felszíni;föld feletti;külszíni;talajszint feletti
+above par#parin felül
+above#a fentiekben;elõbb említett;felett;felül;fent;fentebb;fent említett;fenti;fölé;több mint
+abrader#csiszolóanyag;koptatóanyag;koptatógép;köszörülõanyag
+abrade#abradál;erodál;felhorzsol;felhorzsolódik;koptat;lecsiszol;ledörgölõdik;ledörzsöl;ledörzsölõdik;lehorzsol;lehorzsolódik;lekapar;lekopik;lekoptat;letarol;levakar
+abrasion#kopás;morzsolódás
+abrasiveness#rámenõsség
+abrasive#csiszoló;csiszolóanyag;koptató;koptatóanyag;köszörülõ;köszörülõanyag;ledörzsölõ;ledörzsölõ szer;levakaró;nyersen energikus;rámenõs
+abreast#egymás mellett;párhuzamosan
+abridgement#jogkorlátozás;kivonat;korlátozás;rövidítés
+abridge#lerövidít;megrövidít;rövidít
+abridgment#jogkorlátozás;kivonat;korlátozás;rövidítés
+abruptly#hirtelen
+abrupt#hirtelen;kapkodó;összefüggéstelen;váratlan
+abscess#kelés;tályog
+absence#hiány
+absenteeism#lógás;rendszeres távolmaradás
+absentee#rendszeresen távol maradó
+absently#elgondolkodva;figyelmetlenül;szórakozottan
+absentminded#szórakozott
+absent#hiányzó;távollévõ
+absolute#abszolút;feltétlen;korlátlan;teljes
+absolutism#abszolutizmus;egyetemes és mindentõl független létezõ elve;feltétlenség;kizárólagosság;korlátlan hatalom elve;önkényuralom;predesztináció;zsarnokság
+absolve#felment;feloldoz
+absorbedly#elmélyedve;elmerülve;intenzíven;megfeszített figyelemmel
+absorbed#elmélyedt;elmerült;feszült;mély
+absorbing#abszorbeáló;abszorbens;abszorpciós;elmélyülést igénylõ;elnyelõ;felszívó;figyelmet lekötõ;teljes elmélyülést igénylõ
+absorb#abszorbeál;elnyel;felszív
+absorption#abszorpció;elmélyedés;elmerülés
+abstemious#mértékletes
+abstention#tartózkodás
+abstinence#absztinencia
+abstractedly#szórakozottan
+abstracted#elvonatkoztatott;szórakozott
+abstraction#absztrakció;elvonás;elvont fogalom;elvontság;szórakozottság
+abstract#absztrahál;elemel;eltulajdonít;elvon;elvont;kivonat;összefoglalás
+abstruse#homályos;nehezen érthetõ
+absurdity#abszurdum;képtelenség
+absurd#abszurd
+abundance#bõség;bõvelkedés;jólét;sokaság
+abundantly#bõségesen;bõven
+abundant#bõséges;bõven elég;kiadós
+abuser#becsmérlõ;csaló;félrevezetõ;gyalázó;megbecstelenítõ;megtévesztõ;meggyalázó;ócsárló;sértegetõ;visszaélõ;vmivel visszaélõ
+abuse#becsap;becsmérel;durva bánásmód;erõszakos nemi közösülés;erõszakot követ el;félrevezet;félrevezetés;gyaláz;gyalázkodás;gyalázkodó beszéd;helytelen alkalmazás;helytelen használat;helytelenül alkalmaz;helytelenül használ fel;jogtalanság;megbecstelenít;megbecstelenítés;megcsal;megtéveszt;mocskol;mocskolódás;nemi erõszak;ócsárlás;ócsárol;rászed;rongál;rongálás;rontás;rossz célra fordít;rossz célra való fordítás;rosszul alkalmaz;rosszul bánik vmivel;rosszul használ fel;sérteget;sértés;sértésekkel halmoz el;sértõ beszéd;szabálytalanság;szemfényvesztés;téves alkalmazás;téves használat;túlkapás;visszaél;visszaélés
+abusive#gyalázkodó;sértegetõ
+abut#csatlakozik;felfekszik;határos;nekitámaszkodik;összeér;összeereszt;összeilleszkedik;összeilleszt;összekapcsol;összekapcsolódik;szomszédos
+abysmal#feneketlen;mélységes
+abyss#szakadék;végtelen idõ;végtelen mélység

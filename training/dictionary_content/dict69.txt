@@ -1,0 +1,362 @@
+gymnasium#gymnasia,gimnázium;gymnasia,tornacsarnok;gymnasia,tornaterem
+gymnastic#gimnasztikai;testedzõ;torna-
+gymnastics#torna
+gymnast#tornász
+gym shoes#tornacipõ
+gym#torna;tornacsarnok;tornaterem
+gynecologist#nõgyógyász
+gypsum#gipsz
+gypsy#cigány
+gyrate#felkunkorodó;forog;kering;pörög
+gyration#agytekervény-rendszer;forgás;keringés;körforgás;pörgés
+gyratory#forgó;pörgõ
+gyroscope#giroszkóp;pörgettyû
+haberdasher#férfidivatárus;rõfös;rövidáru-kereskedõ
+haberdashery#férfidivatáru;rövidáru
+habitable#lakható
+habitation#állandó lakhely;lakás;lakóhely;tartózkodás;tartózkodási hely
+habitat#elõfordulási hely
+habitual#megrögzött;megszokott;szokásos
+habitually#szokásszerûen
+habitué#bennfentes látogató;törzsvendég
+habit#habitus;külsõ megjelenés;magatartás;ruha;szokás;testalkat;viselkedés
+hacker#bárd;csákány;csákányos;csákányozó
+hackie#taxisofõr
+hackle#gereben;gerebenez;nyaktoll
+hackneyed#agyoncsépelt;elcsépelt;elkoptatott;elnyûtt
+hackney#agyoncsépel;bérkocsi;elcsépel;elkoptat;elnyû;hajtóló;hátasló;kocsiló;lejárat
+hacksaw#fémfûrész
+hack#agyára megy;agyoncsépel;agyonhajszol;aprít;bérbe ad;bérelhetõ hátasló;bérkocsi;berovátkol;bértollnok;bevág;bevagdos;bõszít;csákány;csapdos;csapkod;csúnyán aprít fel;csúnyán vág fel;darabokra tör;durván farag;dühít;elcsépel;elkoptat;elnyû;fogaz;hentes módra operál;idegeire megy;kapa;kapál;karjára üt;kicsorbít;kinagyol;köhécsel;köhög;krákog;kuli;lerúg;lestrapál;lovagol;marcangol;megcsapol;megnyes;nagyolva farag;nyes;nyiszál;összetör;összevág;poroszkál;sípcsonton rúg;szállítóállványra felrak;szárazan köhint;szárazat köhint;száraz köhögés;szárítóra felrak;szárítórakásra felrak;talajt fellazít;torkot reszel;vagdal;vagdos;vágott seb;zugíró
+haddock#foltos tõkehal;tõkehal
+haemorrhage#vérzés
+haemorrhoids#aranyér
+haft#fogantyú;fogantyúval ellát;markolat;nyél;nyélbe beilleszt;nyéllel ellát;orsószár
+haggard#elgyötört;elkínzott;ösztövér;sovány;szikár;vad külsejû
+haggle#alkudozik
+haggling#alkudozás
+hag#boszorkány;kínoz;közönséges nyálkás angolna;tõzegláp puha része;tõzegláp szilárd helye;vén banya;vén boszorka;vén boszorkány;vén csoroszlya;vén satrafa;zaklat
+haiku#japán versforma
+hailstone#jégesõszem;jégszem
+hail#jégesõ;köszöntés;odakiált;rákiált;üdvözlés;üdvözöl;zúdít
+hair brush#hajkefe
+hairclip#hajcsipesz
+haircolor#hajfesték
+hair colour#hajfesték
+hairdo#frizura
+hairdresser#nõi fodrász
+hair drier#hajszárító
+hair dryer#hajszárító
+hair felt#nemezelt nyúlszõr
+hairgrip#díszcsat;hajcsipesz;hullámcsat
+hairless#kopasz;sima;szõrtelen
+hairline#hajszálvonal
+hair spray#hajlakk
+hairstyle#frizura
+hair stylist#nõi fodrász
+hairs#szõrök;szõrszálak;szõrzet
+hair#amerikai bandita;bolyh;haj;hajszál;hajszáldrót;hajszálrugó;hajzat;kopaszt;olajpréselõ zsák;sörte;szõr;szõröz;szõrrel ellát;szõrszál
+hairy mole#szõrös szemölcs
+hairy vetch#szöszös bükköny
+hairy#bolyhos;ciki;haj-;hajas;izgi;kockázatos;meredek;szõr-;szõrös;veszélyes
+hake#tõkehal
+hale#egészséges;húz;jó erõben levõ;magát jól bíró;makkegészséges;von;vontat
+half backs#fedezetek
+halfbrother#féltestvér;mostohatestvér
+half moon#félhold
+half relief#féldombormû
+halfsister#féltestvér;mostohatestvér
+halfway#félúton;félúton levõ;középen
+half#fél
+halibut#óriási laposhal
+halide#halogenid
+halliard#felhúzó kötél
+hallmark#fémjelzés;finomsági próba
+hallowed#megszentelt
+hallowmas#mindenszentek;mindenszentek napja
+hallow#megszentel
+hall porter#házfelügyelõ;portás
+hallucinate#hallucinál
+hallway#elõcsarnok;folyosó;hall
+hall#csarnok;diákszálló;elõcsarnok;elõszoba;hall;internátus;kabaré;kastély;kisebb egyetemi kollégium;kollégium;konviktus;közös ebédlõ;közös étkezde;közös étkezés;kúria;mulató;nagy ebédlõ;nagy terem;palota;székház;vidéki kastély;zenés kávéház
+halogen#halogén
+halo#bimbóudvar;dicsfény;dicsfénnyel övez;dicsfénnyel vesz körül;fényudvar;glória;gyulladásos körlet;holdudvar;napgyûrû;nimbusz
+halter sandal#bokapántos szandál
+halter#akasztófakötél;felakaszt;felköt;felsõ rész;hám;hóhérkötél;hurok;kötõfék;melltartó;nyakpántos ruhaderék
+haltingly#nehézkesen;vontatottan
+halting#béna;nehézkes;sánta;vontatott
+halt#megállás;pihenõ
+halyard#felhúzó kötél
+hamburger#hamburger
+hamlet#falucska
+hammering#besulykolás;beverés;bunyó;érmeverés;kalapálás;kopogás;kopogás hangja;kotyogás;pörölyözés;püfölés;ütés;veretés
+hammer throw#kalapácsvetés
+hammer#kakas (puskán);kalapács;kalapácscsont;kalapál;kikalapál;kovácsol;pöröly;tönkrever;tönkrezúz;ütõ
+hammock#függõágy
+hampered#akadályozott;elromlott;elrontott;gátolt
+hamper#akadályoz;gátol;piaci kosár;szennyestartó
+hamster#hörcsög
+hams#alfél;fenék;tompor
+ham#comb;rádióamatõr;ripacs;ripacskodik;sonka;túljátssza a szerepét
+hand arms#kézifegyver
+hand atlas#kisatlasz
+hand baggage#kézipoggyász
+handbag#kézitáska;retikül
+handball#kézilabda
+handbrake#kézifék
+hand brush#kézisöprû
+handcraft#kézmûves ipar;kézmûvesség;kézügyesség;kézzel készít;kisipar
+handcuffs#bilincs
+handcuff#bilincs;megbilincsel
+hand drill#amerikáner;kézifúró
+hand drive#kézihajtás
+hand dynamo#kézidinamó
+handful#maréknyi;maroknyi;megátalkodott;nehezen fegyelmezhetõ;nehezen kezelhetõ
+hand grenade#kézigránát
+handhold#fogódzó
+handicapped#fogyatékos;nyomorék
+handicap#akadály;hátrány;hátrányos helyzetbe hoz;megterhelés
+handicrafts#iparmûvészet
+handicraft#kézmûves ipar;kézmûvesség;kézügyesség;kézzel készít;kisipar
+handiwork#kézzel végzett munka
+handkerchief#zsebkendõ
+hand lamp#kézilámpa
+handleable#kezelhetõ
+handlebars#kerékpárkormány
+handlebar#kerékpár kormánya
+handler#edzõtárs;vmit kezelõ;vmivel bánó
+handless#mutató nélküli
+handle#alkalom;bánik;fogantyú;fogás;foglalkozik;fogó;forgattyú;fül;hozzányúl;irányít;kar;kezel;kilincs;nyél;rúd;tapintás;ürügy
+handling#kezelés
+hand luggage#kézipoggyász
+hand oiler#kézi olajozó
+handout#alamizsna;ételadomány;kiosztott anyag;pénzadomány;röplap;tájékoztató
+hand pump#pumpa
+handrail#kapaszkodó;korlát
+hands down#fáradtság nélkül;könnyedén;könnyen
+handset#kézibeszélõ
+handshake#kézfogás;kézszorítás
+handshaking#kézfogás;kézrázás
+handsomely#elegánsan;gavallérosan;nagyvonalúan;szépen
+handsome#bõkezû;csinos;gavallér;jelentékeny;jóképû;jóvágású;tekintélyes
+handspring#kézen átfordulás
+handstand#kézenállás
+hands wanted#munkásokat felveszünk
+hands#kezezés
+hand tool#kéziszerszám
+handwriting#kézírás
+handwritten#kézzel írott;kézzel írt
+hand#ad;aláírás;átad;átnyújt;hajóslegény;játékos (kártyában);játszma;kar;kártyaleosztás;kéz;kézbesít;kézfej;kézírás;kézjegy;kézjel;kiosztott lapok;kisegítõ;lábfej;leosztás;marok (lómérték);matróz;munkás;mutató;mutató kéz;napszámos;odaad;parti;segédmunkás;taps;útjelzõ;útjelzõ tábla;ütés (kártyában)
+handyman#handymen,ezermester;handymen,haditengerész;handymen,tengerész
+handy#alkalmas;jártas;kényelmes;kéznél levõ;könnyen kezelhetõ;ügyes
+hangar#hangár
+hangee#akasztott
+hanger#fogas;vállfa
+hangings#drapéria;függöny
+hanging#akasztás
+hangman#hóhér
+hangout#búvóhely;odú
+hangover#katzenjammer;macskajaj;másnaposság
+hang#állás (ruháé);átboltozás;dõlés;esés;felakaszt;felakaszt (embert);fennakadás;függ;hajlás;hung,felakaszt;hung,felfüggeszt;lassulás;lehorgaszt;lejtés;lelassulás;lóg;lógat;megtorpanás
+hankering#sóvárgás;vágyódás
+hanker#sóvárog;vágyakozik
+hanky#zsebkendõ
+hansom#könnyû egyfogatú kétkerekû kocsi magas bakkal
+haphazardly#véletlenül
+haphazard#esetleges;véletlen;véletlenül
+hapless#boldogtalan;szerencsétlen
+happenstance#eshetõség;véletlen;véletlenség
+happen#adódik;elõadódik;elõfordul;megesik;megtörténik;történik
+happily#boldogan;szerencsére;véletlenül
+happiness#boldogság;vidámság
+happy family#állatóvoda
+happy#boldog;vidám
+hap#megesik;történik;vakeset;véletlen
+harakiri#harakiri
+harangue#beszéd;beszédet intéz;buzdít;dagályos szónoklat;dagályos szónoklatot tart;felloval;izgat;lelkesít;nagyhangú szónoklat;nagyhangú szónoklatot tart;szóáradat;szónoklat
+harassed#bosszús;zaklatott
+harassment#bosszantás;zaklatás
+harass#bosszant;molesztál;zaklat
+harbinger#elõhírnök;elõjel
+harborage#menedék;szállás
+harbor#kikötõ;menedék;menedéket ad;rejteget;szállás;szállást ad
+harbourage#menedék;szállás
+harbour#kikötõ;menedék;menedéket ad;rejteget;szállás;szállást ad
+hardball#agresszív politika;agresszív üzletpolitika;baseball
+hard bargain#rossz vásár
+hard cash#ércpénz;fémpénz;készpénz
+hard chancre#kemény fekély
+hard cheese#pech
+hard cider#kiforrott almabor
+hard coal#feketeszén;kõszén
+hardcore#makacs;megrögzött
+hard core#útágyazat
+hard court#aszfalt teniszpálya;beton teniszpálya;salakos teniszpálya
+hard currency#kemény valuta;nemes valuta
+hard drinker#nagy ivó
+hard drink#erõs szesz;pálinka;rövid ital;szesz;szeszes ital;tömény ital
+hard drugs#erõs kábítószerek;kemény drogok
+hard earned#jól kiérdemelt;nehezen megkeresett
+harden#hajthatatlanná tesz;hozzászokik;hozzászoktat;keményedik;keményít;megedz;megedzõdik;megkeményedik;megkeményít;megköt;rideggé tesz
+hard face#barátságtalan arc;kemény arcvonások;rideg arc
+hard fact#rideg tény;rideg valóság
+hard fate#kegyetlen sors;kíméletlen sors;szigorú sors
+hard fight#elszánt küzdelem;kemény küzdelem;kitartó küzdelem
+hard food#rossz koszt;szemes takarmány
+hard frost#erõs fagy;kemény fagy
+hard gallop#kemény vágta
+hard ground#kötött talaj
+hardheaded#gyakorlatias;keményfejû;konok;nem érzelgõs
+hard heel#bõrsarok
+hardihood#ellenállóképesség
+hardiness#ellenállóképesség
+hard iron#fúróacél
+hard labour#kényszermunka
+hard lead#antimonnal ötvözött ólom
+hard light#éles megvilágítás;kemény megvilágítás
+hard lines#nehéz sors;pech
+hard liquor#erõs szesz;pálinka;rövid ital;szesz;szeszes ital;tömény ital
+hard luck#balszerencse;pech
+hardly anyone#jóformán senki
+hardly ever#alig valamikor;szinte soha
+hardly used#alig használt
+hardly#alig
+hard master#sokat követelõ gazda;sokat követelõ mester;sokat követelõ tanár;sokat követelõ úr;szigorú gazda;szigorú mester;szigorú tanár;szigorú úr
+hard metal#keményfém
+hard money#ércpénz
+hardness#keménység;nehézség;szigorúság
+hard palate#kemény szájpadlás
+hardpressed#nehézségekkel szembekerülõ;zaklatott
+hard rider#fáradhatatlan lovas
+hardship#baj;nehézség;nélkülözés;viszontagság
+hard shoulder#padka;útpadka
+hard silk#gubóselyem
+hard solder#keményforrasz;pogányforrasz
+hard stuff#nehéz szesz;rum;whisky
+hards#kemény széntörmelék;kóc;összegubancolódott fonalhulladék;reve
+hardtack#tengerészek keksze;tengerészek kétszersültje
+hard thinking#kemény fejtörés;megfeszített gondolkodás
+hard times#nehéz idõk
+hard tissues#elmeszesedett szövetek;szklerotikus szövetek
+hard valve#magas vákuummal bíró kisülési csõ
+hard voice#érdes hang;kemény hang
+hardware#fémárú;vasárú
+hard water#kemény víz;keményvíz;meszes víz
+hard wine#éretlen bor;karcos bor
+hard winter#kemény tél;szigorú tél;zord tél
+hardwood#keményfa
+hard words#haragos beszéd;kemény szavak
+hard worker#jó munkás;kitartó munkás;szorgalmas munkás
+hard work#hálátlan feladat;hálátlan munka;kemény munka;keserves munka;kitartó munka
+hard#éles;erõs;erõsen;fáradhatatlan;fáradságos;fárasztó;gyorsan;kedvezõtlen;kegyetlen;kemény;keményen;keményre;kényszermunka;keserves;keservesen;kitartó;kitartóan;kõbõl kirakott gázló;nehéz;nehezen;préselt dohány;rideg;rossz;sólya;szigorú;szilárd;szívósan;zord
+hardy annual#évelõ szabadföldi növény
+hardy#bátor;edzett;merész;szívós
+hareball#harangvirág
+harebrained#bolondos;kelekótya
+harem#hárem
+hare#lélekszakadva rohan;mezei nyúl
+haricot#birkagulyás babbal és répával;karóbab;paszuly
+hark#hallgat;hallgatódzik
+harlequinade#bohóckodás;némajáték bohóc fõszereplõvel;színdarab bohóc fõszereplõvel
+harlequiness#bohócjelmezes nõ
+harlequin#bohóc;harlekin;keleti nemesopál;paprikajancsi;pojáca;tarka dán dog;tréfacsináló
+harlotry#kurválkodás;szajhaság
+harlot#kurva;ringyó;szajha
+harmful#ártalmas;káros
+harmless#ártalmatlan;ártatlan
+harmonica#szájharmonika
+harmonious#egyetértõ;egyezõ;harmonikus;jó hangzású;kellemes hangzású;összehangzó;összhangzó
+harmonium#harmónium
+harmonize#egyetért;egyeztet;hangszerel;harmonizál;összehangol;összhangban van
+harmonizing#egyeztetés
+harm#árt;ártalom;baj;bajt csinál;bajt okoz;bántalom;kár;megsért;rossz;sérelem;sért
+harnessing#kihasználás
+harness#befog;felszerszámoz;hám;hasznosít;kihasznál;lószerszám;lovakat befog;ökröt befog
+harpist#hárfajátékos;hárfás
+harpoon#megszigonyoz;szigony
+harpsichord#csembaló
+harp#hárfa;hárfázik
+harriers#kutyafalka;mezei futók klubja
+harrier#angol falkakopó;csillekísérõ;dúló;fosztogató;pusztító;rabló;réti héja
+harrowing#szívet tépõ;szívfacsaró;szívfájdító;szívszaggató
+harrow#borona;boronál
+harrumph#panaszkodik;tiltakozik;torkát köszörüli
+harry#elpusztít;kínoz;kirabol;nyugtalanít;zaklat
+harshness#keménység;kíméletlenség;szigorúság
+harsh#durva;éles;érdes;fanyar;kemény;kíméletlen;nyers;rikácsoló;szigorú
+harte beast#dél-afrikai antilop;káma
+harvest#arat;aratás;betakarít;betakarítás
+hasbeen#divatjamúlt dolog;lecsúszott ember;levitézlett ember
+hashish#hasis
+hash#fasírozott;felmelegített dolog;frekvenciazavar;hasé;hasis;papírhulladék;újra elõszedett ósdi dolog;vagdalék;vagdalt hús;vagdalt hús és burgonya;vibrátorzörej;zagyvalék
+hasp#belakatol;csat;fonalorsó;gombolyító motolla;hevederpánt;kapocs;lakatra zár;lakatretesz;motring;pászma;retesz
+hasten#siet;siettet;sürget
+haste#sietség
+hastily#elhamarkodottan;meggondolatlanul;sietõsen;sürgõsen
+hastings#korai borsó;primõrök
+hasting#koraérõ
+hasty#elhamarkodott;futó (pillantás);gyors;hirtelen;meggondolatlan;sietõs
+hatchback#háromajtós kiskocsi
+hatchery#halkeltetõ;halkeltetõ hely
+hatchet#szekerce
+hatchment#címer;címerpajzs;címerpajzs gyászházon
+hatchway#falnyílás;fedélzeti nyílás;lejáró;nyílás
+hatch#fedélzeti nyílás;felnyitható hátsó ajtó;felnyitható hátsó ajtó (autón);kieszel;kiforral;kikel;kikelt;kikölt;költés;sraffoz;vonalkáz
+hateable#gyûlöletes
+hateful#förtelmes;gyûlöletes;utálatos
+hatefully#gyûlöletesen;utálatosan
+hate#gyûlöl;gyûlölet;utál
+hatred#gyûlölet;utálat
+hatted#kalapos;kalapot viselõ
+hatter#egyedül dolgozó bányász;kalapos;magányos õserdõlakó;maga szakállára dolgozó bányász
+hat trick#kalapmutatvány;mesterhármas
+hat#bíborosi kalap;bíborosi kalapot adományoz;fejfedõ;kalap;kalapot ad;kalapot tesz;sapka
+haughtily#dölyfösen;gõgösen
+haughtiness#fennhéjázás;gõg
+haughty#dölyfös;fennhéjázó;gõgös
+haulage#húzás;szállítás;szállítási költségek;szállítmányozás;vontatás
+hauler#fuvaros;szállító
+haulier#fuvaros;szállító
+haul#hurcol;húz;húzás;szállít;szállítás;vontatás;zsákmány
+haunch#comb;csípõ;hátsó rész;ívváll
+haunting#gyakran visszatérõ;kísérõ
+haunt#frekventál;gyakran látogat;kísért;odú;tanya;tartózkodási hely;törzshely
+haute couture#csúcsdivat
+haute école#magasiskola
+hauteur#büszkeség;felsõbbség;fennhéjazás;sznobéria
+havaria#tározó
+have company#vendégei vannak
+have down#lehív;lehívat;lehozat
+have guts#legény a talpán;rámenõs;van bátorsága;van mersze
+have lunch#ebédel
+have moods#gyorsan váltakozó hangulatú;szeszélyes;váltakozó hangulatú
+havenage#kikötõdíj;kikötõilleték
+haven#kikötõ;menedék;rév
+haversack#oldalzsák;tarisznya
+havers#butaságok;hülyeségek;ostobaságok;összevissza beszéd;zagyvaság
+haver#akinek van vmije;birtokos;butaságokat beszél;hetet-havat összehord;hülyeségeket beszél;ostobaságokat beszél;összevissza beszél;sületlenségeket beszél;zab
+have supper#vacsorázik
+have worms#bélgilisztája van;gilisztája van;gilisztás
+have#had,állít;had,bír vmit;had,elfogyaszt;had,elkölt;had,eltûr;had,enged;had,kap;had,kitol vkivel;had,megenged;had,mond;had,rendelkezik vmivel;had,szerez;had,túljár az eszén vkinek;had,tûr;had,van vkinek vmije
+havoc#pusztítás;pusztulás;rombolás
+hawaiian#hawaii
+hawaii#Hawaii
+hawker#utcai árus;vándorló utcai árus
+hawkish#sólyomszerû
+hawk#beugrató;csaló;habarcssimító deszka;házal;héja;karvaly;köhécsel;köhécselés;krákog;krákogás;ölyv;reszeli a torkát;simítólap;solymászik;sólyom;svindler;szélhámos;terjeszt;torokreszelés;ügynökösködik
+hawser#hajókötél;horgonykötél;horgonylánc;kábel;kikötõkötél;vontatókötél
+hawse#horgony és hajó közötti tér;horgonyláncnyílás
+hawthorn#galagonya;galagonyabokor
+hay fever#szénanátha
+hayloft#szénapajta
+hayseed#falusi;fûmag;mucsai;paraszt;szénapor;szénatörek
+haystack#szénakazal
+haywire#szénakötözõ huzal;zavarosan összekuszált
+hay#gyenge minõségû marihuána;körtánc;széna
+hazardous#kalandos;kockázatos;merész;veszélyes
+hazard#akadály (golfpályán);bérkocsi-állomás;eshetõség;kockajáték;kockára tesz;kockázat;kockáztat;lehetõség;megkockáztat;merészel megtenni vmit;rizikó;sansz;vakeset;véletlen;veszély;veszélyeztet
+hazelnut#mogyoró
+hazel#mogyoró;mogyoróbarna;mogyoróbokor
+haze#durván megtréfál;elcsigáz;elpáhol;elver;holtra fáraszt;homály;kimerít;köd;ködbe borít;lehúz (diákot);megdorgál;megfedd;megijeszt;megtréfál;pára;permetez;szekál;szellemi zûrzavar;szitál;túldolgoztat
+haziness#homályosság;ködösség
+hazing#lehúzás (diáké)
+hazy#bizonytalan;homályos;ködös;párás
